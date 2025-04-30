@@ -32,7 +32,7 @@
                                           <span>Torre Diamante Building,</span>
                                           <span>Via Mike Bongiorno, 13, 20124 Milano MI Italy</span>
                                         </div>
-                                        <div class="store-phone-number">+39 29475 9690</div>
+                                        <div class="store-phone-number"></div>
                                       </div>
                                       <div class="store-number-container">
                                         <div class="store-number">
