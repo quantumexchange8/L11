@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Sind premeerime",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Varasemad sündmused",
     "signature events"                      => "Allkirjaga sündmused",
     "partnerships"                          => "Koostööpartnerid",

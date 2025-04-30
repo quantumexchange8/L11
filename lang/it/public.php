@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Ti Ricompensiamo",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Eventi Passati",
     "signature events"                      => "Eventi di Firma",
     "partnerships"                          => "Partnerships",
@@ -1493,7 +1493,7 @@ sfide operative e tecnologiche.",
                                                 effettivamente una transazione spot legittima. Se nessuna delle due opzioni viene fornita a soddisfazione di Sunrise, Sunrise segnalerà la 
                                                 Transazione Coperta FX utilizzando un identificativo interno di Sunrise.
                                                 <br><br>
-                                                Inviare eventuali richieste relative a Dodd Frank al proprio responsabile del rapporto con Sunrise o a FXReg.reports@Sunriseintl.com.
+                                                Inviare eventuali richieste relative a Dodd Frank al proprio responsabile del rapporto con Sunrise o a FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] Informazioni sul LEI/GMEI non applicabili alle Transazioni Coperte FX scadute o terminate prima del 25 aprile 2011.
                                                 <br><br>

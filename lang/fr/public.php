@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Vous récompenser",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Événements passés",
     "signature events"                      => "Événements phares",
     "partnerships"                          => "Partenariats",
@@ -1243,7 +1243,7 @@ return [
                                                 <br><br>
                                                 Dans sa déclaration d'une transaction FX couverte, Sunrise contactera la contrepartie commerciale pour obtenir son LEI/GMEI si Sunrise ne l'a pas déjà reçu, ou pour obtenir des assurances démontrant que la transaction FX couverte était effectivement une véritable opération au comptant. Si aucune de ces informations n'est fournie à la satisfaction de Sunrise, Sunrise déclarera la transaction FX couverte en utilisant un identifiant interne de Sunrise.
                                                 <br><br>
-                                                Veuillez adresser toute demande d'informations sur Dodd Frank à votre responsable de relation chez Sunrise ou à FXReg.reports@Sunriseintl.com.
+                                                Veuillez adresser toute demande d'informations sur Dodd Frank à votre responsable de relation chez Sunrise ou à FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] Les informations LEI/GMEI ne s'appliquent pas aux transactions FX couvertes qui ont expiré ou été résiliées avant le 25 avril 2011.
                                                 <br><br>

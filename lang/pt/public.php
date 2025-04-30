@@ -5,7 +5,7 @@ return [
     "rewarding you" => "A Recompensar Você",
 
     // frases comuns / curtas
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Eventos Passados",
     "signature events"                      => "Eventos Emblemáticos",
     "partnerships"                          => "Parcerias",
@@ -1573,7 +1573,7 @@ títulos em todos os provedores de serviços",
                                                 identificador interno da Sunrise.
                                                 <br><br>
                                                 Dirija qualquer pergunta relacionada ao Dodd Frank ao seu gerente de relacionamento na Sunrise ou para
-                                                FXReg.reports@Sunriseintl.com.
+                                                FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] Informações LEI/GMEI não aplicáveis a Transações de Câmbio Cobertas que expiraram ou foram encerradas antes
                                                 de 25 de abril de 2011.

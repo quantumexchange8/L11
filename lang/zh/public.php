@@ -5,7 +5,7 @@ return [
     "rewarding you" => "回馈您",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
 "past events"                           => "过往活动",
 "signature events"                      => "重要活动",
 "partnerships"                          => "合作伙伴关系",
@@ -1243,7 +1243,7 @@ Sunrise还希望在上述信息发生变化时及时通知。
 <br><br>
 在报告覆盖的外汇交易时，如果Sunrise之前未收到交易对手的LEI/GMEI信息，或者未获得关于该交易是否真正为符合条件的即期交易的保证，Sunrise将以Sunrise的内部标识符报告该覆盖的外汇交易。
 <br><br>
-如有任何Dodd Frank相关问题，请联系您的Sunrise关系经理或发送电子邮件至FXReg.reports@Sunriseintl.com。
+如有任何Dodd Frank相关问题，请联系您的Sunrise关系经理或发送电子邮件至FXReg.reports@sunrisefundlimited.com。
 <br><br>
 [1] 对于在2011年4月25日之前到期或终止的覆盖外汇交易，LEI/GMEI信息不适用。
 <br><br>

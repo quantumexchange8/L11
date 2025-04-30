@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Rewarding You",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Past Events",
     "signature events"                      => "Signature Events",
     "partnerships"                          => "Partnerships",
@@ -1703,7 +1703,7 @@ return [
                                                 Covered FX Transaction was in fact a bona fide spot transaction. If neither is provided to the satisfaction
                                                 of Sunrise, Sunrise will report the Covered FX Transaction using a Sunrise internal identifier.
                                                 <br><br>
-                                                Please direct any Dodd Frank inquiries to your Sunrise relationship manager or to FXReg.reports@Sunriseintl.com.
+                                                Please direct any Dodd Frank inquiries to your Sunrise relationship manager or to FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] LEI/GMEI information not applicable to Covered FX Transactions that expired or terminated prior to April
                                                 25, 2011.

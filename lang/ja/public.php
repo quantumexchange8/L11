@@ -5,7 +5,7 @@ return [
     "rewarding you" => "あなたを報いる",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "過去のイベント",
     "signature events"                      => "シグネチャーイベント",
     "partnerships"                          => "パートナーシップ",
@@ -1279,7 +1279,7 @@ Sunriseは、CCP、FCM、資産運用会社など、保証金ライフサイク�
                                                 <br><br>
                                                 カバーされる為替取引の報告にあたり、Sunriseは、LEI/GMEI情報が既に提供されていない場合、またはカバーされる為替取引が実際に実物取引であることを確認するための保証が提供されていない場合、報告を行う前に取引相手方にLEI/GMEI情報を提供するよう連絡します。Sunriseの満足のいく提供がない場合は、Sunrise内部の識別子を使用してカバーされる為替取引を報告します。
                                                 <br><br>
-                                                ドッド・フランク法に関するお問い合わせは、Sunriseの担当関係者またはFXReg.reports@Sunriseintl.comまでお問い合わせください。
+                                                ドッド・フランク法に関するお問い合わせは、Sunriseの担当関係者またはFXReg.reports@sunrisefundlimited.comまでお問い合わせください。
                                                 <br><br>
                                                 [1] 2011年4月25日以前に終了または解消されたカバーされる為替取引にはLEI/GMEI情報は適用されません。
                                                 <br><br>

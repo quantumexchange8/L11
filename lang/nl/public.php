@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Jou belonen",
 
     // veelvoorkomende/korte zinnen
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Vorige evenementen",
     "signature events"                      => "Kenmerkende evenementen",
     "partnerships"                          => "Partnerschappen",
@@ -1305,7 +1305,7 @@ return [
                                                 <br><br>
                                                 Bij het rapporteren van een gedekte valutatransactie zal Sunrise contact opnemen met een handelspartij voor haar LEI/GMEI als Sunrise die informatie nog niet heeft ontvangen, of voor verzekeringen om aan te tonen dat de gedekte valutatransactie daadwerkelijk een bona fide spottransactie was. Als geen van beide naar tevredenheid van Sunrise wordt verstrekt, zal Sunrise de gedekte valutatransactie rapporteren met behulp van een interne identificatie van Sunrise.
                                                 <br><br>
-                                                Richt alle vragen over Dodd Frank aan uw relatiemanager van Sunrise of naar FXReg.reports@Sunriseintl.com.
+                                                Richt alle vragen over Dodd Frank aan uw relatiemanager van Sunrise of naar FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] LEI/GMEI-informatie is niet van toepassing op gedekte valutatransacties die zijn verlopen of beëindigd vóór 25 april 2011.
                                                 <br><br>

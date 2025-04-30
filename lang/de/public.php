@@ -4,7 +4,7 @@ return [
     "rewarding you" => "Für Sie lohnend",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Vergangene Veranstaltungen",
     "signature events"                      => "Signaturveranstaltungen",
     "partnerships"                          => "Partnerschaften",

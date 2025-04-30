@@ -3,7 +3,7 @@ let stores = [{
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
         "email": "irl@Sunrise-intl.com",
-        "phoneNumber": "+353 21480 2699",
+        "phoneNumber": "",
         "coordinates": {
             "latitude": 51.8969166,
             "longitude": -8.4706552

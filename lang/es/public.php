@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Premiándote",
 
     // common / short phrases
-    "email" => "info@Sunriseintl.com",
+    "email" => "info@sunrisefundlimited.com",
     "past events" => "Eventos pasados",
     "signature events" => "Eventos destacados",
     "partnerships" => "Alianzas",
@@ -1600,7 +1600,7 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                                                 transacción al contado genuina. Si ninguna de estas se proporciona satisfactoriamente a Sunrise, Sunrise informará la Transacción de Divisas 
                                                 Cubierta utilizando un identificador interno de Sunrise.
                                                 <br><br>
-                                                Por favor, dirija cualquier consulta relacionada con Dodd Frank a su gerente de relaciones con Sunrise o a FXReg.reports@Sunriseintl.com.
+                                                Por favor, dirija cualquier consulta relacionada con Dodd Frank a su gerente de relaciones con Sunrise o a FXReg.reports@sunrisefundlimited.com.
                                                 <br><br>
                                                 [1] La información LEI/GMEI no es aplicable a las Transacciones de Divisas Cubiertas que vencieron o terminaron antes del 25 de abril de 
                                                 2011.

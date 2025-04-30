@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Belønner deg",
 
     // common / short phrases
-    "email"                                 => "info@Sunriseintl.com",
+    "email"                                 => "info@sunrisefundlimited.com",
     "past events"                           => "Tidligere arrangementer",
     "signature events"                      => "Signaturarrangementer",
     "partnerships"                          => "Samarbeid",
