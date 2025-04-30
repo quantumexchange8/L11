@@ -215,7 +215,7 @@
                             {{-- We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do. --}}
                         </p>
                         <hr class="space-sm" />
-                        <a href="https://app.Sunriseintl.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
+                        <a href="https://app.sunrisefundlimited.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
                         <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>
