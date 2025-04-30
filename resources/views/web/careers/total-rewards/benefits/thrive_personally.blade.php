@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Thrive Personally | Benefits, Wellness & Compensation | Total Rewards | Careers | Vanward International')
+@section('title', 'Thrive Personally | Benefits, Wellness & Compensation | Total Rewards | Careers | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

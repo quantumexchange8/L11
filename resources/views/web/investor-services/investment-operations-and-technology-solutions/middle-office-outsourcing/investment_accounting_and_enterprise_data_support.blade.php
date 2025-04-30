@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Market Intelligence | Markets | Investor Services | Vanward International')
+@section('title', 'Market Intelligence | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [

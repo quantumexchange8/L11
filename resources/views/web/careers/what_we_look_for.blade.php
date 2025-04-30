@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'What We Look For | Careers | Vanward International')
+@section('title', 'What We Look For | Careers | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

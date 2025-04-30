@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Sind premeerime",
 
     // common / short phrases
-    "email"                                 => "info@vanwardintl.com",
+    "email"                                 => "info@Sunriseintl.com",
     "past events"                           => "Varasemad sündmused",
     "signature events"                      => "Allkirjaga sündmused",
     "partnerships"                          => "Koostööpartnerid",
@@ -35,7 +35,7 @@ return [
     "our clients"                           => "Meie kliendid",
     "our people"                            => "Meie inimesed",
     "our communities"                       => "Meie kogukonnad",
-    "vanward"                               => "Vanward",
+    "Sunrise"                               => "Sunrise",
     "fund servicing"                        => "Fondide teenindus",
     "funds servicing"                       => "Fondide teenindus",
     "global custody"                        => "Globaalne valdus",
@@ -121,7 +121,7 @@ return [
     "corporate banking"                             => "Äripangandus",
     "center for family business"                    => "Pereäri keskus",
     "private equity"                                => "Erakapital",
-    "about vanward"                                 => "Meie kohta",
+    "about Sunrise"                                 => "Meie kohta",
     "investment profile"                            => "Investeerimisprofiil",
     "investment strategy & transaction types"       => "Investeerimisstrateegia ja tehingute tüübid",
     "select portfolio companies"                    => "Vali portfelliettevõtted",
@@ -159,7 +159,7 @@ return [
     "infofx"                                        => "InfoFX",
     "currency hedging"                              => "Valuutakaitse",
     "securities lending"                            => "Väärtuspaberite laenutamine",
-    "vanward securities lending execution policy"   => "Vanwardi väärtpaberite laenutamise teostamise poliitika",
+    "Sunrise securities lending execution policy"   => "Sunrisei väärtpaberite laenutamise teostamise poliitika",
     "market intelligence"                           => "Turuintelligentsus",
     "investment operations & technology solutions"  => "Investeerimistoimingud ja tehnoloogilised lahendused",
     "technology services"                           => "Tehnoloogiateenused",
@@ -221,7 +221,7 @@ return [
     "signature programs"                => "Eriprogrammid",
     "mobility"                          => "Liikuvus",
     "life here"                         => "Elu siin",
-    "life at vanward"                   => "Elu Vanwardis",
+    "life at Sunrise"                   => "Elu Sunriseis",
     "our culture"                       => "Meie kultuur",
     "core values"                       => "Põhiväärtused",
     "affinity network community"        => "Sugulusvõrgustiku kogukond",
@@ -258,12 +258,12 @@ return [
 
     // LEVEL 1
     // private banking
-    "private banking 1"         => "Vanwardi erapanganduse eksklusiivne missioon on abistada erakliente, sealhulgas erakapitali omanikke ja jõukaid indiviide, nende varanduse põlvkondlikus haldamises, tagades selle loomise, ülekandumise, säilitamise ja kasvu. Me pakume erapooletut finants- ja investeerimisnõustamist ettevõtetele ja eraisikutele, samuti lihtsustame juurdepääsu võlakapitalile ja omakapitalile. Meie pühendumus ülimale teenindusele toetab pikaajalisi suhteid, mis põhinevad usaldusel, muutes meid usaldusväärseks finantspartneriks meie klientidele.",
+    "private banking 1"         => "Sunrisei erapanganduse eksklusiivne missioon on abistada erakliente, sealhulgas erakapitali omanikke ja jõukaid indiviide, nende varanduse põlvkondlikus haldamises, tagades selle loomise, ülekandumise, säilitamise ja kasvu. Me pakume erapooletut finants- ja investeerimisnõustamist ettevõtetele ja eraisikutele, samuti lihtsustame juurdepääsu võlakapitalile ja omakapitalile. Meie pühendumus ülimale teenindusele toetab pikaajalisi suhteid, mis põhinevad usaldusel, muutes meid usaldusväärseks finantspartneriks meie klientidele.",
     "private banking caption 1" => "Ühendades sügavalt juurdunud investeerimiskultuuri läbimõeldud varahalduse ja eeskujuliku teenindusega, pakume oma klientidele kõige läbimõeldud ja kõikehõlmavamat pikaajalist investeerimiskogemust.",
     "private banking caption 2" => "Pakume olulistele erakätes olevatele ettevõtetele objektiivset ettevõtlusfinantseerimise nõu ja kapitali, et aidata nende omanikel saavutada äri- ja isiklikud eesmärgid.",
     "private banking caption 3" => "Oleme aktiivsed investorid alumise keskturu erakapitalis, otsides toetada ja partnerlust talentidega juhtimisrühmadega ja omanikega, pakkudes individuaalseid junior kapitali lahendusi.",
     // investment management
-    "investment management 1"           => "Vanwardi missioon on olla oma klientidele parim pikaajalise kapitali säilitamise ja kasvu osas. Keskendume skalpeeritavatele investeerimisstrateegiatele, kus meie filosoofia, metodoloogia ja kogemused võivad anda erilisi tulemusi. Vanward Investment Management on haldanud omakapitali ja fikseeritud tulu investeeringuid, ja meie eriliseks teeb meie investeerimisstrateegia.
+    "investment management 1"           => "Sunrisei missioon on olla oma klientidele parim pikaajalise kapitali säilitamise ja kasvu osas. Keskendume skalpeeritavatele investeerimisstrateegiatele, kus meie filosoofia, metodoloogia ja kogemused võivad anda erilisi tulemusi. Sunrise Investment Management on haldanud omakapitali ja fikseeritud tulu investeeringuid, ja meie eriliseks teeb meie investeerimisstrateegia.
                                             <br><br>
                                             Meie investeerimisstrateegiat juhivad mitmed põhialused, mis kohaldatakse kogu meie investeerimisportfelli ulatuses. Koos moodustavad nad aja jooksul testitud filosoofia, mis on võimaldanud meil luua püsivaid klientide suhteid ja eristada meid konkurentidest.
                                             <br><br>",
@@ -275,7 +275,7 @@ return [
     "investment management 7"           => "distsipliin ja kannatlikkus",
     "investment management 8"           => "Uurige, kuidas meie altpoolt üles suunatud investeerimisstrateegia kaasab keskkonnaalased, sotsiaalsed ja juhtimisalased (ESG) kaalutlused.",
     "investment management 9"           => "",
-    "investment management caption 1"   => "Rõhuasetusega kapitali säilitamisele püüavad Vanwardi avalike aktsiate strateegiad genereerida atraktiivseid pikaajalisi investeerimistulusid kogu turutsükli vältel.",
+    "investment management caption 1"   => "Rõhuasetusega kapitali säilitamisele püüavad Sunrisei avalike aktsiate strateegiad genereerida atraktiivseid pikaajalisi investeerimistulusid kogu turutsükli vältel.",
     "investment management caption 2"   => "Pakume maksustatavaid, maksuvabu ja inflatsiooniindeksiga strateegiaid, mis kasutavad meie erilist investeerimisfilosoofiat ja hindamismetoodikat, et luua pikaajalisi tulusid, mis ületavad konkurentide omi.",
     "investment management caption 3" => "Meie investeerimispõhimõtted:",
     "investment management caption 4" => "Keskkonnale keskenduv strateegia",
@@ -286,24 +286,24 @@ return [
     "investment management caption 9" => "Tutvu, kuidas meie altpoolt üles suunatud investeerimisstrateegia ",
     
     // investor services
-    "investor services 1"           => "Vanwardi Investor Services on pühendunud pakkuma varahaldusteenuseid ja tipptasemel tehnoloogialahendusi juhtivatele ülemaailmsetele varakogujatele. Me keskendume konkreetsele kliendigrupile, kes otsib kaasatud ja proaktiivset partnerit, et saada konkurentsieelist. Iga klient saab kõrgelt kohandatud teenuse, mida täiendavad tipptasemel tehnoloogia.
+    "investor services 1"           => "Sunrisei Investor Services on pühendunud pakkuma varahaldusteenuseid ja tipptasemel tehnoloogialahendusi juhtivatele ülemaailmsetele varakogujatele. Me keskendume konkreetsele kliendigrupile, kes otsib kaasatud ja proaktiivset partnerit, et saada konkurentsieelist. Iga klient saab kõrgelt kohandatud teenuse, mida täiendavad tipptasemel tehnoloogia.
                                         <br><br>
                                         Kui eraomandis olev ettevõte, millel puudub välise aktsionäride mõju, saame me täielikult keskenduda klientide vajadustele. Me töötame nendega tihedalt koos nende kõige olulisemate eesmärkide saavutamiseks, aidates neil eristada oma äri ja saavutada kasvueesmärke.
                                         <br><br>
-                                        Kliendid pöörduvad meie poole, et avastada väärtust, uurida riski ja keerukuse haldamise uuenduslikke lähenemisviise ning edendada oma ettevõtteid. Nad ootavad ja saavad erakordset teenindust, kuna meid kirjeldatakse pidevalt nende esmase ressursina uute ja keerukate olukordade lahendamisel. Meie kliendid hindavad Vanwardit alati oma esimeseks maailma teenusepakkujaks.",
+                                        Kliendid pöörduvad meie poole, et avastada väärtust, uurida riski ja keerukuse haldamise uuenduslikke lähenemisviise ning edendada oma ettevõtteid. Nad ootavad ja saavad erakordset teenindust, kuna meid kirjeldatakse pidevalt nende esmase ressursina uute ja keerukate olukordade lahendamisel. Meie kliendid hindavad Sunriseit alati oma esimeseks maailma teenusepakkujaks.",
     "investor services caption 1"   => "Tagades klientide kõige keerukamate fondide ja varatüüpide täpse kauplemisliku asjaajamise, hoiustamise, aruandluse ja halduse",
     "investor services caption 2"   => "Pakkudes spetsialistide ekspertiisi, mis teenindavad ülemaailmseid piiride ületavaid fonde, alternatiive, ETF-e ja kindlustusfirmasid",
     "investor services caption 3"   => "Pakkudes välisvaluutaga kauplemise, valuutahalduse ja väärtpaberite laenude lahendusi, mis on keskendunud täitmise kvaliteedile ning juhtivatele tasemetele operatiivses efektiivsuses, läbipaistvuses ja kliendikontrollis.",
     "investor services caption 4"   => "Muutes meie tehnoloogilise platvormi olulised komponendid klientidele kättesaadavaks SaaS-i, IaaS-i ja täieliku välisallhanke alusel.",
     // careers
-    "careers 1"         => "Vanwardis hindame väga iga töötaja vaatenurka ja ekspertiisi. Meie organisatsiooniline struktuur on loodud lameda, soodustades koostööl põhinevat kultuuri, kus kõigi meeskonnaliikmete panus on meie edu jaoks oluline. Meie eesmärk on luua keskkond, kus iga idee on teretulnud ja jagatud, teades, et iga idee võib oluliselt mõjutada meie tegevust ja saavutusi.",
+    "careers 1"         => "Sunriseis hindame väga iga töötaja vaatenurka ja ekspertiisi. Meie organisatsiooniline struktuur on loodud lameda, soodustades koostööl põhinevat kultuuri, kus kõigi meeskonnaliikmete panus on meie edu jaoks oluline. Meie eesmärk on luua keskkond, kus iga idee on teretulnud ja jagatud, teades, et iga idee võib oluliselt mõjutada meie tegevust ja saavutusi.",
     "careers caption 1" => "Otsime aktiivselt inimesi, kes toovad meie organisatsiooni mitmekesiseid vaatenurki ja kogemusi, kuna need on meie edu jaoks olulised. Meie töötajatel on ettevõtlik meelelaad ja nad näitavad omandimõtlemist kogu organisatsiooni tasandil.",
-    "careers caption 2" => "Vanwardis julgustame pidevat õppimist ja arengut, pakkudes võimalusi uute oskuste omandamiseks, koostööks erinevates valdkondades ja erinevate rollide uurimiseks. Meie kultuur on tulemustele orienteeritud, mis tähendab, et keskendume tulemustele ja hindame teie tehtud mõju. Usume, et võimaldame oma töötajatele elada nende parimaid elusid, nii isiklikult kui ka professionaalselt.",
+    "careers caption 2" => "Sunriseis julgustame pidevat õppimist ja arengut, pakkudes võimalusi uute oskuste omandamiseks, koostööks erinevates valdkondades ja erinevate rollide uurimiseks. Meie kultuur on tulemustele orienteeritud, mis tähendab, et keskendume tulemustele ja hindame teie tehtud mõju. Usume, et võimaldame oma töötajatele elada nende parimaid elusid, nii isiklikult kui ka professionaalselt.",
     "careers caption 3" => "Usume, et loome keskkonna, kus saate teha positiivset mõju nii meie ettevõttes kui ka oma kogukonnas.",
     "careers 5"         => "Talendihankespetsialisti tugi",
     "careers 6"         => "Kui olete töökandidaat ja teil on küsimus avalduse esitamise kohta, saatke e-kiri aadressile:",
     // our firm
-    "our firm 1" => "Vanward Asset Management Limited on sõltumatu finantsteenuste ettevõte, mis tegutseb omal äranägemisel. Meie fookus on teenindada kõrgelt valivaid eraisikuid ja institutsioone, pakkudes erialast ekspertiisi erapanganduses, investeeringute haldamises ja investoriteenustes.
+    "our firm 1" => "Sunrise Asset Management Limited on sõltumatu finantsteenuste ettevõte, mis tegutseb omal äranägemisel. Meie fookus on teenindada kõrgelt valivaid eraisikuid ja institutsioone, pakkudes erialast ekspertiisi erapanganduses, investeeringute haldamises ja investoriteenustes.
                     <br><br>
                     Kuna me ei ole välise aktsionäride mõju all, on meie huvid täielikult kooskõlas meie klientide huvidega. Meie edu tuleb meie klientide edu tulemusena. Me panustame personaalse lähenemisviisi järgi äritegevuse läbiviimisse, pöörates rõhku mõistlikule riskijuhtimisele ja alati hoides oma klientide mainet ja parimaid huve kõikide meie tegevuste eesliinil.",
     "our firm caption 1" => "Meie lugupeetud globaalne juhtkond",
@@ -313,7 +313,7 @@ return [
 
     // LEVEL 2 - Private Banking
     // private_wealth_management
-    "private wealth management 1" => "Meie missioon Vanwardis on lihtne: säilitada ja kasvatada teie varandust*. Meie lähenemine eristab meid selles osas. Ühendame sügavalt juurdunud investeerimiskultuuri läbimõeldud varahalduse ja eeskujuliku teenindusega, et pakkuda teile kõige läbimõeldud ja kõikehõlmavamat eraklientide varahalduse kogemust pikaajaliselt. Meie kliendisuhted tuginevad partnerlusstruktuuri stabiilsusele, pikaajalisusele ja huvide ühtsusele.",
+    "private wealth management 1" => "Meie missioon Sunriseis on lihtne: säilitada ja kasvatada teie varandust*. Meie lähenemine eristab meid selles osas. Ühendame sügavalt juurdunud investeerimiskultuuri läbimõeldud varahalduse ja eeskujuliku teenindusega, et pakkuda teile kõige läbimõeldud ja kõikehõlmavamat eraklientide varahalduse kogemust pikaajaliselt. Meie kliendisuhted tuginevad partnerlusstruktuuri stabiilsusele, pikaajalisusele ja huvide ühtsusele.",
     "private wealth management 2" => "Läheneme investeerimisele väärtuspõhiselt ja pikaajaliselt, eesmärgiga säilitada ja kasvatada teie varandust.",
     "private wealth management 3" => "Meie kõrgelt kvalifitseeritud varahaldurid teevad teiega ja teie nõustajatega tihedat koostööd usalduse ja pärandi, maksude ning finantsplaneerimise küsimustes, et aidata teil saavutada oma isiklikud ja finantsilised eesmärgid.",
     "private wealth management 4" => "Aitame meie klientidel käsitleda kõiki nende filantroopilisi plaane ja eesmärke, et saavutada püsiv positiivne mõju.",
@@ -323,14 +323,14 @@ return [
 
     // corporate_advisory_and_banking
     "corporate advisory & banking 1" => "Oleme kauaaegne, omanikke teenindav partnerlus, mis on alates 1818. aastast edukalt tegutsenud. Meil on põhjalik arusaam eraettevõtete omanike ja juhtide ees seisvatest väljakutsetest. See ainulaadne vaatenurk koos meie kindla pühendumusega asetada meie klientide huvid esikohale soodustab pikaajalisi suhteid, mis põhinevad vastastikusel usaldusel. Meid ei motiveeri lühiajalised tehingulised kasud; meie ainus eesmärk on pakkuda oma klientidele objektiivset ja terviklikku nõu kogu nende finantsmaastikul.",
-    "corporate advisory & banking 2" => "Corporate Advisory & Banking meeskond koosneb vanematest ettevõtlusnõustamise ekspertidest, kellel on laialdane kogemus koostöös ettevõtte omanike ja juhtidega ühinemiste ja omandamiste ning finantseerimistehingute osas. Me edastame oma klientidele Vanwardi täieliku ulatuse, tehes tõhusat koostööd asjatundjatega kogu meie Erapanganduse osakonnast ja ettevõttest.",
+    "corporate advisory & banking 2" => "Corporate Advisory & Banking meeskond koosneb vanematest ettevõtlusnõustamise ekspertidest, kellel on laialdane kogemus koostöös ettevõtte omanike ja juhtidega ühinemiste ja omandamiste ning finantseerimistehingute osas. Me edastame oma klientidele Sunrisei täieliku ulatuse, tehes tõhusat koostööd asjatundjatega kogu meie Erapanganduse osakonnast ja ettevõttest.",
     "corporate advisory & banking 3" => "Pakume oma klientidele objektiivset ja teostatavat juhendamist, et aidata neil saavutada nende ainulaadsed äri- ja isiklikud eesmärgid.",
     "corporate advisory & banking 4" => "Kapital lisandväärtusega märkimisväärsetele eraomandis olevatele Ameerika ettevõtetele, kellel on silmapaistvad krediidiprofiilid.",
     "corporate advisory & banking 5" => "Konsultatsiooniteenuste ja kapitali pakkumine pereettevõtete omanikele, et aidata neil lahendada nende ainulaadsed väljakutsed.",
 
     // private_equity
-    "private equity 1" => "Alates 1996. aastast on Vanwardi erakapital investeerinud üle 2,5 miljardi dollari kasvukapitali erakätes olevatesse ettevõtetesse mitmesugustes tööstusharudes. Vanward teeb koostööd kõrgelt kvalifitseeritud juhtkondadega, kes juhivad ettevõtteid oluliste kasvu- ja strateegia arendamise etappide kaudu. Rõhutame koostööd juhtkondade ja omanikega, kes soovivad kasutada üle 200-aastase institutsiooni suhteid, kogemusi ja ressursse.",
-    "private equity 2" => "Vanwardil on kogemusi ettevõtetesse investeerimisel, mille ettevõtte väärtus on vahemikus 50 miljonit kuni 400 miljonit dollarit alumise keskturu segmendis. Vanward saab tegutseda kontrolliva või mittekontrolliva investorina ning struktureerida investeeringuid nii omakapitali kui ka allordineeritud võlakirjade kombinatsioonina.",
+    "private equity 1" => "Alates 1996. aastast on Sunrisei erakapital investeerinud üle 2,5 miljardi dollari kasvukapitali erakätes olevatesse ettevõtetesse mitmesugustes tööstusharudes. Sunrise teeb koostööd kõrgelt kvalifitseeritud juhtkondadega, kes juhivad ettevõtteid oluliste kasvu- ja strateegia arendamise etappide kaudu. Rõhutame koostööd juhtkondade ja omanikega, kes soovivad kasutada üle 200-aastase institutsiooni suhteid, kogemusi ja ressursse.",
+    "private equity 2" => "Sunriseil on kogemusi ettevõtetesse investeerimisel, mille ettevõtte väärtus on vahemikus 50 miljonit kuni 400 miljonit dollarit alumise keskturu segmendis. Sunrise saab tegutseda kontrolliva või mittekontrolliva investorina ning struktureerida investeeringuid nii omakapitali kui ka allordineeritud võlakirjade kombinatsioonina.",
     "private equity 3" => "Arengukapitali pakkuja, kes pakub äriühingutele alumise keskturu segmendis kõrgelt kohandatud kapitalilahendusi.",
     "private equity 4" => "Investeerimine alumise keskturu ettevõtetesse, kellel on tugevad ärilised omadused, kasutades mitmesuguseid tehingustruktuure.",
     "private equity 5" => "Fleksible investeerimismandaat, mis võimaldab kontroll- ja mittekontrolltehinguid ning omakapitali ja võlakirjade segu.",
@@ -341,7 +341,7 @@ return [
     "investment advisory 1"  => "Varade jaotamine on teie investeerimisstrateegia oluline komponent. Aitame teil jaotada oma varad vastavalt teie kulutusvajadustele, soovile jätkata rikkuse edasikandumist tulevastele põlvkondadele ning heategevuslikele eesmärkidele. Mida paremini mõistame teie varade eesmärke, seda täpsemalt saame oma portfelli riski ja oodatava tootluse omadusi teie eesmärkidega kooskõlastada.",
     "investment advisory 2"  => "Rakendame teie varade jaotamist, kasutades sise- ja kolmandate osapoolte investeerimisstrateegiate kombinatsiooni, keskendudes ühele eesmärgile: teie varade säilitamine ja kasvatamine. Kõik investeeringute haldurid konkureerivad meie platvormil osalemiseks, ning neid kaalutakse vaid juhul, kui nad jagavad meie uskumusi, et väärtpaberite ostmine allahindlusega nende hindamisel ja teadmiste omamine, miks te omate, on aja jooksul varade säilitamiseks ja kasvatamiseks kõige tõhusamad meetodid.",
     "investment advisory 3"  => "Varade jaotamise metoodika",
-    "investment advisory 4"  => "Vanwardi investeerimismeeskonnad annavad varade jaotamise soovitusi mitmesuguste klientide tüüpide jaoks ning meie suhtemeeskonnad kasutavad neid soovitusi lähtepunktina, et ühendada meie parimad mõtted investeerimise ja varade planeerimise nõuannetele, mis on kohandatud teie pere vajadustele.",
+    "investment advisory 4"  => "Sunrisei investeerimismeeskonnad annavad varade jaotamise soovitusi mitmesuguste klientide tüüpide jaoks ning meie suhtemeeskonnad kasutavad neid soovitusi lähtepunktina, et ühendada meie parimad mõtted investeerimise ja varade planeerimise nõuannetele, mis on kohandatud teie pere vajadustele.",
     "investment advisory 5"  => "Meie põhilised investeerimispõhimõtted",
     "investment advisory 6"  => "Aktiivne haldamine",
     "investment advisory 7"  => "Usume, et kõik turud on loomupäraselt ebaefektiivsed ja investorid saavad hoolika väärtpaberite valiku abil saavutada üleliigse tootluse, vähendades samas riski püsiva kapitalikaotuse suhtes.",
@@ -393,7 +393,7 @@ return [
     // trust services
     "trust services 1"  => "Kogenud usaldusisikutena ja täituritena töötame klientide ja nende nõustajatega, et haldada kõiki usalduste tüüpe, alates lihtsatest elususaldustest kuni keeruliste maksusoodustustega varade planeerimise vahenditeni. Pakume ka spetsialiseeritud pensioni- ja heategevusfondide teenuseid.
                             <br><br>
-                            Meie usaldusametid asuvad Ameerika Ühendriikides piirkondlikult ning tegutsevad rahvusliku loaga, võimaldades kohapealset usaldusteenust. Vanwardi Delaware peakorteriga usaldusühing pakub klientidele juurdepääsu saajatele sõbraliku ja maksuefektiivse jurisdiktsiooni usalduste haldamiseks. Ettevõte omab ka peakontorit Kaimani saartel, peamiselt meie mitte-Ameerika Ühendriikide klientide vajaduste rahuldamiseks.
+                            Meie usaldusametid asuvad Ameerika Ühendriikides piirkondlikult ning tegutsevad rahvusliku loaga, võimaldades kohapealset usaldusteenust. Sunrisei Delaware peakorteriga usaldusühing pakub klientidele juurdepääsu saajatele sõbraliku ja maksuefektiivse jurisdiktsiooni usalduste haldamiseks. Ettevõte omab ka peakontorit Kaimani saartel, peamiselt meie mitte-Ameerika Ühendriikide klientide vajaduste rahuldamiseks.
                             <br><br>",
     "trust services 2"  => "Teie perele jätkusuutlikkuse tagamine",
     "trust services 3"  => "Toimides usaldusisikuna ja/või täiturina, pakume klientidele jätkusuutlikkust, et aidata saavutada nende isiklikke ja finantsilisi eesmärke põlvkondade kaupa. Meie kõikehõlmavad teenused hõlmavad:",
@@ -405,7 +405,7 @@ return [
     "trust services 9"  => "usaldusisiku arvestuse ja raamatupidamise pidamine",
     "trust services 10" => "tulumaksuplaneerimine usalduste, päranduste, annetajate ja saajate jaoks",
     "trust services 11" => "IRA haldamine",
-    "trust services 12" => "Vanward ja selle tütarettevõtted ei paku õigusnõu ega maksunõuandeid, välja arvatud juhul, kui on sõlmitud eraldi kokkulepe maksudeklaratsiooni koostamise teenuste osutamiseks. Enne selle teatise teemaga seotud meetmete võtmist peaksid kliendid konsulteerima oma õigusnõustaja või maksunõustajaga.",
+    "trust services 12" => "Sunrise ja selle tütarettevõtted ei paku õigusnõu ega maksunõuandeid, välja arvatud juhul, kui on sõlmitud eraldi kokkulepe maksudeklaratsiooni koostamise teenuste osutamiseks. Enne selle teatise teemaga seotud meetmete võtmist peaksid kliendid konsulteerima oma õigusnõustaja või maksunõustajaga.",
 
     // private client lending
     "private client lending 1"  => "Pakume paindlikku tagatisega laenamist isikliku laenu ja krediidi limiidi vormis. Laenu saadud summat kasutatakse tavaliselt kinnisvara ostmiseks, ettevõttesse investeerimiseks, väärtusliku varaga varustamiseks või kingituste tegemiseks perele. Meie suhtemeeskonnad teevad koostööd teie ja teie perega, et rakendada finantsstrateegiaid, mis aitavad teil oma eesmärke saavutada.",
@@ -428,16 +428,16 @@ return [
 "center for women and wealth caption 2" => "New America: Better Life Lab",
 "center for women and wealth caption 3" => "CW&W on põnevil, et teha koostööd mõttekoja ja sotsiaalse ettevõtte New America algatuse Better Life Lab'iga. Better Life Lab on osaline rahvuslikus dialoogis soorollide ja normide, perepoliitika ning töö ja eluviisi arengu kohta. Nad kasutavad oma töös uurimusi, andmeid ja raporteerimist, et oma tööd juhtida ning edastada lugusid, mis motiveerivad, valgustavad ja inspireerivad muutusi.",
 
-    // about vanward
-    "about vanward 1" => "Vanward on erasektoristruktuur, mis pakub madalamatele keskklassi ettevõtetele väga kohandatud ja täieliku finantseerimise lahendusi. Meil on praegu umbes 1,1 miljardit dollarit kohustuslikku kapitali, mis on investeerimiseks saadaval.",
-    "about vanward 2" => "Vanward investeerib ettevõtetesse, mille väärtus on vahemikus 10 miljonit kuni 125 miljonit dollarit ning mille ettevõtte väärtus jääb vahemikku 10 miljonit kuni 500 miljonit dollarit. Lisaks saame strateegiliste kaasinvestorite või piiratud partnerite kaasabil investeerida oluliselt rohkem. Meie investeeringud on keskendunud tervishoiu, tehnoloogia, meedia ja telekommunikatsiooni ning ärivaldkondade toodete ja teenuste tööstustesse. Meie kapital võimaldab mitmesuguseid tehinguid, sealhulgas väljaostusid, kasvukapitali investeeringuid, kapitali ümberkorraldusi ja omandamisi.",
-    "about vanward 3" => "Vanwardi eelised assotsiatsioonina",
-    "about vanward 4" => "Vanwardi kasu",
-    "about vanward 5" => "Vanward kasutab oma laiaulatuslikku ülemaailmset võrgustikku, et pakkuda oma portfelliettevõtetele mitmesuguseid eeliseid, näiteks juurdepääsu uutele klientidele/ostjatele, sissejuhatust potentsiaalsetele omandamise sihtkohtadele ning abistamist täiustatud infosüsteemide rakendamisel.",
-    "about vanward 6" => "Mitmekülgne volitus",
-    "about vanward 7" => "Meie paindlik investeerimisvolitus võimaldab meil tegutseda kontrolliva või mittekontrolliva investeerijana ning struktureerida oma investeeringud osaluse ja alama võlakirjade väärtpaberite kombinatsioonina. See paindlikkus on ainulaadne, kuna võimaldab Vanwardil struktureerida investeeringuid vastavalt igale võimalusele vastavalt nõuetele.",
+    // about Sunrise
+    "about Sunrise 1" => "Sunrise on erasektoristruktuur, mis pakub madalamatele keskklassi ettevõtetele väga kohandatud ja täieliku finantseerimise lahendusi. Meil on praegu umbes 1,1 miljardit dollarit kohustuslikku kapitali, mis on investeerimiseks saadaval.",
+    "about Sunrise 2" => "Sunrise investeerib ettevõtetesse, mille väärtus on vahemikus 10 miljonit kuni 125 miljonit dollarit ning mille ettevõtte väärtus jääb vahemikku 10 miljonit kuni 500 miljonit dollarit. Lisaks saame strateegiliste kaasinvestorite või piiratud partnerite kaasabil investeerida oluliselt rohkem. Meie investeeringud on keskendunud tervishoiu, tehnoloogia, meedia ja telekommunikatsiooni ning ärivaldkondade toodete ja teenuste tööstustesse. Meie kapital võimaldab mitmesuguseid tehinguid, sealhulgas väljaostusid, kasvukapitali investeeringuid, kapitali ümberkorraldusi ja omandamisi.",
+    "about Sunrise 3" => "Sunrisei eelised assotsiatsioonina",
+    "about Sunrise 4" => "Sunrisei kasu",
+    "about Sunrise 5" => "Sunrise kasutab oma laiaulatuslikku ülemaailmset võrgustikku, et pakkuda oma portfelliettevõtetele mitmesuguseid eeliseid, näiteks juurdepääsu uutele klientidele/ostjatele, sissejuhatust potentsiaalsetele omandamise sihtkohtadele ning abistamist täiustatud infosüsteemide rakendamisel.",
+    "about Sunrise 6" => "Mitmekülgne volitus",
+    "about Sunrise 7" => "Meie paindlik investeerimisvolitus võimaldab meil tegutseda kontrolliva või mittekontrolliva investeerijana ning struktureerida oma investeeringud osaluse ja alama võlakirjade väärtpaberite kombinatsioonina. See paindlikkus on ainulaadne, kuna võimaldab Sunriseil struktureerida investeeringuid vastavalt igale võimalusele vastavalt nõuetele.",
     // investment profile
-    "investment profile 1"  => "Vanward on suunatud ettevõtetele, mis vastavad järgmistele kriteeriumidele:",
+    "investment profile 1"  => "Sunrise on suunatud ettevõtetele, mis vastavad järgmistele kriteeriumidele:",
     "investment profile 2"  => "Organisatsiooni iseloomustus:",
     "investment profile 3"  => "elutähtsad kaubad või teenused",
     "investment profile 4"  => "korduv tulu või tugev rahavoog",
@@ -468,11 +468,11 @@ return [
     // investment strategy and transaction types
     "investment strategy and transaction types 1"   =>  "Meie investeerimise volituste kohandatavus on juhtkondadele ja kaasinvestoritele oluline eristaja. Me saame investeerida erinevatesse väärtpaberitesse, näiteks aktsiatesse, alamvõlakirjadesse või nende kombinatsiooni. Erinevalt teistest fondidest ei ole aktsiate ja võla jaotamiseks etteantud kindlat valemit, mis võimaldab meil iga investeeringu kapitali struktuuri kohandada.
                                                         <br><br>
-                                                        Vanward investeerib järgmistes tehingute kategooriates:
+                                                        Sunrise investeerib järgmistes tehingute kategooriates:
                                                         <br><br>",
     "investment strategy and transaction types 2" => "Kontrolltehingud:",
     "investment strategy and transaction types 3" => "Omandame ettevõtte enamusaktsiad ja toimime selle finantssponsorina:",
-    "investment strategy and transaction types 4" => "Tüüpiline struktuur sisaldab Vanwardi poolset aktsia- ja alamvõlakirjainvesteeringut kui ühest kohast pärit noorema kapitali lahendust.",
+    "investment strategy and transaction types 4" => "Tüüpiline struktuur sisaldab Sunrisei poolset aktsia- ja alamvõlakirjainvesteeringut kui ühest kohast pärit noorema kapitali lahendust.",
     "investment strategy and transaction types 5" => "See on atraktiivne valik omanike-juhtide jaoks, kes hindavad ühe noorema kapitali pakkuja kindluse sulgemise võimalust.",
     "investment strategy and transaction types 6" => "Vähemus-/mittetäieliku kontrolliga tehingud ning koostöös tegevjuhtide või investoritega toetame juhtkonnaga omandatud ettevõtteid, kasvu, ümberkorraldusi, riskikapitaliga toetatud ettevõtteid, kelle investoritel võib olla erinev likviidsuseesmärk, ning investoreid, kes otsivad osalist likviidsust ja/või kasvu.",
     "investment strategy and transaction types 7" => "Mittetäielik kontroll/ vähemusosalusega tehingud:",
@@ -551,7 +551,7 @@ return [
     "corporate advisory 7" => "Nõustamine finantseerimis- või M&A tehingu protsessi käigus ning mõistlik ja sõltumatu nõustamine",
     "corporate advisory 8" => "Pakume juurdepääsu ja tuge WAMLi võrgustikult.",
     // corporate banking
-    "corporate banking 1" => "Vanward is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Vanward possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include:",
+    "corporate banking 1" => "Sunrise is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Sunrise possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include:",
     "corporate banking 2" => "Commercial financing",
     "corporate banking 3" => "Finance exempt from taxation/industrial revenue bonds",
     "corporate banking 4" => "Commercial services such as commercial and contingency letters of credit",
@@ -569,13 +569,13 @@ return [
     "balancing 7" => "Järgmise põlvkonna perekondlike ettevõtete juhtide edukaks ettevalmistamise loomine: vestlus Columbia Business School Family Business Programmi kaasdirektori Michael Prestoni-ga",
     "balancing 8" => "Columbia Business Schooli külalisprofessor ja Family Business Programmi kaasdirektor Michael Preston jagab oma teadmisi ja nõuandeid, mis on kogunenud järgmise põlvkonna perekondlike ettevõtete omanike õpetamisest üle kümnendi.",
     "balancing 9" => "Miks on perekondlikus ettevõttes otsuste tegemine nii keeruline",
-    "balancing 10" => "Vanwardi vanemanalüütik Ellen Perry arutleb otsuste tegemise keerukuse üle perekondlikes ettevõtetes, kuidas pered saavad otsuste langetamise takistusi ületada ning milliseid vahendeid pered saavad kasutada parema otsustusprotsessi toetamiseks.",
+    "balancing 10" => "Sunrisei vanemanalüütik Ellen Perry arutleb otsuste tegemise keerukuse üle perekondlikes ettevõtetes, kuidas pered saavad otsuste langetamise takistusi ületada ning milliseid vahendeid pered saavad kasutada parema otsustusprotsessi toetamiseks.",
     "balancing 11" => "Äri taasinvesteerimise ja aktsionäride likviidsusvajaduste tasakaalustamine mitmepõlvkondlikus perekondlikus ettevõttes",
     "balancing 12" => "John Secor, Ajit George ja Kyle Gordon arutavad olulist väljakutset, millega perekondlikud ettevõtted silmitsi seisavad: kapitali ja likviidsusnõuete haldamise raskust. Nad annavad juhiseid, kuidas perekondlikud ettevõtted saavad selle olulise eesmärgi saavutada, keskendudes kannatlikule kapitalile, mis on õige tasakaalu saavutamiseks oluline tegur.",
     // building
     "building 1" => "Välisnõustajate võrgustik pakub perekondlikele ettevõtetele olulisi eeliseid. Meie kogemuste põhjal on aega investeerida teiste perekondade, kaasaegsete ja professionaalsete nõustajate tuvastamisse ja suhete arendamisse suur väärtus nii perekonnale kui ka ettevõttele.
                     <br><br>
-                    Vanward töötab koos perekondlike ettevõtete omanikega, et aidata neil kindlustada oma nõustajate meeskonnad, kaaludes olulisi küsimusi, nagu:
+                    Sunrise töötab koos perekondlike ettevõtete omanikega, et aidata neil kindlustada oma nõustajate meeskonnad, kaaludes olulisi küsimusi, nagu:
                     <br><br>",
 "building 2" => "Kellele perekonna või perekonna professionaalse võrgustiku hulgas võivad ettevõtjad usalduslikult rääkida oma ärist, perekonnast, perekonna varandusest ja nende teemade ristumiskohast?",
 "building 3" => "Kui kindlad on ettevõtjad, et neil on juurdepääs vajalikele teadmistele ja oskustele, et olla tõhusad omanikud ja/või operaatorid?",
@@ -584,7 +584,7 @@ return [
 "building 6" => "Kas konflikti huvides on peetud läbirääkimisi? Kuidas neid vähendatakse?",
 "building 7" => "Milliseid teenusepakkujaid on ettevõtjad palganud abi saamiseks nii oma ettevõtete kui ka perekondade juhtimisel?",
     // capital
-    "capital 1" => "Kapitalipoliitikad on igas organisatsioonis oluline osa. Need poliitikad käsitlevad olulisi küsimusi perekondlikele ettevõtetele, näiteks kapitali jaotamist, omakapitali kaasamise lubatavust ja sellega kaasnevat omandi lahjendamist, finantsvõimendust, aktsiate müümist ja tagasiostmist ning aktsionäride väljamakseid. Kui kapitali pakkuja ja perekondlike ettevõtete nõustajana enam kui kahe sajandi vältel ning ise eraettevõttena, on Vanwardil ulatuslik kogemus koostööst perekondlike ettevõtetega nende poliitikate kujundamisel.
+    "capital 1" => "Kapitalipoliitikad on igas organisatsioonis oluline osa. Need poliitikad käsitlevad olulisi küsimusi perekondlikele ettevõtetele, näiteks kapitali jaotamist, omakapitali kaasamise lubatavust ja sellega kaasnevat omandi lahjendamist, finantsvõimendust, aktsiate müümist ja tagasiostmist ning aktsionäride väljamakseid. Kui kapitali pakkuja ja perekondlike ettevõtete nõustajana enam kui kahe sajandi vältel ning ise eraettevõttena, on Sunriseil ulatuslik kogemus koostööst perekondlike ettevõtetega nende poliitikate kujundamisel.
                     <br><br>
                     Me töötame koos perekondlike ettevõtetega, et anda vastused olulistele kapitalipoliitika küsimustele, näiteks:
                     <br><br>",
@@ -603,7 +603,7 @@ return [
     "defining 6" => "Millised väärtused ja põhimõtted peaksid juhendama perekonna ja perekonnale kuuluva ettevõtte otsuste langetamist?",
     "defining 7" => "Kuidas perekond jõudis nende väärtusteni ja juhtivate põhimõteteni ning kas need on dokumenteeritud?",
     // distributions
-    "distributions 1" => "Paljudel perekondlikel ettevõtetel on mitte-töötavat perekonnaliiget, kes omavad aktsiaid. Seetõttu on oluline luua ja edastada poliitikaid likviidsuse loomiseks aktsionäride jaoks. Perekonna aktsionärid soovivad teada, kas nad saavad väljamakseid ja kas nad saavad oma aktsiaid lunastada või üle kanda. Samuti soovivad nad öelda sõna aktsiaomandi sisemiste tootlusoootuste osas. Edukad ettevõtted kiidavad sageli pikaaegse omandi eeliseid perekonnaliikmetele ning kannatliku kapitali väärtuse suurendavat mõju ettevõttele ja perekonnale aja jooksul. Kui juba sajandeid kestnud eraettevõte on Vanward, siis mõistab ta kapitali taasinvesteerimise ja omanike tootluse delikaatset tasakaalu.
+    "distributions 1" => "Paljudel perekondlikel ettevõtetel on mitte-töötavat perekonnaliiget, kes omavad aktsiaid. Seetõttu on oluline luua ja edastada poliitikaid likviidsuse loomiseks aktsionäride jaoks. Perekonna aktsionärid soovivad teada, kas nad saavad väljamakseid ja kas nad saavad oma aktsiaid lunastada või üle kanda. Samuti soovivad nad öelda sõna aktsiaomandi sisemiste tootlusoootuste osas. Edukad ettevõtted kiidavad sageli pikaaegse omandi eeliseid perekonnaliikmetele ning kannatliku kapitali väärtuse suurendavat mõju ettevõttele ja perekonnale aja jooksul. Kui juba sajandeid kestnud eraettevõte on Sunrise, siis mõistab ta kapitali taasinvesteerimise ja omanike tootluse delikaatset tasakaalu.
                             <br><br>
                             Kui töötame perekondlike ettevõtte klientidega väljamaksete ja likviidsuse küsimustes, aitame neil vastata järgmistele küsimustele:
                             <br><br>",
@@ -634,7 +634,7 @@ return [
                         <br><br>
                         Lisaks seisavad perekondlikud ettevõtted silmitsi omandi üleminekuga. Paljudel juhtudel ei pruugi järgmised põlvkonnad olla ettevõttes töötajad, hoolimata sellest, et nad on aktsionärid. Sellega võib kaasneda komplikatsioone selge pikaajaliste eesmärkide ja hoolikalt läbimõeldud aktsiaomandi ja ülekandepoliitikate puudumisel.
                         <br><br>
-                        Vanward on põlvkondade vältel töötanud perekondlike ettevõtetega juhtimise ja omandi järgnevuse planeerimise küsimustes ning kui mitmepõlvkondlik partnerite omanduses olev eraettevõte, arutame seda teemat regulaarselt. Kui aitame oma klientidel leida lahendusi nende järgnevusega seotud küsimustele, kaalume järgmisi küsimusi koos nendega:
+                        Sunrise on põlvkondade vältel töötanud perekondlike ettevõtetega juhtimise ja omandi järgnevuse planeerimise küsimustes ning kui mitmepõlvkondlik partnerite omanduses olev eraettevõte, arutame seda teemat regulaarselt. Kui aitame oma klientidel leida lahendusi nende järgnevusega seotud küsimustele, kaalume järgmisi küsimusi koos nendega:
                         <br><br>",
     "succession 2" => "Kuidas mõjutab praegune juhtimise ja omandimudel järgmise põlvkonna perekonnaliikmete ja juhtide tulemuslikkust üleminekul? Mitte-perekondlikud juhid?",
     "succession 3" => "Milliseid alternatiive järgnevuse planeerimisele kaalutakse, kui üldse?",
@@ -645,7 +645,7 @@ return [
 
     // LEVEL 2 - Investment Management
     // esg approach
-    "esg approach 1" => "Vanwardi missioon on olla parim pikaajalise kapitali säilitamise ja kasvu teenusepakkuja meie klientidele. Vanward on läbi viinud omaenda investeerimisuuringuid, keskendudes pikaajalisele kapitali säilitamisele ja riski tervislikule juhtimisele suhtes tootlusega. Meie investeerimisprotsessi tuum on alati olnud arusaam, et kahjude vältimine on ülim võti ületada üldist pikaajalist investeerimistulu.
+    "esg approach 1" => "Sunrisei missioon on olla parim pikaajalise kapitali säilitamise ja kasvu teenusepakkuja meie klientidele. Sunrise on läbi viinud omaenda investeerimisuuringuid, keskendudes pikaajalisele kapitali säilitamisele ja riski tervislikule juhtimisele suhtes tootlusega. Meie investeerimisprotsessi tuum on alati olnud arusaam, et kahjude vältimine on ülim võti ületada üldist pikaajalist investeerimistulu.
                             <br><br>
 Me usume, et keskkonna-, sotsiaal- ja juhtimiskriteeriumide (ESG) kaasamine meie investeerimisprotsessi parandab meie võimet riski juhtida ja saavutada pikaajalisi eesmärke. Usume, et keskkonna-, sotsiaal- ja juhtimiskriteeriumid on meie aktsiate ja võlakirjade investeerimisprotsesside lahutamatu osa.
                             <br><br>
@@ -666,10 +666,10 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "esg approach 14" => "Iga meie investeerimismeeskond kasutab strateegia spetsiifilist lähenemist, mis on kooskõlas meie investeerimisfilosoofia ja protseduuriga.",
     "esg approach 15" => "Me pühendume põhjalikule uurimisele, et leida tegureid, mis võivad põhjustada kapitali kahjustusi. Nagu iga muu potentsiaalse riski puhul, võib ESG-ga seotud riskide piisav käsitlemata jätmine mõjutada meie otsust selle väärtpaberi osas.",
     "esg approach 16" => "Oma põhjaliku uurimistöö kaudu ettevõtete ja tööstusharude kohta, tugev suhtlus juhtkonnaga ja emitentidega ning pidevad jõupingutused jälgida reguleerivat ja valitsuskeskkonda parandame pidevalt oma arusaama sellest, kuidas ESG-faktoreid hästi hallatakse.",
-    "esg approach 17" => "Vanward pakub globaalsetele institutsionaalsetele ja eraisikutele investeerimishaldusteenuseid. ESG-kriteeriumid on meie investeerimisprotseduuris põhjalikult kaasatud. Meil on võimalus kohandada investeerimislahendusi vastavalt üksikute klientide ESG eesmärkidele või sõelumise eelistustele.",
-    "esg approach 18" => "Vanward võib olla üldnimetus kogu ettevõtte ja/või selle erinevate tütarettevõtete jaoks. Seda teavet ja mingeid tooteid või teenuseid võidakse mitmes jurisdiktsioonis välja anda või pakkuda tütarettevõtete poolt, mis on nõuetekohaselt volitatud ja reguleeritud. See sisu on ainult informatiivsetel ja viitamise eesmärkidel; see ei moodusta õigus-, maksu- ega investeerimisnõustamist ega paku müüki ega pakkumist väärtpaberite, teenuste ega investeerimistoodete ostmiseks. Iga viide maksuküsimustele ei ole mõeldud kasutamiseks, ega tohi seda kasutada, maksukaristuste vältimiseks USA sise-, ega muude kohaldatavate maksurežiimide korral või teenuste reklaamimiseks, turustamiseks või soovitamiseks kolmandatele isikutele. Kogu teave on saadud usutavatelt allikatelt; siiski selle täpsust ei saa garanteerida ega sellele peaks toetuma. Ilma Vanwardi loata ei tohi seda sisu reprodutseerida, kopeerida ega edastada ega avaldada kolmandatele isikutele. Kõik kaubamärgid ja teenindusmärgid kuuluvad Vanwardile või nende vastavatele omanikele. © Vanward 2023. Kõik õigused kaitstud.",
+    "esg approach 17" => "Sunrise pakub globaalsetele institutsionaalsetele ja eraisikutele investeerimishaldusteenuseid. ESG-kriteeriumid on meie investeerimisprotseduuris põhjalikult kaasatud. Meil on võimalus kohandada investeerimislahendusi vastavalt üksikute klientide ESG eesmärkidele või sõelumise eelistustele.",
+    "esg approach 18" => "Sunrise võib olla üldnimetus kogu ettevõtte ja/või selle erinevate tütarettevõtete jaoks. Seda teavet ja mingeid tooteid või teenuseid võidakse mitmes jurisdiktsioonis välja anda või pakkuda tütarettevõtete poolt, mis on nõuetekohaselt volitatud ja reguleeritud. See sisu on ainult informatiivsetel ja viitamise eesmärkidel; see ei moodusta õigus-, maksu- ega investeerimisnõustamist ega paku müüki ega pakkumist väärtpaberite, teenuste ega investeerimistoodete ostmiseks. Iga viide maksuküsimustele ei ole mõeldud kasutamiseks, ega tohi seda kasutada, maksukaristuste vältimiseks USA sise-, ega muude kohaldatavate maksurežiimide korral või teenuste reklaamimiseks, turustamiseks või soovitamiseks kolmandatele isikutele. Kogu teave on saadud usutavatelt allikatelt; siiski selle täpsust ei saa garanteerida ega sellele peaks toetuma. Ilma Sunrisei loata ei tohi seda sisu reprodutseerida, kopeerida ega edastada ega avaldada kolmandatele isikutele. Kõik kaubamärgid ja teenindusmärgid kuuluvad Sunriseile või nende vastavatele omanikele. © Sunrise 2023. Kõik õigused kaitstud.",
     // fixed income
-    "fixed income 1" => "Vanward on hallanud fikseeritud sissetuleku strateegiaid avalikele ja erainstitutsioonidele ning jõukatele peredele. Meie lähenemine fikseeritud sissetulekule saab kokku võtta ühes lauses: me omandame vastupidavad laenud* siis, kui need on atraktiivsete tootlustega saadaval. Meie maksustatavad, maksuvabad ja inflatsiooniindeksiga investeerimisstrateegiad põhinevad meie eripärasele investeerimisfilosoofiale ja väärtuse hindamise metoodikale ning on loodud atraktiivsete pikaajaliste tootluste saamiseks.",
+    "fixed income 1" => "Sunrise on hallanud fikseeritud sissetuleku strateegiaid avalikele ja erainstitutsioonidele ning jõukatele peredele. Meie lähenemine fikseeritud sissetulekule saab kokku võtta ühes lauses: me omandame vastupidavad laenud* siis, kui need on atraktiivsete tootlustega saadaval. Meie maksustatavad, maksuvabad ja inflatsiooniindeksiga investeerimisstrateegiad põhinevad meie eripärasele investeerimisfilosoofiale ja väärtuse hindamise metoodikale ning on loodud atraktiivsete pikaajaliste tootluste saamiseks.",
     "fixed income 2" => "Meie investeerimise eetika põhineb järgmistel juhtpõhimõtetel:
                             <br>
                             • Ajalooliselt on fikseeritud sissetulekuga sektorite krediidihinnangud pakkunud kompensatsiooni ülemaailmsete kahjude kaotuste eest.
@@ -699,9 +699,9 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "fixed income 6" => "Aktiivselt haldatud „Pure Play“ strateegia, mida rakendatakse inflatsiooniindeksiga seotud turul.",
     "fixed income 7" => "*Kohustused nagu võlakirjad, märkused, laenud, liisingud ja muud võlakirjad, mis on välja antud USA valitsuse ja selle asutuste poolt välja antud kohustustest, välja arvatud rahalised vahendid ja rahavahendid, ning tabeldatud kohustuse lõpptagaja või garandi tasemel.",
     // open account
-    "open account 1" => "Vanwardi missioon on lihtne: säilitada ja kasvatada teie varandust*. Meie lähenemine eristab meid selles osas. Ühendame sügavalt juurdunud investeerimiskultuuri haarava varahoolduse ja eeskujuliku teenindusega, et pakkuda teile pikaajaliseks ajaks kõige läbimõeldumat ja põhjalikumat eraisikute varahaldusteenust. Meie kliendisuhteid toetavad partnerluse struktuuri stabiilsus, pikaajaline kestvus ja huvide ühtsus.",
+    "open account 1" => "Sunrisei missioon on lihtne: säilitada ja kasvatada teie varandust*. Meie lähenemine eristab meid selles osas. Ühendame sügavalt juurdunud investeerimiskultuuri haarava varahoolduse ja eeskujuliku teenindusega, et pakkuda teile pikaajaliseks ajaks kõige läbimõeldumat ja põhjalikumat eraisikute varahaldusteenust. Meie kliendisuhteid toetavad partnerluse struktuuri stabiilsus, pikaajaline kestvus ja huvide ühtsus.",
     // public equity
-    "public equity 1" => "Vanward Investment Management rakendab aktsiainvesteeringutele meie arvates madala riskiga lähenemist, mis põhineb järjekindlatel, objektiivsetel ja loogilistel otsustustel. Pikaajalised atraktiivsed riskikohandatud tootlused luuakse meie klientidele, rakendades meie portfellile ulatuslikku investeerimiskriteeriumite komplekti.",
+    "public equity 1" => "Sunrise Investment Management rakendab aktsiainvesteeringutele meie arvates madala riskiga lähenemist, mis põhineb järjekindlatel, objektiivsetel ja loogilistel otsustustel. Pikaajalised atraktiivsed riskikohandatud tootlused luuakse meie klientidele, rakendades meie portfellile ulatuslikku investeerimiskriteeriumite komplekti.",
     "public equity 2" => "Meie juhendavad põhimõtted hõlmavad:
                      <br>
                      • Investeerida hästi tuntud, sularaha genereerivate ettevõtete hulka, kes on oluliste kaupade ja teenuste pakkujate turuliidrid.
@@ -714,14 +714,14 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "public equity 3" => "Kodumaise suurkapitali aktsiaturgude strateegia eesmärk on investeerida peamiselt Ameerika Ühendriikides asuvatesse tuntud, sularaha genereerivatesse ettevõtetesse.",
     "public equity 4" => "Globaalne aktsiaturgude strateegia, mille eesmärk on investeerida tuntud Põhja-Ameerika ja rahvusvahelistesse oluliste kaupade ja teenuste pakkujatesse.",
     "public equity 5" => "Väikeste ja keskmise suurusega aktsiaturgude strateegia, mis eesmärk on investeerida piiratud arvu ebasoositud või vähese tähelepanuga ettevõtetesse.",
-    "public equity 6" => "* Vanwardi hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.",
+    "public equity 6" => "* Sunrisei hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.",
     "public equity 7" => "* *Ohutusmarginaal tekib siis, kui ostuajal on sisemisele väärtusele märkimisväärne allahindlus; me püüame osta 75% või vähem meie sisemise väärtuse hinnangust.",
 
     // LEVEL 3 - Investment Management
     // global equity
-    "global equity 1" => "Vanward Global Core Select, meie globaalse aktsiaturgude strateegia rakendab sisemise väärtuse allahindluse raamistikku pikaajalise ärilise omandiõiguse lähenemisega. Püüame omandada noteeritud aktsiatesse investeerimise kaudu hästi tuntud, sularaha genereerivate, hästi juhitud ettevõtete väärtpabereid, kes on silmapaistvad oluliste toodete ja teenuste pakkujatena, allahindlusega nende sisemisele väärtusele. Sisemise väärtuse hinnangud pärinevad potentsiaalsete vaba rahavoogude ja kapitali tagasimaksete analüüsist. Kasutame meetoditüstiline investeerimise valiku protseduur, keskendudes äri-, juhtimis- ja finantsomadustele.
+    "global equity 1" => "Sunrise Global Core Select, meie globaalse aktsiaturgude strateegia rakendab sisemise väärtuse allahindluse raamistikku pikaajalise ärilise omandiõiguse lähenemisega. Püüame omandada noteeritud aktsiatesse investeerimise kaudu hästi tuntud, sularaha genereerivate, hästi juhitud ettevõtete väärtpabereid, kes on silmapaistvad oluliste toodete ja teenuste pakkujatena, allahindlusega nende sisemisele väärtusele. Sisemise väärtuse hinnangud pärinevad potentsiaalsete vaba rahavoogude ja kapitali tagasimaksete analüüsist. Kasutame meetoditüstiline investeerimise valiku protseduur, keskendudes äri-, juhtimis- ja finantsomadustele.
                     <br><br>
-                    Vanward Global Core Select hoiab tavaliselt investeeringuid 30 kuni 40 USA ja mitte-USA ettevõttesse, mille turukapitalisatsioon on üle 3 miljardi dollari; püüame omada vähemalt 40% mitte-USA ettevõtetest. Sihtotstarbeline hoidmisperiood on kolm kuni viis aastat ja investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab meie sisemise väärtuse hinnanguid.
+                    Sunrise Global Core Select hoiab tavaliselt investeeringuid 30 kuni 40 USA ja mitte-USA ettevõttesse, mille turukapitalisatsioon on üle 3 miljardi dollari; püüame omada vähemalt 40% mitte-USA ettevõtetest. Sihtotstarbeline hoidmisperiood on kolm kuni viis aastat ja investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab meie sisemise väärtuse hinnanguid.
                     <br><br>",
     "global equity 2" => "Investeerimise standardid",
     "global equity 3" => "Usume, et ettevõtted, kellel on järgmised äri-, juhtimis- ja finantsomadused, on hästi positsioneeritud aktsionäride väärtuse loomiseks olenemata majanduslikust ja turuolukorrast.",
@@ -737,7 +737,7 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "global equity 13" => "Finantsomadused",
     "global equity 14" => "Suurepärane bilanss ja kapitali voog",
     "global equity 15" => "Kõrged investeeringutasuvused",
-    "global equity 16" => "* Vanwardi hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.
+    "global equity 16" => "* Sunrisei hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.
                      <br>
                      - See võib suurendada suuremaid hinnakõikumisi.
                      <br>
@@ -747,11 +747,11 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "global equity 18" => "Ettevõtted",
     "global equity 19" => "Ettevõtted",
     // us large cap equity
-    "us large cap equity 1" => "Vanward Core Select, meie peamine USA suure turuväärtusega aktsiaturgude strateegia, kasutab sisemise väärtuse allahindluse raamistikku ja pikaajalist äriomandi lähenemist. Meie eesmärk on pakkuda investoritele pikaajalist kapitali kasvu. Iga investeeringuga püüame saavutada atraktiivset absoluutset tootlust, samal ajal minimeerides püsiva kapitali kaotuse riski. Meie investeerimisprotsess tugineb ettevõtetele põhjalikule analüüsile.
+    "us large cap equity 1" => "Sunrise Core Select, meie peamine USA suure turuväärtusega aktsiaturgude strateegia, kasutab sisemise väärtuse allahindluse raamistikku ja pikaajalist äriomandi lähenemist. Meie eesmärk on pakkuda investoritele pikaajalist kapitali kasvu. Iga investeeringuga püüame saavutada atraktiivset absoluutset tootlust, samal ajal minimeerides püsiva kapitali kaotuse riski. Meie investeerimisprotsess tugineb ettevõtetele põhjalikule analüüsile.
                             <br><br>
                             Püüame investeerida hästi tuntud, sularaha genereerivatesse ettevõtetesse, kes on oluliste toodete ja teenuste juhtivad pakkujad ja omavad tugevaid juhtimisrühmi, ning soetada nende ettevõtete noteeritud aktsiasektsioone allahindlusega nende sisemisele väärtusele. Sisemise väärtuse hinnangud pärinevad potentsiaalsete vaba rahavoogude ja kapitali tagasimaksete analüüsist. Kasutame meetoditüstiline investeerimise valiku protseduur, keskendudes äri-, juhtimis- ja finantsomadustele.
                             <br><br>
-                            Vanward Core Select hoiab tavaliselt investeeringuid 25 kuni 35 Põhja-Ameerika ettevõttesse, mille turukapitalisatsioon on üle 5 miljardi dollari, lisaks teatud teistes arenenud piirkondades asuvatele ettevõtetele. Meie sihtotstarbeline hoidmisperiood on kolm kuni viis aastat ja investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab meie sisemise väärtuse hinnanguid.",
+                            Sunrise Core Select hoiab tavaliselt investeeringuid 25 kuni 35 Põhja-Ameerika ettevõttesse, mille turukapitalisatsioon on üle 5 miljardi dollari, lisaks teatud teistes arenenud piirkondades asuvatele ettevõtetele. Meie sihtotstarbeline hoidmisperiood on kolm kuni viis aastat ja investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab meie sisemise väärtuse hinnanguid.",
     "us large cap equity 2" => "Investeerimise standardid",
     "us large cap equity 3" => "Usume, et ettevõtted, kellel on järgmised äri-, juhtimis- ja finantsomadused, on hästi positsioneeritud aktsionäride väärtuse loomiseks olenemata majanduslikust ja turuolukorrast.",
     "us large cap equity 4" => "Äriomadused",
@@ -767,13 +767,13 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "us large cap equity 14" => "Suurepärane bilanss ja kapitali voog",
     "us large cap equity 15" => "Kõrged investeeringutasuvused",
     "us large cap equity 16" => "Riskid",
-    "us large cap equity 17" => "Vanward Core Select võib soetada suuri osalusi piiratud arvus emiteerijates, mis võib suurendada suuremaid hinnakõikumisi.
+    "us large cap equity 17" => "Sunrise Core Select võib soetada suuri osalusi piiratud arvus emiteerijates, mis võib suurendada suuremaid hinnakõikumisi.
                              <br>
                              Eesmärgi saavutamisele ei ole tagatist.
                              <br><br>",
-    "us large cap equity 18" => "* Vanwardi hinnang ettevõtte poolt tekitatava kapitali jaotamiseks aktsionäridele ettevõtte jääva eluea jooksul.",
+    "us large cap equity 18" => "* Sunrisei hinnang ettevõtte poolt tekitatava kapitali jaotamiseks aktsionäridele ettevõtte jääva eluea jooksul.",
     // us small and mid cap equity
-    "us small and mid cap equity 1" => "Vanwardi Small-to-Mid-Cap Equity investeerib valitud arvule ebasoodsas olukorras ja/või vähe jälgitavatele väike- ja keskmise turuväärtusega ettevõtetele ilma võimendust kasutamata või lühikeseks müümata. Strateegia investeerib tavaliselt kaheksasse kuni viieteistkümnesse ettevõttesse, mille hoidmisperiood on kolm kuni viis aastat. Investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab nende sisemise väärtuse hinnanguid.
+    "us small and mid cap equity 1" => "Sunrisei Small-to-Mid-Cap Equity investeerib valitud arvule ebasoodsas olukorras ja/või vähe jälgitavatele väike- ja keskmise turuväärtusega ettevõtetele ilma võimendust kasutamata või lühikeseks müümata. Strateegia investeerib tavaliselt kaheksasse kuni viieteistkümnesse ettevõttesse, mille hoidmisperiood on kolm kuni viis aastat. Investeeringud müüakse tavaliselt siis, kui nende hinnatõus ületab nende sisemise väärtuse hinnanguid.
                                    <br><br>
                                    Me järgime rangeid investeerimisprotsessi ja valime rühma hästi paigutatud ettevõtteid, mis kauplevad märkimisväärse allahindlusega meie sisemise väärtuse hinnangule. Teeme põhjaliku süvaanalüüsi igast portfelli kuuluvast ettevõttest ja suuname oma investeeringud ettevõtetesse ja tööstusharudesse, mida tunneme ja mõistame, nagu infoteenused ja tarkvara, väljaostetud äriteenused, kaabeltelevisioon ja programmeerimine, tarbekaupade või teenuste tootjad ning finantsteenused. Pärast investeeringu tegemist pidame järjepidevaid arutelusid tööstuse osalejatega ja säilitame pideva suhtluse ettevõtte juhtkonnaga.
                                    <br><br>",
@@ -792,14 +792,14 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "us small and mid cap equity 14" => "Suurepärane bilanss ja kapitali voog",
     "us small and mid cap equity 15" => "Hindamisomadused",
     "us small and mid cap equity 16" => "Väärtus, mis tuleneb konservatiivsetest prognoosidest",
-    "us small and mid cap equity 17" => '* Vanwardi hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.
+    "us small and mid cap equity 17" => '* Sunrisei hinnang ettevõtte poolt tekitatava rahavoo jaotamiseks aktsionäridele ettevõtte tegevusaja jooksul.
                                    <br>
                                    - See võib suurendada suuremaid hinnakõikumisi.
                                    <br>
                                    - Rahvusvahelisega seotud investeerimisega kaasnevad unikaalsed riskid, nagu valuutarisk, suurenenud volatiilsus, poliitilised riskid ja erinevused auditeerimise ja teiste finantsstandardite osas.",
                                         <br><br>',
     // tax exempt fixed income strategy
-    "tax exempt fixed income strategy 1" => "Vanwardi maksuvaba fikseeritud tulumääraga strateegia eesmärk on kaitsta investorite kapitali ja luua atraktiivseid maksujärgseid tootlusi, tuvastades alahinnatud omavalitsuse väärtpaberid põhjaliku, sõltumatu uurimistöö ja meie hindamisdistsipliini abil. Meie keskmise pikkusega omavalitsuse võlakirja strateegia sihib 75 kuni 125 krediiti USA omavalitsuste võlakirjaturu peamistes alamsektorites, näiteks üldkohustuslikud võlakirjad, tulude võlakirjad ja eelnevate võlakirjade tagastamise tagatised. Teeme pikaajalisi maksutundlikke investeeringuid, mille oodatav aastane ümberpööramise määr on alla 25 protsendi.",
+    "tax exempt fixed income strategy 1" => "Sunrisei maksuvaba fikseeritud tulumääraga strateegia eesmärk on kaitsta investorite kapitali ja luua atraktiivseid maksujärgseid tootlusi, tuvastades alahinnatud omavalitsuse väärtpaberid põhjaliku, sõltumatu uurimistöö ja meie hindamisdistsipliini abil. Meie keskmise pikkusega omavalitsuse võlakirja strateegia sihib 75 kuni 125 krediiti USA omavalitsuste võlakirjaturu peamistes alamsektorites, näiteks üldkohustuslikud võlakirjad, tulude võlakirjad ja eelnevate võlakirjade tagastamise tagatised. Teeme pikaajalisi maksutundlikke investeeringuid, mille oodatav aastane ümberpööramise määr on alla 25 protsendi.",
     "tax exempt fixed income strategy 2" => "Investeerimiskriteeriumid",
     "tax exempt fixed income strategy 3" => "Portfellide koostamisel kasutame distsiplineeritud investeerimisvaliku protseduuri, mis keskendub allpool loetletud seitsmele emiteerija omadusele:",
     "tax exempt fixed income strategy 4" => "Pakub olulisi funktsioone",
@@ -814,13 +814,13 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
     "tax exempt fixed income strategy 13" => "Positiivne operatiivne tõhusus",
     "tax exempt fixed income strategy 14" => "Kapitalikulutuste plaanid",
     "tax exempt fixed income strategy 15" => "Tuletisinstrumentide vastutustundlik kasutamine",
-    "tax exempt fixed income strategy 16" => "Andes investeerimismeeskonnale usalduse Vanwardi enda investeerimisportfelli haldamiseks, on Vanward Partners ühendanud ettevõtte huvid meie klientide huvidega.",
+    "tax exempt fixed income strategy 16" => "Andes investeerimismeeskonnale usalduse Sunrisei enda investeerimisportfelli haldamiseks, on Sunrise Partners ühendanud ettevõtte huvid meie klientide huvidega.",
     "tax exempt fixed income strategy 17" => "- Omavalitsuse võlakirjatulud võivad olla kohalike ja riiklike maksude ning alternatiivse miinimummaksu suhtes.
                                            <br>
                                            - Võlakirjaturu investeeringud on turu-, intressimäära-, emiteerija-, krediidija inflatsiooniriskiga seotud; investeeringud võivad tagasimaksmisel olla väärt rohkem või vähem kui nende algne maksumus.",
     "tax exempt fixed income strategy 18" => "Ettevõtted",
     // taxable fixed income strategies
-    "taxable fixed income strategies 1" => "Vanwardi maksustatavate fikseeritud tulumääraga strateegiad ühendavad meie ainulaadse hindamisraamistiku ja põhjalikud krediidianalüüsi kriteeriumid, et luua portfelle vastupidavate krediidiga, mis ostetakse atraktiivsete tootlustega. Krediidihinnangud on sageli lahtiühendatud nende aluspõhimõtetest ja kalduvad ebaõiglaselt kõrgetele volatiilsuse tasemetele, efektiivsus, mis pakub võimalust fikseeritud tulumääraga tulusid suurendada aktiivse halduse kaudu. Meie distsiplineeritud, väärtuspõhine investeerimisprotsess püüab saavutada järgmist:",
+    "taxable fixed income strategies 1" => "Sunrisei maksustatavate fikseeritud tulumääraga strateegiad ühendavad meie ainulaadse hindamisraamistiku ja põhjalikud krediidianalüüsi kriteeriumid, et luua portfelle vastupidavate krediidiga, mis ostetakse atraktiivsete tootlustega. Krediidihinnangud on sageli lahtiühendatud nende aluspõhimõtetest ja kalduvad ebaõiglaselt kõrgetele volatiilsuse tasemetele, efektiivsus, mis pakub võimalust fikseeritud tulumääraga tulusid suurendada aktiivse halduse kaudu. Meie distsiplineeritud, väärtuspõhine investeerimisprotsess püüab saavutada järgmist:",
     "taxable fixed income strategies 2" => "Säilitada kapital iseseisva uurimistöö kaudu",
     "taxable fixed income strategies 3" => "Investeerida krediidisse ainult siis, kui on olemas turvalisuse marginaal*",
     "taxable fixed income strategies 4" => "Juhtida portfelli ülesehitust väärtuslike võimalustega",
@@ -842,7 +842,7 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
                                          - Võlakirjaturul investeerimisega kaasnevad teatud riskid, sealhulgas turu-, intressimäära-, emiteerija-, krediidi- ja inflatsioonirisk; investeeringud võivad tagasimaksmisel olla väärt rohkem või vähem kui nende algne maksumus.",
     "taxable fixed income strategies 19" => "Ettevõtted",
     // us tips strategy
-    "us tips strategy 1" => 'Alates USA TIPS turu loomisest 1997. aastal on Vanward olnud USA riigivõla inflatsioonikaitstud väärtpaberite (TIPS) uurimistöö, mõttejuhtimise ja aktiivse haldamise esirinnas. Meie USA TIPS strateegia eesmärk on pakkuda investoritele kaitset tulevase inflatsiooni vastu, hoides peamiselt USA TIPS-i investeeringuid. Meie investeerimisprotsess keskendub pikaajalisele vaatele ja kasutab mitmekesisust ajaproovitud strateegiates inflatsiooniindeksiga turgudel, vältides ühegi taktikalise strateegia suuremat sõltuvust. See "Puhta Mängu" strateegia vältib krediidi ja reaalvarade ekspositsioone ning seotud inflatsiooniga mitteseotud volatiilsust, mis nendega sageli kaasneb.',
+    "us tips strategy 1" => 'Alates USA TIPS turu loomisest 1997. aastal on Sunrise olnud USA riigivõla inflatsioonikaitstud väärtpaberite (TIPS) uurimistöö, mõttejuhtimise ja aktiivse haldamise esirinnas. Meie USA TIPS strateegia eesmärk on pakkuda investoritele kaitset tulevase inflatsiooni vastu, hoides peamiselt USA TIPS-i investeeringuid. Meie investeerimisprotsess keskendub pikaajalisele vaatele ja kasutab mitmekesisust ajaproovitud strateegiates inflatsiooniindeksiga turgudel, vältides ühegi taktikalise strateegia suuremat sõltuvust. See "Puhta Mängu" strateegia vältib krediidi ja reaalvarade ekspositsioone ning seotud inflatsiooniga mitteseotud volatiilsust, mis nendega sageli kaasneb.',
     "us tips strategy 2" => "Investeerimiskriteeriumid",
     "us tips strategy 3" => "Kvantitatiivse ja kvalitatiivse analüüsi ühendamisel on meie sõltumatu uurimistöö meie investeerimisprotsessi aluseks. Me kasutame USA riigivõla inflatsioonikaitstud väärtpaberite (TIPS) ja mitte-USA inflatsiooniindeksiga turgude turul ebatõhusust, kasutades kolme peamist strateegiakategooriat:",
     "us tips strategy 4" => "Põhistrateegiad:",
@@ -857,7 +857,7 @@ Meie investeerimisstrateegias on ESG kriteeriumid selgelt arvesse võetud ja nei
 
     // LEVEL 2 - Investor Services
     // custody & fund services
-    "custody & fund services 1" => "Vanward pakub varahaldusteenuste lahenduste komplekti, mis on mõeldud institutsionaalsetele klientidele rahvusvaheliste investeeringute teostamiseks ja navigeerimiseks. Spetsialiseerudes uutele ja keerukatele valdkondadele, oleme võitnud maailma kõige keerukamate varahaldajate usalduse, tagades õigeaegse arvelduse, täpse hoiustamise ja aruandluse ning veatud keerukate fondide ja varatüüpide halduse.
+    "custody & fund services 1" => "Sunrise pakub varahaldusteenuste lahenduste komplekti, mis on mõeldud institutsionaalsetele klientidele rahvusvaheliste investeeringute teostamiseks ja navigeerimiseks. Spetsialiseerudes uutele ja keerukatele valdkondadele, oleme võitnud maailma kõige keerukamate varahaldajate usalduse, tagades õigeaegse arvelduse, täpse hoiustamise ja aruandluse ning veatud keerukate fondide ja varatüüpide halduse.
                                         <br><br>
                                         Oleme pühendunud riskijuhtimisele ja oma klientide varade kaitsmisele. Investeerime parima klassi vastavuse ja kontrolli infrastruktuuri väljaarendamisse.
                                         <br><br>
@@ -869,9 +869,9 @@ Kliendid saavad kasu meie globaalsest teenusmudelist ja integreeritud tehnoloogi
     "custody & fund services 6" => "Pakume ülemaailmset üleminekuagentuuri teenust varahaldajatele, kes pakuvad rahvusvahelistele ja hulgimüüjatele üle piiri ulatuvaid fonde.",
     "custody & fund services 7" => "Töötame koos klientidega, et struktureerida kõige kasulikumat maksustamisviisi 95+ turul erinevate investeerimisvahendite jaoks.",
     "custody & fund services 8" => "Kaitseme varahaldajaid investeeringutest, mida on vaja vastavuse tagamiseks keerukate tagatiste nõuetega.",
-    "custody & fund services 9" => "Korraldusprotsessi ja hoiustamisteenused Vanwardi klientidele, kes ostavad ja omavad investeerimisfonde.",
+    "custody & fund services 9" => "Korraldusprotsessi ja hoiustamisteenused Sunrisei klientidele, kes ostavad ja omavad investeerimisfonde.",
     // specialist expertise
-    "specialist expertise 1" => "Vanward keskendub spetsialiseerunud ekspertteadmise pakkumisele, et saavutada sügavamad ja püsivamad suhted klientidega valdkondades, kus me arvame, et saame kõige rohkem väärtust lisada.
+    "specialist expertise 1" => "Sunrise keskendub spetsialiseerunud ekspertteadmise pakkumisele, et saavutada sügavamad ja püsivamad suhted klientidega valdkondades, kus me arvame, et saame kõige rohkem väärtust lisada.
                                     <br><br>
                                     Keskendudes varahalduse pakkumisele juhtivatele globaalsetele varahaldajatele, oleme spetsialiseerunud rahvusvahelisele varahaldusele ja keerukate varaklasside ning investeerimisstrateegiate toetamisele.
                                     <br><br>
@@ -887,38 +887,38 @@ Kliendid saavad kasu meie globaalsest teenusmudelist ja integreeritud tehnoloogi
     "specialist expertise 8" => "Pakkudes kindlustuse alast ekspertiisi ja strateegilisi teenuseid keerukatele globaalsetele kindlustusandjatele ja varahaldajatele.",
     "specialist expertise 9" => "Hoides kliente kursis turu- ja regulatiivsete nõuetega, mis mõjutavad nende äritegevust.",
     // markets
-    "markets 1" => "Vanward Markets pakub valuutavahetuse kauplemise, valuutariski maandamise ja väärtpaberilaenu lahendusi ülemaailmsetele varahaldajatele.
+    "markets 1" => "Sunrise Markets pakub valuutavahetuse kauplemise, valuutariski maandamise ja väärtpaberilaenu lahendusi ülemaailmsetele varahaldajatele.
                     <br><br>
                     Meie strateegia seisneb võimaluste ja väärtuseallikate avastamises meie klientidele läbi turuekspertiisi, operatiivse tõhususe, enne- ja pärasttehingu läbipaistvuse ning kliendi kontrolli.
                     <br><br>
                     Usume, et pakume oma klientidele proaktiivselt uusi valikuid ja täitmisvõimalusi valdkondades, mis varem ei pakkunud kumbagi. See tähendab, et pakume oma klientidele täielikku läbipaistvust kogu tehingute ahelas (enne tehingut, täitmisel, hind ja pärasttehingu töötlemine) ning võimalust kliendil säilitada olulised osad kauplemise kontrolli all.",
     "markets 2" => "Toetame ülemaailmsete varahaldajate operatiivseid ja strateegilisi valuutavahetuse kauplemise nõudeid.",
-    "markets 3" => "Toetame oma klientide strateegilisi valuutavahetuse nõudeid Vanwardi peamise valuutavahetuse kauplemise laua ja tööstusharu täitmise platvormide abil.",
+    "markets 3" => "Toetame oma klientide strateegilisi valuutavahetuse nõudeid Sunrisei peamise valuutavahetuse kauplemise laua ja tööstusharu täitmise platvormide abil.",
     "markets 4" => "Pakume automatiseeritud, operatiivselt tõhusat, efektiivset valuutavahetuse täitmise tööriista väärtpaberitega seotud valuutavahetuskauplemise vajaduste jaoks.",
     "markets 5" => "Struktureerime osakuvaluuta ja portfelli kaitselahendusi varahaldajatele, kes otsivad alternatiivi reeglipõhisele valuutakaitseprogrammidele.",
     "markets 6" => "Pakume hooldajat neutraalseid väärtpaberilaenutehinguid, keskendudes konkurentsivõimeliste riskikorrigeeritud tootluste teenimisele meie klientide tingimustel.",
     "markets 7" => "Pakume asjakohaseid teadmisi valuuta-, majandus- ja geopoliitiliste arengute, väärtpaberilaenutulu käivitajate ning tõhusate operatiivsete ja strateegiliste valuutaprogrammide kohta.",
     // investment operations and technology solutions
-    "investment operations & technology solutions 1" => "Tänaste ülemaailmsete turgude kasvav keerukus on pannud paljud varahaldajad otsima laiemat valikut kesk- ja tagakontorite lahendusi hoolduse ja fonditeenuste pakkujatelt. Olgu selleks tehnoloogiateenuste pakkumine „Tarkvara kui Teenus“ (SaaS) alusel või täielikum väljastpoolt teenuse sisseostmisvõimalus, on Vanward pühendunud aitama meie klientidel teha informeeritud otsuseid, millised strateegiad sobivad kõige paremini nende ettevõtetele. Usume modulaarse rakenduse lähenemisviisi, mis võimaldab klientidel säilitada rohkem kontrolli ja minimeerida täitmise riski.",
-    "investment operations & technology solutions 2" => "Vanwardi tehnoloogiaplatvormi põhikomponentide kättesaadavaks tegemine SaaS ja IaaS alusel.",
+    "investment operations & technology solutions 1" => "Tänaste ülemaailmsete turgude kasvav keerukus on pannud paljud varahaldajad otsima laiemat valikut kesk- ja tagakontorite lahendusi hoolduse ja fonditeenuste pakkujatelt. Olgu selleks tehnoloogiateenuste pakkumine „Tarkvara kui Teenus“ (SaaS) alusel või täielikum väljastpoolt teenuse sisseostmisvõimalus, on Sunrise pühendunud aitama meie klientidel teha informeeritud otsuseid, millised strateegiad sobivad kõige paremini nende ettevõtetele. Usume modulaarse rakenduse lähenemisviisi, mis võimaldab klientidel säilitada rohkem kontrolli ja minimeerida täitmise riski.",
+    "investment operations & technology solutions 2" => "Sunrisei tehnoloogiaplatvormi põhikomponentide kättesaadavaks tegemine SaaS ja IaaS alusel.",
     "investment operations & technology solutions 3" => "Pakkudes modulaarseid operatiiv- ja tehnoloogilisi väljastpoolt teenuse sisseostmise võimalusi, mis maksimeerivad kliendi kontrolli ja minimeerivad riske.",
 
     // LEVEL 3 - Investor Services
     // custody
     "custody 1" => "Konkurentsivõimeline turukeskkond sunnib varahaldureid igas suuruses laiendama oma investeeringute ulatust ja otsima suuremat hulka tooteid, instrumente ja turgusid, et parandada nende investorite ja klientide tulusid. See toob kaasa uusi operatiivseid keerukusi, riske ja regulatiivseid nõudeid.
                     <br><br>
-                    Töötamine ülemaailmse hooldaja jaoks, kellel on tõestatud ekspertiis riskide ja keerukuse juhtimisel, pole kunagi olnud olulisem. Kui spetsialist, kes suudab uutes ja raskustes navigeerida, on Vanward võitnud maailma kõige keerukamate varahaldajate usalduse, tagades õigeaegse arvelduse, täpse hoiustamise ja aruandluse nende kõige keerukamate fondide ja varatüüpide osas.",
+                    Töötamine ülemaailmse hooldaja jaoks, kellel on tõestatud ekspertiis riskide ja keerukuse juhtimisel, pole kunagi olnud olulisem. Kui spetsialist, kes suudab uutes ja raskustes navigeerida, on Sunrise võitnud maailma kõige keerukamate varahaldajate usalduse, tagades õigeaegse arvelduse, täpse hoiustamise ja aruandluse nende kõige keerukamate fondide ja varatüüpide osas.",
     "custody 2" => "Riskide isiklik võtmine",
-    "custody 3" => "Eraettevõttena on Vanward keskendunud riskijuhtimisele. Investeerime parima klassi vastavusse ja säilitame eraldi kontod, et pakkuda iga kliendi jaoks kõrgetasemelist läbipaistvust ja turvalisust. Mittekinnitatud alamhoolduspanga strateegiaga valime iseseisvalt pangad, mida peame igas turul parimateks ja usaldusväärsemateks teenusepakkujateks. See tagab riskide hajutamise, vastupidavuse ja võimaluse kõiki turutransaktsioonide aspekte võrrelda.",
+    "custody 3" => "Eraettevõttena on Sunrise keskendunud riskijuhtimisele. Investeerime parima klassi vastavusse ja säilitame eraldi kontod, et pakkuda iga kliendi jaoks kõrgetasemelist läbipaistvust ja turvalisust. Mittekinnitatud alamhoolduspanga strateegiaga valime iseseisvalt pangad, mida peame igas turul parimateks ja usaldusväärsemateks teenusepakkujateks. See tagab riskide hajutamise, vastupidavuse ja võimaluse kõiki turutransaktsioonide aspekte võrrelda.",
     "custody 4" => "Uute väärtuseallikate avastamine",
-    "custody 5" => "Vanward teeb koostööd klientidega uute väärtuseallikate avastamiseks ja vastastikku kasulike suhete loomiseks, mis keskenduvad kasvule. Kui meie kliendid laienevad, aitame neil tuvastada turusuundumusi ja kujundada lahendusi uute varaklasside ja investeerimisstruktuuride keerukuse haldamiseks. Koosloomes toetame tooteid avatud arhitektuurikeskkonnas, mida toetab ühtne globaalne tehnoloogiaplatvorm, mis on kavandatud vastavalt nende muutuvatele nõudmistele. Meie tehnoloogiainvesteeringud on suunatud klientide kasvu toetamisele läbi pidevate täiustuste meie rakenduste tõhususes, läbipaistvuses ja kättesaadavuses, mitte mitmete töökeskkondade integreerimisele.",
+    "custody 5" => "Sunrise teeb koostööd klientidega uute väärtuseallikate avastamiseks ja vastastikku kasulike suhete loomiseks, mis keskenduvad kasvule. Kui meie kliendid laienevad, aitame neil tuvastada turusuundumusi ja kujundada lahendusi uute varaklasside ja investeerimisstruktuuride keerukuse haldamiseks. Koosloomes toetame tooteid avatud arhitektuurikeskkonnas, mida toetab ühtne globaalne tehnoloogiaplatvorm, mis on kavandatud vastavalt nende muutuvatele nõudmistele. Meie tehnoloogiainvesteeringud on suunatud klientide kasvu toetamisele läbi pidevate täiustuste meie rakenduste tõhususes, läbipaistvuses ja kättesaadavuses, mitte mitmete töökeskkondade integreerimisele.",
     "custody 6" => "Pakkudes mõõdetavalt ülelegenud teenust",
-    "custody 7" => "Vanward on pühendunud mõõdetavalt ülelegenud klienditeenuse kogemuse pakkumisele. Meie 24-tunnine ülemaailmne teenusmudel on kohandatud meie klientide geograafilistele, keelelistele ja ajavööndi nõuetele. Meie teenindusmeeskonnad ja kliendid kasutavad samu süsteeme ja reaalajas teavet, pakkudes kiiret päringutele vastamist. See integreeritud mudel aitab Vanwardil sujuvalt täita klientide igapäevaseid ja keerukaid nõudmisi. Oleme automatiseerimise ja otsetehingu töötluse alal tööstuse liidrid.",
+    "custody 7" => "Sunrise on pühendunud mõõdetavalt ülelegenud klienditeenuse kogemuse pakkumisele. Meie 24-tunnine ülemaailmne teenusmudel on kohandatud meie klientide geograafilistele, keelelistele ja ajavööndi nõuetele. Meie teenindusmeeskonnad ja kliendid kasutavad samu süsteeme ja reaalajas teavet, pakkudes kiiret päringutele vastamist. See integreeritud mudel aitab Sunriseil sujuvalt täita klientide igapäevaseid ja keerukaid nõudmisi. Oleme automatiseerimise ja otsetehingu töötluse alal tööstuse liidrid.",
     // depositary & trustee
-    "depositary & trustee 1" => "Kogemustega üle 25 aasta on Vanward juhtiv depositaari- ja usuteenuste pakkuja Luxembourgis, Iirimaal, Kaimanisaartel ja Hongkongis asutatud fondidele.
+    "depositary & trustee 1" => "Kogemustega üle 25 aasta on Sunrise juhtiv depositaari- ja usuteenuste pakkuja Luxembourgis, Iirimaal, Kaimanisaartel ja Hongkongis asutatud fondidele.
                             <br><br>
                             Kujundame ja pakume terviklikke töömudeleid keerukate toodete jaoks erinevates varaklassides ja investeerimisstrateegiates. Töötades tihedalt meie klientidega, tagame nende varade piisava kaitse ja aitame neil täita nende enda fidutsiaarseid kohustusi.",
-    "depositary & trustee 2" => "Vanward rakendab riskipõhist, pidevat järelevalve- ja jälgimis lähenemist. Põhjalik hindamine fondi strateegia ja fondihalduri organisatsiooni olemuse, ulatuse ja keerukusega seotud riskide kohta määrab järelevalveprotseduuride kohase ulatuse ja sageduse, mida rakendatakse.
+    "depositary & trustee 2" => "Sunrise rakendab riskipõhist, pidevat järelevalve- ja jälgimis lähenemist. Põhjalik hindamine fondi strateegia ja fondihalduri organisatsiooni olemuse, ulatuse ja keerukusega seotud riskide kohta määrab järelevalveprotseduuride kohase ulatuse ja sageduse, mida rakendatakse.
                             <br><br>
                             Hoiutöötlemise ja usuteenuste osakonnad on funktsionaalselt ja hierarhiliselt eraldatud operatiivtegevustest. See võimaldab sõltumatust ja objektiivsust investorite kaitseks.
                             <br><br>
@@ -927,13 +927,13 @@ Kliendid saavad kasu meie globaalsest teenusmudelist ja integreeritud tehnoloogi
 // fund accounting
     "fund accounting 1" => "Kompleksne ärilise ja regulatiivne keskkond sunnib üha enam varahaldureid ümber määratlema oma fondi raamatupidamise strateegiat. Tehnoloogiline stabiilsus, äri jätkusuutlikkus ja riskijuhtimine on otsustusprotsessi esirinnas. Partnerlus ülemaailmse fondi raamatupidamise pakkujaga, mis on varustatud stabiilse, kontrollitud ja sõltumatu süsteemse infrastruktuuriga ning pakub läbipaistvust netovara väärtuse (NAV) arvutusele, on oluline.
                             <br><br>
-                            Tõestatud ekspertiisi ja usaldusväärsete süsteemi- ja teenindusvõimekusega, mis on mõeldud kasvu toetamiseks, tunnustatakse Vanwardi Fondi raamatupidamist meie võime eest toetada keerukaid investeerimisliike ja tasude arvutusi erinevate fondide, jurisdiktsioonide ja äriühingute hulgas. Oleme struktureeritud, et pakkuda sujuvalt koordineeritud ülemaailmset täitmist ja eristuvaid tööstuse ja portfelliinsightsi.",
+                            Tõestatud ekspertiisi ja usaldusväärsete süsteemi- ja teenindusvõimekusega, mis on mõeldud kasvu toetamiseks, tunnustatakse Sunrisei Fondi raamatupidamist meie võime eest toetada keerukaid investeerimisliike ja tasude arvutusi erinevate fondide, jurisdiktsioonide ja äriühingute hulgas. Oleme struktureeritud, et pakkuda sujuvalt koordineeritud ülemaailmset täitmist ja eristuvaid tööstuse ja portfelliinsightsi.",
     "fund accounting 2" => "Kontrollitud ja sõltumatu süsteemne infrastruktuur",
     "fund accounting 3" => "Kliendid kasutavad meie ühtset ülemaailmset tehnoloogiaplatvormi ja omakapitalisüsteemi koodi. Täieliku vastutuse ja kontrolli üle meie fondi raamatupidamise infrastruktuuri arendamisel, kvaliteedil, hooldamisel ja tootmise toetamisel saame pidevalt keskenduda meie tehnoloogiainvesteeringutele jõudluse, skaalautuvuse, funktsionaalsuse ja töövoogude tõhususe osas. Üks oluline näide meie digilahendustesse investeerimisest on meie NAV Progress tööriist, mis annab meie klientidele reaalajas läbipaistvuse NAV-i tootmisprotsessi kohta kogu päeva jooksul. Meie riski ja muutuse juhtimise protseduurid on kavandatud rikete leevendamiseks, samal ajal tagades stabiilsuse ja vastupidavuse.",
     "fund accounting 4" => "Mõõdetavalt ülelegenud teenuse pakkumine",
-    "fund accounting 5" => "Vanward on pühendunud mõõdetavalt ülelegenud klienditeeninduskogemuse pakkumisele. Meie paindlik ülemaailmne teenusmudel töötab 24 tundi ööpäevas ja on kohandatud meie klientide geograafilistele, keelelistele ja ajavööndi vajadustele. Olenemata kliendi asukohast või fondi päritoluriigist, kasutavad meie teenindusmeeskonnad ja kliendid samu süsteeme ja reaalajas teavet kiireks päringutele vastamiseks. Meie eksperdid mõtlevad kriitiliselt läbi kogu raamatupidamisprotsessi, keskendudes eesmärgile saavutada 100% NAV-i täpsus. See teenindusmudel võimaldab meil arendada automatiseeritud lahendusi riskide leevendamiseks ning kvaliteedi ja tõhususe parandamiseks.",
+    "fund accounting 5" => "Sunrise on pühendunud mõõdetavalt ülelegenud klienditeeninduskogemuse pakkumisele. Meie paindlik ülemaailmne teenusmudel töötab 24 tundi ööpäevas ja on kohandatud meie klientide geograafilistele, keelelistele ja ajavööndi vajadustele. Olenemata kliendi asukohast või fondi päritoluriigist, kasutavad meie teenindusmeeskonnad ja kliendid samu süsteeme ja reaalajas teavet kiireks päringutele vastamiseks. Meie eksperdid mõtlevad kriitiliselt läbi kogu raamatupidamisprotsessi, keskendudes eesmärgile saavutada 100% NAV-i täpsus. See teenindusmudel võimaldab meil arendada automatiseeritud lahendusi riskide leevendamiseks ning kvaliteedi ja tõhususe parandamiseks.",
     // fund administration
-    "fund administration 1" => "Vanward pakub terviklikku modulaarset vastavushalduse ja administratiivsete fonditeenuste komplekti, mis on kavandatud toetama meie klientide kõige keerukamaid tooteid. Meie ärimudel põhineb otsestele teabevahetusele ja ekspertiisi pakkumisele ning sünkroniseeritud ülemaailmse teenindamise mudelile, mis soodustab klientide koostööd.",
+    "fund administration 1" => "Sunrise pakub terviklikku modulaarset vastavushalduse ja administratiivsete fonditeenuste komplekti, mis on kavandatud toetama meie klientide kõige keerukamaid tooteid. Meie ärimudel põhineb otsestele teabevahetusele ja ekspertiisi pakkumisele ning sünkroniseeritud ülemaailmse teenindamise mudelile, mis soodustab klientide koostööd.",
     "fund administration 2" => "Fondihalduse teenused hõlmavad:",
     "fund administration 3" => " • Finantsaruandlus
                             <br>
@@ -954,8 +954,8 @@ Kliendid saavad kasu meie globaalsest teenusmudelist ja integreeritud tehnoloogi
 <br><br>
 Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringutele meie infrastruktuuri ja klientidele pakutava teabe tõhususe, läbipaistvuse ja kättesaadavuse parandamisele, mitte mitme töökeskkonna integreerimisele.",
     // transfer agency
-    "transfer agency 1" => "Transfer Agentuur on fondide levitamise edu jaoks oluline. Teenindades paljusid maailma kõige keerukamaid varahaldureid, on Vanward pühendunud globaalsele Transfer Agentuurile. Toetame kliente, kes levitavad piiriüleseid Luksemburgi, Iirimaa, Kaimani, Bermuda ja Hongkongi asutatud fonde ning USA asutatud alternatiivseid fonde institutsionaalsetele ja hulgimüügiklientidele.",
-    "transfer agency 2" => "Transfer Agentuur on Vanwardi kogu piiriülese teenuse valiku keskne komponent. Toetame kliente ja nende investoreid peaaegu 100 riigis üle maailma meie",
+    "transfer agency 1" => "Transfer Agentuur on fondide levitamise edu jaoks oluline. Teenindades paljusid maailma kõige keerukamaid varahaldureid, on Sunrise pühendunud globaalsele Transfer Agentuurile. Toetame kliente, kes levitavad piiriüleseid Luksemburgi, Iirimaa, Kaimani, Bermuda ja Hongkongi asutatud fonde ning USA asutatud alternatiivseid fonde institutsionaalsetele ja hulgimüügiklientidele.",
+    "transfer agency 2" => "Transfer Agentuur on Sunrisei kogu piiriülese teenuse valiku keskne komponent. Toetame kliente ja nende investoreid peaaegu 100 riigis üle maailma meie",
     "transfer agency 3" => "Meie teenus hõlmab põhiülekandeteenust ja aktsionärite teenuseid, samuti",
     "transfer agency 4" => "Meil on suurepärased kogemused keerukate fondistruktuuride teenindamisel ning meie pakkumise olulised omadused hõlmavad:",
     "transfer agency 5" => "Pikaajaline pühendumus ja strateegia",
@@ -963,43 +963,43 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "transfer agency 7" => "Kohandatav globaalne teenusmudel",
     "transfer agency 8" => "Meie mitmekeelsed teeninduslaudade teenindamine erinevates ajavööndites pakub täielikku operatiivset võimekust koos ühtlase teenustasemega.",
     "transfer agency 9" => "Tugev infrastruktuur",
-    "transfer agency 10" => "Pakume ülemaailmselt ühtset Transfer Agentuuri platvormi. Kombineerituna Vanwardi",
+    "transfer agency 10" => "Pakume ülemaailmselt ühtset Transfer Agentuuri platvormi. Kombineerituna Sunrisei",
     "transfer agency 11" => "pakub see unikaalset ühenduslahendust levitaja suhtluseks.",
     "transfer agency 12" => "Fookus investorite liitumisel",
     "transfer agency 13" => "Keskendume investorite liitumisele ja pidevale teenindamisele, mis on oluline varahalduri suhtlusele oma aluslientidega. Meil on tugevad teadmised kohalikest äritavadest, sealhulgas AML / KYC.",
     // global tax
-    "global tax 1" => "Vanward Global Tax Services pakub ekspertiisi ja strateegilisi lahendusi maksu-uurimise, maksutegevuse, fondihalduse maksu ja Euroopa maksudeklaratsioonide valdkonnas globaalsetele varahalduritele ja finantsvahendajatele. Meie pühendunud maksuprofessionaalide meeskond, kes asuvad Bostonis, Denveris, Londonis, Tokyos, Hongkongis ja Krakowis, töötab meie klientidega, et struktureerida tõhusaid maksukohtlemisi laias valikus investeerimisvahendites 95+ turul.",
+    "global tax 1" => "Sunrise Global Tax Services pakub ekspertiisi ja strateegilisi lahendusi maksu-uurimise, maksutegevuse, fondihalduse maksu ja Euroopa maksudeklaratsioonide valdkonnas globaalsetele varahalduritele ja finantsvahendajatele. Meie pühendunud maksuprofessionaalide meeskond, kes asuvad Bostonis, Denveris, Londonis, Tokyos, Hongkongis ja Krakowis, töötab meie klientidega, et struktureerida tõhusaid maksukohtlemisi laias valikus investeerimisvahendites 95+ turul.",
     "global tax 2" => "Mõtestatud maksutehnoloogia",
-    "global tax 3" => "Vanward Global Tax Services pakub tõhusaid lahendusi USA ja globaalsete investeeringute keerukuse juhtimiseks, näiteks meie E-W8 ™ USA maksu nõuete täitmise lahendus. Riski vähendav, kulutõhus, skaalautuv ja kerge lahendus E-W8 tegeleb NRA ja FATCA nõuete täitmisega seoses kontode avamise, remeditsiooni ja oluliste asjaolude jälgimisega.",
+    "global tax 3" => "Sunrise Global Tax Services pakub tõhusaid lahendusi USA ja globaalsete investeeringute keerukuse juhtimiseks, näiteks meie E-W8 ™ USA maksu nõuete täitmise lahendus. Riski vähendav, kulutõhus, skaalautuv ja kerge lahendus E-W8 tegeleb NRA ja FATCA nõuete täitmisega seoses kontode avamise, remeditsiooni ja oluliste asjaolude jälgimisega.",
     "global tax 4" => "Oskustega ja kogenud maksuprofessionaalid",
     "global tax 5" => "Meie oskuslikud ja kogenud maksuprofessionaalid jälgivad aktiivselt ja jälgivad maksu arenguid 95+ turul. Me jagame klientidele regulaarseid värskendusi ja teadmisi igapäevaste Global Update teadete kaudu. Meie meeskond kogub ja esitab lepingust vabastamise või hüvitamiseks vajalikud dokumendid ning pakub vastavust ja maksuteenuseid vastastikuste fondide, partnerluse, hedgefondide ja paljude teiste investeerimisvormide jaoks.",
     // collateral management
     "collateral management 1"   => "Tuletisinstrumentide turule on tekkinud häireid, kuna Dodd-Franki seadus, Euroopa turgude infrastruktuuri määrus ja Basel III suurendavad saadaoleva tagatise nappust. See on suurendanud fookust tagatise haldamise tavade parandamisele, et suurendada operatiivset efektiivsust, vähendada vastapoole krediidi riski ja kontrollida tehingute ja vahetuse tagatise kulusid. Varahaldurite kohanemine tagatise haldamise distsipliiniga mõjutab nende võimet saavutada investeerimistulemusi.
                                     <br><br>
-                                    Vanward pakub kõikehõlmavaid ja operatiivselt tõhusaid tagatise haldamise teenuseid, mille eesmärk on kontrollida riske, parandada esmase otsustamise protsessi ja minimeerida portfelli tootlusele avalduvat mõju. Me töötame selle nimel, et isoleerida kliente koormavatest investeeringutest, mis on vajalikud keeruliste tagatisenõuete täitmiseks, samas kui nemad keskenduvad investeerimistulemuste saavutamisele.",
+                                    Sunrise pakub kõikehõlmavaid ja operatiivselt tõhusaid tagatise haldamise teenuseid, mille eesmärk on kontrollida riske, parandada esmase otsustamise protsessi ja minimeerida portfelli tootlusele avalduvat mõju. Me töötame selle nimel, et isoleerida kliente koormavatest investeeringutest, mis on vajalikud keeruliste tagatisenõuete täitmiseks, samas kui nemad keskenduvad investeerimistulemuste saavutamisele.",
     "collateral management 2"   => "Riske juhtida",
-    "collateral management 3"   => "• Kohandatud tehnoloogia maksimeerib otsetranspordi ja ühenduvuse mitme vastapoolega Vanward Infomediary® kaudu, vähendades operatiivriske",
+    "collateral management 3"   => "• Kohandatud tehnoloogia maksimeerib otsetranspordi ja ühenduvuse mitme vastapoolega Sunrise Infomediary® kaudu, vähendades operatiivriske",
     "collateral management 4"   => "• Juhtida tuletisinstrumentidega kaasnevat vastapoole krediidi riski, tagades vastapoole riskipositsioonide juhtimise",
     "collateral management 5"   => "• Tugev raporteerimine pakub võtmeandmeid, näiteks vastapoole riskipositsioon ja tagatis tehingud",
     "collateral management 6"   => "Esialgse otsustamise protsessi parandamine",
     "collateral management 7"   => "• Suurendada nähtavust vastapoolede vahelise tagatise kasutamise osas",
     "collateral management 8"   => "• Reaalajas vaated likvideerimise staatusele, inventuurile ja tagatispositsioonidele",
-    "collateral management 9"   => "• Juurdepääs Vanwardi tagatise haldamise ärialasele ekspertiisile",
+    "collateral management 9"   => "• Juurdepääs Sunrisei tagatise haldamise ärialasele ekspertiisile",
     "collateral management 10"  => "Portfelli tootlusele avalduva mõju minimeerimine",
     "collateral management 11"  => "• Valige optimaalne tagatis kliendi määratletud hierarhiate ja vastapoole riskipositsioonide alusel",
     "collateral management 12"  => '• Määratlege kliendi määratletud parameetrite alusel "odavaima kohaletoimetamise" tagatis ja võtke see',
     "collateral management 13"  => "• Tagage, et saadud tagatis vastab sobivusnõuetele",
     "collateral management 14"  => "• Vähendage vastapooledega üle tagatisega",
-    "collateral management 15"  => "Vanwardi tagatise haldamise programm",
-    "collateral management 16"  => "Vanwardi tagatise haldamise programm hõlmab kogu tagatise elutsüklit, võimaldades meil toetada kõige keerukamaid tuletisinstrumentidega kauplemise strateegiaid. Tagatise haldamise teenused on ka tihedalt seotud Vanwardi fondihalduse ja valdusega, pakkudes täiendavaid tõhusust ja riskijuhtimist.
+    "collateral management 15"  => "Sunrisei tagatise haldamise programm",
+    "collateral management 16"  => "Sunrisei tagatise haldamise programm hõlmab kogu tagatise elutsüklit, võimaldades meil toetada kõige keerukamaid tuletisinstrumentidega kauplemise strateegiaid. Tagatise haldamise teenused on ka tihedalt seotud Sunrisei fondihalduse ja valdusega, pakkudes täiendavaid tõhusust ja riskijuhtimist.
                                     <br><br>
-                                    Vanwardi tagatise haldamise programmi toetab kohandatud tehnoloogiline platvorm, mis on mõeldud teie töömudeli parandamiseks, tööstuse parimate tavade integreerimiseks ja reaalajas andmete raporteerimiseks.
+                                    Sunrisei tagatise haldamise programmi toetab kohandatud tehnoloogiline platvorm, mis on mõeldud teie töömudeli parandamiseks, tööstuse parimate tavade integreerimiseks ja reaalajas andmete raporteerimiseks.
                                     <br><br>
-                                    Vanward teenindab mitmeid osalejaid tagatise elutsüklis, sealhulgas CCPsid, FCMsid ja varahaldureid. Meie kliendid saavad kasu meie omandatud ekspertiisist.
+                                    Sunrise teenindab mitmeid osalejaid tagatise elutsüklis, sealhulgas CCPsid, FCMsid ja varahaldureid. Meie kliendid saavad kasu meie omandatud ekspertiisist.
                                     <br><br>
-                                    Lisaks saavad kliendid kasu Vanwardi mõõdetavalt paremast ülemaailmsest klienditeeninduse mudelist, mis hõlmab meie operatiivset ekspertiisi, kohalikku suhete haldamist ja turuandmeid vastavalt klientide konkreetsetele suhete kavadele.",
+                                    Lisaks saavad kliendid kasu Sunrisei mõõdetavalt paremast ülemaailmsest klienditeeninduse mudelist, mis hõlmab meie operatiivset ekspertiisi, kohalikku suhete haldamist ja turuandmeid vastavalt klientide konkreetsetele suhete kavadele.",
     // fund order & custody
-    "fund order & custody 1" => 'Vanward Fondi tellimuse ja valduse teenus pakub teenuseid Vanwardi hooldusklientidele, kes ostavad ja hoiavad investeerimisfonde. See hõlmab tellimuste töötlemist meie omamaise veebplatvormi Fund WorldView® kaudu.
+    "fund order & custody 1" => 'Sunrise Fondi tellimuse ja valduse teenus pakub teenuseid Sunrisei hooldusklientidele, kes ostavad ja hoiavad investeerimisfonde. See hõlmab tellimuste töötlemist meie omamaise veebplatvormi Fund WorldView® kaudu.
                                 <br><br>
                                 Rohkem kui 25 aastat kogemusi investeerimisfondide varade teenindamisel on võimaldanud meil sügavalt mõista selle varaklassi operatiivseid ja regulatiivseid keerukusi. Omame hästi väljakujunenud suhteid fondiettevõtetega üle maailma ning toetame kõiki fonditüüpe, sealhulgas alternatiive.
                                 <br><br>
@@ -1017,18 +1017,18 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     // middle office outsourcing
     "middle office outsourcing 1" => "Keskoffice'i maastik muutub oluliselt arenevate parimate tavade, suurenenud institutsionaalse järelevalve ja alternatiivtoodete ning -strateegiate laienemise tõttu. Vajadus luua alfa on viinud investeerimiseni mittestandardsetesse instrumentidesse ja turgudesse ning killustatud suhtlusse. Kõrged fikseeritud kulud ja muutuvad reguleerimisnõuded tekitavad kapitali prioriteetides veelgi keerukamaid probleeme.
                                 <br><br>
-                                Kuigi turud muutuvad kiiresti, ei muutu Vanwardi pühendumus oma klientide keerukuse juhtimisele. Aitame klientidel vastata keskoffice'i töös tekkivatele väljakutsetele läbi eristatava, moodulipõhise lähenemisviisi, mis käsitleb nii vananevat tehnoloogiat kui ka ülekoormatud operatiivmudeleid. Töötame klientide praeguste vajaduste rahuldamise nimel ja aitame neil luua skaala ja paindlikkust, mis on vajalik muutuvate turunõuete täitmiseks.",
+                                Kuigi turud muutuvad kiiresti, ei muutu Sunrisei pühendumus oma klientide keerukuse juhtimisele. Aitame klientidel vastata keskoffice'i töös tekkivatele väljakutsetele läbi eristatava, moodulipõhise lähenemisviisi, mis käsitleb nii vananevat tehnoloogiat kui ka ülekoormatud operatiivmudeleid. Töötame klientide praeguste vajaduste rahuldamise nimel ja aitame neil luua skaala ja paindlikkust, mis on vajalik muutuvate turunõuete täitmiseks.",
     "middle office outsourcing 2" => "Pakkudes paindlikke moodulipõhiseid lahendusi, mis lihtsustavad operatsioone ja andmeedastust mitmete vastapoole vahel.",
     "middle office outsourcing 3" => "Pakkudes keskoffice'i operatsiooniteenuseid, mis lisavad läbipaistvust ja tõhusust kogu järelturutsükli vältel.",
     "middle office outsourcing 4" => "Võimaldades paremat esmase otsustamise protsessi andmete koondamise ja täiendamise vahendite ning läbipaistva vaate kaudu ettevõtte ülemaailmsele investeerimistegevusele.",
     "middle office outsourcing 5" => "Kujundades teenuseid, mis aitavad varahaldureid isoleerida keeruliste tagatise nõuete täitmiseks vajalikest investeeringutest.",
     // technology services
-    "technology services 1" => "Mõeldud varakogujatele, kes soovivad säilitada kontrolli oma operatiivprotsesside üle, kasutades samal ajal kulutõhusat, tõhusat ja tipptasemel finantstehnoloogiat, teeb Vanward kättesaadavaks võtmetegurid oma tehnoloogia platvormil kliendile. Otsene juurdepääs meie globaalsele valdusplatvormile, USA valdusplatvormile, fondiraamatupidamisele ja ülekandeagentuuri platvormidele võimaldab klientidel saada kasu Vanwardi pidevatest toote- ja regulatiivsetest investeeringutest nendesse suurtesse, ressursimahukatesse süsteemidesse. Lisaks võivad meie Infomediary rakenduste komplekt pakkuda sama juurdepääsu Vanwardi ühenduvus-, ettevõtte sündmuste, lepitamise ja kauplemise halduse moodulitele.",
+    "technology services 1" => "Mõeldud varakogujatele, kes soovivad säilitada kontrolli oma operatiivprotsesside üle, kasutades samal ajal kulutõhusat, tõhusat ja tipptasemel finantstehnoloogiat, teeb Sunrise kättesaadavaks võtmetegurid oma tehnoloogia platvormil kliendile. Otsene juurdepääs meie globaalsele valdusplatvormile, USA valdusplatvormile, fondiraamatupidamisele ja ülekandeagentuuri platvormidele võimaldab klientidel saada kasu Sunrisei pidevatest toote- ja regulatiivsetest investeeringutest nendesse suurtesse, ressursimahukatesse süsteemidesse. Lisaks võivad meie Infomediary rakenduste komplekt pakkuda sama juurdepääsu Sunrisei ühenduvus-, ettevõtte sündmuste, lepitamise ja kauplemise halduse moodulitele.",
     "technology services 2" => "Pakkudes ühenduvuse valikuid, mis on loodud lepitamise, kauplemise halduse, ettevõtte sündmuste, valuutavahetuse ja muude operatiivsete ja tehnoloogiliste väljakutsete lihtsustamiseks.",
     "technology services 3" => "Aitame globaalsetel finantsasutustel laiendada ja eristada nende globaalse valduse võimalusi.",
     "technology services 4" => "Aitame globaalsetel finantsasutustel saada otsene juurdepääs USA kesksetele väärtpaberideposiitodele.",
     // hosted operations & reporting
-    "hosted operations & reporting 1" => "Vanward pakub keskoffice'i operatsiooniteenuseid kogu järelturutäitmise elutsükli ulatuses, sealhulgas kauplemishaldus, sularaha haldus ja tagatise haldus. Oleme spetsialiseerunud lahendustele alternatiivsete varaklasside jaoks, näiteks derivaadid, panga laenud ja muud keerukad investeeringud.",
+    "hosted operations & reporting 1" => "Sunrise pakub keskoffice'i operatsiooniteenuseid kogu järelturutäitmise elutsükli ulatuses, sealhulgas kauplemishaldus, sularaha haldus ja tagatise haldus. Oleme spetsialiseerunud lahendustele alternatiivsete varaklasside jaoks, näiteks derivaadid, panga laenud ja muud keerukad investeeringud.",
     "hosted operations & reporting 2" => "Mõõdetav aruandlus",
     "hosted operations & reporting 3" => "Meie eesmärk on lisada läbipaistvust ja tõhusust erinevatesse portfellioperatsioonide protsessidesse erinevates geograafiates, varaklassides ja teenuseosutajates. Meie operatiivne aruandlus hõlmab üksikasjalikku vananemist, ebaõnnestunud tehinguid ja KPI valikuid, mis on kohandatavad teie operatsioonidele, võimaldades võrdlust teenuseosutajate vahel. Toimepaneku, omistamise ja riskianalüütika hõlbustavad kiiret klientide reageerimist investorite ja reguleerivatele avalikustamisnõuetele. Järelturuga seotud vastavust jälgib investeerimisreeglite järgimist.",
     "hosted operations & reporting 4" => "Jagatud infrastruktuur ja kulud",
@@ -1047,9 +1047,9 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "infonav 5" => "Võimalus haldada mitmesuguseid strateegiaid ja mitut raamatupidamise administraatorit ühe rakendusega",
     "infonav 6" => "Pakub võrdlust primaarse NAV-iga, näidates meie kliendi edasise analüüsi jaoks kõrvalekalde valdkondi",
     "infonav 7" => "Lisandväärtusega teenindusvõimalused koos juurdepääsuga parima klassi fondiarvestuse eksperttöötajatele",
-    "infonav 8" => "Integreerub mitme andmeallikaga läbi Vanward Infomediary®.",
+    "infonav 8" => "Integreerub mitme andmeallikaga läbi Sunrise Infomediary®.",
     // inforecon
-    "inforecon 1" => "Vanward Infomediary® pakub mitmeid eksklusiivseid modulaarseid rakendusi, mille kohal on sõnumside ja
+    "inforecon 1" => "Sunrise Infomediary® pakub mitmeid eksklusiivseid modulaarseid rakendusi, mille kohal on sõnumside ja
                  ühenduse mootor, sealhulgas InfoRecon®, mastaapne välisallhangete lahendus, mis pakub automatiseeritud protsessi
                  sularahaandmete (tehingud ja bilansid) ja väärtpaberite andmete (positsioonid ja tehingud) lepitamiseks kõigi meie kliendi
                  teenusepakkujate vahel.
@@ -1062,9 +1062,9 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "inforecon 5" => "Ulatuslik kliendi aruandlus, millele saab juurde pääseda wgaml.com'i kaudu või e-posti teel mitmesugustes formaatides (PDF, MS Excel, CSV)",
     "inforecon 6" => "Tööstusharu parimad tavapärased praktikad",
     "inforecon 7" => "Päevane lepitamine tehingutasemel",
-    "inforecon 8" => "Vanward töötab klientide pakkujatega, et suurendada STP-d, et maksimeerida tõhusust ja vähendada vigade ja puuduste riske",
+    "inforecon 8" => "Sunrise töötab klientide pakkujatega, et suurendada STP-d, et maksimeerida tõhusust ja vähendada vigade ja puuduste riske",
     "inforecon 9" => "Ületav klienditeenindus",
-    "inforecon 10" => "Keskendunud lepitamise ja turu spetsialistide meeskond, mida toetab Vanwardi auhinnatud klienditeenindusorganisatsioon",
+    "inforecon 10" => "Keskendunud lepitamise ja turu spetsialistide meeskond, mida toetab Sunrisei auhinnatud klienditeenindusorganisatsioon",
     "inforecon 11" => "Järgib parimaid tavasid erandite leidmisel lepitamisel",
     "inforecon 12" => "Ettevõtted",
     // investment accounting & enterprise data support
@@ -1077,10 +1077,10 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "investment accounting & enterprise data support 5" => "Andmete kogumine",
     "investment accounting & enterprise data support 6" => "Kogumine ja rikastamine",
     "investment accounting & enterprise data support 7" => "Teabe edastamine",
-    "investment accounting & enterprise data support 8" => "Vanward pakub turuülevaadet nende komponentide kohta, et aidata klientidel kujundada oma andmehalduse strateegiaid. Meie tehnoloogilise platvormi kaudu pakume ettevõtteülest andmeraamatut andmete järjepidevaks kogumiseks teenusepakkujate vahel ning kogume ja rikastame andmeid mõtestatud viisil. See võimaldab meil toetada klientide ettevõtte andmete keskusi, et võimaldada paremat otsustamist esimesel korrusel.",
+    "investment accounting & enterprise data support 8" => "Sunrise pakub turuülevaadet nende komponentide kohta, et aidata klientidel kujundada oma andmehalduse strateegiaid. Meie tehnoloogilise platvormi kaudu pakume ettevõtteülest andmeraamatut andmete järjepidevaks kogumiseks teenusepakkujate vahel ning kogume ja rikastame andmeid mõtestatud viisil. See võimaldab meil toetada klientide ettevõtte andmete keskusi, et võimaldada paremat otsustamist esimesel korrusel.",
     "investment accounting & enterprise data support 11" => "Ettevõtted",
     // targeted technology solutions via infomediary
-    "targeted technology solutions via infomediary 1" => "Vanwardi ühe tervikliku integreeritud tehnoloogilise platvormi tuumaks on võimas Vanward Infomediary® sõnumside- ja ühenduse mootor, mis on spetsiaalselt kujundatud varahalduritele, kindlustusseltsidele, pankadele, fondide levitajatele, tööstusinfrastruktuuridele ja teistele tehnoloogiaplatformidele. Infomediary aitab klientidel keskenduda oma põhitegevusele ja parandada nende konkurentsieelist, lahendades mitmeid tööprobleeme seoses lepitamise, kauplemissõnumite ja -halduse, äriürituste, valuutanetostuse ja koondamisega ning erinevate või puuduvate tööstusharupraktikatega.",
+    "targeted technology solutions via infomediary 1" => "Sunrisei ühe tervikliku integreeritud tehnoloogilise platvormi tuumaks on võimas Sunrise Infomediary® sõnumside- ja ühenduse mootor, mis on spetsiaalselt kujundatud varahalduritele, kindlustusseltsidele, pankadele, fondide levitajatele, tööstusinfrastruktuuridele ja teistele tehnoloogiaplatformidele. Infomediary aitab klientidel keskenduda oma põhitegevusele ja parandada nende konkurentsieelist, lahendades mitmeid tööprobleeme seoses lepitamise, kauplemissõnumite ja -halduse, äriürituste, valuutanetostuse ja koondamisega ning erinevate või puuduvate tööstusharupraktikatega.",
     "targeted technology solutions via infomediary 2" => "Finantsteenuste turuühendus",
     "targeted technology solutions via infomediary 3" => "Kõrgelt kohandatav majutatud suhtlusplatvorm Infomediary pakub ühtset ühenduspunkti klientide ja nende välise teenusepakkujate ning sisemiste süsteemide vahel. Infomediary võtab vastu andmeid mis tahes elektroonilises vormingus, normaliseerib selle ja seejärel tõlgib, muudab ja edastab teavet võrkude kaudu, näiteks SWIFT või läbi omavaheliste ühenduste.",
     "targeted technology solutions via infomediary 4" => "Innovatiivsed modulaarsed rakendused keerukate operatsioonide jaoks",
@@ -1090,15 +1090,15 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "targeted technology solutions via infomediary 8" => "mastaapne välisallhangete lahendus, mis pakub automatiseeritud protsessi sularahaandmete ja väärtpaberite andmete lepitamiseks kõigi teenusepakkujate vahel",
     "targeted technology solutions via infomediary 9" => "mitme teenusepakkujaga sekundaarne NAV-tööriist, mis on mõeldud varahalduritele, et jälgida NAV-i tootmist kõigi oma administraatorite juures",
     // account operator direct for us depositories
-    "account operator direct for us depositories 1" => "Vanwardi kontohaldur võimaldab meie ülemaailmsetel finantsasutuste klientidel saada otseühendus Ameerika Ühendriikide kesksete väärtpaberite hoiustega, kasutades Vanwardi tehnoloogia- ja teenusepakkujana.
+    "account operator direct for us depositories 1" => "Sunrisei kontohaldur võimaldab meie ülemaailmsetel finantsasutuste klientidel saada otseühendus Ameerika Ühendriikide kesksete väärtpaberite hoiustega, kasutades Sunrisei tehnoloogia- ja teenusepakkujana.
                                                         <br><br>
                                                         Kliendid säilitavad operatiivse kontrolli oma USA varade üle, tegutsedes otse hoiuühendusena ja vähendades kolmandate osapoolte riske. Kliendid saavad konkurentsivõimelisemaks Ameerika turul, mis võimaldab neil suurendada globaalset ulatust. Otsene turuosalus on saadaval ilma investeeringuteta kohalikku turu infrastruktuuri ja personali ekspertiisi, mis tagab sisemise ülesehitusest kiirema turuletuleku.
                                                         <br><br>
-                                                        Kontohaldur sisaldab Vanwardi integreeritud äritegevuse jätkusuutlikkuse planeerimise ja riskijuhtimise programme, mis teenindavad praegu maailma suurimaid ja kõige keerukamaid asutusi.",
+                                                        Kontohaldur sisaldab Sunrisei integreeritud äritegevuse jätkusuutlikkuse planeerimise ja riskijuhtimise programme, mis teenindavad praegu maailma suurimaid ja kõige keerukamaid asutusi.",
     "account operator direct for us depositories 2" => "Ettevõtted",
     "account operator direct for us depositories 3" => "Ettevõtted",
     // data connectivity & applications via infomediary
-    "data connectivity & applications via infomediary 1" => "Vanwardi ühe tervikliku integreeritud tehnoloogilise platvormi tuumaks on võimas Vanward Infomediary® sõnumside- ja ühenduse mootor, mis on spetsiaalselt kujundatud varahalduritele, kindlustusseltsidele, pankadele, fondide levitajatele, tööstusinfrastruktuuridele ja teistele tehnoloogiaplatformidele. Infomediary aitab klientidel keskenduda oma põhitegevusele ja parandada nende konkurentsieelist, lahendades mitmeid tööprobleeme seoses lepitamise, kauplemissõnumite ja -halduse, äriürituste, valuutanetostuse ja koondamisega ning erinevate või puuduvate tööstusharupraktikatega.",
+    "data connectivity & applications via infomediary 1" => "Sunrisei ühe tervikliku integreeritud tehnoloogilise platvormi tuumaks on võimas Sunrise Infomediary® sõnumside- ja ühenduse mootor, mis on spetsiaalselt kujundatud varahalduritele, kindlustusseltsidele, pankadele, fondide levitajatele, tööstusinfrastruktuuridele ja teistele tehnoloogiaplatformidele. Infomediary aitab klientidel keskenduda oma põhitegevusele ja parandada nende konkurentsieelist, lahendades mitmeid tööprobleeme seoses lepitamise, kauplemissõnumite ja -halduse, äriürituste, valuutanetostuse ja koondamisega ning erinevate või puuduvate tööstusharupraktikatega.",
     "data connectivity & applications via infomediary 2" => "Finantsteenuste turuühendus",
     "data connectivity & applications via infomediary 3" => "Kõrgelt kohandatav majutatud suhtlusplatvorm Infomediary pakub ühtset ühenduspunkti klientide ja nende välise teenusepakkujate ning sisemiste süsteemide vahel. Infomediary võtab vastu andmeid mis tahes elektroonilises vormingus, normaliseerib selle ja seejärel tõlgib, muudab ja edastab teavet võrkude kaudu, näiteks SWIFT või läbi omavaheliste ühenduste.",
     "data connectivity & applications via infomediary 4" => "Innovatiivsed modulaarsed rakendused keerukate operatsioonide jaoks",
@@ -1108,15 +1108,15 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "data connectivity & applications via infomediary 8" => "mastaapne välisallhangete lahendus, mis pakub automatiseeritud protsessi sularahaandmete ja väärtpaberite andmete lepitamiseks kõigi teenusepakkujate vahel",
     "data connectivity & applications via infomediary 9" => "mitme teenusepakkujaga sekundaarne NAV-tööriist, mis on mõeldud varahalduritele, et jälgida NAV-i tootmist kõigi oma administraatorite juures",
     // global custody direct
-    "global custody direct 1" => "Finantsasutused, kes soovivad laiendada ja eristada oma globaalse hoiuteenuse võimekust ning teenindada kliente tõhusamalt, saavad teha koostööd Vanwardiga alternatiivina jätkuvale investeerimisele vanadesse platvormidesse ja infrastruktuuri.
+    "global custody direct 1" => "Finantsasutused, kes soovivad laiendada ja eristada oma globaalse hoiuteenuse võimekust ning teenindada kliente tõhusamalt, saavad teha koostööd Sunriseiga alternatiivina jätkuvale investeerimisele vanadesse platvormidesse ja infrastruktuuri.
                                     <br><br>
-                                    Global Custody Direct võimaldab Vanwardi tõestatud globaalset hoiuteenuste platvormi, operatiivset teenindust ja portaali brändida vastavalt meie kliendi ettevõtte standarditele, et toetada nende globaalset klientide baasi. Global Custody Direct klientidel on lisavõimalus kasutada Vanwardi põhilisi finantsteenuste tooteid, sealhulgas meie globaalset allhoiustevõrgustikku, väärtpaberilaenutust ja valuutavahetust.
+                                    Global Custody Direct võimaldab Sunrisei tõestatud globaalset hoiuteenuste platvormi, operatiivset teenindust ja portaali brändida vastavalt meie kliendi ettevõtte standarditele, et toetada nende globaalset klientide baasi. Global Custody Direct klientidel on lisavõimalus kasutada Sunrisei põhilisi finantsteenuste tooteid, sealhulgas meie globaalset allhoiustevõrgustikku, väärtpaberilaenutust ja valuutavahetust.
                                     <br><br>
-                                    Global Custody Direct võimaldab klientidel keskenduda oma põhikompetentsidele oma kohalikel turgudel, samal ajal kasutades Vanwardi pidevat investeerimist riist- ja tarkvarasse, säilitades operatiivse ja investoriteenuste kontrolli. Kliendid saavad kasu Vanwardi võimsast globaalsest tehnoloogia infrastruktuurist koos meie äritegevuse jätkusuutlikkuse planeerimise ja riskijuhtimise programmidega, mis teenindavad praegu maailma suurimaid ja kõige keerukamaid asutusi.",
+                                    Global Custody Direct võimaldab klientidel keskenduda oma põhikompetentsidele oma kohalikel turgudel, samal ajal kasutades Sunrisei pidevat investeerimist riist- ja tarkvarasse, säilitades operatiivse ja investoriteenuste kontrolli. Kliendid saavad kasu Sunrisei võimsast globaalsest tehnoloogia infrastruktuurist koos meie äritegevuse jätkusuutlikkuse planeerimise ja riskijuhtimise programmidega, mis teenindavad praegu maailma suurimaid ja kõige keerukamaid asutusi.",
     "global custody direct 2" => "Ettevõtted",
     "global custody direct 3" => "Ettevõtted",
     // active fx execution
-    "active fx execution 1" => "Vanwardi globaalne välisvaluutade müügilaud pakub konkurentsivõimelise täitmise kombinatsiooni usaldusväärse ja kogenud müügimeeskonnaga, kes keskendub globaalsetele varahalduritele ja nende unikaalsetele kauplemissõnumitele ja operatiivsetele vajadustele.",
+    "active fx execution 1" => "Sunrisei globaalne välisvaluutade müügilaud pakub konkurentsivõimelise täitmise kombinatsiooni usaldusväärse ja kogenud müügimeeskonnaga, kes keskendub globaalsetele varahalduritele ja nende unikaalsetele kauplemissõnumitele ja operatiivsetele vajadustele.",
     "active fx execution 2" => "Kliendikeskne kauplemisviis:",
     "active fx execution 3" => "Meie kauplemisfilosoofia keskendub pikaajalistele suhetele ja kiiretele, konkurentsivõimelistele hinnapakkumistele meie klientidele.",
     "active fx execution 4" => "Pakume oma klientidele ühe kontaktipunkti müügikauplejatega New Yorgis, Londonis, Tokyos ja Hongkongis, mis koos keskselt asuva kauplemislauaga võimaldab meil pakkuda katkestusteta 24-tunnist katvust.",
@@ -1136,39 +1136,39 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     "active fx execution 12" => "Ettevõtted",
     "active fx execution 13" => "Ettevõtted",
     // currency hedging
-    "currency hedging 1" => "Olenemata sellest, kas hallatakse rahvusvahelist portfelli soovimatu valuutariskiga või pakutakse mitme valuutaga kaetud osaklusklassi tooteid, pakub Vanward kõikehõlmavat ja paindlikku passiivset valuutariski maandamise lahendust.
+    "currency hedging 1" => "Olenemata sellest, kas hallatakse rahvusvahelist portfelli soovimatu valuutariskiga või pakutakse mitme valuutaga kaetud osaklusklassi tooteid, pakub Sunrise kõikehõlmavat ja paindlikku passiivset valuutariski maandamise lahendust.
                             <br><br>
-                            Spetsiaalselt varahalduritele loodud Vanwardi valuutariski maandamise lahendus vähendab siseveebiprogrammide haldamisega seotud operatiivset koormust, võimaldades juhtidel keskenduda põhifunktsioonidele.",
+                            Spetsiaalselt varahalduritele loodud Sunrisei valuutariski maandamise lahendus vähendab siseveebiprogrammide haldamisega seotud operatiivset koormust, võimaldades juhtidel keskenduda põhifunktsioonidele.",
     "currency hedging 2" => "Delegeerige protsess, mitte kontrolli",
     "currency hedging 3" => "Konfigureeritava juhtpaneeliga, FX HedgeHub™, veebipõhine aruandlusplatvorm pakub meie klientidele ülevaadet nende valuutariskiga toodete universumist 360 kraadi. HedgeHub vastab oluliste osapoolte nõudmistele järelevalve ja läbipaistvuse üle, lahendab suurte varahaldurite valuutariski maandamisega seotud valupunktid, näiteks erinevad ja mittetäielikud andmed, ning pakub interaktiivset ja keskset aruandlust.",
     "currency hedging 4" => "Terviklik lõpust lõppu valuutariski maandamise lahendus",
     "currency hedging 5" => "Töötame klientidega, et luua valuutariski maandamise programmid, mille eesmärk on minimeerida igas mandaadis jälgimisvigu ja tehingukulusid võrreldes riski maandamise eesmärgiga. Meie lahendus hõlmab kohandatud programmi kalibreerimist ja rakendamise kujundamist, igapäevast jälgimist ja riskiadministreerimist, tehinguarvutust, tehingu teostamist ja üksikasjalikku aruandlust.",
     "currency hedging 6" => "Operatiivne tõhusus läbi suurendatavuse",
-    "currency hedging 7" => "Olenemata sellest, kui lihtne või keeruline on operatiivprotsess, on Vanwardi süsteemid loodud tõhususe ja suurendatavuse saavutamiseks. Meie põhjalik eel- ja järelkauplemise jälgimine ja valideerimine aitavad kinnitada, et sobivad tehingud genereeritakse järjekindlalt kokkulepitud parameetrite piires.",
+    "currency hedging 7" => "Olenemata sellest, kui lihtne või keeruline on operatiivprotsess, on Sunrisei süsteemid loodud tõhususe ja suurendatavuse saavutamiseks. Meie põhjalik eel- ja järelkauplemise jälgimine ja valideerimine aitavad kinnitada, et sobivad tehingud genereeritakse järjekindlalt kokkulepitud parameetrite piires.",
     "currency hedging 8" => "Tehingu täpsus",
     "currency hedging 9" => "Meie kogenud globaalne meeskond hõlmab pühendunud kauplejaid, kes mõistavad tõhusa teostamise saavutamiseks vajalikke turudünaamikat teostatavate ja mitte-teostatavate edasilükatud tehingute puhul. Meie kauplemissaali vahendusel kasutades meie kauplemissaali vahendusel olevate rahvusvaheliste pankade ja maaklerite suhteid, suudame pakkuda mitut teostamisvõimalust, mis võimaldab turule pääseda likviidsuse pakkujate paneelilt.*",
     "currency hedging 10" => "*Mõned tooted pole saadaval.",
     "currency hedging 11" => "Ettevõtted",
     // foreign exchange
-    "foreign exchange 1" => "Vanward pakub innovaatilisi ja paindlikke välisvaluuta lahendusi, mis on loodud globaalsete varahaldurite operatiivseteks ja strateegilisteks valuutavajadusteks. Toetudes mainekale konkurentsivõimelisele täitmisele ja suurepärasele suhtlemisoskusele, on meie eesmärk pakkuda igale kliendile sujuvat ja põhjalikku välisvaluuta programmi algusest lõpuni.",
+    "foreign exchange 1" => "Sunrise pakub innovaatilisi ja paindlikke välisvaluuta lahendusi, mis on loodud globaalsete varahaldurite operatiivseteks ja strateegilisteks valuutavajadusteks. Toetudes mainekale konkurentsivõimelisele täitmisele ja suurepärasele suhtlemisoskusele, on meie eesmärk pakkuda igale kliendile sujuvat ja põhjalikku välisvaluuta programmi algusest lõpuni.",
     "foreign exchange 2" => "Välisvaluuta ekspertiis",
-    "foreign exchange 3" => "Vanward on tõestatud ja pühendunud välisvaluuta pakkujale. Pakume vabalt kaubeldavatele valuutadele punktide ja edasilükkatud tehingute täitmisi ning oleme spetsialiseerunud kauplema valitud arenevatel ja piiratud turgudel. Meie klientidele pakutakse ülemaailmset turukatvust keskse kauplemissaali kaudu kohaliku suhtejuhtimise ja kauplemissaali valikuga. Meie välisvaluutakauplemissaali ekspertiisi täiendab suurepärane turu- ja valuutateaduste uurimistöö.",
+    "foreign exchange 3" => "Sunrise on tõestatud ja pühendunud välisvaluuta pakkujale. Pakume vabalt kaubeldavatele valuutadele punktide ja edasilükkatud tehingute täitmisi ning oleme spetsialiseerunud kauplema valitud arenevatel ja piiratud turgudel. Meie klientidele pakutakse ülemaailmset turukatvust keskse kauplemissaali kaudu kohaliku suhtejuhtimise ja kauplemissaali valikuga. Meie välisvaluutakauplemissaali ekspertiisi täiendab suurepärane turu- ja valuutateaduste uurimistöö.",
     "foreign exchange 4" => "Kliendi valik ja kontroll",
-    "foreign exchange 5" => "Alates rakendamisest kuni tehingute teostamise ja aruandluse abistamiseni luuakse Vanwardi kohandatud lõpust lõppu välisvaluuta lahendused koostöös klientidega, et aidata neil vastata nende erilistele vajadustele. Pakume välisvaluutakauplemissaali kohandatud tehnoloogiaplatvormi abil klientidele tehinguvõimalusi erineva kliendi osalusega.",
+    "foreign exchange 5" => "Alates rakendamisest kuni tehingute teostamise ja aruandluse abistamiseni luuakse Sunrisei kohandatud lõpust lõppu välisvaluuta lahendused koostöös klientidega, et aidata neil vastata nende erilistele vajadustele. Pakume välisvaluutakauplemissaali kohandatud tehnoloogiaplatvormi abil klientidele tehinguvõimalusi erineva kliendi osalusega.",
     "foreign exchange 6" => "Tööstuse juhtiv läbipaistvus",
     "foreign exchange 7" => "Pakume valikut kohandatud eel- ja järelteostusvahendeid, aruandeid ja analüüse, mis võivad klientidele aidata luua tõhusaid ja põhjalikke välisvaluuta programme.",
     "foreign exchange 8" => "Klõpsake vaatamiseks meie:",
     // infofx
-    "infofx 1"  => "Vanwardi InfoFX® on dünaamiline välisvaluuta alternatiiv traditsioonilisele operatiivsele valuutahaldusele,
+    "infofx 1"  => "Sunrisei InfoFX® on dünaamiline välisvaluuta alternatiiv traditsioonilisele operatiivsele valuutahaldusele,
               mis pakub madala puutega lahenduse lihtsust koos sisekontrolli ja paindlikkusega vabalt kaubeldavatel ja
               valitud piiratud turgudel.
               <br><br>
-              Spetsiaalselt varahalduritele loodud InfoFX pakub täielikult automatiseeritud, Vanwardi majutatud lähenemist,
+              Spetsiaalselt varahalduritele loodud InfoFX pakub täielikult automatiseeritud, Sunrisei majutatud lähenemist,
               mis on loodud täitmiskvaliteedi, operatiivse efektiivsuse, põhjalike aruannete ja reaalajas otsuste tegemise
               kontrolli ümber.",
     "infofx 2"  => "Operatiivne Efektiivsus",
     "infofx 3"  => "InfoFX arvutab automaatselt valuutatehingute vajadused väärtpaberite asutamise andmete alusel ning pakub
-              vajadusel netostamise ja koondamise funktsioone. Meie omandis olev sõnumiteenusplatvorm Vanward võimaldab
+              vajadusel netostamise ja koondamise funktsioone. Meie omandis olev sõnumiteenusplatvorm Sunrise võimaldab
               operatiivset ja asutamisriski minimeerida.",
     "infofx 4"  => "Valik läbi Kontrolli",
     "infofx 5"  => "Meie interaktiivse platvormi kaudu saavad kliendid valida valuutatehingute täitmise aja või seda muuta
@@ -1183,22 +1183,22 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
               ajatemplid ja viitamismäärasid, et nad saaksid hinnata täitmiskvaliteeti ja konfigureerida kohandatud aruandeid.",
     "infofx 10" => "Ettevõtted",
     // securities lending
-    "securities lending 1"  => "Vanward on spetsialiseerunud väärtpaberilaenule varahalduritele, kellest ligikaudu 90% esindavad seda
-                            tööstusharu. Vanwardiga koostööd tegevad varahaldurid võivad kindlad olla, et neile pakutakse spetsialiseeritud
+    "securities lending 1"  => "Sunrise on spetsialiseerunud väärtpaberilaenule varahalduritele, kellest ligikaudu 90% esindavad seda
+                            tööstusharu. Sunriseiga koostööd tegevad varahaldurid võivad kindlad olla, et neile pakutakse spetsialiseeritud
                             programm, mis on kohandatud vastavalt nende unikaalsetele vajadustele.
                             <br><br>
-                            Meie „hooldajate-neutraalne“ platvorm tagab, et kõik Vanwardi väärtpaberilaenu kliendid saavad
+                            Meie „hooldajate-neutraalne“ platvorm tagab, et kõik Sunrisei väärtpaberilaenu kliendid saavad
                             samal tasemel operatiivse tipptaseme, paindlikkuse ja teeninduse, sõltumata nende hooldajast. Üle 50%
                             meie ärist on „kolmanda osapoole“ laenudele orienteeritud, ja meil on automatiseeritud ühendused
                             enamus maailma hooldajatega.",
     "securities lending 2"  => "Riskijuhtimise tähtsus",    
     "securities lending 3"  => "Väärtpaberite laenamine varahalduritele erineb laenamisest, mida tavaliselt eelistavad pensionifondid,
                             pangad, suveräänsed varahaldusfondid ja kindlustusseltsid. See erinevus tuleneb riskide juhtimisest.
-                            Vanward on ekspert väärtpaberilaenu programmide struktureerimisel, mis maksimeerivad kliendi tulu
+                            Sunrise on ekspert väärtpaberilaenu programmide struktureerimisel, mis maksimeerivad kliendi tulu
                             kindlaksmääratud riskitaluvuse raames.",
     "securities lending 4"  => "Väärtpaberite laenamise kauplemissüsteem",
-    "securities lending 5"  => "Tänu suuremahulise laenuprogrammi puudumisele saab Vanward teostada väärtustele orienteeritud
-                            strateegiaid oma klientidele. Koostööd tehes Vanwardiga võivad varahaldurid kindlad olla, et nad
+    "securities lending 5"  => "Tänu suuremahulise laenuprogrammi puudumisele saab Sunrise teostada väärtustele orienteeritud
+                            strateegiaid oma klientidele. Koostööd tehes Sunriseiga võivad varahaldurid kindlad olla, et nad
                             liituvad teiste sarnaste laenuandjatega programmiga, mis omab ainulaadset struktuurset eelist
                             kõrgeimat väärtust pakkuvate laenude teenustasude läbirääkimisteks.
                             <br><br>
@@ -1207,7 +1207,7 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
                             mis omab sügavat arusaamist laenutaotlejate nõudlust mõjutavatest dünaamikatest. Me kasutame tehnoloogiat
                             madalväärtuslike tehingute automatiseerimiseks, et täiendada neid kõrge kasumlikkusega võimalusi.",
     "securities lending 6"  => "Pioneering digitaalsed tööriistad unikaalseteks vajadusteks",
-    "securities lending 7"  => "Enne tehingut pakub Vanward Securities Lending DealBoard-i, mis võimaldab meie klientidel näha
+    "securities lending 7"  => "Enne tehingut pakub Sunrise Securities Lending DealBoard-i, mis võimaldab meie klientidel näha
                             tuluvõimalusi, laenunõudlust ja aktsiahinna suundumusi ühes kohas. Meie kliendid saavad näha ja tegutseda
                             igasuguse võimaluse kasuks oma fondides. Järeltehingute käigus oleme käivitanud uue digitaalse kogemuse,
                             et pakkuda järgmise põlvkonna läbipaistvust, võimaldades meie klientidel jälgida nende laenuprogrammi
@@ -1218,212 +1218,212 @@ Teenindades finantsteenuste valdkonna valitud segmente, keskendume investeeringu
     // fx disclosure
     "fx disclosure 1"   => "Sissejuhatus
                             <br><br>
-                            See FX-i avalikustamisavaldus („Avaldus“) kirjeldab klientide ja Vanwardi („Vanward“)1 ja/või selle sidusettevõtete
-                            (ühiselt „Vanward“) vahelist suhet ning avalikustab teatud Vanwardi tavasid valuutatehingute hinnakujunduses,
+                            See FX-i avalikustamisavaldus („Avaldus“) kirjeldab klientide ja Sunrisei („Sunrise“)1 ja/või selle sidusettevõtete
+                            (ühiselt „Sunrise“) vahelist suhet ning avalikustab teatud Sunrisei tavasid valuutatehingute hinnakujunduses,
                             käsitlemises ja täitmisel seoses tema valuutaga kauplemise äri või valuutatehingute täitmise teenuste äriga.
-                            Vanward võib klientidele pakkuda ka muid tooteid ja/või teenuseid, kuid kui käesolevas Avalduses ei ole
+                            Sunrise võib klientidele pakkuda ka muid tooteid ja/või teenuseid, kuid kui käesolevas Avalduses ei ole
                             väljendatud teisiti, ei ole sellised tooted ja/või teenused käesolevas Avalduses ette nähtud.
                             <br><br>
-                            See Avaldus täiendab, kuid ei asenda lepinguid, mis reguleerivad klientide ja Vanwardi suhteid. Kui lepingu ja
+                            See Avaldus täiendab, kuid ei asenda lepinguid, mis reguleerivad klientide ja Sunrisei suhteid. Kui lepingu ja
                             käesoleva Avalduse vahel on vastuolu, siis lepingul on eelisõigus.
                             <br><br>
-                            Kliendid, kellel on küsimusi käesoleva Avalduse või selle kohta, kuidas Vanward hindab, käsitleb või täidab
+                            Kliendid, kellel on küsimusi käesoleva Avalduse või selle kohta, kuidas Sunrise hindab, käsitleb või täidab
                             valuutatehinguid, võivad võtta ühendust oma valuutaga seotud suhete halduriga (FX Relationship Manager).",
     "fx disclosure 2"   => "Üldtavad",
     "fx disclosure 3"   => "Suhtlusmeetodid",
-    "fx disclosure 4"   => "Kliendid võivad suhelda Vanwardiga elektrooniliselt, telefoni teel või läbi muude lubatud kanalite.2 Vanward võib
-                            oma äranägemisel nõustuda vastu võtma teatud kliendiinstruktsioone e-posti teel. Enne Vanwardi instruktsioonide
+    "fx disclosure 4"   => "Kliendid võivad suhelda Sunriseiga elektrooniliselt, telefoni teel või läbi muude lubatud kanalite.2 Sunrise võib
+                            oma äranägemisel nõustuda vastu võtma teatud kliendiinstruktsioone e-posti teel. Enne Sunrisei instruktsioonide
                             vastuvõtmist e-posti teel võib klientidel olla vaja täita teatud dokumendid ja/või vastata konkreetsetele
-                            Vanwardi nõuetele.",
+                            Sunrisei nõuetele.",
     "fx disclosure 5"   => "Info käsitlemine",
-    "fx disclosure 6"   => "Vanwardil on kasutusele võetud poliitikad ja menetlused, mis on mõistlikult kavandatud kliendi ja vastaspoole
+    "fx disclosure 6"   => "Sunriseil on kasutusele võetud poliitikad ja menetlused, mis on mõistlikult kavandatud kliendi ja vastaspoole
                             teabe konfidentsiaalsuse kaitseks, piirates konfidentsiaalse teabe levitamist ja kasutamist. Need poliitikad
                             ja menetlused piiravad üldiselt kliendi konfidentsiaalse teabe levitamist ainult osapooltele, kes vajavad seda
                             tehingute tegemiseks või muul kokkulepitud viisil täitmiseks ja järgnevate sündmustega seotud haldamiseks.
                             Samuti sätestatakse, et kliendi konfidentsiaalset teavet võib kasutada ainult legitiimsetel ärieesmärkidel,
-                            et pakkuda toodet, osutada teenust või teostada toote või teenuse järelevalvet, mille osutamiseks Vanward on
-                            lepingu alusel volitatud või mida ta eeldatakse teostavat. Siiski võib Vanward kasutada piisavalt
+                            et pakkuda toodet, osutada teenust või teostada toote või teenuse järelevalvet, mille osutamiseks Sunrise on
+                            lepingu alusel volitatud või mida ta eeldatakse teostavat. Siiski võib Sunrise kasutada piisavalt
                             kokku võetud ja anonüümseid klientide konfidentsiaalseid andmeid vaadete kujundamiseks turusuundumuste kohta,
-                            mida ta võib klientidega jagada (näiteks turuülevaated). Lisaks võib Vanwardi reguleeritud asutusena olla
+                            mida ta võib klientidega jagada (näiteks turuülevaated). Lisaks võib Sunrisei reguleeritud asutusena olla
                             kohustatud jagama kliendi konfidentsiaalset teavet asjakohaste maailma reguleerivate asutustega.",
     "fx disclosure 7"   => "Huvide konfliktid",
-    "fx disclosure 8"   => "Kuigi Vanward võtab kõik mõistlikud meetmed, et huvide konfliktid ei mõjutaks tema klientide huve ebasoodsalt, võib
-                            Vanwardi enda huvi mõnikord olla vastuolus tema klientide huvidega ning tema klientide huvid võivad omavahel
-                            vastuollu minna. Näiteks võib Vanward teostada tehinguid ja omada positsioone erinevates valuutatoodetes,
+    "fx disclosure 8"   => "Kuigi Sunrise võtab kõik mõistlikud meetmed, et huvide konfliktid ei mõjutaks tema klientide huve ebasoodsalt, võib
+                            Sunrisei enda huvi mõnikord olla vastuolus tema klientide huvidega ning tema klientide huvid võivad omavahel
+                            vastuollu minna. Näiteks võib Sunrise teostada tehinguid ja omada positsioone erinevates valuutatoodetes,
                             sealhulgas spot-, edasilükkunud tehinguid (sh mitte-järgitavaid edasilükkunud tehinguid) ja vahetusi, oma
                             portfellis seoses tegelike või eeldatavate kliendi tehingupäringutega, riski maandamise strateegiatega või muul
-                            viisil. Vanwardi tegevus selliste tehingute ja positsioonidega võib mõjutada hindu ja likviidsust, potentsiaalselt
-                            kahjustades klienti. Kui Vanward võtab vastu ja püüab täita kliendi korraldust, võib ta osaleda
-                            valuutakauplemise tegevuses oma enda huvides samas või sarnastes valuutatoodetes. Kui Vanward pakub
+                            viisil. Sunrisei tegevus selliste tehingute ja positsioonidega võib mõjutada hindu ja likviidsust, potentsiaalselt
+                            kahjustades klienti. Kui Sunrise võtab vastu ja püüab täita kliendi korraldust, võib ta osaleda
+                            valuutakauplemise tegevuses oma enda huvides samas või sarnastes valuutatoodetes. Kui Sunrise pakub
                             kliendile muid tooteid ja/või teenuseid, võib selliste toodete ja/või teenuste osutamine samuti viia teiste
                             huvide konfliktideni.",
-    "fx disclosure 9"   => "Vanward teeb tehinguid klientidega põhimõttelisel alusel",
-    "fx disclosure 10"  => "Vanward teostab valuutatehinguid põhimõttelise alusel vastaspooleks oma klientidele. Kui ta tegutseb põhimõttelisel alusel,
-                            teeb Vanward: (i) tehinguid omaenda kontol, omal riskil, oma kasuks; ja (ii) ei toimi kliendi
+    "fx disclosure 9"   => "Sunrise teeb tehinguid klientidega põhimõttelisel alusel",
+    "fx disclosure 10"  => "Sunrise teostab valuutatehinguid põhimõttelise alusel vastaspooleks oma klientidele. Kui ta tegutseb põhimõttelisel alusel,
+                            teeb Sunrise: (i) tehinguid omaenda kontol, omal riskil, oma kasuks; ja (ii) ei toimi kliendi
                             esindajana, usaldusisikuna, finantsnõustajana ega muus sarnases rollis kliendi nimel ega huvides.
-                            Kliendid, kes teevad tehinguid Vanwardiga põhimõttelisel alusel, peavad hindama ise igasuguse
-                            pakutava tehingu sobivust. Lisaks ei tohi mingit Vanwardi kauplejate poolt tehtud avaldust ega Vanwardi
+                            Kliendid, kes teevad tehinguid Sunriseiga põhimõttelisel alusel, peavad hindama ise igasuguse
+                            pakutava tehingu sobivust. Lisaks ei tohi mingit Sunrisei kauplejate poolt tehtud avaldust ega Sunrisei
                             elektroonilise süsteemi kaudu levitatud teavet tõlgendada või tugineda nõustamisena või soovitusena.",
     "fx disclosure 11"  => "Hinnakujundus",
-    "fx disclosure 12"  => "Kõik Vanwardi esitatud hinnapakkumised või voogesituse hinnad on „kõik-kaasa-arvatud“ indikatiivsed hinnad.
-                            Vanward kasutab äranägemist, kohandades indikatiivseid hindu individuaalsete klientide/tehingute jaoks,
+    "fx disclosure 12"  => "Kõik Sunrisei esitatud hinnapakkumised või voogesituse hinnad on „kõik-kaasa-arvatud“ indikatiivsed hinnad.
+                            Sunrise kasutab äranägemist, kohandades indikatiivseid hindu individuaalsete klientide/tehingute jaoks,
                             võttes arvesse mitmeid äritegureid. Need tegurid võivad hõlmata, kuid ei ole nendega piiratud: (i) valitsevaid
-                            turutingimusi; (ii) tehingu mahtu; (iii) päeva aega; (iv) valuutade likviidsust; (v) Vanwardi suhet klientidega;
-                            (vi) tehingu eest võimalikke Vanwardi kulusid; ja (vii) tehingu krediidi-, asjaajamis-, tegevus- ja muid riske.
-                            Vanward võib eristada indikatiivset hinnakujundust kauplemissüsteemi, platvormi või suhtlusmeetodi järgi.
-                            Seetõttu võib Vanward pakkuda erinevaid indikatiivseid hindu samade või sarnaste tehingute jaoks erinevatele
-                            klientidele. Vanward võib muuta oma hinnakujunduse strateegiaid etteteatamiseta ega ole kohustatud avalikustama
+                            turutingimusi; (ii) tehingu mahtu; (iii) päeva aega; (iv) valuutade likviidsust; (v) Sunrisei suhet klientidega;
+                            (vi) tehingu eest võimalikke Sunrisei kulusid; ja (vii) tehingu krediidi-, asjaajamis-, tegevus- ja muid riske.
+                            Sunrise võib eristada indikatiivset hinnakujundust kauplemissüsteemi, platvormi või suhtlusmeetodi järgi.
+                            Seetõttu võib Sunrise pakkuda erinevaid indikatiivseid hindu samade või sarnaste tehingute jaoks erinevatele
+                            klientidele. Sunrise võib muuta oma hinnakujunduse strateegiaid etteteatamiseta ega ole kohustatud avalikustama
                             oma „kõik-kaasa-arvatud“ hinnakomponente.
                             <br><br>
-                            Vanward võib aeg-ajalt nõustuda teostama tehinguid alternatiivsete hinnakujunduskokkulepete alusel (vt näiteks
+                            Sunrise võib aeg-ajalt nõustuda teostama tehinguid alternatiivsete hinnakujunduskokkulepete alusel (vt näiteks
                             määrangut ja fikseeritud määrasid ning algoritme).",
     "fx disclosure 13"  => "Eelhedgeerimine ja eelpositsioneerimine",
-    "fx disclosure 14"  => "Vanward võib tegeleda eelhedgeerimise ja hedgeerimise tegevustega lähtudes oma teadmistest klientide
-                            kauplemistegevuse kohta. Vanward püüab läbi viia eelhedgeerimise ja hedgeerimise tegevusi viisil, mis ei
-                            kahjustaks kliente ja mille eesmärk on vältida turgude hindadele olulist mõju avaldamist. Vanward viib
+    "fx disclosure 14"  => "Sunrise võib tegeleda eelhedgeerimise ja hedgeerimise tegevustega lähtudes oma teadmistest klientide
+                            kauplemistegevuse kohta. Sunrise püüab läbi viia eelhedgeerimise ja hedgeerimise tegevusi viisil, mis ei
+                            kahjustaks kliente ja mille eesmärk on vältida turgude hindadele olulist mõju avaldamist. Sunrise viib
                             eelhedgeerimise ja hedgeerimise tegevusi läbi põhimõttelisel alusel seoses oma põhimõtteliste tegevustega,
                             oma riski all ja mitte kliendi esindajana.",
     "fx disclosure 15"  => "Määrangutega ja fikseeritud määrade alusel tehingute tegemine",
-    "fx disclosure 16"  => "Vanward võib nõustuda teostama kliendi korralduse määrangute või fikseeritud määrade alusel. Kuigi Vanward ei
+    "fx disclosure 16"  => "Sunrise võib nõustuda teostama kliendi korralduse määrangute või fikseeritud määrade alusel. Kuigi Sunrise ei
                             püüa tahtlikult mõjutada määrangute või fikseeritud määrade kohta, võib ta tegeleda hedgeerimise või muude
                             valuutategemistega, mis võivad mõjutada lõplikke määranguid või fikseeritud määrasid.",
     "fx disclosure 17"  => "Korralduse käsitlemine",
-    "fx disclosure 18"  => "Kui Vanward kinnitab, aktsepteerib või teatab, et ta on nõus kliendi korraldust „töötlema“, püüab ta, kuid ei ole
-                            lepinguliselt kohustatud, teostada tehingu hinna ja koguse osas lähedal korraldusele vastavalt. Vanward ei ole
+    "fx disclosure 18"  => "Kui Sunrise kinnitab, aktsepteerib või teatab, et ta on nõus kliendi korraldust „töötlema“, püüab ta, kuid ei ole
+                            lepinguliselt kohustatud, teostada tehingu hinna ja koguse osas lähedal korraldusele vastavalt. Sunrise ei ole
                             kohustatud aktsepteerima kliendi korraldusi ja võib aktsepteerida või tagasi lükata mistahes korralduse
                             mistahes põhjusel oma ainuisikliku äranägemise kohaselt. Asjaolu, et mõnele korraldusele kohaldatakse mingit
-                            tingimust (näiteks stop-loss korraldust), ei tähenda, et Vanward saab või teostab selle korralduse hinna ja/või
-                            koguse osas vastavalt soovitud viisil. Vanward võib järjestada/korrastada kliendi korraldusi oma ainuisikliku
+                            tingimust (näiteks stop-loss korraldust), ei tähenda, et Sunrise saab või teostab selle korralduse hinna ja/või
+                            koguse osas vastavalt soovitud viisil. Sunrise võib järjestada/korrastada kliendi korraldusi oma ainuisikliku
                             äranägemise kohaselt ning võib korraldusi konsolideerida hindamise eesmärgil.",
     "fx disclosure 19"  => "Elektroonilise kauplemissüsteemi kaudu saabunud päringute käsitlemine („Viimane pilk“)",
-    "fx disclosure 20"  => "Kõik Vanwardi esitatud hinnapakkumised või voogesituse hinnad on „kõik-kaasa-arvatud“ indikatiivsed hinnad. Kliendid
-                            võivad esitada elektroonilise kauplemissüsteemi kaudu päringu (pakkumise) kaubelda Vanwardiga vastavalt
-                            sellistele „kõik-kaasa-arvatud“ indikatiivsetele hindadele ning kui nad seda teevad, võib Vanward vastu võtta
+    "fx disclosure 20"  => "Kõik Sunrisei esitatud hinnapakkumised või voogesituse hinnad on „kõik-kaasa-arvatud“ indikatiivsed hinnad. Kliendid
+                            võivad esitada elektroonilise kauplemissüsteemi kaudu päringu (pakkumise) kaubelda Sunriseiga vastavalt
+                            sellistele „kõik-kaasa-arvatud“ indikatiivsetele hindadele ning kui nad seda teevad, võib Sunrise vastu võtta
                             või tagasi lükata selle elektroonilise kauplemissüsteemi kaudu esitatud päringu oma ainuisikliku äranägemise
                             kohaselt.",
     "fx disclosure 21"  => "Algoritmiline kauplemine",
-    "fx disclosure 22"  => "Vanward võib kasutada algoritmilisi kauplemissüsteeme omaenda riskijuhtimise eesmärkidel põhimõtteliste valuutatehingute
-                            teostamisel. Vanward võib ka pakkuda klientidele juurdepääsu oma algoritmilisele täitmise teenusele
+    "fx disclosure 22"  => "Sunrise võib kasutada algoritmilisi kauplemissüsteeme omaenda riskijuhtimise eesmärkidel põhimõtteliste valuutatehingute
+                            teostamisel. Sunrise võib ka pakkuda klientidele juurdepääsu oma algoritmilisele täitmise teenusele
                             („Algo Execution Service“). Algo Execution Service võimaldab kliendil taotleda valuutatehingu tegemist
-                            Vanwardiga hinnaga, mis põhineb määral/-dadel, mis tulenevad Vanwardi ja likviidsuse pakkujate vahelistest
-                            vastasmõjutavatest tehingutest, ja mis on allutatud Vanwardi poolt kokku lepitud marginaalidele. Algo
-                            Execution Service puhul jõutaks eelnimetatud vastasmõjutavate tehingute juurde Vanwardi ja likviidsuse
+                            Sunriseiga hinnaga, mis põhineb määral/-dadel, mis tulenevad Sunrisei ja likviidsuse pakkujate vahelistest
+                            vastasmõjutavatest tehingutest, ja mis on allutatud Sunrisei poolt kokku lepitud marginaalidele. Algo
+                            Execution Service puhul jõutaks eelnimetatud vastasmõjutavate tehingute juurde Sunrisei ja likviidsuse
                             pakkujate vahel vastavalt kliendi taotletud algoritmidele ja muudele parameetritele kooskõlas asjakohaste
                             Algoritmilise Täitmise Tingimuste ja Tingimustega.",
     "fx disclosure 23" => "Agentuur-forex",
     "fx disclosure 24" => "Valuutateenuste teostamine",
-    "fx disclosure 25" => "Vanward Investor Services Limited (“VanwardISL”) võib nõustuda tegutsema kliendi maaklerite või heakskiidetud
+    "fx disclosure 25" => "Sunrise Investor Services Limited (“SunriseISL”) võib nõustuda tegutsema kliendi maaklerite või heakskiidetud
                         panga vastaspoolele teostatud tehingute täitmisel esindajana, osana oma valuutateenuste teostamisest
                         („CES tehingud“). CES tehingute hinnastamine põhineb likviidsuspakkujate paneelilt saadud määradel, millele
-                        lisatakse vajaduse korral eelnevalt kokku lepitud tasu. Esindajatehingud viiakse läbi vastavalt VanwardISL-i
-                        korralduse käsitlemise poliitikale. VanwardISL võib delegeerida teatud CES tehingutega seotud funktsioonide
-                        täitmise vastutuse Vanwardile, kes tegeleb ka põhimõttelise kauplemise äriga. Sellest tulenevalt võib tekkida
-                        huvide konflikt Vanwardi esindajategevuse ja põhimõttelise kauplemise äri vahel.
+                        lisatakse vajaduse korral eelnevalt kokku lepitud tasu. Esindajatehingud viiakse läbi vastavalt SunriseISL-i
+                        korralduse käsitlemise poliitikale. SunriseISL võib delegeerida teatud CES tehingutega seotud funktsioonide
+                        täitmise vastutuse Sunriseile, kes tegeleb ka põhimõttelise kauplemise äriga. Sellest tulenevalt võib tekkida
+                        huvide konflikt Sunrisei esindajategevuse ja põhimõttelise kauplemise äri vahel.
                         <br><br>
-                        VanwardISL võib oma äranägemise järgi koondada mitme kliendi CES tehinguid hinnastamise eesmärgil. Ehkki
+                        SunriseISL võib oma äranägemise järgi koondada mitme kliendi CES tehinguid hinnastamise eesmärgil. Ehkki
                         tellimuste ja tehingute koonustumine ei pruugi tervikuna kahjustada ühegi kliendi tellimusi, kelle tellimusi
                         koonustatakse, võib koonustumise mõju seoses konkreetse tellimusega olla kliendi kahjuks.",
     "fx disclosure 26" => "Muud esindajategevused",
-    "fx disclosure 27" => "Mõnes muus olukorras võib Vanward teostada forexi tehinguid oma klientide esindajana. Sellistes olukordades
-                        toimib Vanward esindajana ainult täitmise eesmärgil ega tegutse muul viisil kliendi esindajana, usaldusisikuna,
+    "fx disclosure 27" => "Mõnes muus olukorras võib Sunrise teostada forexi tehinguid oma klientide esindajana. Sellistes olukordades
+                        toimib Sunrise esindajana ainult täitmise eesmärgil ega tegutse muul viisil kliendi esindajana, usaldusisikuna,
                         finantsnõustajana ega muus sarnases rollis kliendi nimel ega huvides.",
     "fx disclosure 28" => "Eelhedgeerimine ja eelpositsioneerimine",
-    "fx disclosure 29" => "VanwardISL ei tegele esindajana tegutsedes eelhedgeerimise ega eelpositsioneerimisega.
+    "fx disclosure 29" => "SunriseISL ei tegele esindajana tegutsedes eelhedgeerimise ega eelpositsioneerimisega.
                         <br><br>
-                        ¹ Käesoleva avalduse avaldamise kuupäeva seisuga teostab Vanward põhimõttelisel alusel forexi tehinguid ainult
-                        VanwardISL-i. <br>
-                        ² Vanward võib telefoni suhtlust salvestada vastavalt kehtivatele kohalikele eeskirjadele.",
+                        ¹ Käesoleva avalduse avaldamise kuupäeva seisuga teostab Sunrise põhimõttelisel alusel forexi tehinguid ainult
+                        SunriseISL-i. <br>
+                        ² Sunrise võib telefoni suhtlust salvestada vastavalt kehtivatele kohalikele eeskirjadele.",
     // regulatory reporting requirements
-    "regulatory reporting requirements 1" => "Vastavalt asjakohastele Dodd-Frank/CFTC raporteerimisnõuetele alustas Vanward („Vanward“) teatud kajastatud FX-tehingute raporteerimist oma swap-andmete andmebaasi DTCC Data Repository (U.S.) LLC-le 10. aprillil 2013.",
+    "regulatory reporting requirements 1" => "Vastavalt asjakohastele Dodd-Frank/CFTC raporteerimisnõuetele alustas Sunrise („Sunrise“) teatud kajastatud FX-tehingute raporteerimist oma swap-andmete andmebaasi DTCC Data Repository (U.S.) LLC-le 10. aprillil 2013.",
     "regulatory reporting requirements 2" => "KAJASTATUD FX-TEHINGUD",
-    "regulatory reporting requirements 3" => "Kajastatud FX-tehingud hõlmavad kõiki valuutavahetuse („FX“) edasilükkamislepinguid, FX-swap-tehinguid ja/või swap-tehinguid, mis on sõlmitud Vanwardiga põhimõttelisel alusel, kas (1) enne 21. juulit 2010, kuid mis olid siiski väljaspool 21. juulit 2010, või (2) 21. juulil 2010 või pärast seda.
+    "regulatory reporting requirements 3" => "Kajastatud FX-tehingud hõlmavad kõiki valuutavahetuse („FX“) edasilükkamislepinguid, FX-swap-tehinguid ja/või swap-tehinguid, mis on sõlmitud Sunriseiga põhimõttelisel alusel, kas (1) enne 21. juulit 2010, kuid mis olid siiski väljaspool 21. juulit 2010, või (2) 21. juulil 2010 või pärast seda.
                                                 <br><br>
-                                                Kajastatud FX-tehingud ei hõlma kohatehinguid (nt FX-tehingud T+2 asustustähtaja või muul viisil, mis moodustavad õiguspärase kohatehingu), millele üldjuhul ei kohaldata Dodd-Franki raporteerimist. Vanward käsitleb kõiki FX-tehinguid, mille tähtaeg on T+3 või suurem, kohatehinguna juhul, kui (i) tehingu aluseks oleva väärtpaberitehingu kohta esitatakse Vanwardile piisavalt üksikasju tehingu sooritamise ajal või (ii) Vanward on jõudnud järeldusele, et tegemist on õiguspärase kohatehinguga (nt kauplemissuhte alusel, näiteks FX-tehing, mis on juhendatud hoiustuse FX püsikorralduse kaudu või Vanwardi InfoFX-toote kaudu). Vastasel juhul käsitleb Vanward sellist FX-tehingut FX-edasilükkamislepinguna, mis on allutatud Dodd-Franki raporteerimisele.",
+                                                Kajastatud FX-tehingud ei hõlma kohatehinguid (nt FX-tehingud T+2 asustustähtaja või muul viisil, mis moodustavad õiguspärase kohatehingu), millele üldjuhul ei kohaldata Dodd-Franki raporteerimist. Sunrise käsitleb kõiki FX-tehinguid, mille tähtaeg on T+3 või suurem, kohatehinguna juhul, kui (i) tehingu aluseks oleva väärtpaberitehingu kohta esitatakse Sunriseile piisavalt üksikasju tehingu sooritamise ajal või (ii) Sunrise on jõudnud järeldusele, et tegemist on õiguspärase kohatehinguga (nt kauplemissuhte alusel, näiteks FX-tehing, mis on juhendatud hoiustuse FX püsikorralduse kaudu või Sunrisei InfoFX-toote kaudu). Vastasel juhul käsitleb Sunrise sellist FX-tehingut FX-edasilükkamislepinguna, mis on allutatud Dodd-Franki raporteerimisele.",
     "regulatory reporting requirements 4" => "RAPORTOIV LEPEPOOL",
-    "regulatory reporting requirements 5" => "Vanward on ja jääb kajastatud FX-tehingu raporteerivaks lepepooleks, välja arvatud juhul, kui:
+    "regulatory reporting requirements 5" => "Sunrise on ja jääb kajastatud FX-tehingu raporteerivaks lepepooleks, välja arvatud juhul, kui:
                                                 <br><br>
-                                                Vanwardi kauplemislepepool on swap-tehingute diiler (kas USA isik või mitte);
-Vanwardi kauplemislepepool on suur swap-tehingute osaleja (kas USA isik või mitte); või
-Vanwardi kauplemislepepool on USA isik ja finantsasutus (mitte swap-tehingute diiler ega suur swap-tehingute osaleja), kes on palunud saada raporteerivaks lepepooleks.",
+                                                Sunrisei kauplemislepepool on swap-tehingute diiler (kas USA isik või mitte);
+Sunrisei kauplemislepepool on suur swap-tehingute osaleja (kas USA isik või mitte); või
+Sunrisei kauplemislepepool on USA isik ja finantsasutus (mitte swap-tehingute diiler ega suur swap-tehingute osaleja), kes on palunud saada raporteerivaks lepepooleks.",
     "regulatory reporting requirements 6" => "KAUPLEMISLEPEPOOLI INFO",
-    "regulatory reporting requirements 7" => "Raporteeriva lepepooli rolli kinnitamiseks ja täpse ja täieliku raporteerimise tagamiseks nõuab Vanward järgmist teavet oma kauplemislepepoolt:
+    "regulatory reporting requirements 7" => "Raporteeriva lepepooli rolli kinnitamiseks ja täpse ja täieliku raporteerimise tagamiseks nõuab Sunrise järgmist teavet oma kauplemislepepoolt:
                                                 <br><br>
                                                 Kauplemislepepooli õigusliku isiku identifitseerimiskood („LEI“) või globaalne turutegija identifitseerimiskood („GMEI“).[1]
 Kas kauplemislepepool on USA isik;
 Kas kauplemislepepool on registreeritud swap-tehingute diiler või suur swap-tehingute osaleja; ja
 Kas kauplemislepepool on finantsasutus.
                                                 <br><br>
-                                                Vanward ootab ka teateid ülaltoodud teabe muutumise kohta.
+                                                Sunrise ootab ka teateid ülaltoodud teabe muutumise kohta.
                                                 <br><br>
-                                                Kajastatud FX-tehingu raporteerimisel pöördub Vanward kauplemislepepooli poole tema LEI/GMEI saamiseks, kui Vanward pole seda teavet juba saanud, või kinnituseks, et kajastatud FX-tehing oli tegelikult õiguspärane kohatehing. Kui ühtki ülaltoodud teavet Vanwardi rahulolule vastavalt ei esitata, raporteerib Vanward kajastatud FX-tehingu Vanwardi siseidentifikaatorit kasutades.
+                                                Kajastatud FX-tehingu raporteerimisel pöördub Sunrise kauplemislepepooli poole tema LEI/GMEI saamiseks, kui Sunrise pole seda teavet juba saanud, või kinnituseks, et kajastatud FX-tehing oli tegelikult õiguspärane kohatehing. Kui ühtki ülaltoodud teavet Sunrisei rahulolule vastavalt ei esitata, raporteerib Sunrise kajastatud FX-tehingu Sunrisei siseidentifikaatorit kasutades.
                                                 <br><br>
-                                                Palun suunake kõik Dodd Franki päringud oma Vanwardi kliendisuhtega seotud juhile või aadressile FXReg.reports@wgaml.com.
+                                                Palun suunake kõik Dodd Franki päringud oma Sunrisei kliendisuhtega seotud juhile või aadressile FXReg.reports@wgaml.com.
                                                 <br><br>
                                                 [1] LEI/GMEI teave ei kehti kajastatud FX-tehingute suhtes, mis aegusid või lõppesid enne 25. aprilli 2011.
                                                 <br><br>
-                                                Vastavalt Kanada provintside regulaatorite poolt vastu võetud asjakohastele tehingu raporteerimise nõuetele alustas Vanward („Vanward“) teatud kajastatud FX-tehingute raporteerimist oma määratud kauplemisandmebaasi DTCC Data Repository (U.S.) LLC-le 31. oktoobril 2014.",
+                                                Vastavalt Kanada provintside regulaatorite poolt vastu võetud asjakohastele tehingu raporteerimise nõuetele alustas Sunrise („Sunrise“) teatud kajastatud FX-tehingute raporteerimist oma määratud kauplemisandmebaasi DTCC Data Repository (U.S.) LLC-le 31. oktoobril 2014.",
     "regulatory reporting requirements 8" => "KAJASTATUD FX-TEHINGUD",
-    "regulatory reporting requirements 9" => "Kajastatud FX-tehingud hõlmavad kõiki valuutavahetuse („FX“) edasilükkamislepinguid, FX-swap-tehinguid ja/või swap-tehinguid, mis on sõlmitud Vanwardiga põhimõttelisel alusel, kas 31. oktoobril 2014 või pärast seda, kohaliku vastapoolega Kanadas.
+    "regulatory reporting requirements 9" => "Kajastatud FX-tehingud hõlmavad kõiki valuutavahetuse („FX“) edasilükkamislepinguid, FX-swap-tehinguid ja/või swap-tehinguid, mis on sõlmitud Sunriseiga põhimõttelisel alusel, kas 31. oktoobril 2014 või pärast seda, kohaliku vastapoolega Kanadas.
                                                 <br><br>
                                                 „Kohalik vastapool“ on tehingu ajal: (a) isik või ettevõte, mis on moodustatud Kanada vastava provintsi seaduste kohaselt või mille peakontor või peamine tegevuskoht on vastavas Kanada provintsis, või (b) ettevõtte tütarettevõte, mille tütarettevõtte kõik või enamik kohustusi on tagatud ettevõtte poolt punktis (a).
                                                 <br><br>
                                                 Kajastatud FX-tehingud ei hõlma kohatehinguid, mis on määratletud kui valuuta ostu-müügileping või -instrument, mis (i) nõuab asustustähtaega T+2 või pärast T+2, tingimusel et leping või instrument sõlmiti samal ajal seotud väärtpaberitehinguga ja nõuab asustust vastaval väärtpaberitehingu asustuskuupäevaks või varem, (ii) on kavas tehingu sooritamisel likvideerida valuuta kättetoimetamisega ülaltoodud ajavahemikes ja (iii) ei võimalda lepingut või instrumenti pikendada.
                                                 <br><br>
-                                                Vanward käsitleb üldjuhul kõiki FX-tehinguid, mille tähtaeg on T+3 või suurem, kohatehinguna, kui (i) tehingu aluseks oleva väärtpaberitehingu kohta esitatakse Vanwardile piisavalt üksikasju tehingu sooritamise ajal või (ii) Vanward on jõudnud järeldusele, et tegemist on kohatehinguga (nt kauplemissuhte alusel, näiteks FX-tehing, mis on juhendatud hoiustuse FX püsikorralduse kaudu või Vanwardi InfoFX-toote kaudu). Vastasel juhul käsitleb Vanward sellist FX-tehingut FX-edasilükkamislepinguna, mis on allutatud Kanada provintside regulaatorite tehingu raporteerimisele.",
+                                                Sunrise käsitleb üldjuhul kõiki FX-tehinguid, mille tähtaeg on T+3 või suurem, kohatehinguna, kui (i) tehingu aluseks oleva väärtpaberitehingu kohta esitatakse Sunriseile piisavalt üksikasju tehingu sooritamise ajal või (ii) Sunrise on jõudnud järeldusele, et tegemist on kohatehinguga (nt kauplemissuhte alusel, näiteks FX-tehing, mis on juhendatud hoiustuse FX püsikorralduse kaudu või Sunrisei InfoFX-toote kaudu). Vastasel juhul käsitleb Sunrise sellist FX-tehingut FX-edasilükkamislepinguna, mis on allutatud Kanada provintside regulaatorite tehingu raporteerimisele.",
     "regulatory reporting requirements 10" => "RAPORTOIV LEPEPOOL",
-    "regulatory reporting requirements 11" => "Vanward on ja jääb kajastatud FX-tehingu raporteerivaks lepepooleks, välja arvatud juhul, kui:
+    "regulatory reporting requirements 11" => "Sunrise on ja jääb kajastatud FX-tehingu raporteerivaks lepepooleks, välja arvatud juhul, kui:
                                                 <br><br>
-                                                Vanwardi kauplemislepepool on Kanada diiler või derivaadid diiler, kes on nõustunud olema raporteeriv lepepool; või
-Vanwardi kauplemislepepool on Kanada kohalik vastapool (mitte Kanada diiler või derivaadid diiler), kes on palunud saada raporteerivaks lepepooleks.",
+                                                Sunrisei kauplemislepepool on Kanada diiler või derivaadid diiler, kes on nõustunud olema raporteeriv lepepool; või
+Sunrisei kauplemislepepool on Kanada kohalik vastapool (mitte Kanada diiler või derivaadid diiler), kes on palunud saada raporteerivaks lepepooleks.",
     "regulatory reporting requirements 12" => "KAUPLEMISLEPEPOOLI INFO",
-    "regulatory reporting requirements 13" => "Raporteeriva lepepooli rolli kinnitamiseks ja täpse ja täieliku raporteerimise tagamiseks nõuab Vanward järgmist teavet oma kauplemislepepoolt:
+    "regulatory reporting requirements 13" => "Raporteeriva lepepooli rolli kinnitamiseks ja täpse ja täieliku raporteerimise tagamiseks nõuab Sunrise järgmist teavet oma kauplemislepepoolt:
                                                 <br><br>
                                                 Kauplemislepepooli õigusliku isiku identifitseerimiskood („LEI“) või globaalne turutegija identifitseerimiskood („GMEI“);
 Kas kauplemislepepool on Kanada diiler või derivaadid diiler; ja
 Kas kauplemislepepool on Kanada kohalik vastapool.
                                                 <br><br>
-                                                Vanward ootab ka teateid ülaltoodud teabe muutumise kohta.
+                                                Sunrise ootab ka teateid ülaltoodud teabe muutumise kohta.
                                                 <br><br>
-                                                Kajastatud FX-tehingu raporteerimisel pöördub Vanward kauplemislepepooli poole tema LEI/GMEI saamiseks, kui Vanward pole seda teavet juba saanud, või kinnituseks, et kajastatud FX-tehing oli kohatehing, mis vastab eespool nimetatud nõuetele.
+                                                Kajastatud FX-tehingu raporteerimisel pöördub Sunrise kauplemislepepooli poole tema LEI/GMEI saamiseks, kui Sunrise pole seda teavet juba saanud, või kinnituseks, et kajastatud FX-tehing oli kohatehing, mis vastab eespool nimetatud nõuetele.
                                                 <br><br>
-                                                Palun suunake kõik Kanada provintside regulaatorite tehingu raporteerimise päringud oma Vanwardi kliendisuhtega seotud juhile.", 
+                                                Palun suunake kõik Kanada provintside regulaatorite tehingu raporteerimise päringud oma Sunrisei kliendisuhtega seotud juhile.", 
     // terms and conditions
-    "terms and conditions 1" => "Käesolevad FX tingimused ja tingimused moodustavad lepingu, mille alusel kohaldatakse kõikidele valuutavahetustehingutele, sealhulgas ilma piiranguteta valuutavahetustehingule, mille Vanward („Vanward“) sõlmib vastapoolega („teie“, „teie“), välja arvatud juhul, kui Vanward on kirjalikult kokku leppinud või teid kirjalikult teavitanud, et kohaldatakse muid või täiendavaid tingimusi.",
+    "terms and conditions 1" => "Käesolevad FX tingimused ja tingimused moodustavad lepingu, mille alusel kohaldatakse kõikidele valuutavahetustehingutele, sealhulgas ilma piiranguteta valuutavahetustehingule, mille Sunrise („Sunrise“) sõlmib vastapoolega („teie“, „teie“), välja arvatud juhul, kui Sunrise on kirjalikult kokku leppinud või teid kirjalikult teavitanud, et kohaldatakse muid või täiendavaid tingimusi.",
     "terms and conditions 2" => "Arvelduse kokkuviimine",
-    "terms and conditions 3" => "Kui Vanwardiga ei ole kokku lepitud teisiti kirjalikult, tasutakse ühe tehingu poolt teisele tehingupoolele tehtavad summad samas vääringus müügi või ostu eest samal vääringutehingu maksepäeval netosummana, ning iga pool kohustus teha brutosumma makse täidetakse automaatselt ja asendatakse kohustusega teha netosumma makse.",
+    "terms and conditions 3" => "Kui Sunriseiga ei ole kokku lepitud teisiti kirjalikult, tasutakse ühe tehingu poolt teisele tehingupoolele tehtavad summad samas vääringus müügi või ostu eest samal vääringutehingu maksepäeval netosummana, ning iga pool kohustus teha brutosumma makse täidetakse automaatselt ja asendatakse kohustusega teha netosumma makse.",
     "terms and conditions 4" => "Võlanõuete korral esinevad sündmused",
-    "terms and conditions 5" => "(i) Järgnevad kõik järgnevad võlanõuete sündmused (igaüks, „Võlanõuete sündmus“): (a) teie poolt makse tegemata jätmine (või teie saadaolevad vahendid on makse tegemiseks ebapiisavad) tehingu alusel nõutud makse tähtajaks, kui sellist rikkumist ei parandata esimese tööpäeva jooksul pärast Vanwardi sellise rikkumise teate saamist; (b) Teie, teie emaettevõtte, sidusettevõtte või investeerimisjuht / nõustaja (kui see on asjakohane), puudutab sündmus, mis hõlmab pankroti, maksejõuetuse, saneerimismenetluse, likvideerimise, likvideerimise või likvideerimise, pandi- või tagatisõiguse jõustamise, sundüürnemise või muu õigusliku protsessi, mis hõlmab kogu või olulise osa tema varadest („Maksejõuetuse sündmus“); või (c) Teid puudutab sündmus või sündmuste sari, olenemata sellest, kas see on teie kontrolli all (sh ilma piiranguteta mis tahes oluline negatiivne muutus teie äris, varades või finantsseisundis / positsioonis või krediidireitingus), mille Vanward määrab oma ainuisikulises äranägemises võib halvasti mõjutada teie võimet täita oma kohustusi ühegi tehingu alusel.",
+    "terms and conditions 5" => "(i) Järgnevad kõik järgnevad võlanõuete sündmused (igaüks, „Võlanõuete sündmus“): (a) teie poolt makse tegemata jätmine (või teie saadaolevad vahendid on makse tegemiseks ebapiisavad) tehingu alusel nõutud makse tähtajaks, kui sellist rikkumist ei parandata esimese tööpäeva jooksul pärast Sunrisei sellise rikkumise teate saamist; (b) Teie, teie emaettevõtte, sidusettevõtte või investeerimisjuht / nõustaja (kui see on asjakohane), puudutab sündmus, mis hõlmab pankroti, maksejõuetuse, saneerimismenetluse, likvideerimise, likvideerimise või likvideerimise, pandi- või tagatisõiguse jõustamise, sundüürnemise või muu õigusliku protsessi, mis hõlmab kogu või olulise osa tema varadest („Maksejõuetuse sündmus“); või (c) Teid puudutab sündmus või sündmuste sari, olenemata sellest, kas see on teie kontrolli all (sh ilma piiranguteta mis tahes oluline negatiivne muutus teie äris, varades või finantsseisundis / positsioonis või krediidireitingus), mille Sunrise määrab oma ainuisikulises äranägemises võib halvasti mõjutada teie võimet täita oma kohustusi ühegi tehingu alusel.",
     "terms and conditions 6" => "Lõpetamise tagajärjed",
-    "terms and conditions 7" => "(i) Pärast lõpetamist vastavalt punktidele 2 ja 5 allpool on Vanwardil õigus lõpetada kõik teie ja Vanwardi vahelised väljapäävad tehingud. Vanward kasutab lõpetamisel kalkulatsioonimeetodit, mis on sätestatud 2002. aasta ISDA põhitingimuste 6. lõikes (e) (i), mille on avaldanud International Swaps and Derivatives Association, Inc. („ISDA leping“), et arvutada lõpetamisel tasumisele kuuluv summa („Varane lõpetamistasu“). Kui rakendatakse 2002. aasta ISDA põhitingimuste 6. lõike (e) (i), tähendab viide „Lõpetatud tehing“ iga selle punkti alusel lõpetamisele kuuluv tehing, „lõpetamisvaluuta“ on USA dollar, määrava osapoole „lõpetamissumma“ määratluses on Vanward ja „Varane lõpetamispäev“ on punktide 2 ja 5 alusel lõpetamise efektiivne kuupäev vastavalt asjaoludele. (ii) Vanward teavitab teid (või teie investeerimisjuhti / nõustajat, kui see on asjakohane) Varasest lõpetamistasust kirjalikult võimalikult kiiresti pärast lõpetamist. Kui Vanwardile võlgu olete Varase lõpetamistasu, maksate Vanwardile tema poolt määratud kontole. Kui summa on teile võlgu Vanwardile, maksab Vanward teile Varase lõpetamistasu absoluutväärtuse teie kontole. Sellised maksed tasutakse selle punkti kohaselt tehtud teatisega.", 
+    "terms and conditions 7" => "(i) Pärast lõpetamist vastavalt punktidele 2 ja 5 allpool on Sunriseil õigus lõpetada kõik teie ja Sunrisei vahelised väljapäävad tehingud. Sunrise kasutab lõpetamisel kalkulatsioonimeetodit, mis on sätestatud 2002. aasta ISDA põhitingimuste 6. lõikes (e) (i), mille on avaldanud International Swaps and Derivatives Association, Inc. („ISDA leping“), et arvutada lõpetamisel tasumisele kuuluv summa („Varane lõpetamistasu“). Kui rakendatakse 2002. aasta ISDA põhitingimuste 6. lõike (e) (i), tähendab viide „Lõpetatud tehing“ iga selle punkti alusel lõpetamisele kuuluv tehing, „lõpetamisvaluuta“ on USA dollar, määrava osapoole „lõpetamissumma“ määratluses on Sunrise ja „Varane lõpetamispäev“ on punktide 2 ja 5 alusel lõpetamise efektiivne kuupäev vastavalt asjaoludele. (ii) Sunrise teavitab teid (või teie investeerimisjuhti / nõustajat, kui see on asjakohane) Varasest lõpetamistasust kirjalikult võimalikult kiiresti pärast lõpetamist. Kui Sunriseile võlgu olete Varase lõpetamistasu, maksate Sunriseile tema poolt määratud kontole. Kui summa on teile võlgu Sunriseile, maksab Sunrise teile Varase lõpetamistasu absoluutväärtuse teie kontole. Sellised maksed tasutakse selle punkti kohaselt tehtud teatisega.", 
     "terms and conditions 8" => "Tasaarveldamine",
-    "terms and conditions 9" => "(i) Vanwardil on üldine tasaarveldamise õigus seoses kõigi teile vastavalt tehingule või muul viisil võlgu olevate summadega, kas need on maksmisele kuuluvad või mitte, ja olenemata sellest, kas on toimunud Võlanõuete sündmus ja/või kas tehing on lõpetatud. (ii) Vanwardi õigused käesoleva punkti alusel on lisaks ja mitte piiravalt ega välistavalt mistahes õigustele, mis Vanwardil võib olla (lepingu, seaduse või muul viisil).",
+    "terms and conditions 9" => "(i) Sunriseil on üldine tasaarveldamise õigus seoses kõigi teile vastavalt tehingule või muul viisil võlgu olevate summadega, kas need on maksmisele kuuluvad või mitte, ja olenemata sellest, kas on toimunud Võlanõuete sündmus ja/või kas tehing on lõpetatud. (ii) Sunrisei õigused käesoleva punkti alusel on lisaks ja mitte piiravalt ega välistavalt mistahes õigustele, mis Sunriseil võib olla (lepingu, seaduse või muul viisil).",
     "terms and conditions 10" => "Jõud majeur",
     "terms and conditions 11" => "Ükski pool ei vastuta ühelegi osapoolele jõud majeur sündmuse tõttu tekkivate kahjude või kahjude eest. Jõud majeur sündmus tähendab kõiki juhtumeid või sündmusi, mis on mõjutatud poole poolt („Mõjutatud pool“) mõistlikust kontrollist väljas (välja arvatud selle enda hooletus) ja mis mõjutab tõsiselt ja negatiivselt Mõjutatud poolt sellise Mõjutatud poole kohustuste (absoluutsete või tingimuslike) täitmist käesolevate tingimuste kohaselt, sealhulgas mis tahes sündmust, mis on põhjustatud, tekib või hõlmab (a) jumala poolt, (b) juhuslik, tulekahju, vee või tuule kahjustus või plahvatus, (c) arvuti, süsteemi või muu seadme tõrge või rike, mis on tingitud arvutiviirusest või suhtlusvahendi tõrkest või rikkest, (d) toitevarustuse või muu kasuliku teenuse katkestus, (e) streik või muu tööseisak, osaline või täielik, (f) sõja, terrorismi, rahutuste, ülestõusu või tsiviilrahutuste või muude majanduslike või poliitiliste tegurite põhjustatud akt või (g) maksude, lõivude või muude valuutade või tehingute mõjutavate tasude kehtestamine, (h) kehtiva seaduse muutus selliselt, et asjaõigus ei ole lubatud või õiguslikult võimatu või ebapraktiline, (i) mis tahes häire, peatamine või peatamine väärtpaberite, kaupade või valuutaturgudel või viivitus või häire tehingute täitmisel või asumisel, (j) mis tahes koormus või ebasoodsad mõjud valuuta või valuutapositsiooni üleandmisel valuuta reaalseks maksepäevaks tehingu, või (k) mis tahes muu sarnaselt mõjutatud poole mõistliku kontrolli alt väljas olev põhjus. Jõud majeur sündmuse korral võib mitte-Mõjutatud pool üles öelda mõjutatud tehingud kirjaliku teate teel Mõjutatud poolele kohe ja punktide 3 sätteid kohaldatakse selliste veel avatud mõjutatud tehingute suhtes.",
     "terms and conditions 12" => "Tehingute juhised, kinnitused ja asumise juhised",
-    "terms and conditions 13" => "(i) Tehingu juhiseid võib teile antud tingimustel anda Vanwardile ja vastavalt poolte vahel aeg-ajalt kokku lepitud tingimustele. Vanward võib toimida edasi uurimata mis tahes juhise järgi, mida Vanward tegelikult vastu võttis ja millele ta põhjendatult usub, heas usus, et see on teie poolt antud või teie nimel. (ii) Vanward püüab saata kinnituse 24 tunni jooksul tehingu sõlmimisest, vastavalt poolte vahel aeg-ajalt kokku lepitud tingimustele. Kui te ei teavita Vanwardi enne asumist mõistliku aja jooksul kaubanduse tagasivõtmiseks, et kinnitus on vale või et Tehingut ei olnud õigesti autoriseeritud, loetakse selline Tehing kehtivaks ja siduvaks. Vanwardi kinnituseta jätmine ühelgi põhjusel ei tee Vanwardi sõlmitud tehingut kehtetuks. (iii) Te edastate Vanwardile loetelu isikutest, kes on määratud kinnituste saajateks Vanwardilt, koos nende kontaktandmetega (nt postiaadressid, e-posti aadressid, faksinumbrid ja/või telefoninumbrid ja SWIFT-aadressid, kui asjakohane) formaadis, milles pooled kokku lepivad. Kuni te ei teata Vanwardile kirjalikult teisiti, on Vanwardil õigus tugineda mis tahes sellise kinnitatud isikute loendile (ja selles esitatud teabele), mille olete talle aeg-ajalt edastanud. Olete teadlik, et elektrooniline meilside (e-kiri) Interneti kaudu ja/või faksimeili edastused ei ole tagatud kättetoimetamismeetodid ja need võivad olla vastuvõtlikud info kaotusele, vigadele, ekslikule kättetoimetamisele, ekslikule edastamisele, kättetoimetamise viivitustele, kustutamisele ekslikult ja volitamata juurdepääsule ning kasutamisele kolmandate poolte poolt. Te olete veelgi teadlik, et faksi teel arusaadavate juhiste saamise vastuvõtmist ei saa tagada, et Vanward ei saa kinnitada, kas volitatud allkirjad faksiinstruktsioonil on originaalsed või õigesti kinnitatud. Sellest tulenevalt nõustute, et ei pea Vanwardi vastutavaks kõikide kahjude eest, mis on tekkinud mis tahes e-posti või faksiinstruktsiooni täitmisel.",
+    "terms and conditions 13" => "(i) Tehingu juhiseid võib teile antud tingimustel anda Sunriseile ja vastavalt poolte vahel aeg-ajalt kokku lepitud tingimustele. Sunrise võib toimida edasi uurimata mis tahes juhise järgi, mida Sunrise tegelikult vastu võttis ja millele ta põhjendatult usub, heas usus, et see on teie poolt antud või teie nimel. (ii) Sunrise püüab saata kinnituse 24 tunni jooksul tehingu sõlmimisest, vastavalt poolte vahel aeg-ajalt kokku lepitud tingimustele. Kui te ei teavita Sunrisei enne asumist mõistliku aja jooksul kaubanduse tagasivõtmiseks, et kinnitus on vale või et Tehingut ei olnud õigesti autoriseeritud, loetakse selline Tehing kehtivaks ja siduvaks. Sunrisei kinnituseta jätmine ühelgi põhjusel ei tee Sunrisei sõlmitud tehingut kehtetuks. (iii) Te edastate Sunriseile loetelu isikutest, kes on määratud kinnituste saajateks Sunriseilt, koos nende kontaktandmetega (nt postiaadressid, e-posti aadressid, faksinumbrid ja/või telefoninumbrid ja SWIFT-aadressid, kui asjakohane) formaadis, milles pooled kokku lepivad. Kuni te ei teata Sunriseile kirjalikult teisiti, on Sunriseil õigus tugineda mis tahes sellise kinnitatud isikute loendile (ja selles esitatud teabele), mille olete talle aeg-ajalt edastanud. Olete teadlik, et elektrooniline meilside (e-kiri) Interneti kaudu ja/või faksimeili edastused ei ole tagatud kättetoimetamismeetodid ja need võivad olla vastuvõtlikud info kaotusele, vigadele, ekslikule kättetoimetamisele, ekslikule edastamisele, kättetoimetamise viivitustele, kustutamisele ekslikult ja volitamata juurdepääsule ning kasutamisele kolmandate poolte poolt. Te olete veelgi teadlik, et faksi teel arusaadavate juhiste saamise vastuvõtmist ei saa tagada, et Sunrise ei saa kinnitada, kas volitatud allkirjad faksiinstruktsioonil on originaalsed või õigesti kinnitatud. Sellest tulenevalt nõustute, et ei pea Sunrisei vastutavaks kõikide kahjude eest, mis on tekkinud mis tahes e-posti või faksiinstruktsiooni täitmisel.",
     "terms and conditions 14" => "Elektroonilised teatised",
-    "terms and conditions 15" => "Olete nõus kõigi elektrooniliste teadete (sh e-posti, häälposti, telefonikõnede ja veebikasutuse) jälgimise ja salvestamisega teie ja Vanwardi vahel ning nõustute (i) teavitama (ja vajaduse korral saama nõusoleku) nende töötajaid ja ametnikke sellise salvestamise ja jälgimise kohta, kui see on seadusega nõutud; ja (ii) et selliseid salvestusi võib esitada tõenditena mis tahes kohtus või Tehinguga seotud mis tahes õigusprotsessis.",
+    "terms and conditions 15" => "Olete nõus kõigi elektrooniliste teadete (sh e-posti, häälposti, telefonikõnede ja veebikasutuse) jälgimise ja salvestamisega teie ja Sunrisei vahel ning nõustute (i) teavitama (ja vajaduse korral saama nõusoleku) nende töötajaid ja ametnikke sellise salvestamise ja jälgimise kohta, kui see on seadusega nõutud; ja (ii) et selliseid salvestusi võib esitada tõenditena mis tahes kohtus või Tehinguga seotud mis tahes õigusprotsessis.",
     "terms and conditions 16" => "Üleandmine, integreerimine, kvalifitseeruv finantsleping",
-    "terms and conditions 17" => 'Selle lepingu või käesolevate tingimuste mis tahes teie õiguste või kohustuste üleandmine ei ole lubatud ilma Vanwardi eelneva kirjaliku nõusolekuta, ning selline väidetav üleandmine või ülekanne ilma Vanwardi eelneva kirjaliku nõusolekuta ei oma jõudu. See leping on teile siduv ning/või teie pärijatele, täituritele, halduritele, õigusjärglastele ja määratutele. Ajaline aspekt on kõigi teie soorituste jaoks oluline. Käesolev leping koos kõigi Tehingute ja valikute ning Vanwardi ja teie vahel moodustavad ühe integreeritud lepingu (vaatamata Vanwardi õigusele pidada igat tehingut eraldi lepinguks viienda punkti eespool). Käesolev leping moodustab "kvalifitseeruva finantslepingu" selle mõiste tähenduses, nagu on määratletud New Yorgi üldiste kohustuste seaduses ja ühtses kaubanduskoodeksis ning on lõplik väljendus Vanwardi ja teie vahelise kokkuleppe kohta käesoleva tagaküljel loetletud tehingute suhtes.',
+    "terms and conditions 17" => 'Selle lepingu või käesolevate tingimuste mis tahes teie õiguste või kohustuste üleandmine ei ole lubatud ilma Sunrisei eelneva kirjaliku nõusolekuta, ning selline väidetav üleandmine või ülekanne ilma Sunrisei eelneva kirjaliku nõusolekuta ei oma jõudu. See leping on teile siduv ning/või teie pärijatele, täituritele, halduritele, õigusjärglastele ja määratutele. Ajaline aspekt on kõigi teie soorituste jaoks oluline. Käesolev leping koos kõigi Tehingute ja valikute ning Sunrisei ja teie vahel moodustavad ühe integreeritud lepingu (vaatamata Sunrisei õigusele pidada igat tehingut eraldi lepinguks viienda punkti eespool). Käesolev leping moodustab "kvalifitseeruva finantslepingu" selle mõiste tähenduses, nagu on määratletud New Yorgi üldiste kohustuste seaduses ja ühtses kaubanduskoodeksis ning on lõplik väljendus Sunrisei ja teie vahelise kokkuleppe kohta käesoleva tagaküljel loetletud tehingute suhtes.',
     "terms and conditions 18" => "Kohtualluvus ja kohaldatav õigus",
-    "terms and conditions 19" => "Käesolevat lepingut ja tehinguid teie ja Vanwardi vahel reguleerivad ja tõlgendatakse vastavalt New Yorgi osariigi seadustele, viitamata ühelegi õigusvalikureeglile. Vanward ja teie alluvad lõplikule (a) New Yorgi osariigis asuva kohtu ja Ameerika Ühendriikide ringkonnakohtu mitteeksklusiivsele kohtualluvusele, mis asub New Yorgi linnaosas Manhattanis, (b) loobuvad mis tahes vastuväitest kohtualluvuse kohta sellistes kohtutes, (c) loobuvad igasugusest väitest, et selline kohtuasi, hagi või menetlus mis tahes sellises kohtus on algatatud ebamugavas foorumis, (d) loobuvad õigusest vastuväita, et mis tahes sellisel kohtul puudub kohtualluvus Vanwardi või teie üle, olenevalt juhtumist, (e) loobuvad õigusest žürii poolt uurimiseks, hagiks või menetluseks ja (f) nimetavad New Yorgi osariigi peasekretäri oma dokumendiesindajaks (tingimusel, et Vanward ja teie võivad kirjaliku teate teel teistele oma dokumendiesindaja määrata, kes asub Manhattanis).",
+    "terms and conditions 19" => "Käesolevat lepingut ja tehinguid teie ja Sunrisei vahel reguleerivad ja tõlgendatakse vastavalt New Yorgi osariigi seadustele, viitamata ühelegi õigusvalikureeglile. Sunrise ja teie alluvad lõplikule (a) New Yorgi osariigis asuva kohtu ja Ameerika Ühendriikide ringkonnakohtu mitteeksklusiivsele kohtualluvusele, mis asub New Yorgi linnaosas Manhattanis, (b) loobuvad mis tahes vastuväitest kohtualluvuse kohta sellistes kohtutes, (c) loobuvad igasugusest väitest, et selline kohtuasi, hagi või menetlus mis tahes sellises kohtus on algatatud ebamugavas foorumis, (d) loobuvad õigusest vastuväita, et mis tahes sellisel kohtul puudub kohtualluvus Sunrisei või teie üle, olenevalt juhtumist, (e) loobuvad õigusest žürii poolt uurimiseks, hagiks või menetluseks ja (f) nimetavad New Yorgi osariigi peasekretäri oma dokumendiesindajaks (tingimusel, et Sunrise ja teie võivad kirjaliku teate teel teistele oma dokumendiesindaja määrata, kes asub Manhattanis).",
     "terms and conditions 20" => "Ettevõtted",
     // alternative funds
-   "alternative funds 1"  => "Vanward on juhtiv ülemaailmne teenusepakkuja alternatiivsetele fondidele. Hetkel teenindame üle 275 miljardi dollarilise varahulga alternatiivsetes varaklassides, pakkudes terviklikku hoiumise, administreerimise ja sellega seotud teenuseid kõigile peamistele alternatiivsetele varaklassidele ja strateegiatele kolme laia kategooria raames:",
+   "alternative funds 1"  => "Sunrise on juhtiv ülemaailmne teenusepakkuja alternatiivsetele fondidele. Hetkel teenindame üle 275 miljardi dollarilise varahulga alternatiivsetes varaklassides, pakkudes terviklikku hoiumise, administreerimise ja sellega seotud teenuseid kõigile peamistele alternatiivsetele varaklassidele ja strateegiatele kolme laia kategooria raames:",
     "alternative funds 2"  => "Hedge- ja muud likviidsed strateegiad",
     "alternative funds 3"  => "Meie pakkumine aitab klientidel juhtida alternatiivsete fondide valdkonna keerukust, kasvada ja konkureerida globaalselt ning pakkuda ülimat teenindust oma enda alustavatele klientidele.",
     "alternative funds 4"  => "Kasvu võimaldamine",
-    "alternative funds 5"  => "Vanward töötab koos Ameerika, Euroopa ja Aasia juhtide ja investoritega. Meie kogemus teenindamisel nii traditsioonilisi kui ka alternatiivseid varasid mõne maailma kõige keerukamate varahaldurite jaoks võimaldab meil tõesti mõista globaalse ja keeruka tootevaliku teenindusnõudeid.
+    "alternative funds 5"  => "Sunrise töötab koos Ameerika, Euroopa ja Aasia juhtide ja investoritega. Meie kogemus teenindamisel nii traditsioonilisi kui ka alternatiivseid varasid mõne maailma kõige keerukamate varahaldurite jaoks võimaldab meil tõesti mõista globaalse ja keeruka tootevaliku teenindusnõudeid.
                                 <br><br>
                                 Oleme välja töötanud skaalautuva ja integreeritud platvormi hedge-, reaalvarade, erasektori aktsiate ja võlakirjafondide jaoks, võimaldades meie klientidel nautida ühtse globaalse platvormi eeliseid.",
     "alternative funds 6"  => "Teie brändi kaitsemine",
-    "alternative funds 7"  => "Vanwardi edu sõltub meie klientide omast ja keskendume nende äri ja maine kaitsmisele sama innukalt kui oma omale. Alternatiivsete investeerimisfondide operatiivprotsesside juhtimisel lähtume erakapitalil põhineva ja hoolikalt juhitud ettevõtte põhimõtetest, millel on tugev riskijuhtimise kultuur.
+    "alternative funds 7"  => "Sunrisei edu sõltub meie klientide omast ja keskendume nende äri ja maine kaitsmisele sama innukalt kui oma omale. Alternatiivsete investeerimisfondide operatiivprotsesside juhtimisel lähtume erakapitalil põhineva ja hoolikalt juhitud ettevõtte põhimõtetest, millel on tugev riskijuhtimise kultuur.
                                 <br><br>
                                 Korraldame meie teenindusmudeli vastavalt kliendi vajadustele, kasutades ühtset ülemaailmset meeskonda, mis hõlmab funktsioone nagu hoiumine, raamatupidamine, ülekandekontor ja finantsaruandlus. See lihtsustab operatiivseid nõudeid ning tagab järjepideva ja kvaliteetse teeninduse ja aruandluse nii meie klientidele kui ka nende investoritele, sõltumata nende asukohast või ajavööndist.",
     "alternative funds 8"  => "Läbipaistvus ja ausus",
     "alternative funds 9"  => "Läbipaistvus on alternatiivsete varade ja strateegiate investorite jaoks äärmiselt oluline. Me keskendume investorite abistamisele ja meie tehnoloogiaplatvormid pakuvad komplekssete investorivajaduste täitmiseks vajalikku aruandluse üksikasjalikkust.
                                 <br><br>
-                                Partnersusena on Vanwardil isiklikum lähenemine meie kliendisuhtluse haldamisele, pakkudes otsest juurdepääsu ettevõtte omanikele ja juhtidele. See soodustab avatumat ja läbipaistvamat lähenemisviisi.",
+                                Partnersusena on Sunriseil isiklikum lähenemine meie kliendisuhtluse haldamisele, pakkudes otsest juurdepääsu ettevõtte omanikele ja juhtidele. See soodustab avatumat ja läbipaistvamat lähenemisviisi.",
     "alternative funds 10"  => "Ettevõtted",
     "alternative funds 11"  => "Ettevõtted",
     "alternative funds 12"  => "Ettevõtted",
@@ -1433,12 +1433,12 @@ Kas kauplemislepepool on Kanada kohalik vastapool.
     // consultants and advisors
     "consultants and advisors 1" => "Konsultandid ja nõustajad mängivad meie klientide strateegiliste otsuste tegemisprotsessides üha olulisemat rolli, samuti ka meie enda kaasamises sellesse valdkonda.
     <br><br>
-    Vanward on loonud distsipliini konsultantide ja nõustajatega suhtlemisel kahe peamise eesmärgiga:",
+    Sunrise on loonud distsipliini konsultantide ja nõustajatega suhtlemisel kahe peamise eesmärgiga:",
     "consultants and advisors 2" => "Tagada konsultantidele ja nõustajatele vajalikud töövahendid, et aidata oma klientidel rahuldada muutuvaid ja arenevaid vajadusi.",
     "consultants and advisors 3" => "Pakkuda platvormi tööstuslike teadmiste ja informatsiooni vahetamiseks seoses võimekuse, ekspertiisi ja teenustega.",
     "consultants and advisors 4" => "Ettevõtted",
     // cross border funds
-    "cross border funds 1"  => "Vanward on ristpiiri fondide teenindamise spetsialist. Usume ristpiiri jaotusturgude pidevasse kasvu ja oleme selle muutnud oma firma peamiseks fookuseks.",
+    "cross border funds 1"  => "Sunrise on ristpiiri fondide teenindamise spetsialist. Usume ristpiiri jaotusturgude pidevasse kasvu ja oleme selle muutnud oma firma peamiseks fookuseks.",
     "cross border funds 2"  => "ning sellega seotud teenuseid paljudele edukatele rahvusvahelistele ristpiiri varahalduritele. Selle käigus oleme välja töötanud põhjaliku arusaamise keerulistest fondi struktuuridest, mis on jaotatud kogu maailmas.",
     "cross border funds 3" => "aitab halduritel juurdepääsu kapitali kontsentreerumisele ülemaailmselt, keskendudes",
     "cross border funds 4" => "domeenitud UCITS-ile ja mitte-UCITS-ile, Ameerika Ühendriikide, Caymani ja Hongkongi domeenitud fondidele.",
@@ -1465,13 +1465,13 @@ Kas kauplemislepepool on Kanada kohalik vastapool.
     "cross border funds 17" => "Ettevõtted",
     "cross border funds 18" => "Ettevõtted",
     // distribution intelligence
-    "distribution intelligence 1" => "Vanwardi jaoks on",
+    "distribution intelligence 1" => "Sunrisei jaoks on",
     "distribution intelligence 2" => "ristpiiri fondide teenindamine",
-    "distribution intelligence 3" => "Vanwardi jaotusintellekti teenused on loodud abistama varahaldureid nende jaotusstrateegia väljatöötamises, elluviimises ja hindamises.",
+    "distribution intelligence 3" => "Sunrisei jaotusintellekti teenused on loodud abistama varahaldureid nende jaotusstrateegia väljatöötamises, elluviimises ja hindamises.",
     "distribution intelligence 4" => "Strateegia väljatöötamine: Turuanalüüs",
     "distribution intelligence 5" => "Töötades koos paljude edukate ristpiiri varahalduritega üle maailma, oleme välja töötanud konkreetse piirkondliku ekspertiisi, mis võimaldab meil pakkuda ülevaateid ja teadmisi, mis vastavad klientide vajadustele turule sisenemise, jaotuskanalite, konkurentsimaastiku ja varavoogude osas.",
     "distribution intelligence 6" => "Strateegia elluviimine: Operatiivne tugi",
-    "distribution intelligence 7" => "Vanward pakub unikaalset",
+    "distribution intelligence 7" => "Sunrise pakub unikaalset",
     "distribution intelligence 8" => "mis võimaldab varahalduritel jaotada oma tooteid mitmes turul. Selle mudeli tuumikuks on meie üks tehnoloogia platvorm, mis viib kõrge globaalse integratsiooni ja koordineerimiseni.",
     "distribution intelligence 9" => "pakkumine on meie jaotuse toe mudeli alustalaks, võimaldades täielikult kohandatud kliendi hõivamise tuge tipptasemel tehnoloogiaga.",
     "distribution intelligence 10" => "sõnumside ja ühenduvuse platvorm on kasutusel, et ühtlustada, tõlkida ja edastada elektroonilisi andmeid fondide jaotuse tõhususe hõlbustamiseks.",
@@ -1479,34 +1479,34 @@ Kas kauplemislepepool on Kanada kohalik vastapool.
     "distribution intelligence 12" => "Strateegia hindamine: Andmeanalüüs",
     "distribution intelligence 13" => "Varahaldurid peavad jälgima ja regulaarselt hindama oma jaotusstrateegia edukust. Kliendi transfer agency andmete põhjal ja võrreldes neid turuandmetega, saame aidata hinnata jaotuskanalite jõudlust üksikutes turgudes.",
     // exchange traded funds
-    "exchange traded funds 1" => "Vanward on ülemaailmse ETF-turu varahalduse juhtiv pakkujalt. Vanward on ETF-spetsialist Ameerika Ühendriikides, Euroopas ja Aasias asutatud toodete osas ning teeb koostööd nii kogenud ETF-haldurite kui ka uute, innovaatiliste turule sisenejatega nende ETF-toodete tutvustamiseks ja kasvatamiseks.",
+    "exchange traded funds 1" => "Sunrise on ülemaailmse ETF-turu varahalduse juhtiv pakkujalt. Sunrise on ETF-spetsialist Ameerika Ühendriikides, Euroopas ja Aasias asutatud toodete osas ning teeb koostööd nii kogenud ETF-haldurite kui ka uute, innovaatiliste turule sisenejatega nende ETF-toodete tutvustamiseks ja kasvatamiseks.",
     "exchange traded funds 2" => "Sügav ja mitmekülgne tooteekspertiis",
-    "exchange traded funds 3" => "Meie meeskond koosneb ETF-tööstuse erinevate valdkondade spetsialistidest, Vanward hoiab ekspertiisi kogu füüsiliste (in spektsie) ja sünteetiliste ETF-ide ja börsil kaubeldavate toodete (ETP) struktuuride valdkonnas. Meie klientide strateegiates kasutatakse aktiivseid, passiivseid ja kvantitatiivseid ETF-strateegiaid. Meie teenindame nii arenevaid kui arenenud aktsiaid ja fikseeritud tulusid, vastupidiseid/võimendusega, valuuta- ja kaubanduslikke ETF-tooteid.",
+    "exchange traded funds 3" => "Meie meeskond koosneb ETF-tööstuse erinevate valdkondade spetsialistidest, Sunrise hoiab ekspertiisi kogu füüsiliste (in spektsie) ja sünteetiliste ETF-ide ja börsil kaubeldavate toodete (ETP) struktuuride valdkonnas. Meie klientide strateegiates kasutatakse aktiivseid, passiivseid ja kvantitatiivseid ETF-strateegiaid. Meie teenindame nii arenevaid kui arenenud aktsiaid ja fikseeritud tulusid, vastupidiseid/võimendusega, valuuta- ja kaubanduslikke ETF-tooteid.",
     "exchange traded funds 4" => "Konsulteerimine klientidega kontseptsioonist elluviimiseni",
-    "exchange traded funds 5" => "Vanwardi spetsialistid konsulteerivad ETF-toetajatega mitmete seotud õiguslike, uurimis- ja projektijuhtimise probleemide osas seoses ETF-toodete käivitamise ja kasvatamisega. Meie kliendid saavad kasu:",
+    "exchange traded funds 5" => "Sunrisei spetsialistid konsulteerivad ETF-toetajatega mitmete seotud õiguslike, uurimis- ja projektijuhtimise probleemide osas seoses ETF-toodete käivitamise ja kasvatamisega. Meie kliendid saavad kasu:",
     "exchange traded funds 6" => "Ekspertiis ETF-i eellansseerimise protsessis ning mitmetes varaklassides ja geograafiates",
     "exchange traded funds 7" => "Sügavad suhted börsil kauplemise kohtadega, levitajatega ja autoriseeritud osalistega",
     "exchange traded funds 8" => "Kogemused ja teadmised ülemaailmse ETF-tööstuse kohta teemakohaste ekspertide kaudu, kes on pärit fondide tutvustajatelt, teenuseosutajatelt, indeksite pakkujatelt, kauplemis- ja tehnoloogiafirmadelt",
     "exchange traded funds 9" => "Käed-külge, nõustav lähenemine klientidele teenindamisel",
     "exchange traded funds 10" => "Skaleeritav ja paindlik ETF-spetsiifiline tehnoloogia",
-    "exchange traded funds 11" => "Vanward on teinud strateegilise otsuse investeerida kohandatud, turule juhtiva tehnoloogiaplatvormi arendamisse, mis on spetsiaalselt loodud ETF-ide teenindamiseks:",
+    "exchange traded funds 11" => "Sunrise on teinud strateegilise otsuse investeerida kohandatud, turule juhtiva tehnoloogiaplatvormi arendamisse, mis on spetsiaalselt loodud ETF-ide teenindamiseks:",
     "exchange traded funds 12" => "ETF ConnectTM, mis pakub veebipõhist juurdepääsu kliendi andmetele, aruandlusele ja muudele võimsatele tööriistadele ärijuhtimise edendamiseks",
     "exchange traded funds 13" => "AP ExchangeTM, mis pakub kauplemisfunktsionaalsust ja paindlikkust saata ja jälgida, luua ja lunastada toiminguid",
-    "exchange traded funds 14" => "ETF Star, ETF-spetsiifiline platvorm, mis on täielikult integreeritud Vanwardi põhitehingute süsteemiga ja keskendub korvile ja Portfelli Koostise Faili (PCF) koostamisele",
+    "exchange traded funds 14" => "ETF Star, ETF-spetsiifiline platvorm, mis on täielikult integreeritud Sunrisei põhitehingute süsteemiga ja keskendub korvile ja Portfelli Koostise Faili (PCF) koostamisele",
     // insurance
     "insurance 1" => "(Re)kindlustusettevõtted seisavad silmitsi kiiresti muutuva turukeskkonnaga, mida iseloomustavad rangemad kapitali adekvaatsuse nõuded, reservide halvenemine, piiratud finantspaindlikkus ja pikaajaline madala intressimäära keskkond. Samal ajal on parem tulemuslikkus, suurenenud tõhusus ja parendatud ettevõtte riskijuhtimine muutunud prioriteetideks, lähtudes klientide suurenenud nõudmistest.
 <br><br>
-Vanward aitab ettevõtetel neid prioriteete täita, samal ajal juhtides keerukust pidevalt muutuval turul. Ühendame toote-, turu- ja regulatiivse ekspertiisi tõestatud tehnoloogia ja teeninduse suurepärasusega, et pakkuda erilahendusi, mis vastavad meie klientide erilistele ärivajadustele.",
+Sunrise aitab ettevõtetel neid prioriteete täita, samal ajal juhtides keerukust pidevalt muutuval turul. Ühendame toote-, turu- ja regulatiivse ekspertiisi tõestatud tehnoloogia ja teeninduse suurepärasusega, et pakkuda erilahendusi, mis vastavad meie klientide erilistele ärivajadustele.",
     "insurance 2" => "Integreeritud ja moodulaarne ülemaailmne teenuste valik",
-    "insurance 3" => "Kas (re)kindlustusettevõtted otsivad täielikult integreeritud lahendust või konkreetseid teenuseid moodulipõhiselt, saavad nad kasutada Vanwardi laia tootevalikut, et toetada oma ülemaailmseid teenindus- ja investeerimise eesmärke. Kogemustega maailma kõige keerukamate varahaldurite teenindamisel toetab meie pühendunud (re)kindlustusmeeskond kliente riski minimeerimisel, kulude optimeerimisel ja nende ainulaadsete varakohustuste, raamatupidamise, tagatiste, reguleerimisalaste vajaduste ja aruandluse haldamisel.",
+    "insurance 3" => "Kas (re)kindlustusettevõtted otsivad täielikult integreeritud lahendust või konkreetseid teenuseid moodulipõhiselt, saavad nad kasutada Sunrisei laia tootevalikut, et toetada oma ülemaailmseid teenindus- ja investeerimise eesmärke. Kogemustega maailma kõige keerukamate varahaldurite teenindamisel toetab meie pühendunud (re)kindlustusmeeskond kliente riski minimeerimisel, kulude optimeerimisel ja nende ainulaadsete varakohustuste, raamatupidamise, tagatiste, reguleerimisalaste vajaduste ja aruandluse haldamisel.",
     "insurance 4" => "Tehnoloogia toel",
-    "insurance 5" => "Integreeritud, paindlikud tehnoloogiarakendused on kesksel kohal, et pakkuda klientidele ülimat teenusekogemust. Olenemata asukohast, on Vanwardi teenindusmeeskondadel juurdepääs samadele süsteemidele ja reaalajas teabele, tagades kiire päringutele vastamise ja pideva parendamise.
+    "insurance 5" => "Integreeritud, paindlikud tehnoloogiarakendused on kesksel kohal, et pakkuda klientidele ülimat teenusekogemust. Olenemata asukohast, on Sunrisei teenindusmeeskondadel juurdepääs samadele süsteemidele ja reaalajas teabele, tagades kiire päringutele vastamise ja pideva parendamise.
                     <br><br>
-                    Kuna Vanward on NAIC-i heaks kiidetud pank, pakume järgmisi teenuseid:",
+                    Kuna Sunrise on NAIC-i heaks kiidetud pank, pakume järgmisi teenuseid:",
     "insurance 6" => "Ettevõtted",
     "insurance 7" => "Ettevõtted",
     // regulatory intelligence
-    "regulatory intelligence 1" => "Regulatiivsed muudatused on organisatsioonide strateegilise planeerimisprotsessi oluline osa. Et aidata klientidel reageerida regulatiivsetele muutustele, omab Vanward pühendunud Regulatiivse Inteligentsi meeskond.
+    "regulatory intelligence 1" => "Regulatiivsed muudatused on organisatsioonide strateegilise planeerimisprotsessi oluline osa. Et aidata klientidel reageerida regulatiivsetele muutustele, omab Sunrise pühendunud Regulatiivse Inteligentsi meeskond.
                                     <br><br>
                                     Regulatiivse Inteligentsi meeskond vastutab oluliste regulatiivsete arengute tuvastamise, analüüsimise ja edastamise eest. Tagame, et kliendid on informeeritud regulatiivsetest arengutest, et saaksime neid aitama muudatustele õigesti reageerida ja neid juhtida.
                                     <br><br>
@@ -1514,18 +1514,18 @@ Vanward aitab ettevõtetel neid prioriteete täita, samal ajal juhtides keerukus
     "regulatory intelligence 2" => "Ettevõtted",
     "regulatory intelligence 3" => "Ettevõtted",
     // USA fondid
-    "us funds 1" => 'Vanward on juhtiv lahenduste pakkuja USA fondidele. Meie lahendused vastavad klientide arenevatele vajadustele nii kesk- kui tagakontoris. Meie ühe tehnoloogia platvorm ja ainulaadne klienditeeninduse kogemus aitavad lihtsustada klientide operatiivseid protsesse, kaitsta tulemuslikkust ja pakkuda usaldusväärset alust kasvamiseks.
+    "us funds 1" => 'Sunrise on juhtiv lahenduste pakkuja USA fondidele. Meie lahendused vastavad klientide arenevatele vajadustele nii kesk- kui tagakontoris. Meie ühe tehnoloogia platvorm ja ainulaadne klienditeeninduse kogemus aitavad lihtsustada klientide operatiivseid protsesse, kaitsta tulemuslikkust ja pakkuda usaldusväärset alust kasvamiseks.
                       <br> <br>
                       Töötame selle nimel, et aidata klientidel vähendada kulusid ja hallata riske tänu kõikehõlmavatele moodulitel põhinevatele lahendustele, mis aitavad saavutada operatiivset efektiivsust ja konkurentsieelist järgmistes olulistes valdkondades:',
 "us funds 2" => "Kasvu võimaldamine",
-"us funds 3" => "Vanwardi kogemus kõigi varaklasside teenindamisel maailma kõige keerukamate varahaldurite jaoks võimaldab meil tõesti mõista meie USA fondiklientide arenevaid nõudeid. Oleme loonud ühe tehnoloogia platvormi, mis toetab meie klientide vajadusi ja pakub läbimõeldud lähenemist, mis aitab neil täita kasvueesmärke läbi lihtsustatud tehnoloogia pakkumiste.",
+"us funds 3" => "Sunrisei kogemus kõigi varaklasside teenindamisel maailma kõige keerukamate varahaldurite jaoks võimaldab meil tõesti mõista meie USA fondiklientide arenevaid nõudeid. Oleme loonud ühe tehnoloogia platvormi, mis toetab meie klientide vajadusi ja pakub läbimõeldud lähenemist, mis aitab neil täita kasvueesmärke läbi lihtsustatud tehnoloogia pakkumiste.",
 "us funds 4" => "Brändi kaitse",
-"us funds 5" => "Oleme erakapitalil põhinev ja juhitud organisatsioon, Vanwardi edu sõltub meie klientidest ja me pühendume nende ettevõtete ja maine kaitsmisele sama palju kui omaenda. Juhtides operatiivseid protsesse USA fondide jaoks, järgime distsiplineeritud mõtlemist ja rangeid riskijuhtimise põhimõtteid.",
+"us funds 5" => "Oleme erakapitalil põhinev ja juhitud organisatsioon, Sunrisei edu sõltub meie klientidest ja me pühendume nende ettevõtete ja maine kaitsmisele sama palju kui omaenda. Juhtides operatiivseid protsesse USA fondide jaoks, järgime distsiplineeritud mõtlemist ja rangeid riskijuhtimise põhimõtteid.",
 "us funds 6" => "Efektiivsuse avastamine",
-"us funds 7" => "Vanward pühendub mõõdetavalt parema klienditeeninduse kogemuse pakkumisele. Meie teenindusmeeskonnad pääsevad juurde samadele süsteemidele ja reaalajas teabele kogu maailmas, pakkudes ühtset platvormi efektiivsuse ja järjepidevuse tagamiseks. See integreeritud mudel lihtsustab operatiivseid nõudeid ja pakub järjekindlat ja kvaliteetset aruandlust nii meie klientidele kui ka nende investoritele",
+"us funds 7" => "Sunrise pühendub mõõdetavalt parema klienditeeninduse kogemuse pakkumisele. Meie teenindusmeeskonnad pääsevad juurde samadele süsteemidele ja reaalajas teabele kogu maailmas, pakkudes ühtset platvormi efektiivsuse ja järjepidevuse tagamiseks. See integreeritud mudel lihtsustab operatiivseid nõudeid ja pakub järjekindlat ja kvaliteetset aruandlust nii meie klientidele kui ka nende investoritele",
 "us funds 8" => "Ettevõtted",
 // hedge funds
-"hedge funds 1" => "Vanward on juhtiv globaalne teenusepakkuja alternatiivsete fondide jaoks, millel on üle 275 miljardi dollari suurune varade haldamine.
+"hedge funds 1" => "Sunrise on juhtiv globaalne teenusepakkuja alternatiivsete fondide jaoks, millel on üle 275 miljardi dollari suurune varade haldamine.
                       <br> <br>
                       Toetame 22 miljardi dollari suuruse varahaldusega hedgefondi strateegiaid, sealhulgas traditsioonilisi hedgefonde ja muid likviidseid alternatiive, ning oleme kogenud struktuuri- ja operatiivsete nõuete käitlemisel, mis on nende fondide tüüpilised.
                       <br> <br>
@@ -1538,7 +1538,7 @@ Vanward aitab ettevõtetel neid prioriteete täita, samal ajal juhtides keerukus
     // "hedge funds 5" => "Ettevõtted",
     // "hedge funds 6" => "Ettevõtted",
     // private equity specialist
-"private equity specialist 1" => "Vanward on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.
+"private equity specialist 1" => "Sunrise on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.
                       <br> <br>
                       Teenindades 73 miljardit dollarit erasektori riskifonde, omame ekspertiisi erinevate struktuuride ja
                       jurisdiktsioonide osas, mida kasutavad maailma parimad erasektori riskifondide haldurid.
@@ -1552,18 +1552,18 @@ Vanward aitab ettevõtetel neid prioriteete täita, samal ajal juhtides keerukus
 "private equity specialist 3" => "Ettevõtted",
 "private equity specialist 4" => "Ettevõtted",
 // Reaalsed varad ja infrastruktuur
-"real assets & infrastructure 1" => "Vanward on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.<br> <br>
-Alates 2004. aastast kuni tänaseni toetab Vanward 53 miljardi dollari suuruse varahaldusega mõne maailma kõige
+"real assets & infrastructure 1" => "Sunrise on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.<br> <br>
+Alates 2004. aastast kuni tänaseni toetab Sunrise 53 miljardi dollari suuruse varahaldusega mõne maailma kõige
 arenenuma kinnisvara ja infrastruktuuri halduri vara investeerimist Euroopas, Ameerika Ühendriikides ja Aasias.
 <br> <br>
 Kasutades oma põhitegevuse kompetentsi halduses, raamatupidamises, hoolduses, üleandmises ja kodumaal ning omades
-pühendunud teenindus- ja äriintegreerimismeeskondi, aitab Vanward klientidel toimida keerukate kinnisvara ja
+pühendunud teenindus- ja äriintegreerimismeeskondi, aitab Sunrise klientidel toimida keerukate kinnisvara ja
 infrastruktuuri fondidega.
 <br> <br>
 Meil on juhtiv turuosa Luxembourgis registreeritud kinnisvarainvesteeringute fondide teenindamisel, millel on enam
 kui 15-aastane ajalugu, mis aitab halduritel selles olulises fondi päritolukohas. ",
 // Süinditsüklilised ja päritud võlad
-"syndicated and originated debt 1" => "Vanward on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.
+"syndicated and originated debt 1" => "Sunrise on juhtiv globaalne teenusepakkuja alternatiivsetele fondidele, mille varade haldamine on üle 275 miljardi dollari.
 <br> <br>
 Teenindades 72 miljardit dollarit süinditsükliliste võlakirjafondide ja 33 miljardit dollarit päritud võlakirjafondide eest,
 omame ekspertiisi kõigi erinevate struktuuride ja jurisdiktsioonide osas, mida nii traditsioonilised kui ka
@@ -1573,7 +1573,7 @@ Pakume klientidele spetsialiseeritud võlgade töötlemise teenust, mis hõlmab 
 Meie võlakirjade teenindusmudel on täielikult integreeritud meie põhivarahalduse platvormiga, mis tagab tõhusa ja
 lihtsustatud teeninduskogemuse halduritele, kes vajavad teenindust kogu oma fondivalikus.
 <br> <br>
-Vanward usub, et see on alternatiivsetele halduritele oluline kasvuala ja on investeerinud tehnoloogiasse ja
+Sunrise usub, et see on alternatiivsetele halduritele oluline kasvuala ja on investeerinud tehnoloogiasse ja
 inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguvad sellesse valdkonda ja kasvatavad oma portfelle.",
 "syndicated and originated debt 2" => "Ettevõtted",
 "syndicated and originated debt 3" => "Ettevõtted",
@@ -1581,7 +1581,7 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     // dublin
     "dublin 1"  => "Üks edukamaid piiriüleseid fondide koduriike, Iirimaa on maailma juhtivate piiriüleste varahaldurite jaoks oluline strateegiline asukoht. Juhtide jaoks on oluline partnerdada kogenud teenusepakkujaga, et arendada oma globaalset teenindusinfrastruktuuri ja toetada tulevast kasvu.",
     "dublin 2"  => "Juhtiv Dublini teenusepakkuja",
-    "dublin 3"  => "Vanward on Iiri turul alates 1995. aastast ning on toetanud Iiri fonditööstuse kasvu selle loomisest saadik. Oleme nüüd üks riigi juhtivaid teenusepakkujaid, pakkudes oma täielikku varahaldusteenuste paketti Dublinis asuvatele UCITS-ile ja mitte-UCITS-ile.
+    "dublin 3"  => "Sunrise on Iiri turul alates 1995. aastast ning on toetanud Iiri fonditööstuse kasvu selle loomisest saadik. Oleme nüüd üks riigi juhtivaid teenusepakkujaid, pakkudes oma täielikku varahaldusteenuste paketti Dublinis asuvatele UCITS-ile ja mitte-UCITS-ile.
                     <br><br>
                     Oleme spetsialiseerunud oma klientide abistamisele piiriülese fonditeeninduse keerukuse haldamisel, eriti UCITS-i, RQFII, ETF-i ja alternatiivsete fondistruktuuride valdkonnas.
                     <br><br>
@@ -1589,11 +1589,11 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     // global
     "global 1"  => "Tänapäeva keeruline varahaldur vajab kõrgeima kvaliteediga investoriteenindust, sõltumata asukohast või ajavööndist.
                     <br><br>
-                    Vanward tagab selle kogu maailma teenindusmudeli kaudu, mis on kohandatud iga juhi vajadustele. Me paigutame teenindusmeeskonnad vastavalt klientide ajavöönditele, nende fondide asukohale ja nende turustamise turgudele.
+                    Sunrise tagab selle kogu maailma teenindusmudeli kaudu, mis on kohandatud iga juhi vajadustele. Me paigutame teenindusmeeskonnad vastavalt klientide ajavöönditele, nende fondide asukohale ja nende turustamise turgudele.
                     <br><br>
                     Meie järjepidev harmoneeritud globaalne teenindusmudel loob operatiivse efektiivsuse, vähendab riske ning parandab kliendi ja nende investorite kogemust.",
     "global 2"  => "Üks globaalne meeskond",
-    "global 3"  => "Ühine kasumiaruanne ja integreeritud meeskond tagavad Vanwardi teenuse kogemuse ühtsuse. Anname klientidele võimaluse suunata kõik päringud ja suhtlus läbi ühe multidistsiplinaarse kliendiga suhtleva meeskonna valitud ajavööndis. See hõlbustab kõrgetasemelist klientide kaasamist, läbipaistvat suhtlust ja mõõdetavalt paremat teenindust.",
+    "global 3"  => "Ühine kasumiaruanne ja integreeritud meeskond tagavad Sunrisei teenuse kogemuse ühtsuse. Anname klientidele võimaluse suunata kõik päringud ja suhtlus läbi ühe multidistsiplinaarse kliendiga suhtleva meeskonna valitud ajavööndis. See hõlbustab kõrgetasemelist klientide kaasamist, läbipaistvat suhtlust ja mõõdetavalt paremat teenindust.",
     "global 4"  => "Tehnoloogiaplatvorm",
     "global 5"  => "Meie ühtne globaalne tehnoloogiaplatvorm ja äriteenuste ja tehnoloogide intelligentne integreerimine on keskne meie eesmärgil pakkuda ülimat kliendikogemust.
                     <br><br>
@@ -1606,7 +1606,7 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "greater china 3"   => "ühena juhtivatest varahaldurite kogujatest ja suurepärase esindusega Suur-Hiinas 30 aasta jooksul aitame oma klientidel kasutada kasvavaid võimalusi piirkonnas rahavoogude hõlbustamise kaudu.
                             <br><br>
                             Meie kontorite asukohad Hongkongis ja Pekingis võimaldavad meil pakkuda täielikku teenuste paketti, sealhulgas hooldust, fondide teenindust ja turgude tooteid meie klientide piirkondlikes keeltes, kui osa meie",
-    "greater china 4"   => "Vanward keskendub Suur-Hiinale, kus tal on tugev kohalolek ja pakub teenuseid",
+    "greater china 4"   => "Sunrise keskendub Suur-Hiinale, kus tal on tugev kohalolek ja pakub teenuseid",
     "greater china 5"   => "UCITS, QFII, RQFII, RQFII ETF ja QDII platvormidel.",
     "greater china 6"   => "Välisinvesteeringud Hiinast välja",
     "greater china 7"   => "Qualifitseeritud kodumaise institutsionaalse investorina (QDII): Alates 2007. aastast oleme pakkunud QDII tooteid meie Hiina kliendipangale. Meie klientide hulka kuuluvad Hiina kümme peamist
@@ -1614,36 +1614,36 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
  hoolduspanga ja juhtivate Hiina varahaldurite QDII toetajad.
                             CNH aktsiafondid: Meie Hongkongi valuutavahetusmeeskond pakub CNH kaitsevõimalusi ja teiste piiratud valuutade kaitset.",
     "greater china 8"   => "Sissevool Hiinasse",
-    "greater china 9"   => "Renminbi kvalifitseeritud välismaised institutsionaalsed investorid (RQFII) / Kvalifitseeritud välismaised institutsionaalsed investorid (QFII): Vanward omab kogemusi RQFII ja QFII toodete teenindamisel, mis asuvad üle maailma. Meie ETF-i teeninduse oskused ja kohalik turukogemus aitavad klientidel käivitada tooteid, mis vastavad skeemi ainulaadsetele nõuetele.
-                            Stock Connect: Vanward toetab meie globaalseid kliente, kes kasutavad Shanghai-Hongkongi ja Shenzhen-Hongkongi börsiühenduse platvorme.",
+    "greater china 9"   => "Renminbi kvalifitseeritud välismaised institutsionaalsed investorid (RQFII) / Kvalifitseeritud välismaised institutsionaalsed investorid (QFII): Sunrise omab kogemusi RQFII ja QFII toodete teenindamisel, mis asuvad üle maailma. Meie ETF-i teeninduse oskused ja kohalik turukogemus aitavad klientidel käivitada tooteid, mis vastavad skeemi ainulaadsetele nõuetele.
+                            Stock Connect: Sunrise toetab meie globaalseid kliente, kes kasutavad Shanghai-Hongkongi ja Shenzhen-Hongkongi börsiühenduse platvorme.",
     "greater china 10"  => "Turustamine Suur-Hiinas",
-    "greater china 11"  => "UCITS Suur-Hiinas: UCITS fondidel on Hongkongis ja Taiwanis kõrge läbitungimise määr. Vanwardil on ulatuslik kogemus UCITS-i teenindamisel üle maailma, kuna aitame varahaldureid jõuda uutele turusegmentidele.
-                            Hiina-Hongkongi vastastikuse tunnustamise programm: Hiina-Hongkongi vastastikuse fondide tunnustamise programm võimaldab globaalsetel varahalduritel jaotada Hongkongis asuvaid fonde mandri-Hiinasse ning Hiina varahalduritel jaotada oma fonde Hongkongi. See on esimene ja ainus offshore-fondide sõiduk, mida lubatakse jaotada mandri-Hiinasse. Vanward pakub kõikehõlmavat teenuste paketti, sealhulgas",
+    "greater china 11"  => "UCITS Suur-Hiinas: UCITS fondidel on Hongkongis ja Taiwanis kõrge läbitungimise määr. Sunriseil on ulatuslik kogemus UCITS-i teenindamisel üle maailma, kuna aitame varahaldureid jõuda uutele turusegmentidele.
+                            Hiina-Hongkongi vastastikuse tunnustamise programm: Hiina-Hongkongi vastastikuse fondide tunnustamise programm võimaldab globaalsetel varahalduritel jaotada Hongkongis asuvaid fonde mandri-Hiinasse ning Hiina varahalduritel jaotada oma fonde Hongkongi. See on esimene ja ainus offshore-fondide sõiduk, mida lubatakse jaotada mandri-Hiinasse. Sunrise pakub kõikehõlmavat teenuste paketti, sealhulgas",
     "greater china 12" => "Hongkongi asutatud fondidele",
     // Japan
     "japan 1"    => "Jaapani jaemüügiinvestorid, pensionifondid ja institutsionaalsed investorid otsivad üha enam mitmekesistamist ning suunavad oma investeeringuid piiriüleste väärtpaberitesse. Need investeeringud tehakse Jaapani investeerimisfondide kaudu, eraldi kontode kaudu ning piiriüleste fondide kaudu, mis on registreeritud välismarkides nii avalikus kui ka erasektoris.
                     <br><br>
-                    Vanwardi Tokyos asuv kontor teenindab paljusid kõige nõudlikumaid kohalikke ja rahvusvahelisi varahaldureid, usalduspangandust ja institutsionaalseid investoreid, sealhulgas poolvalitsuslikke organisatsioone nende piiriüleste investeeringute jaoks Jaapanist.
+                    Sunrisei Tokyos asuv kontor teenindab paljusid kõige nõudlikumaid kohalikke ja rahvusvahelisi varahaldureid, usalduspangandust ja institutsionaalseid investoreid, sealhulgas poolvalitsuslikke organisatsioone nende piiriüleste investeeringute jaoks Jaapanist.
                     <br><br>
                     Oleme uhked meie pikaajaliste sidemete üle Jaapaniga, mis ulatuvad tagasi juba 1900. aastate algusesse, kaua enne meie Tokyos avamist 1984. aastal. Meie pikaajaline pühendumus ja läbimõeldud lähenemine on aidanud meil luua tugeva maine turul.",
     "japan 2"   => "Terviklik kohalik teenindus",
     "japan 3"   => "Toetamaks varahaldureid, kes jagavad oma välismaiste fondide tooteid Jaapanisse, samuti meie Jaapanis asuvaid kliente, asub meie kogenud fonditeenuste meeskond Tokyos, et rahuldada kohalikus ajavööndis igapäevaseid vajadusi. Meeskond toetab meie globaalset teenindusmudelit, pakkudes hooldust, fondiarvestust ja fondihaldusteenuseid.
                     <br><br>
-                    Vanward töötab koos meie Jaapani klientidega, et pakkuda väärtpaberilaenu, valuutavahetust ja Infomediary® sõnumside- ja ühendusteenuseid.",
+                    Sunrise töötab koos meie Jaapani klientidega, et pakkuda väärtpaberilaenu, valuutavahetust ja Infomediary® sõnumside- ja ühendusteenuseid.",
     // Latin America
     "latin america 1"   => "Kiire kasv institutsionaalsetes varades Ladina-Ameerika viies suurimas turus - Brasiilias, Mehhikos, Tšiilis, Kolumbias ja Perus - toob kaasa märkimisväärse huvi globaalsetelt varahalduritelt, kes soovivad oma tegevust selles piirkonnas luua ja laiendada.
                             <br><br>
-                            Pikaajalise teeninduse suurepärase kvaliteediga, kohalike turunõuete kohandatud lähenemise ja strateegiliste teadmistega ülemaailmse fondide jaotamise osas on Vanward Ladina-Ameerika suurimate varakorjajate juhtiv varahoidja.",
+                            Pikaajalise teeninduse suurepärase kvaliteediga, kohalike turunõuete kohandatud lähenemise ja strateegiliste teadmistega ülemaailmse fondide jaotamise osas on Sunrise Ladina-Ameerika suurimate varakorjajate juhtiv varahoidja.",
     "latin america 2"   => "Integreeritud lahendused",
-    "latin america 3"   => "Vanward pakub täielikku valikut investeerimisteenuseid, sealhulgas:",
+    "latin america 3"   => "Sunrise pakub täielikku valikut investeerimisteenuseid, sealhulgas:",
     "latin america 4"   => "Pühendumine piirkonnale",
-    "latin america 5"   => "Vanwardil on tugevad sidemed Ladina-Ameerikaga alates meie asutamisest 1818. aastal ning oleme teenindanud Ladina-Ameerika pensionifondi süsteemi selle loomisest peaaegu 40 aastat tagasi. Meie maine piirkonna juhtiva hoidjana tuleneb meie tihedast koostööst klientide, kohalike regulaatorite ja turu infrastruktuuriga. Meie partnerluse struktuuri taga olev pikaajaline mõtlemine ja lähenemine võimaldab meil kujundada teenuseid spetsiaalselt vastavalt klientide kohalikele nõuetele ning säilitada paindlikkust kohandada meie mudelit vastavalt nende ülemaailmsele võimalusele.",
+    "latin america 5"   => "Sunriseil on tugevad sidemed Ladina-Ameerikaga alates meie asutamisest 1818. aastal ning oleme teenindanud Ladina-Ameerika pensionifondi süsteemi selle loomisest peaaegu 40 aastat tagasi. Meie maine piirkonna juhtiva hoidjana tuleneb meie tihedast koostööst klientide, kohalike regulaatorite ja turu infrastruktuuriga. Meie partnerluse struktuuri taga olev pikaajaline mõtlemine ja lähenemine võimaldab meil kujundada teenuseid spetsiaalselt vastavalt klientide kohalikele nõuetele ning säilitada paindlikkust kohandada meie mudelit vastavalt nende ülemaailmsele võimalusele.",
     // Luxembourg
     "luxembourg 1"  => "Luxembourgist on saanud suurim piiriülese investeerimisfondide keskus Euroopas ja juhtiv keskus globaalse fondide jaotamise jaoks.
                         <br><br>
                         Luxembourgi kodumaiste fondide populaarsus kasvab jätkuvalt kogu maailmas, alates Aasiast kuni Ladina-Ameerikani. Seetõttu on juhtidel oluline partnerdada kogenud teenusepakkujaga, et arendada oma globaalset teenindusinfrastruktuuri ja toetada tulevast kasvu.",
     "luxembourg 2"  => "Juhtiv Luxembourgi teenusepakkuja",
-    "luxembourg 3"  => "Turul alates 1989. aastast, toetades oma kliente esimese UCITS fondide käivitamisest alates, on Vanward nüüd üks tippkolmanda osapoole hoidjaid ja administraatoreid Luxembourgis. Pakume oma täielikku varahaldusteenuste paketti Luxembourgis asuvatele UCITS-idele ja mitte-UCITS-idele.
+    "luxembourg 3"  => "Turul alates 1989. aastast, toetades oma kliente esimese UCITS fondide käivitamisest alates, on Sunrise nüüd üks tippkolmanda osapoole hoidjaid ja administraatoreid Luxembourgis. Pakume oma täielikku varahaldusteenuste paketti Luxembourgis asuvatele UCITS-idele ja mitte-UCITS-idele.
                         <br><br>
                         Spetsialiseerume oma klientide abistamisele piiriülese fonditeeninduse keerukuse haldamisel, eriti UCITS-i, RQFII, ETF-ide ja alternatiivsete fondistruktuuride valdkonnas.
                         <br><br>
@@ -1651,25 +1651,25 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
 
     // LEVEL 2 - Karjäär
     // Mida me otsime
-    "what we look for 1" => "Vanwardis on sinu karjäärirada sinu enda defineerida. Me palkame säravaid iseseisvaid inimesi, anname neile vahendid edu saavutamiseks ja võimaldame neil silma paista.",
+    "what we look for 1" => "Sunriseis on sinu karjäärirada sinu enda defineerida. Me palkame säravaid iseseisvaid inimesi, anname neile vahendid edu saavutamiseks ja võimaldame neil silma paista.",
     "what we look for 2" => "Tööta väljakutsuvate, reaalsete projektide kallal, osale koolitustel ja loo kontakte kogu ettevõttes töötavate töötajatega.",
     "what we look for 3" => "Oled kõvasti vaeva näinud oma kraadi nimel ja oled valmis järgmiseks etapiks: tööks, mis paneb sind proovile, innustab sind ja julgustab jagama oma ideid.",
     "what we look for 4" => "Oleme huvitatud erakordsetest, edule orienteeritud inimestest, kes on põnevil juhtida koostööd soodustavas keskkonnas, kus väärtustatakse meeskonnatööd, ausust ja tipptaset.",
     "what we look for 5" => "Omandage väärtuslikke kogemusi ja värskendage oma oskusi, naastes ettevõttesse pärast isiklikku pausi tasustatud 10-nädalase taaskäivitamise ülesandega.",
     // Täielik tasu
-    "total rewards 1"   => "Vanwardis tunnistame, et meie töötajad on meie edu oluline osa ning oluline on pakkuda neile terviklikku tasupaketti, mis aitab teil hallata isiklikku elu, edendades samal ajal oma karjääri.",
+    "total rewards 1"   => "Sunriseis tunnistame, et meie töötajad on meie edu oluline osa ning oluline on pakkuda neile terviklikku tasupaketti, mis aitab teil hallata isiklikku elu, edendades samal ajal oma karjääri.",
     "total rewards 2"   => "Kõrgekvaliteediline hüvedeprogramm, mis rõhutab pidevat head tervist, finantskindlustust tulevikuks ja meelerahu.",
     "total rewards 3"   => "Karjääri omamine koos vajaliku toe ja toetusega oma pikaajalise kutsealase kire kasvatamiseks.",
     "total rewards 4"   => "Võimalused laiendada oma oskusi ja teadmisi koostööl õppimise, tööalase rakendamise ja võrguvahendite kaudu.",
     "total rewards 5"   => "Võimalused arendada oma ekspertiisi, võtta vastu uusi väljakutseid ja ennast ümber leiutada ilma et peaksite ettevõttest lahkuma.",
     // Elu siin
-    "life here 1" => "Vanwardis mõistame, et meie edu põhineb meie inimeste kvaliteedil ja kultuuril, mida me kultiveerime. Lisaks mõtestatud töö ja arenguvõimaluste pakkumisele usume, et on oluline luua keskkond, kus saate teha positiivseid muutusi, nii meie ettevõttes kui ka oma kogukonnas. Siin on mõned viisid, kuidas toetame oma töötajaid ja edendame väärtuste meeskonnatöö, aususe ja tipptaseme kultuuri.",
+    "life here 1" => "Sunriseis mõistame, et meie edu põhineb meie inimeste kvaliteedil ja kultuuril, mida me kultiveerime. Lisaks mõtestatud töö ja arenguvõimaluste pakkumisele usume, et on oluline luua keskkond, kus saate teha positiivseid muutusi, nii meie ettevõttes kui ka oma kogukonnas. Siin on mõned viisid, kuidas toetame oma töötajaid ja edendame väärtuste meeskonnatöö, aususe ja tipptaseme kultuuri.",
     "life here 2" => "Ettevõtlik vaim ja koostöökeskkond, mis võimaldab teil lisaväärtust pakkuda, kuhu iganes saate.",
     "life here 3" => "Unikaalne kultuur, mis rõhutab meeskonnatööd, ausust ja tipptaset - väärtused, mis tagavad meie edu.",
     "life here 4" => "Globaalne kogukond, mida juhivad mitmekesiste professionaalide poolt asutatud jaoks jaoks töötajate võrgustikud.",
     "life here 5" => "Andke tagasi oma kogukonnale ja aidake muuta teiste elusid, samal ajal inspireerides kodanikuühiskonna vaimu.",
     // Hoolitseme
-    "cares 1"   => "Vanwardil on uhke vabatahtliku teenistuse traditsioon. Tegelikult on andmine nii meie kultuuri sees, et lõime Caresi, heategevusliku programmi, mis on pühendatud hariduse ja põhivajaduste pakkumisele abivajajatele. Täielikult töötajate juhitud tegevused on rahastatud ettevõtte poolt ja nende eestvedamisel on vabatahtlikud, kelle kirg annab igale algatusele energiat. Koostöös mittetulundusühingutega pakume töötajatele võimalusi õppida meie kogukondade ees seisvatest probleemidest ja kuidas olla osa lahendusest.",
+    "cares 1"   => "Sunriseil on uhke vabatahtliku teenistuse traditsioon. Tegelikult on andmine nii meie kultuuri sees, et lõime Caresi, heategevusliku programmi, mis on pühendatud hariduse ja põhivajaduste pakkumisele abivajajatele. Täielikult töötajate juhitud tegevused on rahastatud ettevõtte poolt ja nende eestvedamisel on vabatahtlikud, kelle kirg annab igale algatusele energiat. Koostöös mittetulundusühingutega pakume töötajatele võimalusi õppida meie kogukondade ees seisvatest probleemidest ja kuidas olla osa lahendusest.",
     "cares 2"   => "Meie fookusalad: põhivajadused ja haridus",
     "cares 3"   => "Meie heategevuslikud fookusalad edendavad stabiilsust ja eesmärk on soodustada pikaajalist edu. Toetades põhivajadusi - toitu, riietust ja peavarju - ning toetades haridusprogramme võimaldab inimestel ja peredel kontrollida oma finantse, saavutada iseseisvust ja saavutada majandusliku jätkusuutlikkuse.",
     "cares 4"   => "Tegevusi, mida toetame, hõlmavad:",
@@ -1681,7 +1681,7 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "cares 10"  => "kirjaoskuse- ja mentorlusprogrammid",
     "cares 11"  => "Meie missiooniks on kaasata lapsi, noori ja peresid ning suurendada edukuse määrasid meie elamis- ja töökohtades asuvate mitmekesiste liikmete jaoks.",
     "cares 12"  => "Lisateavet saate meie muude",
-    "cares 13"  => "Vanwardi
+    "cares 13"  => "Sunrisei
                     heategevuslike pingutuste ja meie töötajate abi fondi kohta.",
 
 
@@ -1692,19 +1692,19 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
                             <br><br>
                             Meie partnerluse kaudu järgime põhjalikku ja pikaajalist lähenemist meie äri ja suhete juhtimisel. Vähendatud sidusrühmade ja väliseid aktsionäre, keda rahuldada, meie lojaalsus jääb puutumatuks.
                             <br><br>
-                            Kuna meie partnerid vastutavad ettevõtte kohustuste eest, oleme kultiveerinud tugeva riskijuhtimise kultuuri. Seetõttu on Vanwardi partnerid hästi informeeritud ettevõtte tegevusest ning osalevad aktiivselt igapäevases juhtimises ja otsuste tegemise protsessides.",
+                            Kuna meie partnerid vastutavad ettevõtte kohustuste eest, oleme kultiveerinud tugeva riskijuhtimise kultuuri. Seetõttu on Sunrisei partnerid hästi informeeritud ettevõtte tegevusest ning osalevad aktiivselt igapäevases juhtimises ja otsuste tegemise protsessides.",
     // meie missioon ja profiil
-    "our mission and profile 1" => "Vanwardi eesmärk on selge ja lihtne: kaitsta meie klientide finantsheaolu ja soodustada nende varade kasvu pika aja jooksul. Pannes kliendid meie tegevuse keskmesse, korraldame hoolikalt oma ettevõtte, meeskonnad ja äri vastavalt. Seistes kindlalt aususe eest, keeldume kompromissidest oma põhimõtete osas.",
+    "our mission and profile 1" => "Sunrisei eesmärk on selge ja lihtne: kaitsta meie klientide finantsheaolu ja soodustada nende varade kasvu pika aja jooksul. Pannes kliendid meie tegevuse keskmesse, korraldame hoolikalt oma ettevõtte, meeskonnad ja äri vastavalt. Seistes kindlalt aususe eest, keeldume kompromissidest oma põhimõtete osas.",
     // jätkusuutlikkus
-    "sustainability 1" => "Kogemusega üle 26 aasta on Vanward end tõestanud tööstuse kindla alustalana. Jätkusuutlikkus, mis hõlmab kindlat pühendumust pikaajalise väärtuse ja heaolu suunas, on meie identiteedi südames. Usume kindlalt, et jätkusuutlikkus saavutatakse, tehes oma äri vastutustundlikult ja eetiliselt ning samal ajal tehes positiivseid panuseid meie klientide, inimeste ja kogukondade heaks, silmas pidades tulevaste põlvkondade huve.",
+    "sustainability 1" => "Kogemusega üle 26 aasta on Sunrise end tõestanud tööstuse kindla alustalana. Jätkusuutlikkus, mis hõlmab kindlat pühendumust pikaajalise väärtuse ja heaolu suunas, on meie identiteedi südames. Usume kindlalt, et jätkusuutlikkus saavutatakse, tehes oma äri vastutustundlikult ja eetiliselt ning samal ajal tehes positiivseid panuseid meie klientide, inimeste ja kogukondade heaks, silmas pidades tulevaste põlvkondade huve.",
     "sustainability 2" => "“Praeguses hetkes on hädavajalik, et ületaksime lühiajalise mõtlemise. Selle asemel peame omaks võtma meie väärtused, tegutsema ausalt ja prioriseerima oma sidusrühmade huve kõige muu ees.”",
     "sustainability 3" => "Iga päev usaldavad kliendid meile oma investeeringuid, tegevusi ja finantssoove. Nende pikaajalise jõukuse tagamiseks on oluline, et pakume läbimõeldud ja tulevikku suunatud lahendusi, mis on kooskõlas nende väärtuste ja parimate huvidega. Lisaks on meil vastutus tagada meie tegevuse jätkuvus, turvalisus ja stabiilsus ning kaasa aidata kogu finantssektori pikaajalisele jätkusuutlikkusele. Nende kohustuste täitmise kaudu näitame oma pühendumust klientidele ja nende ettevõtmiste püsivale edule.",
-    "sustainability 4" => "Meie inimesed, erakordne Vanwardi meeskond, mängivad olulist rolli meie klientide vajaduste rahuldamisel. Nad püüdlevad pidevalt suurepärase kvaliteedi ja aususe kõrgeimate standardite poole. Innovatsiooni edendamiseks ja väljapaistvate tulemuste saavutamiseks värbame ja toetame aktiivselt mitmekesist oskuste ja vaatenurkade valikut meie meeskonnas. Meie eesmärk on luua kaasav keskkond, mis prioriseerib kõigi meeskonnaliikmete heaolu, võimaldades neil teha mõtestatud panuseid ja õitsema nii tööalaselt kui ka isiklikult. Selle lähenemisviisi omaksvõtmisega kasvatame dünaamilist tööjõudu, mis toetab meie edu ja pakub klientidele erakordset teenust.",
+    "sustainability 4" => "Meie inimesed, erakordne Sunrisei meeskond, mängivad olulist rolli meie klientide vajaduste rahuldamisel. Nad püüdlevad pidevalt suurepärase kvaliteedi ja aususe kõrgeimate standardite poole. Innovatsiooni edendamiseks ja väljapaistvate tulemuste saavutamiseks värbame ja toetame aktiivselt mitmekesist oskuste ja vaatenurkade valikut meie meeskonnas. Meie eesmärk on luua kaasav keskkond, mis prioriseerib kõigi meeskonnaliikmete heaolu, võimaldades neil teha mõtestatud panuseid ja õitsema nii tööalaselt kui ka isiklikult. Selle lähenemisviisi omaksvõtmisega kasvatame dünaamilist tööjõudu, mis toetab meie edu ja pakub klientidele erakordset teenust.",
     "sustainability 5" => "Tunnistame, et meie vastutus ulatub kaugemale meie kontori seinte piiridest, hõlmates laiemat kogukonda, kus tegutseme. Meil on kohustus aktiivselt panustada meie planeedi heaolusse, vähendades selle tervisele avalduvaid ohte. Lisaks püüame teha positiivseid ja tähendusrikkaid panuseid kogukondadesse, kus me oma äritegevust viime. Nende jõupingutuste kaudu soovime luua kestva ja positiivse mõju, mis ulatub kaugemale meie vahetust mõjusfäärist.",
     // Heategevus
-    "philanthropy 1"    => "Vanwardis on hea oma aega ja annet jagada.
+    "philanthropy 1"    => "Sunriseis on hea oma aega ja annet jagada.
                             <br><br>
-                            Sellest lähtuvalt oleme loonud Caresi, meie heategevusliku programmi, mis on pühendatud hariduse ja põhivajaduste pakkumisele neile, kes seda vajavad. Caresi programmi kaudu saavad Vanwardi töötajad anda tagasi oma kogukondadele ning aidata muuta teiste elu, innustades kodaniku- ja sotsiaalset vastutustunnet.
+                            Sellest lähtuvalt oleme loonud Caresi, meie heategevusliku programmi, mis on pühendatud hariduse ja põhivajaduste pakkumisele neile, kes seda vajavad. Caresi programmi kaudu saavad Sunrisei töötajad anda tagasi oma kogukondadele ning aidata muuta teiste elu, innustades kodaniku- ja sotsiaalset vastutustunnet.
                             <br><br>
                             Vastavalt meie heategevuslikule missioonile keskendume järgmistele valdkondadele.",
     "philanthropy 2"    => "Põhivajadused",
@@ -1726,27 +1726,27 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "policies & disclosures 1" => "Tagamaks, et meie kliendid pääsevad juurde viimasele ja olulisemale teabele, julgustame külastama meie veebisaiti. Sealt leiate olulised värskendused ja üksikasjad meie õiguslike ja regulatiivsete avalduste, avalikustuste ja dokumentide kohta. Oleme pühendunud oma klientide hästi informeerimisele ja pakume neile vajalikke ressursse meie tegevuse ja pakkumiste põhjalikuks mõistmiseks.",
     // policies and disclosures > *
     // Õiguslik
-    "legal 1"    => "Need Vanwardi veebilehe Kasutustingimused (edaspidi “tingimused”) hõlmavad allpool toodud “Üldtingimusi” ja “Tootepõhiseid tingimusi”. Kõik Vanwardi (koos tütarettevõtetega “Vanward” või “meie”) pakutavad elektroonilised ja veebipõhised teenused, sealhulgas, kuid mitte ainult, Vanward WorldView® portaali, kõiki tulevasi selle uuendusi või järeltulijaid ning kõiki tooteid ja teenuseid, mis on läbi selle portaali kättesaadavad või kättesaadavaks tehtud (edaspidi “Veebiteenused”), kuuluvad Üldtingimuste alla. Kasutades mõnda Veebiteenustest, nõustute Üldtingimustega.
+    "legal 1"    => "Need Sunrisei veebilehe Kasutustingimused (edaspidi “tingimused”) hõlmavad allpool toodud “Üldtingimusi” ja “Tootepõhiseid tingimusi”. Kõik Sunrisei (koos tütarettevõtetega “Sunrise” või “meie”) pakutavad elektroonilised ja veebipõhised teenused, sealhulgas, kuid mitte ainult, Sunrise WorldView® portaali, kõiki tulevasi selle uuendusi või järeltulijaid ning kõiki tooteid ja teenuseid, mis on läbi selle portaali kättesaadavad või kättesaadavaks tehtud (edaspidi “Veebiteenused”), kuuluvad Üldtingimuste alla. Kasutades mõnda Veebiteenustest, nõustute Üldtingimustega.
                     <br><br>
-                    Kasutades konkreetsete toodete või teenuste Veebiteenuste kaudu, mis on viidatud allpool pealkirjaga “Tootepõhised tingimused”, nõustute ka vastavate tingimustega, mis on toodud selle pealkirja all. Üldtingimuste ja asjakohaste Tootepõhiste tingimuste vastuolu korral kehtivad Tootepõhised tingimused. Teie ärisuhteid Vanwardiga reguleeriva igasuguse eraldi kokkuleppe (edaspidi “kliendileping”) tingimused kehtivad ka Teie Veebiteenuste kasutamisel seoses sellise suhtega ning käesolevad tingimused on viidatud osana täielikult sellisesse kliendilepingusse. Välja arvatud juhul, kui tingimused eraldi sätestavad vastupidise, kehtivad tingimuste sätted igasuguse kohaldatava kliendilepinguga võrreldes võidu korral.",
+                    Kasutades konkreetsete toodete või teenuste Veebiteenuste kaudu, mis on viidatud allpool pealkirjaga “Tootepõhised tingimused”, nõustute ka vastavate tingimustega, mis on toodud selle pealkirja all. Üldtingimuste ja asjakohaste Tootepõhiste tingimuste vastuolu korral kehtivad Tootepõhised tingimused. Teie ärisuhteid Sunriseiga reguleeriva igasuguse eraldi kokkuleppe (edaspidi “kliendileping”) tingimused kehtivad ka Teie Veebiteenuste kasutamisel seoses sellise suhtega ning käesolevad tingimused on viidatud osana täielikult sellisesse kliendilepingusse. Välja arvatud juhul, kui tingimused eraldi sätestavad vastupidise, kehtivad tingimuste sätted igasuguse kohaldatava kliendilepinguga võrreldes võidu korral.",
     "legal 2"    => "Üldtingimused",
     "legal 3"    => "JUURDEPÄÄS VEEBITEENUSTELE",
     "legal 4"    => "Turvaelemendid",
-    "legal 5"    => "Igasuguste Veebiteenuste kasutamiseks on vajalik tuvastuskood (kasutajatunnus) ja parool(id) (edaspidi “Parool”). Digitaalne sertifikaat, krüpteerimisvõti ja/või muud turvaelemendid võivad olla Vanwardi suvalisel otsusel vajalikud teatud Veebiteenuste kasutamiseks. Teie vastutate: (a) kõigi tuvastuskoodide, paroolide, digitaalsete sertifikaatide, krüpteerimisvõtmete ja teiste turvaelementide (edaspidi “Turvaelemendid”) turvalisuse ja konfidentsiaalsuse eest; (b) oma Turvaelementide kaitsmise eest ja nende andmist või kättesaadavaks tegemise keelamise eest, tahtlikult või muul viisil, ühelegi volitamata isikule; ja (c) kõigi Veebiteenuste kasutamise eest Teie Turvaelementide kaudu, sealhulgas tehingulise tegevuse eest, olenemata sellest, kas selline kasutamine on Teie poolt tegelikult volitatud. Kui otsustate jagada oma Turvaelemendid kolmandaga (sh, kuid mitte ainult, investeerimisnõustajad ja andmekogujad), vastutate täielikult kõigi selliste kolmandate poolt tehtud toimingute eest Teie Turvaelementide kasutamise kaudu, mida meil on õigus eeldada, et olete volitanud. Me ei vastuta mingil juhul turvaintsidendi ega volitamata tegevuse või varguse eest, mis on põhjustatud Teie poolt (olgu see siis tahtlik, tahtmatu või hooletu) Turvaelementide turvalisuse või konfidentsiaalsuse säilitamise ebaõnnestumisest. Teatage meile viivitamatult kirjalikult, kui arvate, et mõne Teie Turvaelemendi turvalisus või konfidentsiaalsus on ohustatud, kui kahtlustate volitamata juurdepääsu Teie kontole Veebiteenuste või muude vahendite kaudu või muul viisil või kui isikule, kellele on Turvaelement määratud, lõpetab töösuhte Teie ettevõttega või tal ei ole enam lubatud Veebiteenustele juurdepääsu. Teie organisatsioonist pärit volitatud isik peab sellise teate edastama Vanwardile, esitades täidetud kasutaja juurdepääsutaotluse vormi, mille saab Vanwardi suhtlusjuhtide kontaktidest.",
+    "legal 5"    => "Igasuguste Veebiteenuste kasutamiseks on vajalik tuvastuskood (kasutajatunnus) ja parool(id) (edaspidi “Parool”). Digitaalne sertifikaat, krüpteerimisvõti ja/või muud turvaelemendid võivad olla Sunrisei suvalisel otsusel vajalikud teatud Veebiteenuste kasutamiseks. Teie vastutate: (a) kõigi tuvastuskoodide, paroolide, digitaalsete sertifikaatide, krüpteerimisvõtmete ja teiste turvaelementide (edaspidi “Turvaelemendid”) turvalisuse ja konfidentsiaalsuse eest; (b) oma Turvaelementide kaitsmise eest ja nende andmist või kättesaadavaks tegemise keelamise eest, tahtlikult või muul viisil, ühelegi volitamata isikule; ja (c) kõigi Veebiteenuste kasutamise eest Teie Turvaelementide kaudu, sealhulgas tehingulise tegevuse eest, olenemata sellest, kas selline kasutamine on Teie poolt tegelikult volitatud. Kui otsustate jagada oma Turvaelemendid kolmandaga (sh, kuid mitte ainult, investeerimisnõustajad ja andmekogujad), vastutate täielikult kõigi selliste kolmandate poolt tehtud toimingute eest Teie Turvaelementide kasutamise kaudu, mida meil on õigus eeldada, et olete volitanud. Me ei vastuta mingil juhul turvaintsidendi ega volitamata tegevuse või varguse eest, mis on põhjustatud Teie poolt (olgu see siis tahtlik, tahtmatu või hooletu) Turvaelementide turvalisuse või konfidentsiaalsuse säilitamise ebaõnnestumisest. Teatage meile viivitamatult kirjalikult, kui arvate, et mõne Teie Turvaelemendi turvalisus või konfidentsiaalsus on ohustatud, kui kahtlustate volitamata juurdepääsu Teie kontole Veebiteenuste või muude vahendite kaudu või muul viisil või kui isikule, kellele on Turvaelement määratud, lõpetab töösuhte Teie ettevõttega või tal ei ole enam lubatud Veebiteenustele juurdepääsu. Teie organisatsioonist pärit volitatud isik peab sellise teate edastama Sunriseile, esitades täidetud kasutaja juurdepääsutaotluse vormi, mille saab Sunrisei suhtlusjuhtide kontaktidest.",
     "legal 6"    => "Juurdepääsu lõpetamine",
     "legal 7"    => "Võime igal ajal lõpetada Teie juurdepääsu Veebiteenustele viie (5) tööpäeva etteteatamisega, mis tahes põhjusel; kuid selline etteteatamine ei ole vajalik, kui (a) Teie konto meie juures on suletud, (b) Te ei täida mõnda neist tingimustest, (c) me usume, et Teie jätkuv juurdepääs Veebiteenustele kujutab endast turvariski, või (d) me usume, et Te rikute või olete rikkunud kohaldatavaid seadusi, ning me ei vastuta Teie poolt sellise lõpetamise tulemusena tekkida võivate kaotuste eest. Võite igal ajal lõpetada juurdepääsu Veebiteenustele, andes meile kümne (10) tööpäeva etteteatamise. Lõpetamise korral tühistame kõik Teie Turvaelemendid ja kõik pooleliolevad või ootel olevad korraldused (nagu määratletud asjakohases kliendilepingus) viiakse läbi või tühistatakse meie ainuotsusel.",
     "legal 8"    => "INTELEKTUAALOMAND / ÄRISALADUSED",
     "legal 9"    => "Lubatud kasutamine",
     "legal 10"   => "Teave, mida saate Veebiteenuste kaudu, on meie või kolmandate isikute intellektuaalomand. Võite kasutada sellist teavet ainult oma äritegevuse tavalises käigus; see piiratud litsents ei võimalda teil seda teavet väljapoole oma organisatsiooni edastada, ei tasu eest ega tasuta, ja te olete selgesõnaliselt sellest keelatud. Lubatud on siiski sellise teabe edastamine (a) meie poolt teie administratiivse agendina säilitatavad tavalised äriraamatud (nagu kontoteave, fondide haldamise aruanded ja sarnane finantsteave), kui see on kohustuslik vastavalt kohaldatavale seadusele või äritavale, et see avalikustada regulaatoritele või aktsionäridele või nõustajatele seoses sellega, ja (b) selline teave, mille oleme lepinguga, välja arvatud need tingimused, kokku leppinud, et võite edastada, tingimusel et see toimub vastavalt sellise lepingu tingimustele.",
     "legal 11"   => "Autoriõigus ja kaubamärgid",
-    "legal 12"   => "Autoriõigus Veebiteenuste lehtedele ja ekraanidele, sealhulgas, kuid mitte ainult, kujundusele, tekstidele, helisalvestistele ja piltidele ning nende lehtede ja nende sisalduva teabe ja materjali paigutusele, kuulub meile või on meile litsentseeritud, kui pole teisiti märgitud. Välja arvatud juhul, kui siin väljendatud muul viisil, ei tohi neid kopeerida, edastada, kuvada, esitada, jaotada (tasu eest või muul viisil), litsentseerida, muuta, raamida, süvaveelinkida, talletada hilisemaks kasutamiseks või kasutada tervikuna või osaliselt mingil viisil meie eelneva kirjaliku nõusolekuta, v.a kui seda lubab 1976. aasta autoriõiguse seadus (17 U.S.C. § 107), nagu muudetud, ning seejärel ainult meie omandiõiguste märkustega. Meie kaubamärgid ja teenindusmärgid hõlmavad, kuid ei piirdu, “ActionView”, “ActionWorld”, “AP Exchange”, “APEX”, “Vanward”, “Vanward & Co.”, “Vanward Comset Plus”, “COnnect”, “Vanward Direct”, “Vanward INFOFX”, “BIDS”, “Vanward”, “DEALBOARD”, “ETF Connect”, “FX INDEXLINK”, “FX OrderView”, “INFOACTION”, “INFOFX”, “INFOMEDIARY”, “INFOSETTLE”, “LIFE OF A TRADE”, “Shared Goals. Shared Success”, “Trust in Partnership”, “WorldView” ja “59 Wall St.”. Muud esiletõstetud sõnad või sümbolid, mida kasutatakse kaupade ja teenuste päritolu tuvastamiseks, on nende vastavate omanike kaubamärgid. Te ei tohi kopeerida, uuesti avaldada, ümberjaotada, edastada, osaleda ülekandes, luua nendest tuletatud teoseid, muuta, redigeerida ega muul viisil kasutada mingil viisil materjale Veebiteenustest, sh salvestussüsteemides säilitamise teel, v.a nagu siin selgesõnaliselt lubatud. Üldistust piiramata ei tohi eemaldada ega varjata ühtegi autoriõiguse ega muud sellises teabes sisalduvat märkust.",
+    "legal 12"   => "Autoriõigus Veebiteenuste lehtedele ja ekraanidele, sealhulgas, kuid mitte ainult, kujundusele, tekstidele, helisalvestistele ja piltidele ning nende lehtede ja nende sisalduva teabe ja materjali paigutusele, kuulub meile või on meile litsentseeritud, kui pole teisiti märgitud. Välja arvatud juhul, kui siin väljendatud muul viisil, ei tohi neid kopeerida, edastada, kuvada, esitada, jaotada (tasu eest või muul viisil), litsentseerida, muuta, raamida, süvaveelinkida, talletada hilisemaks kasutamiseks või kasutada tervikuna või osaliselt mingil viisil meie eelneva kirjaliku nõusolekuta, v.a kui seda lubab 1976. aasta autoriõiguse seadus (17 U.S.C. § 107), nagu muudetud, ning seejärel ainult meie omandiõiguste märkustega. Meie kaubamärgid ja teenindusmärgid hõlmavad, kuid ei piirdu, “ActionView”, “ActionWorld”, “AP Exchange”, “APEX”, “Sunrise”, “Sunrise & Co.”, “Sunrise Comset Plus”, “COnnect”, “Sunrise Direct”, “Sunrise INFOFX”, “BIDS”, “Sunrise”, “DEALBOARD”, “ETF Connect”, “FX INDEXLINK”, “FX OrderView”, “INFOACTION”, “INFOFX”, “INFOMEDIARY”, “INFOSETTLE”, “LIFE OF A TRADE”, “Shared Goals. Shared Success”, “Trust in Partnership”, “WorldView” ja “59 Wall St.”. Muud esiletõstetud sõnad või sümbolid, mida kasutatakse kaupade ja teenuste päritolu tuvastamiseks, on nende vastavate omanike kaubamärgid. Te ei tohi kopeerida, uuesti avaldada, ümberjaotada, edastada, osaleda ülekandes, luua nendest tuletatud teoseid, muuta, redigeerida ega muul viisil kasutada mingil viisil materjale Veebiteenustest, sh salvestussüsteemides säilitamise teel, v.a nagu siin selgesõnaliselt lubatud. Üldistust piiramata ei tohi eemaldada ega varjata ühtegi autoriõiguse ega muud sellises teabes sisalduvat märkust.",
     "legal 13"   => "Teabe allikad",
     "legal 14"   => "Veebiteenuste kaudu kättesaadav teave on kokku pandud nii sisemiste kui ka väliste allikate põhjal. Selline teave võib sisaldada kolmandate poolt koostatud tsitaate, uudiseid ja uurimusteavet, mille on andnud meie või mille oleme saanud usaldusväärsetest allikatest, kuid me ei saa ja ei taga selle teabe täpsust, ajakohasust ega täielikkust mingil konkreetse eesmärgi korral. Selline teave on olemuslikult muutuv ilma etteteatamiseta ja võib aeguda. Nõustute, et me ei vastuta mingil viisil teie poolt selle teabele toetumisel tekkivate kahjude eest. Teeme mõistlikke jõupingutusi, et tagada Veebiteenuste kaudu kättesaadava teabe täpsus ja ajakohasus. Siiski ei esinda ega taga me selles sisalduvat teavet täpse või täielikuna ning peaksite seetõttu enne sellele tegutsemist Veebiteenuste kaudu saadud teavet kontrollima. “Kolmandate osapoolte tingimused ja tingimused” kehtivad kolmandate osapoolte andmete ja teabe kasutamise ja vastuvõtmise kohta, mis on teile kättesaadavad Veebiteenuste kaudu. Need Kolmandate osapoolte tingimused ja tingimused on nõutavad vastavate kolmandate osapoolte andmete pakkuja poolt vastavalt meie nendega sõlmitud lepingutele ning on siinkohal täielikult sisse viidud viitena.",
     "legal 15"   => "KASUTAMINE TEISTES JURISDIKTSIOONIDES",
     "legal 16"   => "Me ei tegutse pangandusüksusena kõigis jurisdiktsioonides. Veebiteenuste kaudu kättesaadav teave ei ole mõeldud levitamiseks ega kasutamiseks ükskõik millise isiku või ettevõtte poolt ükskõik millises jurisdiktsioonis või riigis, kus selline levitamine või kasutamine oleks vastuolus seaduste või määrustega või kus see paneks meid või meie sidusettevõtted mõnele registreerimis- või litsentseerimiskohustusele, heakskiidule või mitteheakskiidu nõudele vastavalt selles jurisdiktsioonis või riigis. Mõned tooted ja teenused ei pruugi olla kõigis jurisdiktsioonides või kõigile klientidele saadaval. Valides juurdepääsu Veebiteenustele muust asukohast kui Ameerika Ühendriikidest, nõustute täieliku vastutuse võtmisega kõigi kohalike seaduste järgimise eest.",
     "legal 17"   => "JUHISED",
     "legal 18"   => "Juhiste väljastamine üldiselt",
-    "legal 19"   => "Kui asjakohane, antakse Vanwardile korrektsete juhiste väljastamiseks nõuetekohased juhised vastavalt asjakohasele kliendilepingule.",
+    "legal 19"   => "Kui asjakohane, antakse Sunriseile korrektsete juhiste väljastamiseks nõuetekohased juhised vastavalt asjakohasele kliendilepingule.",
     "legal 20"   => "Juhiste väljastamine Veebiteenuste kaudu",
     "legal 21"   => "Alljärgnevad täiendavad sätted kehtivad Veebiteenuste kaudu antud juhiste suhtes:<br>
                     (a) Annate meile loa tegutseda Veebiteenuste kaudu saadetud juhiste alusel, kasutades teie Turvaelemente, nagu oleks tegemist korralikult volitatud kirjalike juhistega, ilma meie poolse kontrolli või uurimiskohustuseta, ning nõustute, et me ei vastuta teie või kolmanda osapoole poolt kogenud mis tahes vastutuse, kahjude, nõuete, kulude, kahjutasude, trahvide, kohustuste või kulutuste (sealhulgas, ilma piiranguteta, mõistlikud advokaatide, raamatupidajate, konsultantide või ekspertide tasud ja kulud) eest (edaspidi „Kahjud”), mis tulenevad sellest.<br>
@@ -1762,9 +1762,9 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "legal 27"   => "Internetiühendus",
     "legal 28"   => "E-posti suhtlus",
     "legal 29"   => "Keelatud kasutus",
-    "legal 30"   => "(a) Kui te kasutate Interneti kaudu juurdepääsetavaid veebiteenuseid (sh mobiilseadmete kaudu), peate kasutama kolmanda osapoole poolt pakutavat Interneti veebibrauserit, näiteks Firefox või Internet Explorer, Interneti kasutusprogrammi tarkvara erinevatelt tarkvara pakkujatelt, kes ei ole seotud ettevõttega Vanward, ja/või ettevõtte Vanward poolt pakutavat mobiilirakendust. Teie sellise tarkvara kasutamine veebiteenuste juurdepääsemiseks toimub teie enda vastutusel ja allub Vanwardi ja nende kolmandate osapoolte kehtestatud tingimustele lisaks nendele tingimustele (nt Apple'i litsentsitud rakenduse lõppkasutaja litsentsileping). Me ei anna mingeid garantiisid seoses kolmanda osapoole teabe, tarkvara, telekommunikatsiooniseadmete ega Internetiühenduse toimimisega ning me ei vastuta teie sellise tarkvara kasutamise eest. Mõned veebiteenused võivad olla kättesaadavad otsevalikühenduse kaudu tarkvaraga, mille me teile pakume; sellisel juhul kehtivad teie selle tarkvara kasutamisele litsentsitingimused, mis on lisatud vastava teenuse tarkvaraga. Need litsentsitingimused, mis hõlmavad vastutuse, kasutamise ja edasisaatmise piirangutega, on käesolevate tingimustega väljendatud. Me ei vastuta teie poolt tehtud ühendamiskulude eest veebiteenustele ühendamiseks.<br>
+    "legal 30"   => "(a) Kui te kasutate Interneti kaudu juurdepääsetavaid veebiteenuseid (sh mobiilseadmete kaudu), peate kasutama kolmanda osapoole poolt pakutavat Interneti veebibrauserit, näiteks Firefox või Internet Explorer, Interneti kasutusprogrammi tarkvara erinevatelt tarkvara pakkujatelt, kes ei ole seotud ettevõttega Sunrise, ja/või ettevõtte Sunrise poolt pakutavat mobiilirakendust. Teie sellise tarkvara kasutamine veebiteenuste juurdepääsemiseks toimub teie enda vastutusel ja allub Sunrisei ja nende kolmandate osapoolte kehtestatud tingimustele lisaks nendele tingimustele (nt Apple'i litsentsitud rakenduse lõppkasutaja litsentsileping). Me ei anna mingeid garantiisid seoses kolmanda osapoole teabe, tarkvara, telekommunikatsiooniseadmete ega Internetiühenduse toimimisega ning me ei vastuta teie sellise tarkvara kasutamise eest. Mõned veebiteenused võivad olla kättesaadavad otsevalikühenduse kaudu tarkvaraga, mille me teile pakume; sellisel juhul kehtivad teie selle tarkvara kasutamisele litsentsitingimused, mis on lisatud vastava teenuse tarkvaraga. Need litsentsitingimused, mis hõlmavad vastutuse, kasutamise ja edasisaatmise piirangutega, on käesolevate tingimustega väljendatud. Me ei vastuta teie poolt tehtud ühendamiskulude eest veebiteenustele ühendamiseks.<br>
                     (b) Teie kasutus kolmandate osapoolte poolt veebiteenustel kättesaadavaks tehtud Interneti linkidega toimub teie enda vastutusel. Me ei ole arendanud ega kontrollinud linkidega seotud sisu täpsust ega teinud muid ülevaateid. Me ei anna ühtegi avaldust ega vastuta ühegi kolmanda osapoole veebisaidi, sealhulgas elektroonilise sisu täpsuse, teema, kvaliteedi või ajakohasuse eest.<br>
-                    (c) Kuna Interneti e-posti ehk e-kirja usaldusväärse kättetoimetamise, sisu täpsuse, ajakohasuse ja turvalisusega kaasneb riske, ei tohiks te meile saata mingeid isiklikke või tuvastatavaid andmeid, näiteks kontonumbreid, krediitkaardinumbreid, sotsiaalkindlustuse numbreid, paroole jms, Interneti e-posti teel. Me võtame mõistlikke turvameetmeid andmete ja suhtluse kaitseks, mis meile Interneti kaudu saadetakse, kuid me ei võta endale vastutust selliste andmete või suhtluse vahelejäämise eest. Te nõustute, et te ei kasuta e-posti teel ühtegi investeerimisvõi muu tehingu sooritamiseks, volitamiseks ega läbiviimiseks, samuti rahaülekande juhiste saatmiseks või muudeks tehinguteks, välja arvatud juhul, kui me oleme vastastikku kokku leppinud menetlustes, mille kohaselt saab kõik sellised e-posti teel edastatud teated teilt saata vastavalt Vanwardi kohaldatavatele poliitikatele ja menetlustele (näiteks Investoriteenuste kliendi e-posti juhend). <br>
+                    (c) Kuna Interneti e-posti ehk e-kirja usaldusväärse kättetoimetamise, sisu täpsuse, ajakohasuse ja turvalisusega kaasneb riske, ei tohiks te meile saata mingeid isiklikke või tuvastatavaid andmeid, näiteks kontonumbreid, krediitkaardinumbreid, sotsiaalkindlustuse numbreid, paroole jms, Interneti e-posti teel. Me võtame mõistlikke turvameetmeid andmete ja suhtluse kaitseks, mis meile Interneti kaudu saadetakse, kuid me ei võta endale vastutust selliste andmete või suhtluse vahelejäämise eest. Te nõustute, et te ei kasuta e-posti teel ühtegi investeerimisvõi muu tehingu sooritamiseks, volitamiseks ega läbiviimiseks, samuti rahaülekande juhiste saatmiseks või muudeks tehinguteks, välja arvatud juhul, kui me oleme vastastikku kokku leppinud menetlustes, mille kohaselt saab kõik sellised e-posti teel edastatud teated teilt saata vastavalt Sunrisei kohaldatavatele poliitikatele ja menetlustele (näiteks Investoriteenuste kliendi e-posti juhend). <br>
                     (d) Teile on keelatud veebiteenuste mistahes osa teadlik kuritarvitamine, sealhulgas piiranguteta häkkimine, häirimine, ülemäärane kasutamine või kasutamine vastuolus kohaldatava seadusega, ning mistahes muudatused veebiteenustes, sealhulgas piiranguteta tarkvara, teabe, vormingute ja liideste muutmine. Te tunnistate ja nõustute, et olete vastutav (kavatsusliku või kavatsusliku) mis tahes viiruse või muu koodi, programmi või alamprogrammi sisseviimise eest, mis kahjustab või häirib arvutisüsteemi toimimist, milles kood, programm või alamprogramm on, või peatab, keelab või häirib veebiteenuste endi toimimist; ning (ii) mistahes seadme, meetodi või märgi sisseviimise eest, mille teadlik või kavatsuslik eesmärk on võimaldada kellelgi ümber minna veebiteenuste tavalise turvalisuse või veebiteenuste tarkvarakoodi sisaldava süsteemi (i) ja (ii) kollektiivselt „kahjulik kood”. Nõustute võtma vajalikke meetmeid ja ettevaatusabinõusid, et vältida kahjuliku koodi sisseviimist ja levikut süsteemidesse, mis suhtlevad veebiteenustega. Te kannate täielikku vastutust veebiteenuste kasutamise teie või meie teiste klientide poolt teile või meie muudele klientidele põhjustatud vähendatud tõhususe või vigade eest, mis on tingitud eespool nimetatud nõuete rikkumisest.<br>
                     (e) Veebiteenuste osana olevat riskiprofiili tarkvara ei ole tehtud teie või ükskõik millise muu osapoole investeerimis- või muu nõustamise eesmärgil ning ühtegi teabevahetust või materjali, mis on kättesaadav nende veebiteenuste kaudu, ei tohiks kasutada investeerimis- või muude otsuste tegemisel ega edastamisel. Ükski teave ega arvamus, mis on sisalduvad nendes veebiteenustes või muus veebisaidil, veebilehel, veebiteenuses või muus elektroonilises teenuses, ei kujuta endast investeerimisnõu või kutset meilt või meie sidusettevõtetelt väärtpaberite, futuuride, optsioonide või muude finantsinstrumentide ostmiseks või müümiseks ega kutset pakkuda investeerimisnõuandeid või -teenuseid.",
     "legal 31"   => "PUUDUVAD GARANTIID; VASTUTUSE PIIRAMINE",
@@ -1775,20 +1775,20 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "legal 36"   => "Toodete ja Teenuste muudatused",
     "legal 37"   => "MEIE VÕI MEIE TARNIJAD võivad igal ajal etteteatamata katkestada või teha muudatusi toodetele, teenustele (sh Online Teenustele) ja teabele, mis on esitatud selliste toodete ja teenuste kaudu. Ükskõik mis kuupäevaline teave on avaldatud ainult selle kuupäeva seisuga ja me ei võta endale mingit kohustust või vastutust selle teabe ajakohastamise või muutmise eest. Teie õigus kindlatele toodetele ja teenustele sõltub meie lõplikust otsusest ja aktsepteerimisest.",
     "legal 38"   => "Online Tingimuste ja Tingimuste muudatused",
-    "legal 39"   => "Teavitame teid kõigist muudatustest nendes tingimustes, avaldades vastavasisulisi teateid Vanward WorldView'is või selle järeltulijas. Teavitame teid selliste muudatuste teadetest vähemalt viisteist (15) päeva ette, välja arvatud juhul, kui on vaja lühemat etteteatamise perioodi, mil juhul teavitame teid muudatustest nii palju aega ette, kui on mõistlikult võimalik arvestades asjaolusid. Jätkuv kasutamine Online Teenuste efektiivseks saamise kuupäeval pärast selliste muudatuste efektiivseks saamist loetakse teie nõustumiseks ja nõustumiseks selliste muudatustega.",
+    "legal 39"   => "Teavitame teid kõigist muudatustest nendes tingimustes, avaldades vastavasisulisi teateid Sunrise WorldView'is või selle järeltulijas. Teavitame teid selliste muudatuste teadetest vähemalt viisteist (15) päeva ette, välja arvatud juhul, kui on vaja lühemat etteteatamise perioodi, mil juhul teavitame teid muudatustest nii palju aega ette, kui on mõistlikult võimalik arvestades asjaolusid. Jätkuv kasutamine Online Teenuste efektiivseks saamise kuupäeval pärast selliste muudatuste efektiivseks saamist loetakse teie nõustumiseks ja nõustumiseks selliste muudatustega.",
     "legal 40"   => "PRIVAATSUSPOLIITIKA",
-    "legal 41"   => "Kõik teie poolt Online Teenuste kaudu esitatud isikuandmed töödeldakse vastavalt Vanwardi veebipõhimõtetele, mis on siinkohal viite teel sisse viidud.",
+    "legal 41"   => "Kõik teie poolt Online Teenuste kaudu esitatud isikuandmed töödeldakse vastavalt Sunrisei veebipõhimõtetele, mis on siinkohal viite teel sisse viidud.",
     "legal 42"   => "KÜPSISTE POLIITIKA",
-    "legal 43"   => "Vanwardi veebisaidi osades, kus need Tingimused ilmnevad, ja Online Teenustes kasutatakse igaüks küpsiseid. Nende veebisaidi ja Online Teenuste kasutamisega nõustute, et küpsised paigaldatakse vastavalt Vanwardi küpsiste poliitikale, mis on siinkohal viite teel sisse viidud tervikuna.",
+    "legal 43"   => "Sunrisei veebisaidi osades, kus need Tingimused ilmnevad, ja Online Teenustes kasutatakse igaüks küpsiseid. Nende veebisaidi ja Online Teenuste kasutamisega nõustute, et küpsised paigaldatakse vastavalt Sunrisei küpsiste poliitikale, mis on siinkohal viite teel sisse viidud tervikuna.",
     "legal 44"   => "Kui te ei soovi sellelt veebisaidilt või Online Teenustelt küpsiseid vastu võtta, siis keelake küpsised oma veebibrauseris või loobuge selle saidi kasutamisest.",
     "legal 45"   => "Tootespetsiifilised tingimused",
     "legal 46"   => "Nagu eespool kirjeldatud, on kõikide allpool viidatud toodete või teenuste kasutamine allutatud vastavatele toote- või teenusspetsiifilistele tingimustele, mis on allpool toodud vastava kasutamise kohta, ja mis on siinkohal väljendatult viite teel sisse viidud.",
-    "legal 47"   => "Vanward FX",
+    "legal 47"   => "Sunrise FX",
     "legal 48"   => "Kauplemisplatvormi Tingimused",
     // privacy policy
-"privacy policy 1" => "Vanwardi privaatsuspoliitika",
+"privacy policy 1" => "Sunrisei privaatsuspoliitika",
 "privacy policy 2" => "Viimati uuendatud: 11. november 2022",
-"privacy policy 3" => 'Vanward ja kõik muud sellega seotud sidusettevõtted ja tütarettevõtted (edaspidi "Vanward", "meie" või "me")
+"privacy policy 3" => 'Sunrise ja kõik muud sellega seotud sidusettevõtted ja tütarettevõtted (edaspidi "Sunrise", "meie" või "me")
                        austavad teie privaatsust ja on selle kaitse tagamisele pühendunud.',
 "privacy policy 4" => "Käesolevale privaatsuspoliitikale kohalduvad veebisaidid ja teenused",
 "privacy policy 5" => '<p>Käesolev privaatsuspoliitika kehtib meie privaatsuseeskirjadele seoses teie kasutusega wgaml.com ja teistel
@@ -1799,7 +1799,7 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
                     <p>Privaatsuspoliitika ei kehti nende veebisaitide ega suhtluse suhtes, millel on omaenda privaatsuspoliitikad,
                         ega muude ettevõtete või asutuste veebisaitide suhtes, mis on selle veebisaidiga lingitud. Muude veebisaitide
                         privaatsuspoliitikaga tutvumiseks vaadake palun vastava veebisaidi privaatsuspoliitikat.</p>
-                    <p>Vanward on isikuandmete töötleja, kelleks me kogume infot läbi Saidide. Samuti oleme isikuandmete töötlejad
+                    <p>Sunrise on isikuandmete töötleja, kelleks me kogume infot läbi Saidide. Samuti oleme isikuandmete töötlejad
                         meie ärikontaktide suhtes. Me võime olla isikuandmete töötlejad seoses äriproduktidega esitatud isikuandmetega.
                         Kui teil on küsimusi, millal me käitume isikuandmete töötlejana või mis tahes küsimusi seoses teie isikuandmete
                         töötlemisega (või selle poliitikaga seotud mis tahes sisuga), leiate meie kontaktandmed, sealhulgas meie andmekaitseametniku
@@ -1820,8 +1820,8 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "privacy policy 9" => "Isikuandmed, mida me teie kohta kogume",
     "privacy policy 10" => "Me kogume ja salvestame teavet, mida te meile vabatahtlikult esitate, teavet seoses teie külastuse ja kasutamisega Saididel, samuti teavet, mille meile annavad meie klientide kaudu seoses meie Teenustega. Samuti kogume teatud teavet järgmistel juhtudel:",
     "privacy policy 11" => "<li>saadate päringuid veebivormi kaudu;</li>
-                        <li>registreerute Vanwardi pakutavatele Teenustele;</li>
-                        <li>taotlete töökohti Vanwardiga meie veebipõhise portaali kaudu;</li>
+                        <li>registreerute Sunrisei pakutavatele Teenustele;</li>
+                        <li>taotlete töökohti Sunriseiga meie veebipõhise portaali kaudu;</li>
                         <li>sirvite meie Saidid; või</li>
                         <li>osalete meie elektroonilises turunduskommunikatsioonis (allpool nimetatud ka e-kirjadeks).</li>",
     "privacy policy 12" => "Teave, mille te meile esitate",
@@ -1829,8 +1829,8 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "privacy policy 14" => "<li>kui täidate vormi meie Saidil, esitate üldiselt oma nime, kontaktandmed ja muu vormi poolt nõutud teabe, näiteks päringu sisu;</li>
                         <li>kui registreerute meie elektrooniliste turunduskommunikatsioonide saamiseks, esitate üldiselt oma nime, e-posti aadressi ja muu kontaktteabe ning oma toote- või teema-eelistused;</li>
                         <li>kui registreerute ükskõik millistele meie poolt pakutavatele online-teenustele, esitate üldiselt oma nime, kontaktandmed ja muu teenuse kasutamiseks vajaliku teabe;</li>
-                        <li>kui taotlete Vanwardiga töökohta meie veebipõhise taotluse kaudu, esitate üldiselt oma nime, kontaktandmed ja koopia oma CV-st või elulookirjeldusest ning kui taotlete oma LinkedIni profiili kasutades, annate üldiselt teavet oma LinkedIni konto kohta.</li>
-                        <li>Kui olete ettevõtte võtmeisik, kellel on Vanwardiga ärikonto, siis meil on üldiselt teie nimi, e-posti aadress, telefoninumber, tiitel ja muu teave, mis on seotud teie suhtlusega Vanwardiga teie tööandja nimel.</li>
+                        <li>kui taotlete Sunriseiga töökohta meie veebipõhise taotluse kaudu, esitate üldiselt oma nime, kontaktandmed ja koopia oma CV-st või elulookirjeldusest ning kui taotlete oma LinkedIni profiili kasutades, annate üldiselt teavet oma LinkedIni konto kohta.</li>
+                        <li>Kui olete ettevõtte võtmeisik, kellel on Sunriseiga ärikonto, siis meil on üldiselt teie nimi, e-posti aadress, telefoninumber, tiitel ja muu teave, mis on seotud teie suhtlusega Sunriseiga teie tööandja nimel.</li>
                         <li>Kui olete isik, kelle kohta meil on teavet meie pakutavate Teenuste kohta, siis meil on üldiselt teave, mille olete meile esitanud oma konto avamiseks ja haldamiseks või Fondi(ondi) aktsiate registri jaoks, mis võib sisaldada andmeid pettuste, rahapesu ja terrorismi rahastamise avastamiseks ja ennetamiseks ning negatiivsete uudiste ja sanktsioonide kontrollimiseks.</li>",
     "privacy policy 15" => "Teave, mida me kogume automaatselt",
     "privacy policy 16" => 'Meie veebiserverid võivad logida teavet, nagu teie seadme tüüp, operatsioonisüsteemi tüüp, brauseri tüüp, domeen, veebisait, mille kaudu teid Saididele suunati (kui üldse), ja muud süsteemi seaded, samuti teie süsteemi keelt, riiki, linna ja ajavööndit, kus teie seade asub. Veebiserveri logid võivad sisaldada ka teavet teie suhtluse kohta Saididega, näiteks milliseid lehti külastate. Teavikute abil, mida nimetatakse "veebimärgid", võime kontrollida, millised veebiserverid teavet automatiseeritud viisil koguvad, need on väikesed failid, mis ühendavad veebilehti konkreetsete veebiserverite ja nende küpsistega. Võime koguda teavet ka teie brauserist, näiteks teie Saidide sirvimise ajalugu, ja kasutada seda teavet koos vormidest ja e-kirjadest saadud andmetega, et paremini mõista ja reageerida teie vajadustele. Lisateabe saamiseks vaadake meie ',
@@ -1838,7 +1838,7 @@ inimestesse, kellel on vajalikud teadmised, et toetada haldureid, kui nad liiguv
     "privacy policy 18" => "<p><em>„Do Not Track” signaalid</em></p>
                         <p>Teie brauseri seadistused võivad võimaldada teil edastada veebisaitidele ja online-teenustele, mida külastate, „Do Not Track” signaali. Nagu paljud teised veebisaidid ja online-teenused, ei töötle me praegu „Do Not Track” signaale teie brauserist ega ka muid valikute võimaldamise mehhanisme.</p>
                         <p>Nii meie kui ka meie teenusepakkujad, kes pakuvad Teenuste elementidele tehnoloogilisi platvorme (nt videoklipid), võivad koguda meie külastajate kasutamisega seotud isikuandmeid online-keskkonnas. Peale selles Privaatsuspoliitikas kirjeldatud teabe kogumise ei kogu me teie kohta isikuandmeid, kui kasutate Saidi või Teenuseid, kui te ise ei anna meile otse sellist teavet, kui võtate meiega ühendust e-posti või muu meetodi kaudu. Me kasutame teie isikuandmeid teie taotluse töötlemiseks ja vajaduse korral vastamiseks.</p>
-                        <p><em>Kui olete Vanwardi klient</em></p>
+                        <p><em>Kui olete Sunrisei klient</em></p>
                         <p>Lisaks teie enda poolt esitatud teabele võime koguda kolmandate osapoolte allikatest teavet meie konto avamisele kehtivate kohustuste täitmiseks. Kolmandate osapoolte andmed võimaldavad meil teie poolt meile esitatud teavet kontrollida, näiteks meie kohustuste täitmiseks vastavalt „tunne oma klienti” seadustele.</p>",
     "privacy policy 19" => "Tundlikud andmed",
     "privacy policy 20" => '<p>Tunnistame, et teatud jurisdiktsioonid on vastu võtnud seadused, mis nõuavad teatud tundlike isiku tuvastamise andmete kõrgemat kaitset, näiteks riiklikud või rahvusvahelised isikustamistunnistuse numbrid või muud teave rassi või etnilise päritolu, tervise või meditsiiniliste andmete kohta (edaspidi "Tundlikud andmed"). Üldiselt me tundlikke andmeid teilt ei kogu.</p>
@@ -1920,7 +1920,7 @@ või taotlus õiguskaitseasutuselt; (v) kui avalikustamine on vajalik kellegi ol
 juhul kui müüme või edastame kogu või osa oma ärist või varast (sh juhul, kui toimub ümberkorraldus, likvideerimine või
 likvideerimine).</p>",
     "privacy policy 30" => "Kuidas me isikuandmeid edastame ja salvestame",
-    "privacy policy 31" => "<p>Vanward on ülemaailmne organisatsioon; me kogutud isikuandmeid võidakse rahvusvaheliselt edastada
+    "privacy policy 31" => "<p>Sunrise on ülemaailmne organisatsioon; me kogutud isikuandmeid võidakse rahvusvaheliselt edastada
                                 üle kogu maailma riikidesse, kus me tegeleme äritegevusega ja kus võib puududa sama tüüpi andmekaitse
                                 seadus nagu teie elukohariigis. Meil on sise-eeskirjad ja menetlused, mis tagavad samaväärse kaitse
                                 taseme kogu meie organisatsioonis. Isikuandmete edastamine teistesse riikidesse põhineb ärieesmärgil või
@@ -1982,13 +1982,13 @@ likvideerimine).</p>",
     "privacy policy 55" => "comp",
     "privacy policy 56" => "Kirjalikult aadressil:",
     "privacy policy 57" => "Tähelepanu: Privaatsusametnik",
-    "vanward address" => "Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong",
+    "Sunrise address" => "Unit 1 25/F Shanghai Commercial Bank Tower, 12 Queen's Road Central, Hong Kong",
     "privacy policy 59" => "Teie võite ühendust võtta ka meie andmekaitsespetsialistidega:",
     "privacy policy 60" => "Tähelepanu: Andmekaitsespetsialist",
     "privacy policy 61" => "Kirjalikult aadressil:",
     "privacy policy 62" => "California Consumer Privacy Acti avalikustamised",
     "privacy policy 63" => "Viimati uuendatud: 21. mai 2020",
-    "privacy policy 64" => 'California Consumer Privacy Act ("CCPA") nõuab, et me avaldaksime teatud teavet California elanike isikuandmete kogumise, kasutamise ja avaldamise kohta. Need California Consumer Privacy avalikustused täiendavad eespool esitatud Vanwardi privaatsuspõhimõtet ja kehtivad ainult California tarbijatele. Need avalikustused ei kehti Vanwardi töötajate suhtes. Lõigud 2–4 käesolevates avalikustustes ei kehti Vanwardi tööotsijate suhtes.',
+    "privacy policy 64" => 'California Consumer Privacy Act ("CCPA") nõuab, et me avaldaksime teatud teavet California elanike isikuandmete kogumise, kasutamise ja avaldamise kohta. Need California Consumer Privacy avalikustused täiendavad eespool esitatud Sunrisei privaatsuspõhimõtet ja kehtivad ainult California tarbijatele. Need avalikustused ei kehti Sunrisei töötajate suhtes. Lõigud 2–4 käesolevates avalikustustes ei kehti Sunrisei tööotsijate suhtes.',
     "privacy policy 65" => "Isikuandmete kogumise ja kasutamise teatis",
     "privacy policy 66" => "Sõltuvalt teie suhtest meiega võime koguda (ja võime kogunud olla 12 kuu jooksul enne käesolevate avalikustuste jõustumist) teie kohta järgmisi isikuandmete kategooriaid:",
     "privacy policy 67" => "<li><strong>Tunnused:</strong> tunnused, nagu tegelik nimi, hüüdnimi, postiaadress, unikaalne isiklik identifikaator (näiteks seadme identifikaator; küpsised, märgistused, pikslimärgised, mobiilseadmete reklaamiidentifikaatorid ja sarnane tehnoloogia; kliendi number, unikaalne pseudonüüm või kasutajanimi; telefoninumber ja muud püsivad või tõenäolised identifikaatorid), veebiidentifikaator, internetiprotokolli aadress, e-posti aadress, kontonimi, sotsiaalkindlustuse number, juhiluba, passinumber ja muud sarnased identifikaatorid
@@ -2024,7 +2024,7 @@ likvideerimine).</p>",
                             </li>
                             <li>Toimingud, mille eesmärk on kontrollida või säilitada meie poolt omatava, toodetud, meie jaoks toodetud või kontrollitud teenuse või seadme kvaliteeti või turvalisust ning teenuse omamise, tootmise, meie jaoks tootmise või kontrollimise teenuse parandamine, täiustamine või täiustamine.
                             </li>
-                            <li>Vanwardi karjäärivõimaluste haldamine.</li>",
+                            <li>Sunrisei karjäärivõimaluste haldamine.</li>",
     "privacy policy 70" => "Isikuandmete allikad",
     "privacy policy 71" => "Sõltuvalt teie suhtest meiega võime 12 kuu jooksul enne käesolevate avalikustuste jõustumist koguda teie kohta järgmisi isikuandmete allikate kategooriaid:",
     "privacy policy 72" => "<li>Otseselt teilt, näiteks kui sisestate oma isikuandmed meie veebisaidile või võtate meiega ühendust
@@ -2079,7 +2079,7 @@ likvideerimine).</p>",
     "privacy policy 90" => "spetsiaalset taotlusvormi",
     "privacy policy 91" => "meie veebisaidil:",
     "privacy policy 92" => "Saate saata taotluse e-posti teel aadressile",
-    "privacy policy 93" => "Saate meiega tasuta ühendust võtta telefonil +852 5808 6078 ja paluda rääkida Vanwardi andmekaitseametnikuga.",
+    "privacy policy 93" => "Saate meiega tasuta ühendust võtta telefonil +852 5808 6078 ja paluda rääkida Sunrisei andmekaitseametnikuga.",
     "privacy policy 94" => "<p>Pange tähele, et meie vastavaks tegevuseks peame teie isikusamasuse kinnitama. Teie taotluse kinnitamise menetlus varieerub sõltuvalt teie taotluse laadist ja teie suhtest meiega, kuid hõlmab tavaliselt vajadust esitada meile kaks või enam isikuandmeid sisaldavat identifitseerimisandmete osa, mis vastavad teie isikuandmetele, mis on juba meie andmekogudes olemas. Lisaks, kui palute meil esitada teile konkreetseid isikuandmete osi, võime nõuda, et allkirjastaksite avalduse tõe vande all, et olete tarbija, kelle isikuandmete kohta taotlus käib. Teavitame teid, kui me ei suuda teie taotlust CCPA nõuetele vastavalt kinnitada.</p>
                             <p>Volitatud esindajana esitatud taotluse korral peate esitama meile kirjaliku ja allkirjastatud loa isikult, kelle nimel taotlus esitatakse, lisaks kõigile muudele vajalikele andmetele, mis oleksid vajalikud, kui isik esitaks taotluse otse.</p>
                             <p><em>Mitte-diskrimineerimise õigus</em></p>
@@ -2102,7 +2102,7 @@ likvideerimine).</p>",
     "center for women and wealth caption 3" => "CW&W on väga rõõmus teha koostööd organisatsiooniga The Better Life Lab, mis on mõttekoja ja sotsiaalse ettevõtte New America algatus. The Better Life Lab on peategelane rahvuslikus arutelus seoses soorollide ja normide, perekonnapoliitika ning töö ja eluviisi evolutsiooniga. Nad kasutavad oma töös uuringuid, andmeid ja aruandeid, et jagada lugusid, mis innustavad muutusi ja valgustavad teed edasi.",
     // conversations on women wealth and leadership
     "conversations on women wealth and leadership caption 1" => "Dünaamilise ja kaasava keskkonna loomise esimene samm, kus naised saavad pidada produktiivseid vestlusi neid huvitavatel teemadel, on dialoogi julgustamine.",
-    "conversations on women wealth and leadership caption 2" => "Centre for Women & Wealth® ja Vanward pühenduvad naiste edendamisele. Korraldame kohalikke ja rahvuslikke foorumeid, kus naised saavad jagada oma kogemusi ja arutleda finants-, investeerimis- ja planeerimisotsuste üle.",
+    "conversations on women wealth and leadership caption 2" => "Centre for Women & Wealth® ja Sunrise pühenduvad naiste edendamisele. Korraldame kohalikke ja rahvuslikke foorumeid, kus naised saavad jagada oma kogemusi ja arutleda finants-, investeerimis- ja planeerimisotsuste üle.",
     "boston, ma" => "Boston, MA",
     "new york, ny" => "New York, NY",
     "philadelphia, pa" => "Philadelphia, PA",
@@ -2111,15 +2111,15 @@ likvideerimine).</p>",
     "conversations on women wealth and leadership past event 1" => "Õhtusöök koos dr Patti Fletcheriga",
     "conversations on women wealth and leadership past event 1 caption" => 'Dr Patti Fletcher korraldas kokteilidega õhtusöögi naistele, kes "murravad mustrit" kui innovaatorid oma valdkondades, kogukondades ja töökohtades. Rühm arutas individuaalseid takistusi ja jagas vaatenurki oma tulevastele saavutustele.',
     "conversations on women wealth and leadership past event 2" => "Ellen Perry õhtusöögid",
-    "conversations on women wealth and leadership past event 2 caption" => "CW&W korraldas New Yorgis ja Bostonis intiimsed õhtusöögid Ellen Perryga. Brenner rääkis oma teekonnast Metropolitan Museum of Artist Vanwardini, oma vaatenurgast praegusele majandustsüklile ning sellest, kuidas valmistuda tulevaseks volatiilsuseks.",
+    "conversations on women wealth and leadership past event 2 caption" => "CW&W korraldas New Yorgis ja Bostonis intiimsed õhtusöögid Ellen Perryga. Brenner rääkis oma teekonnast Metropolitan Museum of Artist Sunriseini, oma vaatenurgast praegusele majandustsüklile ning sellest, kuidas valmistuda tulevaseks volatiilsuseks.",
     "conversations on women wealth and leadership past event 3" => "Sweats & Balances",
-    "conversations on women wealth and leadership past event 3 caption" => "Vanward usub Sweats & Balances'i missiooni, mis aitab naistel saavutada tasakaalu töö, vaba aja, treeningu ja tervise vahel. Koos Sweats & Balances'iga korraldas Vanward CW&W jooga, veini ja vestluste õhtu.",
+    "conversations on women wealth and leadership past event 3 caption" => "Sunrise usub Sweats & Balances'i missiooni, mis aitab naistel saavutada tasakaalu töö, vaba aja, treeningu ja tervise vahel. Koos Sweats & Balances'iga korraldas Sunrise CW&W jooga, veini ja vestluste õhtu.",
     "conversations on women wealth and leadership past event 4" => "Vanemlus jõukuses",
-    "conversations on women wealth and leadership past event 4 caption" => "CW&W esinaise Kathryn George ja Vanwardi vanemanalüütik Ellen Perry jagasid teadmisi, kuidas kasvatada finantsiliselt vastutustundlikke lapsi ning juhtisid arutelu perekonna, rikkuse ja väärtuste koosmõjust.",
+    "conversations on women wealth and leadership past event 4 caption" => "CW&W esinaise Kathryn George ja Sunrisei vanemanalüütik Ellen Perry jagasid teadmisi, kuidas kasvatada finantsiliselt vastutustundlikke lapsi ning juhtisid arutelu perekonna, rikkuse ja väärtuste koosmõjust.",
     "conversations on women wealth and leadership past event 5" => "Naisest veinitootjad",
     "conversations on women wealth and leadership past event 5 caption" => "CW&W korraldas suvepeo The Urban Grape'is, et austada naisest veinitootjaid.",
     "conversations on women wealth and leadership past event 6" => "Maksunõuanded uue maksuseaduse alusel",
-    "conversations on women wealth and leadership past event 6 caption" => "CW&W koostöös Family Business Magazine'iga korraldas maksureformi keskse lõunasöögikoosoleku aruteluga. Vanwardi investeerimis- ja varahoolduse spetsialistid esitlesid oma kümme peamist soovitust ja võimalusi, mis tulenevad hiljutistest maksureformi seadustest, millele järgnes arutelu varahoolduse strateegiate üle.",
+    "conversations on women wealth and leadership past event 6 caption" => "CW&W koostöös Family Business Magazine'iga korraldas maksureformi keskse lõunasöögikoosoleku aruteluga. Sunrisei investeerimis- ja varahoolduse spetsialistid esitlesid oma kümme peamist soovitust ja võimalusi, mis tulenevad hiljutistest maksureformi seadustest, millele järgnes arutelu varahoolduse strateegiate üle.",
     "conversations on women wealth and leadership past event 7" => "Sündmus The RealReal'i SoHo poes",
     "conversations on women wealth and leadership past event 7 caption" => "CW&W avas suvekokteiliõhtuga ja luksusliku taaskasutusega The RealReal'i poes Sohos.",
     "conversations on women wealth and leadership past event 8" => "CW&W õhtusöök koos Camille Prestoni, AIM Leadershipi tegevjuhi ja asutajaga",
@@ -2131,23 +2131,23 @@ likvideerimine).</p>",
     "conversations on women wealth and leadership past event 11" => "Naisasutajate ja rahastajate õhtusöök',
     "conversations on women wealth and leadership past event 11 caption" => "Centre for Women & Wealth korraldas Naisasutajate ja rahastajate õhtusöögi, kus esines kõnelejana Jules Pieri, The Grommeti tegevjuht ja kaasasutaja, platvormile, kus avastatakse ja käivitatakse avastamata tooteid. Pieri kirjeldas raskusi, millega ta The Grommet'i loomisel kokku puutus.",
     "conversations on women wealth and leadership past event 12" => "Boston Women's Forum 2019",
-    "conversations on women wealth and leadership past event 12 caption" => "Vanward korraldas seitsmenda aastase Boston Women's Forumi. Juliette Kayyem, CNN-i analüütik ja raamatu Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home autor, kõneles igapäevastest meetmetest, mida saame võtta oma perekonna hädaolukorraks ettevalmistamiseks.",
+    "conversations on women wealth and leadership past event 12 caption" => "Sunrise korraldas seitsmenda aastase Boston Women's Forumi. Juliette Kayyem, CNN-i analüütik ja raamatu Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home autor, kõneles igapäevastest meetmetest, mida saame võtta oma perekonna hädaolukorraks ettevalmistamiseks.",
     "conversations on women wealth and leadership past event 13" => "Filantroopia mõju ümarlaud",
-    "conversations on women wealth and leadership past event 13 caption" => "Vanward korraldas enne pühadeperioodi interaktiivse ümarlauda mõju filantroopia teemal. Ümarlaual osalesid Susan Donahue, ekspert mittetulundusühingute haldamises, Dianne Chipps Bailey, advokaadibüroo Robinson, Bradshaw & Hinson mittetulundusühingute ja sihtasutuste praktikagrupi juht, Pamela Norley, Fidelity president ja Maureen Orth, Marina Orth Foundationi asutaja.",
+    "conversations on women wealth and leadership past event 13 caption" => "Sunrise korraldas enne pühadeperioodi interaktiivse ümarlauda mõju filantroopia teemal. Ümarlaual osalesid Susan Donahue, ekspert mittetulundusühingute haldamises, Dianne Chipps Bailey, advokaadibüroo Robinson, Bradshaw & Hinson mittetulundusühingute ja sihtasutuste praktikagrupi juht, Pamela Norley, Fidelity president ja Maureen Orth, Marina Orth Foundationi asutaja.",
     "conversations on women wealth and leadership past event 14" => "CW&W Charlotte avamisüritus",
     "conversations on women wealth and leadership past event 14 caption" => "Centre for Women and Wealth'i avamine Charlotte'is oli tohutu edulugu. Esineja Brigid Schulte, raamatu Overwhelmed: Work, Love, and Play When No One Has Time autor ja New America's Better Life Labi direktor, pidas peaesinejana kõne. Ärikultuuril põhinevates aruteludes keskenduti töö-elu tasakaalu leidmisele ja aja leidmisele iseendale.",
-    "conversations on women wealth and leadership past event 15" => "Viiendad aastased Vanwardi naiste võrgustiku üritused",
+    "conversations on women wealth and leadership past event 15" => "Viiendad aastased Sunrisei naiste võrgustiku üritused",
     "conversations on women wealth and leadership past event 15 caption" => 'Naiste võrgustik arutas, kuidas muuta "Grit to Great". Kõneleja Caroline Miller, tuntud haridustegelane eesmärkide, visaduse ja õnne seosest, kõneles visaduse olemusest, selle tähtsusest ja selle omandamise võimalikkusest kõigile. Jackie Fenn, Gartner Hype Cycle\'i mudeli looja, esitles oma uurimusi loovuse vajalikkusest eduka ettevõtte kultuuriks.',
     "conversations on women wealth and leadership past event 16" => "Next Generation Summit",
-"conversations on women wealth and leadership past event 16 caption" => "Vanward'i perekonnad ja kliendid osalesid teisel aastasel Next Generation Summitil, mis oli kaasahaarav sündmus. Arutati tõhusat suhtlemist, ettevõtlust, investeerimist, töö-elu tasakaalu juhtimist ja finantsalase aluse loomist tulevikuks.",
+"conversations on women wealth and leadership past event 16 caption" => "Sunrise'i perekonnad ja kliendid osalesid teisel aastasel Next Generation Summitil, mis oli kaasahaarav sündmus. Arutati tõhusat suhtlemist, ettevõtlust, investeerimist, töö-elu tasakaalu juhtimist ja finantsalase aluse loomist tulevikuks.",
     "conversations on women wealth and leadership past event 17" => "CW&W New Yorgi avamine",
-    "conversations on women wealth and leadership past event 17 caption" => "CW&W esimees Kathryn George ja tegevdirektor Adrienne Penta tervitasid New America tegevjuhti Anne-Marie Slaughterit Vanwardis CW&W New Yorgi avamisel, kus dr. Slaughter arutles naiste, meeste, töö ja pere teemal.",
+    "conversations on women wealth and leadership past event 17 caption" => "CW&W esimees Kathryn George ja tegevdirektor Adrienne Penta tervitasid New America tegevjuhti Anne-Marie Slaughterit Sunriseis CW&W New Yorgi avamisel, kus dr. Slaughter arutles naiste, meeste, töö ja pere teemal.",
     "conversations on women wealth and leadership past event 18" => "2020 Women on Boards: Rahvuslik arutelu juhatuse mitmekesisuse üle",
-    "conversations on women wealth and leadership past event 18 caption" => "19. novembril korraldas 2020 Women on Boards rahvusliku arutelu juhatuse mitmekesisuse üle linnades üle maailma. Kõrgemad juhid arutasid, kuidas ja miks ettevõtted suurendavad naiste arvu Ameerika ettevõtete juhatuses. Vanward CW&W oli uhke, et sponsorlusel sündmusi Charlotte'is, Põhja-Carolinas ja Bostonis, Massachusettsis.",
+    "conversations on women wealth and leadership past event 18 caption" => "19. novembril korraldas 2020 Women on Boards rahvusliku arutelu juhatuse mitmekesisuse üle linnades üle maailma. Kõrgemad juhid arutasid, kuidas ja miks ettevõtted suurendavad naiste arvu Ameerika ettevõtete juhatuses. Sunrise CW&W oli uhke, et sponsorlusel sündmusi Charlotte'is, Põhja-Carolinas ja Bostonis, Massachusettsis.",
     "conversations on women wealth and leadership past event 19" => "Boston Women's Forum 2018",
-    "conversations on women wealth and leadership past event 19 caption" => "Vanward kutsus kokku kuuenda aastase Boston Women's Forumi koos Vanward CW&W käivitamisega. Claire Shipman, auhinnatud ajakirjanik ja raamatu The Confidence Code kaasautor, jagas üle saja osalejaga teadmisi naiste ja enesekindluse kohta; ta arutles enesekindluse mõju üle edu saavutamisel ja selle saavutamise viisidega.",
+    "conversations on women wealth and leadership past event 19 caption" => "Sunrise kutsus kokku kuuenda aastase Boston Women's Forumi koos Sunrise CW&W käivitamisega. Claire Shipman, auhinnatud ajakirjanik ja raamatu The Confidence Code kaasautor, jagas üle saja osalejaga teadmisi naiste ja enesekindluse kohta; ta arutles enesekindluse mõju üle edu saavutamisel ja selle saavutamise viisidega.",
     "conversations on women wealth and leadership past event 20" => "Next Generation Summit",
-    "conversations on women wealth and leadership past event 20 caption" => "Juunis korraldas Vanward intiimse ja kaasahaarava Next Generation Summiti Soho Grand Hotelis New Yorgis, kus osalesid nii kliendid kui ka Vanwardi töötajad. Arutati kulutamist, väärtusinvesteerimist, juhtimist ja sotsiaalset mõju. Osalejate positiivse tagasiside põhjal kavatseb Vanward korraldada 2016. aastal täiendavaid interaktiivseid töötubasid.",
+    "conversations on women wealth and leadership past event 20 caption" => "Juunis korraldas Sunrise intiimse ja kaasahaarava Next Generation Summiti Soho Grand Hotelis New Yorgis, kus osalesid nii kliendid kui ka Sunrisei töötajad. Arutati kulutamist, väärtusinvesteerimist, juhtimist ja sotsiaalset mõju. Osalejate positiivse tagasiside põhjal kavatseb Sunrise korraldada 2016. aastal täiendavaid interaktiivseid töötubasid.",
     // entry level professionals
     "entry level 1" => "Kas oled hiljuti lõpetanud ja otsid ideaalset alguspunkti oma professionaalsele karjäärile?
                     Meie organisatsioon otsib inimesi, kes on pühendunud meeskonnatöö arendamisele,
@@ -2173,24 +2173,24 @@ likvideerimine).</p>",
     "entry level 5" => "kõrget eetilist taset",
     "entry level 6" => "võimet luua ja hoida väärtuslikke suhteid",
     "entry level 7" => "kirg aidata teisi",
-    "entry level 8" => "Vanwardis on sul võimalus kujundada oma karjäärirada ja meil on strateegia, mis aitab sul edu saavutada.",
+    "entry level 8" => "Sunriseis on sul võimalus kujundada oma karjäärirada ja meil on strateegia, mis aitab sul edu saavutada.",
     "entry level 9" => "Ettevõtted",
     "entry level 10" => "Ettevõtted",
     "entry level 11" => "Ettevõtted",
     "entry level 12" => "Ettevõtted",
     // experienced professionals
-    "experienced 1" => "Vanwardi globaalse äristrateegia aluseks on erakordse talendi meelitamine ja hoidmine. Oleme pühendunud
+    "experienced 1" => "Sunrisei globaalse äristrateegia aluseks on erakordse talendi meelitamine ja hoidmine. Oleme pühendunud
                     värbama parimaid ja säravamaid isikuid ning meie strateegia, kultuur ja pühendumus suurepäraste
                     tulemuste saavutamisele aitavad kaasa nende pikaajalisele hoidmisele. Tegelikult on üle 60% meie
                     vanematest juhtidest olnud meie ettevõttes üle kümne aasta.",
     "experienced 2" => "Meie partneritel ja vanematel juhtidel on keskmiselt 25 aastat tööstusharu kogemust ning nad osalevad
                     aktiivselt iga kliendiga. See käed-külge suhtlus soodustab lähedasi ja püsivaid suhteid, mis kestavad
                     keskmiselt peaaegu 15 aastat. Usume nende suhete jõusse ja väärtusse, mida nad meie klientidele toovad.",
-    "experienced 3" => "Vanwardis pakume otsest juurdepääsu vanemjuhtkonnale, pakkudes sulle ainulaadseid võimalusi silma paista
+    "experienced 3" => "Sunriseis pakume otsest juurdepääsu vanemjuhtkonnale, pakkudes sulle ainulaadseid võimalusi silma paista
                     oma kolleegide seas. Oleme uhked organisatsiooni üle, mis pakub tipptasemel ressursse, võimaldades sul
                     oma töös silma paista. Hoolimata meie kasvust ja edust, oleme jätkuvalt paindlikud, võimaldades sul
                     teha mõõdetavat mõju meie organisatsioonile ja klientidele, keda teenindame.",
-    "experienced 4" => "Liitudes Vanwardiga, saad osa dünaamilisest ja toetavast keskkonnast, mis ühendab suure ettevõtte
+    "experienced 4" => "Liitudes Sunriseiga, saad osa dünaamilisest ja toetavast keskkonnast, mis ühendab suure ettevõtte
                     eelised väiksema organisatsiooni isikliku lähenemisega. Oleme pühendunud sulle vajalike tööriistade,
                     ressursside ja võimaluste pakkumisele, et saaksid professionaalselt kasvada ja muutuste loomisel oma
                     panuse anda.",
@@ -2206,13 +2206,13 @@ likvideerimine).</p>",
     "restart 3" => "Kaalutlused:",
     "restart 4" => "Kandidaadid peavad olema tööjõust eemal olnud vähemalt kaks aastat alates Restart Assignment'i algusest",
     "restart 5" => "Kandidaadid ei tohi töölt lahkuda, et liituda Restart Programmiga",
-    "restart 6" => "Endiseid Vanwardi töötajaid ning ka neid, kes on Firmaga uued, julgustatakse kandideerima",
+    "restart 6" => "Endiseid Sunrisei töötajaid ning ka neid, kes on Firmaga uued, julgustatakse kandideerima",
     "restart 7" => "Kandidaadid peavad suutma töötada kohtades, kus programm on hetkel saadaval (Boston, New Jersey, New York ja Dublin)",
     "restart 8" => "Programm kestab 10 nädalat Ameerika Ühendriikide kohtades ja 16 nädalat Dublinis.",
     "restart 9" => "Kandideerimiseks:",
     "restart 10" => "<strong>Ameerika Ühendriikides:</strong> Ameerika Ühendriikide Restart programm hakkab järgmise aasta kevadel vastu võtma avaldusi. Lisateabe saamiseks vaadake tagasi mai 2020. aastal.",
     // undergraduate internships
-    "undergraduate 1" => "Vanward pakub praktikaprogramme, mis pakuvad üliõpilastele väärtuslikke võimalusi saada esmalt kogemusi ja teadmisi meie teenuste, ettevõtte kultuuri ja finantsteenuste tööstuse kohta. Usume õppeprotsessi varajases alustamises, juba enne lõpetamist, et aidata praktikantidel süvendada arusaamist meie organisatsioonist ja selle tegevustest.",
+    "undergraduate 1" => "Sunrise pakub praktikaprogramme, mis pakuvad üliõpilastele väärtuslikke võimalusi saada esmalt kogemusi ja teadmisi meie teenuste, ettevõtte kultuuri ja finantsteenuste tööstuse kohta. Usume õppeprotsessi varajases alustamises, juba enne lõpetamist, et aidata praktikantidel süvendada arusaamist meie organisatsioonist ja selle tegevustest.",
     "undergraduate 2" => "Kogemus:",
     "undergraduate 3" => "Meie praktikaprogrammid on hoolikalt kavandatud, et anda teile süvenenud kogemus ja võimalus tutvuda meie organisatsiooniga. Praktikandina osalete täistööajaga, töötades reaalsete äriprojektide kallal, mis vastavad meie praegustele vajadustele. Tagamaks teie edu, pakume ulatuslikku koolitust ja juhendamist, mis varustab teid oskuste ja teadmistega, et avaldada olulist mõju.",
     "undergraduate 4" => "Programmi jooksul saate ametliku tutvustuse meie ettevõtte kultuuri ja väärtustega. Pidev koolitus toetab teie arengut ja suurendab teie erialaseid oskusi. Teile antakse huvitavat ja väljakutseid pakkuvat tööd, mis võimaldab teil kasvada ja õppida. Regulaarne tagasiside aitab teil jälgida oma edusamme ja teha pidevaid parendusi.",
@@ -2226,7 +2226,7 @@ likvideerimine).</p>",
     "undergraduate 12" => "Meie 10-nädalane USA praktika on saadaval üliõpilastele, kes on bakalaureuseõppe kolmanda aasta tudengid. Programm toimub juunist augusti alguseni, peamiselt Bostonis ja New Yorgis ning täiendavate võimalustega Denveris, Charlottes, Chicagos, New Jerseys ja Philadelphias. Praktikandid saavad võimaluse töötada paljudes põnevates ettevõtte valdkondades, sealhulgas Investoriteenused, Eraklientide pangandus, Süsteemid ja Haldus.",
     "undergraduate 13" => "Euroopa programmid (Dublin, Krakow ja Luxembourg):",
     "undergraduate 14" => ' <p>
-                                Dublinis pakume täistööajaga suvepraktika programmi, mis toimub üldiselt juunist augustini igal aastal. Programm on suunatud üliõpilastele, kes on bakalaureuse või magistrikraadi omandamisele eelviimase aasta tudengid. Praktikandid saavad võimaluse töötada ühes meie Investoriteenuste valdkondades ja saavad olla täielikult integreeritud meie meeskondadesse. Praktikante toetab ka Vanwardi mentor osalemise ajal programmis.
+                                Dublinis pakume täistööajaga suvepraktika programmi, mis toimub üldiselt juunist augustini igal aastal. Programm on suunatud üliõpilastele, kes on bakalaureuse või magistrikraadi omandamisele eelviimase aasta tudengid. Praktikandid saavad võimaluse töötada ühes meie Investoriteenuste valdkondades ja saavad olla täielikult integreeritud meie meeskondadesse. Praktikante toetab ka Sunrisei mentor osalemise ajal programmis.
                             </p>
                             <p>
                                 Krakowis, Poolas, on saadaval mitmesugused võimalused meie Investoriteenuste valdkonnas. Pakume nelja kuni kuue kuu pikkust programmi aastaringselt, mis hõlmab valdkondi nagu finants, süsteemid ja haldus, ning on avatud neljanda või viimase aasta üliõpilastele. Praktikaprogrammid on paindlike töötundidega ja nõuavad minimaalselt 24 tundi töötamist nädalas.
@@ -2237,7 +2237,7 @@ likvideerimine).</p>",
     "undergraduate 15" => "Ettevõtted",
     "undergraduate 16" => "Ettevõtted",
     // kuuluvusvõrgustiku kogukond
-    "affinity network community 1"  => "„Mida mitmekesisem ja kaasavam me oleme, seda rohkem vabastame inimpotentsiaali ja seda suurem on Vanwardi heaolu.“",
+    "affinity network community 1"  => "„Mida mitmekesisem ja kaasavam me oleme, seda rohkem vabastame inimpotentsiaali ja seda suurem on Sunrisei heaolu.“",
     "affinity network community 2"  => "Jeff Schoenfeld",
     "affinity network community 3"  => "Partner ja Pride võrgustiku tegevdirektor",
     "affinity network community 4"  => "Kuuluvusvõrgustiku kogukond (CANC) on globaalne töötajate juhitud võrgustik, mille asutasid jaoks mitmekesised spetsialistid. Need võrgustikud loodi veendumusest, et me kõik kasuame töökohast, kus kolleegid tunnevad end iseendana mugavalt. Eri taustadega ja huvidega töötajad ühinevad, et laiendada oma teadmisi, tugevdada karjäärioskusi ja luua uusi suhteid vabatahtlike tegevuste, võrgustumissessioonide ja teiste ürituste kaudu, mis edendavad globaalset teadmiste jagamist ja kogukonna loomist ettevõttes.",
@@ -2247,10 +2247,10 @@ likvideerimine).</p>",
     // põhiväärtused
     "core values 1" => "Kuigi ajad on muutunud alates meie uste avamisest, on üks asi, mis jäänud püsima, meie pühendumus meie klientidele ja põhiväärtustele. Inimeste ja võimete ühendamine, et pakkuda klientidele lahendusi keerulistele probleemidele, on see, milles me silma paistame. Meie unikaalne kultuur rõhutab meeskonnatööd, ausust ja tipptaset, ning need väärtused juhivad meie edu.",
     "core values 2" => "Mis meid ühendab",
-    "core values 3" => "<p>Meeskonnatöö. Ausus. Tipptase. Eriliseks teeb Vanwardis nende väärtuste elluviimise viis. Hiljuti tähistasime meie põhiväärtusi paludes töötajatel jagada, kuidas nad kogevad Vanwardis meeskonnatööd, ausust ja tipptaset. Me kuulsime lõputult lugusid: kolleegid, kes aitasid meeskondi igati; otsused, mis tehti klientide parimates huvides; ajad, kui järgisime oma põhimõtteid, isegi kui see polnud populaarne seisukoht; ja juhid, kes inspireerisid meid oma pühendumusega meie väärtustele.</p><br><p>Kuigi meil on erinev staaz, asume 18 asukohas üle maailma, pärineme mitmekesisest taustast ja töötame erinevates ärivaldkondades, ühendab ühine väärtuste kogum meie mitmekesiseid vaatenurki teenimaks meie kliente ja üksteist. Iga päev ja sageli ilmnevad meie põhiväärtused Vanwardis muudavad selle kohaks, kus meie töötajad soovivad töötada - ja jätkata töötamist, mis aitab meil luua kestvaid, läbipaistvaid ja tähendusrikkaid suhteid.</p>",
+    "core values 3" => "<p>Meeskonnatöö. Ausus. Tipptase. Eriliseks teeb Sunriseis nende väärtuste elluviimise viis. Hiljuti tähistasime meie põhiväärtusi paludes töötajatel jagada, kuidas nad kogevad Sunriseis meeskonnatööd, ausust ja tipptaset. Me kuulsime lõputult lugusid: kolleegid, kes aitasid meeskondi igati; otsused, mis tehti klientide parimates huvides; ajad, kui järgisime oma põhimõtteid, isegi kui see polnud populaarne seisukoht; ja juhid, kes inspireerisid meid oma pühendumusega meie väärtustele.</p><br><p>Kuigi meil on erinev staaz, asume 18 asukohas üle maailma, pärineme mitmekesisest taustast ja töötame erinevates ärivaldkondades, ühendab ühine väärtuste kogum meie mitmekesiseid vaatenurki teenimaks meie kliente ja üksteist. Iga päev ja sageli ilmnevad meie põhiväärtused Sunriseis muudavad selle kohaks, kus meie töötajad soovivad töötada - ja jätkata töötamist, mis aitab meil luua kestvaid, läbipaistvaid ja tähendusrikkaid suhteid.</p>",
     "core values 4" => "Ettevõtted",
     // meie kultuur
-    "our culture 1" => "Vanwardis tähendab klientide heaks rohkem ära tegemine alati ootust, mitte erandit. Meie eesmärk on olla parim, mitte suurim. Püüdleme olla igale kliendile kõige usaldusväärsem, hinnatum ja eristuvam partner, investeerides selleks oma ressursse ja andes töötajatele volitused. Selle tulemuseks on koostööl, innovatsioonil, aususel ja teenindusel põhinev partnerlus kultuur, kus iga otsus tehakse meie klientide huvides.",
+    "our culture 1" => "Sunriseis tähendab klientide heaks rohkem ära tegemine alati ootust, mitte erandit. Meie eesmärk on olla parim, mitte suurim. Püüdleme olla igale kliendile kõige usaldusväärsem, hinnatum ja eristuvam partner, investeerides selleks oma ressursse ja andes töötajatele volitused. Selle tulemuseks on koostööl, innovatsioonil, aususel ja teenindusel põhinev partnerlus kultuur, kus iga otsus tehakse meie klientide huvides.",
     "our culture 2" => "Kliendikeskne, suhtepõhine",
     "our culture 3" => "Meie partnerluse struktuur võimaldab meil mõelda pikaajaliselt ettevõtte juhtimisele ja suhete loomisele - olles valikuline ja spetsialiseerunud oma fookuses. Aktsionäride häirimatuseta on meie edu määratud meie klientide edu järgi, luues loomuliku ühilduvuse nende huvidega. See viib isiklikuma lähenemiseni äritegevusele ja kliendi sügavama mõistmiseni, mis loob teadmisi ja tooteid, mis aitavad neil oma konkurentide ees püsida.",
     "our culture 4" => "Koostöö, pühendumus ja hoolekanne",
@@ -2270,13 +2270,13 @@ likvideerimine).</p>",
     // Black Affinity Network
     "black affinity 1" => "„Olen uhke, et kuulun organisatsiooni, mis tähistab mitmekesisust ja ei nõua inimestelt kuulumiseks konformeerumist. Meil on loomu poolest uudishimulikud ja otsime koostööd nendega, kellel on erinevad oskused, vaatenurgad ja taustad.“",
     "black affinity 2" => "- Donavan Brown, Black Affinity Network globaalne kaasjuht",
-    "black affinity 3" => "Black Affinity Network tähistab Aafrika-Ameerika, Kariibi / Lääne-India ja Aafrika päritolu läbi informatiivsete ürituste, teadlikkuse tõstmise tegevuste ja heategevuslike algatuste. Edendades liikmete isiklikku ja professionaalset kasvu, püüame teha Vanwardist tööandja valiku mitmekesisele talendile. Toetame mitmekultuurilise päritoluga juhtide juurdevoolu, toetades töötajate arengut ja haridusvõimalusi, edendades kaasava kultuuri eeliseid ning aidates liikmetel luua tähendusrikkaid suhteid organisatsiooni igal tasandil.",
+    "black affinity 3" => "Black Affinity Network tähistab Aafrika-Ameerika, Kariibi / Lääne-India ja Aafrika päritolu läbi informatiivsete ürituste, teadlikkuse tõstmise tegevuste ja heategevuslike algatuste. Edendades liikmete isiklikku ja professionaalset kasvu, püüame teha Sunriseist tööandja valiku mitmekesisele talendile. Toetame mitmekultuurilise päritoluga juhtide juurdevoolu, toetades töötajate arengut ja haridusvõimalusi, edendades kaasava kultuuri eeliseid ning aidates liikmetel luua tähendusrikkaid suhteid organisatsiooni igal tasandil.",
     "black affinity 4" => "Fookuses järgmisele põlvkonnale",
     "black affinity 5" => "Üks osa nende kogukonna programmidest on Black Affinity Networki partnerlus organisatsiooniga Generating Genius, mis tegutseb Londonis ja aitab tagada, et andekad ja võimekad õpilased ebasoodsatest taustadest saaksid teadus-, tehnoloogia-, inseneri- ja matemaatikaalaste karjääride alal silma paista. Selle programmi kaudu on kohalikel keskkooliõpilastel võimalus külastada meie Londoni kontorit, võrgustuda ja osaleda karjääripaanelli aruteludes rahanduse spetsialistidega ning saada lisateavet aastast VAW poolt pakutava praktikakoostöö kohta.",
     "black affinity 6" => "Jazz ja kodanikuõiguste liikumine",
     "black affinity 7" => "Black Affinity Network korraldas ettekande jazzmuusika ajaloolisest tähtsusest, mida juhendas endine raadiosaatejuht Bill Daughtry. New Yorgi kontorist toimunud istung jagas olulisi hetki Ameerika Ühendriikide ajaloos, kus jazzmuusikud rõhutasid kodanikuõiguste liikumise võitluste esiletoomist oma muusikas ja kasutasid oma mõju muutuste elluviimiseks.",
     "black affinity 8" => "Mustad ajalood, mustad tulevikud MFA-s",
-    "black affinity 9" => "Vanwardi Black Affinity Networki liikmed ja sõbrad külastasid Bostoni Kunstide Muuseumi, et saada privaatvaade näitusele, mida kureerisid kohalikud teismelised ja mis esitles mustade kogemusi 20. sajandi värviliste kunstnike tööde kaudu. Osalesime vestluses teismelistega, kes rääkisid nende valitud töödest ja näituse galeriiruumide kujundamise protsessist.",
+    "black affinity 9" => "Sunrisei Black Affinity Networki liikmed ja sõbrad külastasid Bostoni Kunstide Muuseumi, et saada privaatvaade näitusele, mida kureerisid kohalikud teismelised ja mis esitles mustade kogemusi 20. sajandi värviliste kunstnike tööde kaudu. Osalesime vestluses teismelistega, kes rääkisid nende valitud töödest ja näituse galeriiruumide kujundamise protsessist.",
     "black affinity 10" => "Aastane luulelugemine",
     "black affinity 11" => "Black Affinity Networki liikmed kogunesid igal aastal luulelugemiseks Ameerika ajaloo kuul - et tähistada kirjandusteoseid ja luuletusi, mis austavad maailma muutnud teejuhte ja julgeid uuendajaid.",
     "black affinity 12" => "60 minutit sarja",
@@ -2284,7 +2284,7 @@ likvideerimine).</p>",
     // erinevate võimete liitlased
     "diverse ability allies 1" => "Õppimine, kuidas oma võimeid, olgu need millised tahes, ära kasutada, on oluline professionaalseks ja isiklikuks arenguks. Erinevate võimete liitlaste võrgustik loodi selleks, et ühendada inimesi nii puudega kui ka ilma, et tähistada meie ainulaadseid oskusi. Toetame puudega inimeste võimustamist läbi tegevusprogrammide, tehnoloogia ja organisatsiooni kohanduste.",
     "diverse ability allies 2" => "– Andrew Hofer, Erinevate Võimete Liitlaste Võrgustiku toetaja",
-    "diverse ability allies 3" => "Erinevate Võimete Liitlaste Võrgustiku (DAAN) missioon on julgustada ja toetada ettevõtte igat liiget saavutama oma täielikku potentsiaali, näidates, et Vanward on toetav ja kaasav keskkond puudega inimestele ja neid hooldavatele isikutele. Suurendades teadlikkust, koostööd, probleemide lahendamist, kohanemist, innovatsiooni ja esindatust kogukonna liikmetele, kes elavad puudega, loome kõigile mugavama, kaasavama ja mõistvama töökeskkonna.",
+    "diverse ability allies 3" => "Erinevate Võimete Liitlaste Võrgustiku (DAAN) missioon on julgustada ja toetada ettevõtte igat liiget saavutama oma täielikku potentsiaali, näidates, et Sunrise on toetav ja kaasav keskkond puudega inimestele ja neid hooldavatele isikutele. Suurendades teadlikkust, koostööd, probleemide lahendamist, kohanemist, innovatsiooni ja esindatust kogukonna liikmetele, kes elavad puudega, loome kõigile mugavama, kaasavama ja mõistvama töökeskkonna.",
     "diverse ability allies 4" => "Düsleksia määratlus",
     "diverse ability allies 5" => "DAAN ja",
     "diverse ability allies 6" => "kutsusid rahvusvahelise düsleksia ühingu esindajaid külla, et õppida düsleksiast, hajutada müüte ja arutada viise, kuidas toetada düsleksiaga inimesi. Osalejatel oli ka võimalus läbi simulatsiooniharjutuste kogeda düsleksiaga elamise tunnet.",
@@ -2293,15 +2293,15 @@ likvideerimine).</p>",
     "diverse ability allies 9" => "Märgistatud erinevuste väärtus ja toetamine",
     "diverse ability allies 10" => "Koos Musta Afinitaadvõrgustikuga viis mitmekesisuse eestkõneleja Nancy Oduro läbi arutelu selle kohta, kui oluline on luua töökeskkond, kus teadlikkus mitmekesisusest hõlmab alati ka võimekust. Osalejad õppisid, kuidas olla tugevad liitlased, kes eemaldavad takistusi kolleegide jaoks, kellel on erinevad võimed.",
     // globaalne töötajate võrgustik
-    "global employee 1" => "„Mul on olnud võimalus töötada 11 erinevas Vanwardi kontoris oma karjääri jooksul. Iga uus kogemus on positiivselt mõjutanud minu professionaalset ja isiklikku arengut. Globaalne töötajate võrgustik pakub võimalusi inimestele jagada oma tarkust ja lugusid teiste kolleegidega, kes soovivad rohkem teada saada meie inimeste rikkalikust ja mitmekesisest kultuurist ning rahvusvahelistest võimalustest, mida ettevõte pakub.“",
+    "global employee 1" => "„Mul on olnud võimalus töötada 11 erinevas Sunrisei kontoris oma karjääri jooksul. Iga uus kogemus on positiivselt mõjutanud minu professionaalset ja isiklikku arengut. Globaalne töötajate võrgustik pakub võimalusi inimestele jagada oma tarkust ja lugusid teiste kolleegidega, kes soovivad rohkem teada saada meie inimeste rikkalikust ja mitmekesisest kultuurist ning rahvusvahelistest võimalustest, mida ettevõte pakub.“",
     "global employee 2" => "– R.J. Rondini, Globaalse Töötajate Võrgustiku esimees",
-    "global employee 3" => "Algselt oli Globaalne Töötajate Võrgustik vabamõtteline võrgustik Vanwardi töötajatele, kes jagasid omavahel globaalset töökogemust. Nüüdseks hõlmab võrgustik peaaegu igat kontorit ja organiseeritud osakondi kogu maailmas. Korraldatud võrgustamisürituste, koolituste ja ürituste kaudu keskendub võrgustik kolmele põhitegevusele: Vanwardi rikkaliku kultuurilise mitmekesisuse tähistamine ja avastamine; globaalse meeskonnatööga seotud väljakutsete juhtimine ning nende toetamine, kes töötavad oma kodukontorist eemal. Võrgustiku üritustel osalemise võimalus on avatud kõigile Vanwardi töötajatele.",
+    "global employee 3" => "Algselt oli Globaalne Töötajate Võrgustik vabamõtteline võrgustik Sunrisei töötajatele, kes jagasid omavahel globaalset töökogemust. Nüüdseks hõlmab võrgustik peaaegu igat kontorit ja organiseeritud osakondi kogu maailmas. Korraldatud võrgustamisürituste, koolituste ja ürituste kaudu keskendub võrgustik kolmele põhitegevusele: Sunrisei rikkaliku kultuurilise mitmekesisuse tähistamine ja avastamine; globaalse meeskonnatööga seotud väljakutsete juhtimine ning nende toetamine, kes töötavad oma kodukontorist eemal. Võrgustiku üritustel osalemise võimalus on avatud kõigile Sunrisei töötajatele.",
     "global employee 4" => "Kultuurimess üle maailma",
-    "global employee 5" => "Iga-aastased kultuurimessid toimuvad Vanwardi Bostoni, Dublini, Hongkongi, Krakówi ja Jersey City kontorites. Töötajad saavad teada ressurssidest, nagu kogukondlik kaasamine ja heaolu programmidele registreerumine ning liituda 1818 Social Clubi ja BANC lähedusgruppidega.",
+    "global employee 5" => "Iga-aastased kultuurimessid toimuvad Sunrisei Bostoni, Dublini, Hongkongi, Krakówi ja Jersey City kontorites. Töötajad saavad teada ressurssidest, nagu kogukondlik kaasamine ja heaolu programmidele registreerumine ning liituda 1818 Social Clubi ja BANC lähedusgruppidega.",
     "global employee 6" => "Globaalse Tööjõu Omaksvõtt",
     "global employee 7" => "Krakówis korraldati lõunasöögiga õpilaste paneeldiskussioon, kus arutati, kuidas omaks võtta ja koostööd teha globaalses tööjõus. Iga paneelil osaleja jagas isiklikke kogemusi, mis on positiivselt mõjutanud nende globaalset mõtteviisi.",
     // latino kultuurivõrgustik
-    "latino cultural 1" => "„Latino Kultuurivõrgustikus (LCN) leidsin endale kodu. LCN on ühendanud mind mentorluse ja võrgustike loomise võimalustega, mis on aidanud mul karjääris kasvada. Koos juhtidega Vanwardi erinevatest Affinity-võrgustikest on LCN innustanud mind veelgi rohkem Vanwardi kogukonda kaasama. On suurepärane arendada oma oskusi ja isiklikku arengut, samal ajal tähistades ja jagades oma kultuuri teistega.“",
+    "latino cultural 1" => "„Latino Kultuurivõrgustikus (LCN) leidsin endale kodu. LCN on ühendanud mind mentorluse ja võrgustike loomise võimalustega, mis on aidanud mul karjääris kasvada. Koos juhtidega Sunrisei erinevatest Affinity-võrgustikest on LCN innustanud mind veelgi rohkem Sunrisei kogukonda kaasama. On suurepärane arendada oma oskusi ja isiklikku arengut, samal ajal tähistades ja jagades oma kultuuri teistega.“",
     "latino cultural 2" => "– Yaritza Avila, Latino Kultuurivõrgustik",
     "latino cultural 3" => "Latino Kultuurivõrgustik toetab oma liikmete erialast arengut, toetades kogukonna kaasamist; hõlbustades mentorlust, coachingut ja võrgustiku loomise võimalusi ning aidates liikmetel omandada äriteadmisi ja saada kokkupuudet kõrgete juhtidega. Teadvustades Latino ja Hispanic pärandit, aitame kaotada kultuurilisi takistusi, edendades keskkonda, mis aktsepteerib, hindab ja julgustab mitmekesisust ning aitab meil edu saavutada maailmaturul.",
     "latino cultural 4" => "Lõuna- ja õpituba raamatuaruteluga",
@@ -2315,17 +2315,17 @@ likvideerimine).</p>",
     "latino cultural 12" => "Cafecito: Oma isikubrändi arendamine",
     "latino cultural 13" => "Selles interaktiivses sessioonis Talent & Development meeskonna Richard Garcia juhtimisel õppisid osalejad, kuidas luua isiklik „brändimantra“ ja määratleda omadused, mida nad soovisid oma isikubrändis esile tuua. Richard rõhutas maine, esmamulje ja isikliku brändi olulisust ning kuidas see aja jooksul võib areneda.",
     // sõjaveteranide võrgustik
-    "military veterans 1" => "Kui USA merejalaväe veteranina mõistan sõjaveterani väärtust igas töökohas. Olen uhke selle üle, kuidas Vanward on pühendunud sõjaveteranide palkamisele ja toetamisele, kes on teeninud või jätkavad teenimist relvajõududes. Oma osaluse kaudu Vanwardi sõjaveteranide võrgustikus ja teistes lähedusgruppides olen näinud esmalt, kuidas Vanward panustab oma töötajatesse ja kogukonda.“",
+    "military veterans 1" => "Kui USA merejalaväe veteranina mõistan sõjaveterani väärtust igas töökohas. Olen uhke selle üle, kuidas Sunrise on pühendunud sõjaveteranide palkamisele ja toetamisele, kes on teeninud või jätkavad teenimist relvajõududes. Oma osaluse kaudu Sunrisei sõjaveteranide võrgustikus ja teistes lähedusgruppides olen näinud esmalt, kuidas Sunrise panustab oma töötajatesse ja kogukonda.“",
     "military veterans 2" => "– Travis Partington, Sõjaveteranide Võrgustik",
-    "military veterans 3" => "Sõjaveteranide Võrgustik toetab tegevväelasi, reservväelasi, sõjaveterane ja nende peresid mentorluse, erialase arengu ja kogukonna kaasamise kaudu. Oleme pühendunud teadlikkuse tõstmisele keerulistest küsimustest, millega sõjaveteranid silmitsi seisavad, kui nad tsiviilelusse naasevad. Lisaks Vanwardi pühendumisele veteranide värbamisel, integreerimisel, arendamisel ja hoidmisel, pakume töötajatele väärtuslikke ressursse nende karjääri edendamiseks. Oleme nõuandjad nii ettevõttesiseselt kui ka ettevõtte väljaspool, et harida potentsiaalseid tööandjaid sõjaveteranide ainulaadsetest oskustest ja kogemustest ning toetame talendijuhtimist, intervjuudesõelumist sõjaväelaste kogemusega kandidaatidega.",
+    "military veterans 3" => "Sõjaveteranide Võrgustik toetab tegevväelasi, reservväelasi, sõjaveterane ja nende peresid mentorluse, erialase arengu ja kogukonna kaasamise kaudu. Oleme pühendunud teadlikkuse tõstmisele keerulistest küsimustest, millega sõjaveteranid silmitsi seisavad, kui nad tsiviilelusse naasevad. Lisaks Sunrisei pühendumisele veteranide värbamisel, integreerimisel, arendamisel ja hoidmisel, pakume töötajatele väärtuslikke ressursse nende karjääri edendamiseks. Oleme nõuandjad nii ettevõttesiseselt kui ka ettevõtte väljaspool, et harida potentsiaalseid tööandjaid sõjaveteranide ainulaadsetest oskustest ja kogemustest ning toetame talendijuhtimist, intervjuudesõelumist sõjaväelaste kogemusega kandidaatidega.",
     "military veterans 4" => "Virtuaalne vabatahtlik tegevus",
     "military veterans 5" => "Sõjaveteranide Võrgustik ja Cares kutsusid meid looma virtuaalset tuuri renoveeritud New Englandi keskusest ja kodust sõjaveteranidele. Virtuaalne tuur oli viis, kuidas tutvustada põnevaid renoveerimistöid, mis olid saadaval keskuse aastasel Leave No One Behind heategevuslikul galaüritusel ja avaldati keskuse veebisaidil.",
     "military veterans 6" => "Arvutioskuste õpetamine Bostonis",
     "military veterans 7" => "Võrgustiku liikmed vabatahtlikult õpetasid sõjaveteranidele arvuti alusteadmisi The New England Center & Home for Veteransis.",
     "military veterans 8" => "Veteranide ja sõprade pruunipakitamise sari",
-    "military veterans 9" => "See mitteametlik sari pakub Vanwardi töötajatele võimalust tutvuda veteranide ja sõpradega juhusliku vestluse käigus.",
+    "military veterans 9" => "See mitteametlik sari pakub Sunrisei töötajatele võimalust tutvuda veteranide ja sõpradega juhusliku vestluse käigus.",
     "military veterans 10" => "Ära küsi, ära räägi: siis ja praegu vestlus Dan Woodsi, liidu nõunikuga, kes võitles ära küsi, ära räägi ja võitis",
-    "military veterans 11" => "Vanwardi",
+    "military veterans 11" => "Sunrisei",
     "military veterans 12" => "ja Sõjaväevõrgustik ühinesid, et esitleda Dan Woodsi, liidu nõunikku meeskonnas, kes võitles ära küsi, ära räägi ja võitis. Dan rääkis oma rollist selles murrangulises kohtuasjas, mis viis seaduse lõppemiseni, mis keelas gei- ja lesbiameriklastel teenida relvajõududes ning saatis sõnumi, et diskrimineerimine oli vastuvõetamatu. Dan jagas õppetunde oma kogemustest, mida saab rakendada kõigis eluvaldkondades, sealhulgas avatud ja kaasavate töökohtade loomisel.",
     "military veterans 13" => "Veteranide päeva tähistamine",
     "military veterans 14" => "Sõjaveteranide Võrgustik korraldas „Näita ja räägi“ ürituse veteranide päeva auks. Osalejad jagasid mälestusesemeid, mis kajastasid nende enda teenistust või nende teada olevate inimeste teenistust relvajõududes.",
@@ -2333,7 +2333,7 @@ likvideerimine).</p>",
     "parenting 1" => "Tänases kiiresti muutuvas, üliühendatud keskkonnas püüab Vanemate Võrgustik aidata meil tegeleda paljude perega seotud teemadega. Me näeme vanemlust kui teekonda, mis toob iga etapiga kaasa erinevaid väljakutseid, ja soovime tagada, et Vanemate Võrgustik pakub vajalikke tööriistu, et aidata meie liikmetel edukalt nendega hakkama saada. Nelja lapse isa, olen pühendunud tagama, et meie võrgustik aitaks meil tasakaalustada õnnelikku ja edukat kodu- ja tööelu.“",
     "parenting 2" => "– Joe Pennini, Vanemate Võrgustiku kaasjuht",
     "parenting 3" => "Vanemate Võrgustik pakub julgustamise ja hariduse kogukonda neile, kes seisavad silmitsi vanemate ja hooldajatena vastutusega. Jagades teavet, kogemusi ja ressursse, ühendame töötajad, et tuvastada, arutada ja ületada töötavate perede mõjutavaid küsimusi. Vanemate võrgustikus koonduvad liikmed tavaliselt vanemlusetappide järgi: rasedus ja vastsündinud, algkooliealised lapsed, keskkooli-/gümnaasiumiealised lapsed, ülikooliealised/ täiskasvanud lapsed ja ümberpööratud vanemlus. Vanemate Võrgustik teeb tihedat koostööd teiste BANC võrgustikega, näiteks",
-    "parenting 4" => "võrgustikega, et tagada toetusprogrammide sobivus töötajate vajadustele. Meie eesmärk on varustada liikmeid teadmiste ja toetusega, mida on vaja karjääri arendamiseks, tasakaalustades samal ajal töö- ja koduelu vastuolulisi nõudmisi. Samuti aitame kaasa töökeskkonna arengule, pakkudes tagasisidet Vanwardi poliitikatele ja toodetele perede ja hooldajate vaatenurgast.",
+    "parenting 4" => "võrgustikega, et tagada toetusprogrammide sobivus töötajate vajadustele. Meie eesmärk on varustada liikmeid teadmiste ja toetusega, mida on vaja karjääri arendamiseks, tasakaalustades samal ajal töö- ja koduelu vastuolulisi nõudmisi. Samuti aitame kaasa töökeskkonna arengule, pakkudes tagasisidet Sunrisei poliitikatele ja toodetele perede ja hooldajate vaatenurgast.",
     "parenting 5" => "Too oma lapsed tööle päev (aastane)",
     "parenting 6" => "See üritus toimub igal aastal paljudes meie ülemaailmsetes kontorites. Too oma lapsed tööle päev on kavandatud tugevdama seost hariduse ja töö vahel ning suhteid töötajate ja nende elu lastega. Iga kontoris on kavandatud tegevused, mis julgustavad meeskonnatööd ja vastutust; nende hulgas mängud, vabatahtlike võimalused ja töö varjutamine.",
     "parenting 7" => "Rahaline planeerimine vanematele",
@@ -2341,13 +2341,13 @@ likvideerimine).</p>",
     "parenting 9" => "Uue normaalsuse navigeerimine",
     "parenting 10" => "Koostöös Vanemate Võrgustiku ja Greater Boston PFLAG-iga jagasid paneelide liikmed oma kogemusi keerukate küsimuste lahendamisel, nagu laste toetamine väljatulekul või omaenda „erinevuse“ aktsepteerimine. See üritus võimaldas vanematel ja liitlastel esitada küsimusi turvalises keskkonnas, et õppida neilt, kes navigeerivad sarnaste kogemuste läbi.",
     // uhkuse võrgustik
-    "pride 1" => "Olen uhke, et olen osa Uhkuse Võrgustikust ja kuulun ettevõttesse, kus LGBTQ spetsialistidel ja toetajatel on võimalus moodustada kogukond, et jagada, suhelda ja vabatahtlikuna osaleda. Mida mitmekesisem ja kaasavam meie oleme, seda rohkem me avastame inimpotentsiaali ja seda suurem on Vanwardi jõukus. Mitmekesise kolleegide rühm, kes tunneb end vabalt oma tõelise minana, kujundab meie kultuuri nii käegakatsutaval kui ka käegakatsutamatu viisil.“",
+    "pride 1" => "Olen uhke, et olen osa Uhkuse Võrgustikust ja kuulun ettevõttesse, kus LGBTQ spetsialistidel ja toetajatel on võimalus moodustada kogukond, et jagada, suhelda ja vabatahtlikuna osaleda. Mida mitmekesisem ja kaasavam meie oleme, seda rohkem me avastame inimpotentsiaali ja seda suurem on Sunrisei jõukus. Mitmekesise kolleegide rühm, kes tunneb end vabalt oma tõelise minana, kujundab meie kultuuri nii käegakatsutaval kui ka käegakatsutamatu viisil.“",
     "pride 2" => "– Jeff Schoenfeld, partner ja Uhkuse Võrgustiku liige",
-    "pride 3" => "Vanward usub, et igaühel peaks olema õigus tuua tööle kaasa oma tõeline mina, olenemata seksuaalsest sättumusest või sooidentiteedist. Uhkuse Võrgustik loob tervitatava kogukonna töötajatele, kes määratlevad end LGBTQ-na (lesbi, gei, biseksuaal, transsooline või küsitlev) ja nende liitlased. Hariduse ja advokaatsuse kaudu suurendame teadlikkust LGBTQ kogukonnale olulistest teemadest, aidates luua mitmekesist, vastuvõtvat ja kaasavat töökeskkonda. Liikmed saavad kasu erialase arengu võimalustest, sealhulgas formaalselt struktureeritud mentorluse programmist ja sihitud vabatahtlikutööst, et anda tagasi kohalikele kogukondadele. Samuti teeme koostööd meie äriliinidega, et tagada poliitikate ja tavade tundlikkus LGBTQ spetsialistide suhtes ja nende kaasamine.",
+    "pride 3" => "Sunrise usub, et igaühel peaks olema õigus tuua tööle kaasa oma tõeline mina, olenemata seksuaalsest sättumusest või sooidentiteedist. Uhkuse Võrgustik loob tervitatava kogukonna töötajatele, kes määratlevad end LGBTQ-na (lesbi, gei, biseksuaal, transsooline või küsitlev) ja nende liitlased. Hariduse ja advokaatsuse kaudu suurendame teadlikkust LGBTQ kogukonnale olulistest teemadest, aidates luua mitmekesist, vastuvõtvat ja kaasavat töökeskkonda. Liikmed saavad kasu erialase arengu võimalustest, sealhulgas formaalselt struktureeritud mentorluse programmist ja sihitud vabatahtlikutööst, et anda tagasi kohalikele kogukondadele. Samuti teeme koostööd meie äriliinidega, et tagada poliitikate ja tavade tundlikkus LGBTQ spetsialistide suhtes ja nende kaasamine.",
     "pride 4" => "Sensitiivsuse ja intelligentsuse kasutamine soolise mitmekesisuse mõistmisel",
-    "pride 5" => "Vanwardi Uhkuse Võrgustik esitles auhinnatud transsoolist jutuvestjat, mitmekesisuse esinejat, haridustöötajat ja Ted Talki esitajat Scott Turner Schofieldi, kelle ettekanne käsitles teemasid „soolise mitmekesisuse“, identiteedi, kultuuri, keele ja liitumise kohta. Scotti ettekandes käsitleti ka transsoolisi teemasid ja tutvustati mõistet „intersektsionaalsus“, mis vastab küsimusele, kuidas bioloogiline sugu, sooline identiteet ja seksuaalsus mõjutavad tegureid, sealhulgas rassi, sotsiaalmajanduslikku seisundit, geograafilist asukohta ja puuet. Scott kudus need teemad osavalt kokku, kõneldes kuulajate erinevatest kogemustest nii töökohas kui ka väljaspool seda.",
-    "pride 6" => "Eeskuju näitamine: Vanward korraldab Krakówis LGBT töökohaseminari",
-    "pride 7" => "Vanward Kraków Pride liikmed korraldasid LGBT sümposiumi seeria kolmanda sündmuse, kus osalesid organisatsioonid, sealhulgas Ameerika Ühendriikide konsulaadi üldine esindus, IBM, Shell, HSBC, Cisco, LGBT Äriühendus, Heineken, CapGemini, Akamai, ABB, mitmekesisuse keskus ja Stowarzyszenie Queerowy Maj. Sümposiumi eesmärk oli tugevdada liitu teiste ettevõtetega ning jagada strateegiaid, kuidas luua Krakówis, Poolas LGBT võrgustikke ja töötajate ressursirühmi. Vanward on selle konsortsiumi üks esimesi liikmeid, juhtides teed koos ettevõtete partneritega teabe, kogemuste ja teadmiste jagamisel selle kohta, kuidas tagada, et meie töökeskkonnad jäävad LGBT kogukonnale ja liitlastele avatuks ja vastuvõtlikuks.",
+    "pride 5" => "Sunrisei Uhkuse Võrgustik esitles auhinnatud transsoolist jutuvestjat, mitmekesisuse esinejat, haridustöötajat ja Ted Talki esitajat Scott Turner Schofieldi, kelle ettekanne käsitles teemasid „soolise mitmekesisuse“, identiteedi, kultuuri, keele ja liitumise kohta. Scotti ettekandes käsitleti ka transsoolisi teemasid ja tutvustati mõistet „intersektsionaalsus“, mis vastab küsimusele, kuidas bioloogiline sugu, sooline identiteet ja seksuaalsus mõjutavad tegureid, sealhulgas rassi, sotsiaalmajanduslikku seisundit, geograafilist asukohta ja puuet. Scott kudus need teemad osavalt kokku, kõneldes kuulajate erinevatest kogemustest nii töökohas kui ka väljaspool seda.",
+    "pride 6" => "Eeskuju näitamine: Sunrise korraldab Krakówis LGBT töökohaseminari",
+    "pride 7" => "Sunrise Kraków Pride liikmed korraldasid LGBT sümposiumi seeria kolmanda sündmuse, kus osalesid organisatsioonid, sealhulgas Ameerika Ühendriikide konsulaadi üldine esindus, IBM, Shell, HSBC, Cisco, LGBT Äriühendus, Heineken, CapGemini, Akamai, ABB, mitmekesisuse keskus ja Stowarzyszenie Queerowy Maj. Sümposiumi eesmärk oli tugevdada liitu teiste ettevõtetega ning jagada strateegiaid, kuidas luua Krakówis, Poolas LGBT võrgustikke ja töötajate ressursirühmi. Sunrise on selle konsortsiumi üks esimesi liikmeid, juhtides teed koos ettevõtete partneritega teabe, kogemuste ja teadmiste jagamisel selle kohta, kuidas tagada, et meie töökeskkonnad jäävad LGBT kogukonnale ja liitlastele avatuks ja vastuvõtlikuks.",
     "pride 8" => "Vanemate paneel",
     "pride 9" => "Partner Jeff Schoenfeld, Uhkuse Võrgustiku tegevjuht, juhtis arutelu koos kolme oma kaaspartneri, Carter Sullivani, Rick Berk'i ja Digger Donahue'ga ning nende LGBT+ pereliikmetega. Osalejad jagasid oma vaatenurki selle kohta, mida tähendab olla toetav vanem või õde-vend LGBT+ isikule.",
     "pride 10" => "Kuhu me läheme?",
@@ -2369,16 +2369,16 @@ likvideerimine).</p>",
     "womens 14" => "koostöös MSCI esindaja Whitney Rauschenbachiga korraldasid Bostonis vestluse ESG (keskkonnaalane, sotsiaalne ja juhtimiskvaliteet) investeeringute teemal. Whitney jagas MSCI uuringuid ESG valdkonna trendide kohta ning selgitas, miks liikumine on siin, et jääda.",
     // young professionals network
     "young professionals 1" => "„Noorte spetsialistide võrgustik pakub fantastilisi võimalusi töötajatele, kes on oma karjääri varajases staadiumis,
-                            et osaleda Vanwardis. Liitumine on aidanud mul isiklikult ja professionaalselt kasvada.“",
+                            et osaleda Sunriseis. Liitumine on aidanud mul isiklikult ja professionaalselt kasvada.“",
     "young professionals 2" => "– Sean Farrell, Noorte Spetsialistide Võrgustiku kaasjuht",
     "young professionals 3" => "Noorte spetsialistide võrgustiku missioon on kaasata, arendada ja ühendada töötajaid, kes on oma karjääri
-                            varajases staadiumis või uued Vanwardis või finantsteenuste tööstuses. Pakume võimalusi töötajatele, et laiendada
+                            varajases staadiumis või uued Sunriseis või finantsteenuste tööstuses. Pakume võimalusi töötajatele, et laiendada
                             oma erialast võrgustikku, luua oma isiklikku brändi ja toetada meie kogukondi. Eriprogrammid edendavad
                             konstruktiivseid suhteid eakaaslaste ja mentorite vahel, samal ajal andes liikmetele oskused, mis on vajalikud
                             tulevaste juhtidena edu saavutamiseks. Loome foorumi töötajatele avatud dialoogiks mitme põlvkonna töökohas
                             esinevate võimaluste ja väljakutsete üle.",
     "young professionals 4" => "Noorte Spetsialistide Võrgustiku Küsitlus",
-    "young professionals 5" => "Vanwardi Noorte Spetsialistide Võrgustiku Dublini osakond tähistas ettevõtte 200. aastapäeva aastal 2018,
+    "young professionals 5" => "Sunrisei Noorte Spetsialistide Võrgustiku Dublini osakond tähistas ettevõtte 200. aastapäeva aastal 2018,
                             hinnates tänapäeva töökeskkonna praegust ja tulevast kujundust. Võrgustik viis läbi küsitluse kahe erineva
                             demograafilise rühma vahel, kes on tööealised – alla 30-aastased ja üle 30-aastased, et mõista nende suhtumist
                             töösse ja haridusse. Küsitluse eesmärk oli testida hüpoteesi, et praegune ja tulevane tööjõud erineb
@@ -2409,7 +2409,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                             <p>Sul on võimalus elada oma parimat elu. Meie kohustus on aidata oma töötajatel sinna jõuda. Meie programm on erinevates asukohtades erinev, mõeldud töötajatele ja nende peredele, rõhutades jätkuvat head tervist, finantskindlust sinu tuleviku ja meelerahu jaoks.</p>",
     "benefits wellness compensation 3" => "Ettevõtted",
     // career management
-    "career management 1"   => "Vanwardis usume oma töötajate kasvu ja arengu edendamisse. Oleme pühendunud pakkuma sulle vajalikke tööriistu ja ressursse, et võtta vastutus oma karjääri eest ja saavutada oma pikaajalised eesmärgid. Meie ettevõtte-töötaja partnerlus põhineb pideval õppimisel ja arengul ning pakume mitmeid ressursse, mis toetavad sinu erialast kasvu, sh:",
+    "career management 1"   => "Sunriseis usume oma töötajate kasvu ja arengu edendamisse. Oleme pühendunud pakkuma sulle vajalikke tööriistu ja ressursse, et võtta vastutus oma karjääri eest ja saavutada oma pikaajalised eesmärgid. Meie ettevõtte-töötaja partnerlus põhineb pideval õppimisel ja arengul ning pakume mitmeid ressursse, mis toetavad sinu erialast kasvu, sh:",
     "career management 2"   => "<li>Tulemuslikkuse juhtimine: Rõhutame sagedast tagasisidet ja koostööd sinu ja su juhataja vahel. Koos koostate teekaardi, mis kirjeldab sinu karjääri eesmärke ja vajalikke samme nende saavutamiseks. Meie poolaasta ja aasta lõpu ülevaatamise protsessid tagavad, et saad ametlikud vahehindamised oma edusammude jälgimiseks ja vajalike kohanduste tegemiseks.</li>
                                     <br>
                                     <li>Arendusplaneerimine: Mõistame pideva õppimise ja kasvu tähtsust. Meie arendusplaanid on mõeldud oskuste puuduste tuvastamiseks ning sulle kohandatud plaani pakkumiseks nende täitmiseks. See võib hõlmata kombinatsiooni töökogemustest, formaalsetest õppeprogrammidest (nt klassiruumiõpe või veebipõhine koolitus) ja mitteametlikest õppimisvõimalustest (nt osalemine kogukondades, artiklite lugemine või raamatute uurimine).</li>
@@ -2417,14 +2417,14 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                     <li>Mentorlus: Hindame juhendamise väärtust kogenud kolleegidelt. Meie mentorlusprogrammide ja arutelugruppide kaudu on sul võimalus ühendust võtta vanemate juhtidega ja kasutada nende teadmisi. Need mentorlussuhted võivad pakkuda väärtuslikke teadmisi, nõuandeid ja tuge sinu karjääri edendamisel.</li>
                                     <br>
                                     <li>Karjäärijuhtimine: Meie struktureeritud e-õppe seeria „Karjäärijuhtimine“ on mõeldud sulle isikliku arengu plaanide loomiseks. Selle seeria abil saad tuvastada ideaalse karjääri sobivuse elemendid ja hinnata erinevaid radu oma karjääri rahulolu suurendamiseks. Selle ressursi abil saad selguse oma erialastes ambitsioonides ja astuda samme nende saavutamiseks.</li>",
-    "career management 3"   => "Vanward on pühendunud sinu erialasele kasvule ja arengule. Pakume vajalikku tuge, ressursse ja võimalusi, et saaksite oma praeguses rollis edukalt toime tulla ja oma karjääri edendada. Kasutades meie tulemuslikkuse juhtimise protsesse, arendusplaneerimise algatusi, mentorlusprogramme ja karjäärile keskenduvat e-õppe seeriat, saate aktiivselt kujundada oma karjääri trajektoori ja saavutada pikaajalise edu.",
+    "career management 3"   => "Sunrise on pühendunud sinu erialasele kasvule ja arengule. Pakume vajalikku tuge, ressursse ja võimalusi, et saaksite oma praeguses rollis edukalt toime tulla ja oma karjääri edendada. Kasutades meie tulemuslikkuse juhtimise protsesse, arendusplaneerimise algatusi, mentorlusprogramme ja karjäärile keskenduvat e-õppe seeriat, saate aktiivselt kujundada oma karjääri trajektoori ja saavutada pikaajalise edu.",
     "career management 4" => "Ettevõtted",
     "career management 5" => "Ettevõtted",
     "career management 6" => "Ettevõtted",
     // mobility
-    "mobility 1" => "Vanward pakub sulle terve karjääri vältel lõputuid võimalusi lihvida oma oskusi, võtta vastu uusi väljakutseid ja taasavastada ennast uutes rollides ja ärivaldkondades. Otsime viise, kuidas aidata meie töötajatel kasvada, luues järelkasvukavasid, määrates lisaprojekte igapäevaste kohustuste kõrvalt ning avaldades kõik vabad ametikohad, andes eelisõiguse sisekandidaatidele. See toob uusi vaatenurki meie erinevatesse ärivaldkondadesse - mis on hea nii sulle kui ka meie klientidele. Liikuvus võimaldab sul saada osa rahvusvahelistest, toote- ja/või funktsionaalsetest kogemustest - avades sulle mitmekesiseid tööülesandeid, meeskondi ja klientide vaatenurki.",
+    "mobility 1" => "Sunrise pakub sulle terve karjääri vältel lõputuid võimalusi lihvida oma oskusi, võtta vastu uusi väljakutseid ja taasavastada ennast uutes rollides ja ärivaldkondades. Otsime viise, kuidas aidata meie töötajatel kasvada, luues järelkasvukavasid, määrates lisaprojekte igapäevaste kohustuste kõrvalt ning avaldades kõik vabad ametikohad, andes eelisõiguse sisekandidaatidele. See toob uusi vaatenurki meie erinevatesse ärivaldkondadesse - mis on hea nii sulle kui ka meie klientidele. Liikuvus võimaldab sul saada osa rahvusvahelistest, toote- ja/või funktsionaalsetest kogemustest - avades sulle mitmekesiseid tööülesandeid, meeskondi ja klientide vaatenurki.",
     "mobility 2" => "Võta ette maailm",
-    "mobility 3" => "Kas soovid laiendada oma globaalset mõtteviisi, arendada keeleoskust ja rakendada oma oskusi erinevates ärides ja kultuurides? Meie Global Assignment Program toetab Vanwardi ülemaailmset strateegiat, pakkudes samal ajal töötajatele arengu- ja kultuuridevahelisi võimalusi. Pakume nii lühiajalisi kui ka pikaajalisi ülesandeid, mis võivad kesta kuni viis aastat. Need ülesanded võimaldavad sul:",
+    "mobility 3" => "Kas soovid laiendada oma globaalset mõtteviisi, arendada keeleoskust ja rakendada oma oskusi erinevates ärides ja kultuurides? Meie Global Assignment Program toetab Sunrisei ülemaailmset strateegiat, pakkudes samal ajal töötajatele arengu- ja kultuuridevahelisi võimalusi. Pakume nii lühiajalisi kui ka pikaajalisi ülesandeid, mis võivad kesta kuni viis aastat. Need ülesanded võimaldavad sul:",
     "mobility 4" => "<li>saada edasijõudnud rahvusvahelisi oskusi ja kogemusi</li>
                     <li>töötada mitmekesistes maailmaturgudes</li>
                     <li>arendada juhtimisoskusi</li>
@@ -2435,24 +2435,24 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
     "mobility 7" => "Ettevõtted",
     "mobility 8" => "Ettevõtted",
     // ongoing learning
-    "ongoing learning 1" => "Õppimis- ja arenguvõimalused algavad sinu esimesest tööpäevast Vanwardis ja jätkuvad kogu sinu karjääri vältel. Meie lähenemine hõlmab koostööalast õppimist, rakenduslikku õpet kohapeal ja veebitööriistu, mis aitavad sul rakendada uusi ideid ja kasvada. Siin on mõned viisid, kuidas toetame sinu arengut:",
+    "ongoing learning 1" => "Õppimis- ja arenguvõimalused algavad sinu esimesest tööpäevast Sunriseis ja jätkuvad kogu sinu karjääri vältel. Meie lähenemine hõlmab koostööalast õppimist, rakenduslikku õpet kohapeal ja veebitööriistu, mis aitavad sul rakendada uusi ideid ja kasvada. Siin on mõned viisid, kuidas toetame sinu arengut:",
     "ongoing learning 2" => "Meie kohandatud arenguprogrammid valmistavad sind ette meie klientide usaldusväärseks nõustajaks, pakkudes innovaatilisi lahendusi nende finantsvajaduste rahuldamiseks. Soovime arendada juhte kõigil tasanditel meie organisatsioonis ja meie erialased kursused valmistavad sind edu saavutamiseks.",
-    "ongoing learning 3" => "Vanwardi Akadeemia:",
+    "ongoing learning 3" => "Sunrisei Akadeemia:",
     "ongoing learning 4" => "Meie veebipõhine õppe- ja karjäärikeskus pakub ressursse ja juhiseid, mis aitavad sul saavutada oma karjääri eesmärke. Naudi ligipääsu e-õppe kursustele, äri- ja tehnilistele veebipõhistele artiklitele, pädevushindamistele ja interaktiivsetele tööriistadele, mis pakuvad sadu õppimisvõimalusi.",
-    "ongoing learning 5" => "Vanwardi Stipendiaadiprogramm:",
-    "ongoing learning 6" => "Kui äri vajadus seda nõuab, aitab Vanward sul saada erialaseid sertifikaate ja toetab ka sinu ametlikku haridust õppemaksu hüvitamise kaudu.",
+    "ongoing learning 5" => "Sunrisei Stipendiaadiprogramm:",
+    "ongoing learning 6" => "Kui äri vajadus seda nõuab, aitab Sunrise sul saada erialaseid sertifikaate ja toetab ka sinu ametlikku haridust õppemaksu hüvitamise kaudu.",
     "ongoing learning 7" => "Toastmasters:",
     "ongoing learning 8" => 'Need klubi aitavad sul arendada juhtimisoskusi ja avaliku esinemise oskusi "õppides-tehes" lähenemisviisi kaudu, samal ajal pakkudes võimalusi suhelda kolleegidega.',
     "ongoing learning 9" => "Professionaalsed liikmelisused ja tellimused:",
-    "ongoing learning 10" => "Vanward tasub professionaalsete organisatsioonide liikmemaksud ja ametiga seotud tellimused, mis on otseselt seotud tööga.",
+    "ongoing learning 10" => "Sunrise tasub professionaalsete organisatsioonide liikmemaksud ja ametiga seotud tellimused, mis on otseselt seotud tööga.",
     // signature programs
-    "signature programs 1" => "Meie eriprogrammid arenevad vastavalt Vanwardi ainulaadsele kultuurile, aidates sul oma karjääris areneda juhina, luua pikaajalisi suhteid ja navigeerida maailmaturul. Mõned programmid on mõeldud konkreetsetel punktidel sinu karjääris, näiteks juhtimisele üleminekul, samas kui teised kasutavad konkurentsipõhist valikuprotsessi ja on saadaval aastaringselt. Mõned näited meie pakkumistest hõlmavad järgmist:",
+    "signature programs 1" => "Meie eriprogrammid arenevad vastavalt Sunrisei ainulaadsele kultuurile, aidates sul oma karjääris areneda juhina, luua pikaajalisi suhteid ja navigeerida maailmaturul. Mõned programmid on mõeldud konkreetsetel punktidel sinu karjääris, näiteks juhtimisele üleminekul, samas kui teised kasutavad konkurentsipõhist valikuprotsessi ja on saadaval aastaringselt. Mõned näited meie pakkumistest hõlmavad järgmist:",
     "signature programs 2" => "Arendusülesandeprogramm (DAP):",
     "signature programs 3" => "Kõrgelt motiveeritud isikutel on võimalus oma oskusteavet laiendada ja edendada oma karjääri kahe aasta pikkuse ülesandega ühes meie rahvusvahelistest asukohtadest. DAP-ile valitud isikud pöörlevad läbi mitmete rollide, laiendades oma arusaamist meie ärist, samal ajal luues olulisi suhteid, omandades kõrgetasemelist kokkupuudet vanemjuhtidega, õppides uusi oskusi, sukeldudes uude kultuuri ja jagades oma teadmisi kohalike meeskondadega. Programm hõlmab kombinatsiooni töökogemustest ja klassiruumikoolitustest. Osalejad võtavad osa ametlikest koolituskursustest ja neile määratakse mentor.",
-    "signature programs 4" => "Vanwardi juhtimuse alused:",
+    "signature programs 4" => "Sunrisei juhtimuse alused:",
     "signature programs 5" => "See kohordipõhine programm on suunatud uutele ja/või hiljuti ametisse nimetatud juhtidele, tagades, et nad on varustatud globaalse ja mitmekesise tööjõu juhtimiseks. Õppekava kaasab erinevaid õppimisviise, segades enesejuhitavat, klassiruumi- ja e-õpet ning tagades õpitu rakendamise tagasi tööl. See arenduslähenemine kaasab osaleja juhi kogu programmi vältel, tagades ühtlustatuse ettevõtte ootuste ja uue juhi igapäevaste vastutuste vahel.",
     "signature programs 6" => "Juhtimise haridus ja areng:",
-    "signature programs 7" => "See kaheaastane juhtimisalane pühendumus algab üheksanädalase intensiivse programmiga, mille eesmärk on aidata osalejatel kaardistada oma juhtimisteekond, süvendada finantsarusaamist ja panustada Vanwardi strateegilistesse eesmärkidesse. Töötajad süvendavad enesearengut; loovad isikliku juhtimisbrändi; saavutavad suuri, keerukaid ülesandeid; ja loovad võrgustikke ettevõttes ja tööstuses.",
+    "signature programs 7" => "See kaheaastane juhtimisalane pühendumus algab üheksanädalase intensiivse programmiga, mille eesmärk on aidata osalejatel kaardistada oma juhtimisteekond, süvendada finantsarusaamist ja panustada Sunrisei strateegilistesse eesmärkidesse. Töötajad süvendavad enesearengut; loovad isikliku juhtimisbrändi; saavutavad suuri, keerukaid ülesandeid; ja loovad võrgustikke ettevõttes ja tööstuses.",
     "signature programs 8" => "Juhtimise sild:",
     "signature programs 9" => "See on kuue kuu pikkune programm pikemaajalistele juhtidele, kellel on olnud vähe või üldse mitte formaalset juhtimiskoolitust. Sarnaselt meie aluseid käsitlevale programmile arendavad osalejad oskusi, et kasutada oma meeskondade täielikku potentsiaali, sealhulgas võimet kasutada ja juhtida inimsuhete erinevusi, juhendada ja coachida alluvaid ning edukalt läbi viia töötulemusi käsitlevaid vestlusi.",
     // thrive financially
@@ -2462,7 +2462,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                 <li>Pensioniplaan</li>
                                 <li>Kasumijaotus</li>",
     "thrive financially 3" => "Finantshealm",
-    "thrive financially 4" => "Oma pühendumuse osana kvaliteetsele tööandjale pakub Vanward sulle juurdepääsu finantsalasele haridusele, ressurssidele ja programmidele, sealhulgas:",
+    "thrive financially 4" => "Oma pühendumuse osana kvaliteetsele tööandjale pakub Sunrise sulle juurdepääsu finantsalasele haridusele, ressurssidele ja programmidele, sealhulgas:",
     "thrive financially 5" => "<li>Elu- ja puudekindlustus</li>
                                 <li>Enne maksustamist toimivad programmid (FSA-d ja HSA-d)</li>
                                 <li>Kodust töötamise soodustused</li>
@@ -2474,7 +2474,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                 <li>Maksude ja koduostu nõustamine</li>
                                 <li>Töötaja abifond</li>
                                 <li>Bakalaureuseõppe stipendiumiprogramm</li>",
-    "thrive personally 1" => "Vanward tunnustab, et igal töötajal on erinevad vajadused nii töökohal kui ka sellest väljaspool. Meie eesmärk on tagada sulle rahuldust pakkuv ja produktiivne töökogemus paindlikkuse ja aja osas, et nautida oma isiklikku ja pereelu igal karjäärietapil. Pakutavad võimalused varieeruvad kohati ja hõlmavad ressursse järgmistel teemadel:",
+    "thrive personally 1" => "Sunrise tunnustab, et igal töötajal on erinevad vajadused nii töökohal kui ka sellest väljaspool. Meie eesmärk on tagada sulle rahuldust pakkuv ja produktiivne töökogemus paindlikkuse ja aja osas, et nautida oma isiklikku ja pereelu igal karjäärietapil. Pakutavad võimalused varieeruvad kohati ja hõlmavad ressursse järgmistel teemadel:",
     "thrive personally 2" => "<li>Tasustatud puhkus</li>
                                 <li>Paindlikud töökorraldused</li>
                                 <li>Lastehoiuvajadused</li>
@@ -2485,7 +2485,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                 <li>Unehäired</li>
                                 <li>Stressijuhtimine</li>",
     // thrive physically
-    "thrive physically 1" => "<p>Vanwardi prioriteediks on meie töötajate ja nende perede tervise ja heaolu tagamine. Sellepärast pakume kõikehõlmavat hüvitiste programmi, mis pakub ulatuslikku tervisekindlustust ja täiendavaid hüvitisi üldise heaolu toetamiseks.</p>
+    "thrive physically 1" => "<p>Sunrisei prioriteediks on meie töötajate ja nende perede tervise ja heaolu tagamine. Sellepärast pakume kõikehõlmavat hüvitiste programmi, mis pakub ulatuslikku tervisekindlustust ja täiendavaid hüvitisi üldise heaolu toetamiseks.</p>
                                     <br>
                                     <p>Meie hüvitiste programm hõlmab mitmesuguseid tervishoiuvõimalusi, mis on kohandatud vastavalt sinu ja sinu pere vajadustele. Olgu selleks meditsiini-, hamba- või nägemiskindlustus, püüame tagada, et sul oleks juurdepääs kvaliteetsele ravile siis, kui seda kõige rohkem vajad. Töötame usaldusväärsete teenusepakkujatega, et pakkuda põhjalikku kindlustuskatet ja leevendada tervishoiukulude finantskoormust.</p>
                                     <br>
@@ -2501,36 +2501,36 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                 <li>Tervisealased allahindlused</li>",
 
     // additional disclosures
-    "additional disclosures 1" => "Käesoleva materjali esitatud teave on ainult informatiivsel eesmärgil ning seda ei tohiks pidada õigus-, maksu- või investeerimisnõuandeks. See ei moodusta pakkumist väärtpaberite või investeerimistoodete ostmiseks ega müümiseks. Kuigi me püüame koguda teavet usaldusväärsetest allikatest, ei saa me tagada esitatud teabe täpsust, täielikkust ega õiglust. Käesolev materjal ei moodusta Vanwardilt teenuste pakkumist. Iga väljendatud arvamus võib muutuda eelneva etteteatamiseta. Kolmandate osapoolte veebisaitide lingid on lisatud teie mugavuse huvides ning see ei tähenda Vanwardi poolset nende veebisaitide ega seal pakutavate toodete ja teenuste heakskiitu ega soovitamist.",
-    "additional disclosures 2" => "Vanward ei vastuta nende kolmandate osapoolte veebisaitide sisu täpsuse ja õigsuse eest. Mis tahes viide maksuküsimustele ei ole ette nähtud kasutamiseks ega või olla kasutatud eesmärgiga vältida karistusi vastavalt USA sisehalduskoodeksile ega edendada, turustada ega soovitada kolmandatele osapooltele. Vanwardi eelneva kirjaliku loata kasutamine või levitamine on keelatud. Käesoleva sisu levitamine on heaks kiidetud Vanward Investor Services Limitedi poolt EEA liikmesriikides, mida reguleerib Financial Conduct Authority (FCA). Vanward on teenusemärk, mis on registreeritud Ameerika Ühendriikides ja teistes riikides. © Vanward 2023. Kõik õigused kaitstud.",
+    "additional disclosures 1" => "Käesoleva materjali esitatud teave on ainult informatiivsel eesmärgil ning seda ei tohiks pidada õigus-, maksu- või investeerimisnõuandeks. See ei moodusta pakkumist väärtpaberite või investeerimistoodete ostmiseks ega müümiseks. Kuigi me püüame koguda teavet usaldusväärsetest allikatest, ei saa me tagada esitatud teabe täpsust, täielikkust ega õiglust. Käesolev materjal ei moodusta Sunriseilt teenuste pakkumist. Iga väljendatud arvamus võib muutuda eelneva etteteatamiseta. Kolmandate osapoolte veebisaitide lingid on lisatud teie mugavuse huvides ning see ei tähenda Sunrisei poolset nende veebisaitide ega seal pakutavate toodete ja teenuste heakskiitu ega soovitamist.",
+    "additional disclosures 2" => "Sunrise ei vastuta nende kolmandate osapoolte veebisaitide sisu täpsuse ja õigsuse eest. Mis tahes viide maksuküsimustele ei ole ette nähtud kasutamiseks ega või olla kasutatud eesmärgiga vältida karistusi vastavalt USA sisehalduskoodeksile ega edendada, turustada ega soovitada kolmandatele osapooltele. Sunrisei eelneva kirjaliku loata kasutamine või levitamine on keelatud. Käesoleva sisu levitamine on heaks kiidetud Sunrise Investor Services Limitedi poolt EEA liikmesriikides, mida reguleerib Financial Conduct Authority (FCA). Sunrise on teenusemärk, mis on registreeritud Ameerika Ühendriikides ja teistes riikides. © Sunrise 2023. Kõik õigused kaitstud.",
     // bcp statement
-    "bcp statement 1" => "Vanwardi ärivalmiduse kavandamise programm on põhjalik ja pidev algatus, mis hõlmab mitmeid meetmeid, et tagada meie tegevuse järjepidevus. Need meetmed hõlmavad ennetavate meetmete rakendamist, pidevat riskijuhtimist, taastumiskavade väljatöötamist kõikidele äriüksustele ja süsteemidele, kavade testimist, äriüksuste juhtidele, plaanijatele ja töötajatele BCP koolituste andmist ning turvalisuse teadlikkuse ja tõhusa sündmustega tegelemise edendamist.",
+    "bcp statement 1" => "Sunrisei ärivalmiduse kavandamise programm on põhjalik ja pidev algatus, mis hõlmab mitmeid meetmeid, et tagada meie tegevuse järjepidevus. Need meetmed hõlmavad ennetavate meetmete rakendamist, pidevat riskijuhtimist, taastumiskavade väljatöötamist kõikidele äriüksustele ja süsteemidele, kavade testimist, äriüksuste juhtidele, plaanijatele ja töötajatele BCP koolituste andmist ning turvalisuse teadlikkuse ja tõhusa sündmustega tegelemise edendamist.",
     "bcp statement 2" => "Meie ärivalmiduse kavandamise programm hõlmab stsenaariumipõhiseid kavasid, mis hõlmavad erinevaid sündmusi, sealhulgas looduslikke riske, tehnoloogiariske ja inimriske. Selline lähenemine võimaldab meil tõhusalt hallata erineva ulatuse ja mõjuga ärikatkestusi, kasutades selleks geograafiliselt hajutatud personali, alternatiivseid töötlemiskohti ja topeltinfrastruktuuri. Teeme regulaarselt põhjalikke teste meie BCP korralduste tõhususe tagamiseks.",
-    "bcp statement 3" => "Kuigi me ei saa garanteerida katkematut teenust, on Vanward hästi valmis säilitama kõrget klienditeeninduse taset igasuguse katkestuse korral. Täpsema teabe saamiseks meie ärivalmiduse kavandamise programmi kohta võtke palun ühendust oma suhtekorraldusjuhiga, kes saab teile edasised üksikasjad anda.",
+    "bcp statement 3" => "Kuigi me ei saa garanteerida katkematut teenust, on Sunrise hästi valmis säilitama kõrget klienditeeninduse taset igasuguse katkestuse korral. Täpsema teabe saamiseks meie ärivalmiduse kavandamise programmi kohta võtke palun ühendust oma suhtekorraldusjuhiga, kes saab teile edasised üksikasjad anda.",
     // confidential ethics reporting
     "confidential ethics reporting 1" => "Süsteem muudab võimaliku ebaseadusliku või eetiliselt vastuvõetamatu tegevuse raporteerimise lihtsaks.",
     "confidential ethics reporting 2" => "Convercenti anonüümne raporteerimine",
     // data protection notice
-    "data protection notice 1" => 'Käesolev teade on selleks, et teavitada teid, kuidas Vanward töötleb teie poolt esitatud isikuandmeid. Selles teates
-                                    mõistetakse "Vanward" all järgmisi Vanwardi üksusi, kellega teil on leping: Vanward Trustee Services (Ireland) Limited,
-                                    Vanward Fund Administration Services (Ireland) Limited, Vanward Investor Services Limited (UK), Vanward (Luxembourg) S.C.A.
+    "data protection notice 1" => 'Käesolev teade on selleks, et teavitada teid, kuidas Sunrise töötleb teie poolt esitatud isikuandmeid. Selles teates
+                                    mõistetakse "Sunrise" all järgmisi Sunrisei üksusi, kellega teil on leping: Sunrise Trustee Services (Ireland) Limited,
+                                    Sunrise Fund Administration Services (Ireland) Limited, Sunrise Investor Services Limited (UK), Sunrise (Luxembourg) S.C.A.
                                     <br><br>
-                                    Vanward kui Andmete Kontroller töötleb isikuandmeid vastavalt Euroopa Liidu üldisele andmekaitse määrusele (EU/2016/679) ("GDPR").
+                                    Sunrise kui Andmete Kontroller töötleb isikuandmeid vastavalt Euroopa Liidu üldisele andmekaitse määrusele (EU/2016/679) ("GDPR").
                                     <br><br>
-                                    Kuna olete klient, kes esitab Vanwardile isikuandmeid oma ettevõtte suhetest meiega seotud isikutega, on see teave asjakohane
+                                    Kuna olete klient, kes esitab Sunriseile isikuandmeid oma ettevõtte suhetest meiega seotud isikutega, on see teave asjakohane
                                     nimetatud isikutele, ja palume teil see teave nende käsutusse anda.
                                     <br><br>
                                     Jätkates meile isikuandmete esitamist, kinnitate, et:',
-    "data protection notice 2" => "1. Kõik isikuandmed, mille esitate Vanwardile, on kogutud, töödeldud ja esitatud vastavalt kohaldatavatele seadustele,
+    "data protection notice 2" => "1. Kõik isikuandmed, mille esitate Sunriseile, on kogutud, töödeldud ja esitatud vastavalt kohaldatavatele seadustele,
                                     sealhulgas GDPR-le; <br>
                                     2. Kõik sellised isikuandmed on täpsed, asjakohased, piiratud sellega, mis on vajalik eesmärkidel, milleks te need esitate, ja
                                     vajaduse korral ajakohased; ning
-                                    Kui esitate Vanwardile isikuandmeid, mille eesmärk on edastada need jurisdiktsiooni, kus isikuandmete kaitse tase ei ole
+                                    Kui esitate Sunriseile isikuandmeid, mille eesmärk on edastada need jurisdiktsiooni, kus isikuandmete kaitse tase ei ole
                                     võrdne Euroopa Liidus kohaldatava tasemega, olete vastavate isikute, kelle isikuandmeid te meile esitate, kohta teinud GDPRi
                                     kohase teavitamise ning saanud nende nõusoleku selleks konkreetselt, üheselt ja vabalt.",
     "data protection notice 3" => "GDPRi nõuete täitmine",
-    "data protection notice 4" => "Vanward töötleb kõiki isikuandmeid vastavalt GDPRile. Vanward on rakendanud tehnilisi ja organisatsioonilisi meetmeid
-                                    sobiva turvalisustaseme tagamiseks selliste isikuandmete suhtes. Vanward toimib GDPRi järgi andmete kontrollerina, mis
+    "data protection notice 4" => "Sunrise töötleb kõiki isikuandmeid vastavalt GDPRile. Sunrise on rakendanud tehnilisi ja organisatsioonilisi meetmeid
+                                    sobiva turvalisustaseme tagamiseks selliste isikuandmete suhtes. Sunrise toimib GDPRi järgi andmete kontrollerina, mis
                                     puudutab sellist töötlemist.",
     "data protection notice 5" => "Töötlemise eesmärgid ja õiguslik alus",
     "data protection notice 6" => "1. Oma lepingu(d)e täitmiseks teiega; <br>
@@ -2540,50 +2540,50 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                     reeglite järgimiseks.",
     "data protection notice 7" => "Töötleb isikuandmeid ainult eesmärkidel, milleks need on meile esitatud, kui seadus ei luba teisiti.
                                     <br><br>
-                                    Isikuandmete töötlemise õiguslikud alused on Vanwardi õigustatud huvi ettevõtte tegevuse käigus ja vastavusse jäämine kohaldatavatele
+                                    Isikuandmete töötlemise õiguslikud alused on Sunrisei õigustatud huvi ettevõtte tegevuse käigus ja vastavusse jäämine kohaldatavatele
                                     seadustele, reeglitele ja määrustele.",
     "data protection notice 8" => "Isikuandmete saajad",
     "data protection notice 9" => "Isikuandmete töötlemisel eespool nimetatud eesmärkidel võime edastada või avaldada sellised isikuandmed järgmistele üksustele
                                     ning nende personalile ja esindajatele:",
-    "data protection notice 10" => "1. Vanwardi sidusettevõtted; <br>
-                                    2. Vanwardi esindajad, võrgustik ja teenusepakkujad, sealhulgas auditi, juriidiliste, maksu-, allhoiulepingute ja
+    "data protection notice 10" => "1. Sunrisei sidusettevõtted; <br>
+                                    2. Sunrisei esindajad, võrgustik ja teenusepakkujad, sealhulgas auditi, juriidiliste, maksu-, allhoiulepingute ja
                                     infotehnoloogia teenuseid pakkuvad ettevõtted; ja <br>
-                                    3. Kui kohaldatav seadus nõuab, reguleerivad asutused, kellel on jurisdiktsioon Vanwardi üle.",
-    "data protection notice 11" => "Vanward järgib GDPRi, kui isikuandmeid edastatakse vastuvõtjale väljaspool Euroopa Majanduspiirkonda.",
+                                    3. Kui kohaldatav seadus nõuab, reguleerivad asutused, kellel on jurisdiktsioon Sunrisei üle.",
+    "data protection notice 11" => "Sunrise järgib GDPRi, kui isikuandmeid edastatakse vastuvõtjale väljaspool Euroopa Majanduspiirkonda.",
     "data protection notice 12" => "Andmete säilitamine",
-    "data protection notice 13" => "Vanward säilitab isikuandmeid ainult nii kaua, kui see on mõistlikult vajalik eesmärgi saavutamiseks, milleks need esitati, välja arvatud juhul, kui Vanwardi on kohustatud selliseid isikuandmeid kauem säilitama kohaldatavate seaduste, reeglite ja määruste alusel.",
+    "data protection notice 13" => "Sunrise säilitab isikuandmeid ainult nii kaua, kui see on mõistlikult vajalik eesmärgi saavutamiseks, milleks need esitati, välja arvatud juhul, kui Sunrisei on kohustatud selliseid isikuandmeid kauem säilitama kohaldatavate seaduste, reeglite ja määruste alusel.",
     "data protection notice 14" => "Isikute õigused",
     "data protection notice 15" => "Isikutel on õigus saada meilt kirjalik taotlus esitades enda kohta käivate isikuandmete koopia ja neid parandada, kui need ei ole
                                     täpsed. Samuti on isikutel GDPRi alusel õigus taotleda oma isikuandmete kustutamist, töötlemise piiramist ja teabe ülekandmist ning
                                     mitte olla otsuse objektiks, mis põhineb automaatsel töötlemisel (sh profiilil). Iga sellise õiguse kasutamiseks või taotlemiseks
-                                    võib isik pöörduda Vanwardi poole e-posti teel, kasutades allpool toodud e-posti aadressi. Vanward vastab sellisele taotlusele
+                                    võib isik pöörduda Sunrisei poole e-posti teel, kasutades allpool toodud e-posti aadressi. Sunrise vastab sellisele taotlusele
                                     kirjalikult või suuliselt vastavalt soovile niipea kui võimalik, kuid igal juhul kohaldatava seaduse poolt ettenähtud ajaraamistikus.",
-    "data protection notice 16" => "Isikutel on samuti õigus esitada kaebus asjakohasele andmekaitse järelevalveasutusele, kui nad ei ole rahul Vanwardi isikuandmete töötlemisega.",
+    "data protection notice 16" => "Isikutel on samuti õigus esitada kaebus asjakohasele andmekaitse järelevalveasutusele, kui nad ei ole rahul Sunrisei isikuandmete töötlemisega.",
     "data protection notice 17" => "Kontakt",
-    "data protection notice 18" => "Palun saatke taotlused Vanwardile e-posti aadressil",
-    "data protection notice 19" => "See väljaanne on edastatud Vanwardile ja selle tütarettevõtetele, kes on saajatele, kellel on Euroopa Majanduspiirkonnas (EMP)
+    "data protection notice 18" => "Palun saatke taotlused Sunriseile e-posti aadressil",
+    "data protection notice 19" => "See väljaanne on edastatud Sunriseile ja selle tütarettevõtetele, kes on saajatele, kellel on Euroopa Majanduspiirkonnas (EMP)
                                     asudes klassifitseeritud kui professionaalsed kliendid või abikõlblikud vastaspoolte, ainult informatiivsetel eesmärkidel. See ei moodusta
                                     õigus-, maksu- ega investeerimisnõustamist ega ole pakkumine väärtpaberite või investeerimistoodete ostmiseks ega müümiseks.
                                     Mis tahes viide maksuküsimustele ei ole ette nähtud kasutamiseks ja ei pruugi olla kasutatav eesmärgiga vältida USA Sisehalduskoodeksi
                                     alusel kohaldatavaid trahve ega edendada, turustada ega soovitada kolmandatele osapooltele. See teave on saadud allikatest, mis usutakse
                                     olevat usaldusväärsed, ja neid on võimalik saada taotluse korral. Käesolev materjal ei moodusta teenuste pakkumist. Iga väljendatud arvamus
-                                    võib muutuda etteteatamata. Vanwardi eelneva kirjaliku loata kasutamine või levitamine on keelatud. See väljaanne on heaks kiidetud levitamiseks
-                                    Euroopa Majanduspiirkonna liikmesriikides Vanward Investor Services Limitedi poolt, mida reguleerib Financial Conduct Authority (FCA).
-                                    Vanward on teenustemärk, mis on registreeritud Ameerika Ühendriikides ja teistes riikides. © Vanward 2023. Kõik õigused kaitstud.",
+                                    võib muutuda etteteatamata. Sunrisei eelneva kirjaliku loata kasutamine või levitamine on keelatud. See väljaanne on heaks kiidetud levitamiseks
+                                    Euroopa Majanduspiirkonna liikmesriikides Sunrise Investor Services Limitedi poolt, mida reguleerib Financial Conduct Authority (FCA).
+                                    Sunrise on teenustemärk, mis on registreeritud Ameerika Ühendriikides ja teistes riikides. © Sunrise 2023. Kõik õigused kaitstud.",
     // online security
     "online security 1"  => "Viimati uuendatud: 11. november 2022",
-    "online security 2"  => "Ole teadlik võimalikest ohtudest, võta meetmeid enda kaitsmiseks, hoia end informeerituna ja teavita pettustest või kahtlasest tegevusest Vanwardile.",
-    "online security 3"  => "Vanwardi jaoks on meie klientide teabe turvalisus ülioluline. Meie infoturbe programmi osana kasutame tehnoloogiat ja protsesse, et kaitsta meie klientide teavet. Siiski on olemas samme, mida saate võtta, et veelgi kaitsta oma teavet.
+    "online security 2"  => "Ole teadlik võimalikest ohtudest, võta meetmeid enda kaitsmiseks, hoia end informeerituna ja teavita pettustest või kahtlasest tegevusest Sunriseile.",
+    "online security 3"  => "Sunrisei jaoks on meie klientide teabe turvalisus ülioluline. Meie infoturbe programmi osana kasutame tehnoloogiat ja protsesse, et kaitsta meie klientide teavet. Siiski on olemas samme, mida saate võtta, et veelgi kaitsta oma teavet.
                                     <br><br>
                                     Selle lehe eesmärk on pakkuda teile soovitusi tegevuste kohta, mida saate teha oma teabe kaitse tagamiseks.",
     "online security 4"  => "Ole teadlik võimalikest ohtudest",
     "online security 5"  => 'Oma teabe kaitseks on oluline olla valvas praeguste võimalike ohtude suhtes. Küberrünnakute korral, mis püüavad saada konfidentsiaalset ja/või isiklikku teavet inimeselt või ettevõttelt, kasutavad küberkurjategijad sageli pettuslikke tehnikaid, et inimesi sellist teavet kergesti üle anda (nt kalastamine) või teadmatult avada end turvarünnakuteks (nt varjamine). Need tehnikad võivad hõlmata näiteks e-kirju, mis tunduvad olevat pärit legitiimsetest allikatest, interneti "pop-up" aknaid ja veebireklaame, mis peidavad endas pahavara, võltsveebeid jne.
                                     <br><br>
                                     Tänapäeva maailmas on oluline olla ettevaatlik, kui kasutate ja jagate oma isiklikku ja konfidentsiaalset teavet võrgus ja igapäevaelus. Järgnevad on mõned olulised kaalutlused, mida peaksite oma igapäevaste äri- ja isiklike tegevuste käigus arvesse võtma:',
-    "online security 6"  => "Vanwardi veebiaadress on",
-    "online security 7"  => "Kõik legitiimsed suhtlused Vanwardilt tulevad domeenist wgaml.com. Kõiki teisi suhtlusi tuleks kahtlustada. Kui teil on küsimusi Vanwardi veebisaidi või kahtlustate, et olete saanud kahtlase Vanwardi lingi või e-kirja, võite helistada oma Vanwardi suhtehaldurile või võtta ühendust Vanwardiga meie peamistes asukohtades.
+    "online security 6"  => "Sunrisei veebiaadress on",
+    "online security 7"  => "Kõik legitiimsed suhtlused Sunriseilt tulevad domeenist wgaml.com. Kõiki teisi suhtlusi tuleks kahtlustada. Kui teil on küsimusi Sunrisei veebisaidi või kahtlustate, et olete saanud kahtlase Sunrisei lingi või e-kirja, võite helistada oma Sunrisei suhtehaldurile või võtta ühendust Sunriseiga meie peamistes asukohtades.
                                     <br><br>
-                                    Olge ettevaatlik e-kirjadega, mis paluvad isiklikku või konfidentsiaalset teavet. Vanward ei võta kunagi teiega ühendust taotlemata alusel (telefoni, e-posti või muul viisil) ja ei palu teil sisestada oma sisselogimise andmeid, elektroonilise panganduse või muud isiklikku teavet.
+                                    Olge ettevaatlik e-kirjadega, mis paluvad isiklikku või konfidentsiaalset teavet. Sunrise ei võta kunagi teiega ühendust taotlemata alusel (telefoni, e-posti või muul viisil) ja ei palu teil sisestada oma sisselogimise andmeid, elektroonilise panganduse või muud isiklikku teavet.
                                     <br><br>
                                     Ärge jagage isiklikku teavet kellegagi, keda te ei tunne ega usalda.
                                     <br><br>
@@ -2633,9 +2633,9 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
     "online security 20" => "Privaatsusidentiteedi võrguturvalisus",
     "online security 21" => "Kodanikukaitseministeeriumi (DHS) veebisaidil on palju teemasid ja linke DHSi kohustuste kohta, sealhulgas palju kasulikke näpunäiteid ja teabeallikaid. Lisateabe saamiseks klõpsake sellel lingil:",
     "online security 22" => "Võrguturvalisus",
-    "online security 23" => "Pettuste või kahtlaste tegevuste teatamine Vanwardile
+    "online security 23" => "Pettuste või kahtlaste tegevuste teatamine Sunriseile
                                     <br><br>
-                                    Kui teil on küsimus mis tahes Vanwardi kirjavahetuse kohta või kahtlustate kahtlast või petlikku tegevust, võtke meiega ühendust mis tahes meie asukohtades või helistage oma Vanwardi suhtehaldurile otse.
+                                    Kui teil on küsimus mis tahes Sunrisei kirjavahetuse kohta või kahtlustate kahtlast või petlikku tegevust, võtke meiega ühendust mis tahes meie asukohtades või helistage oma Sunrisei suhtehaldurile otse.
                                     <br><br>
                                     Asukohti saab vaadata siit:",
     "online security 24" => "Asukohad",
@@ -2647,7 +2647,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
     // Cookie Policy
     "cookie policy 1" => "TÄHTIS TEADAANNE: PALUN LUGEGE ENNE SELLE VEEBISEDI KASUTAMIST:",
     "cookie policy 2" => "Viimati uuendatud: 29. mai 2022",
-    "cookie policy 3" => 'Vanward ja kõik muud sellega seotud sidus- ja tütarettevõtted (ühiselt "Vanward", "meie" või "meie")
+    "cookie policy 3" => 'Sunrise ja kõik muud sellega seotud sidus- ja tütarettevõtted (ühiselt "Sunrise", "meie" või "meie")
                             kasutavad küpsiseid, veebimärke ja sarnaseid tehnoloogiaid ("küpsised") teabe salvestamiseks, teie
                             veebibrausimise kogemuse parandamiseks ja meie veebisaitide funktsionaalsuse täiustamiseks.
                             Käesolevas küpsisepoliitikas esitatud teave on lisatud ja seda tuleks lugeda kooskõlas meie
@@ -2749,7 +2749,7 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
                                 näiteks video vaatamine või kommentaaride lisamine blogisse. Kui see on lubatud kohaldatavate
                                 õigusnormide alusel, võime kasutada meie küpsistest kogutud teavet kasutajate käitumise
                                 tuvastamiseks ja sisu ning teabe pakkumiseks toodete ja teenuste kohta vastavalt teie
-                                profiilile. Selle teabe võime edastada või jagada Vanwardi sees turunduse või analüüsi eesmärgil.
+                                profiilile. Selle teabe võime edastada või jagada Sunrisei sees turunduse või analüüsi eesmärgil.
                                 Siiski ei saa me seda teavet seostada teie nimega, kui te pole meile varasemalt andnud oma
                                 kontaktteavet ja avate või klõpsate lingil e-kirjas, mille olete meilt saanud.",
     "cookie policy 23"   => "Need küpsised ei saa jälgida teie sirvimistegevust teistel veebisaitidel. Need ei kogu teavet
@@ -2863,27 +2863,27 @@ Tervem sina on rõõmsam sina. Meie programm Thrive võimaldab sul tervist paran
     <p>Kerige alla ja valige „Safari“</p>
     <p>Jaotises „Privaatsus ja turvalisus“ aktiveerige „Blokeeri küpsised“ lüliti<br> </p>",
     // personal information request
-    "personal information 1" => "Vanwardi eesmärk on selge ja konkreetne: kaitsta meie klientide finantsolu ja soodustada nende vara kasvu pikema aja jooksul. Asetades meie kliendid oma tegevuste esiritta, korraldame hoolikalt oma ettevõtet, meeskondi ja äriprotsesse vastavalt. Järgides kindlaid põhimõtteid, ei tee me järeleandmisi oma aususe osas.",
+    "personal information 1" => "Sunrisei eesmärk on selge ja konkreetne: kaitsta meie klientide finantsolu ja soodustada nende vara kasvu pikema aja jooksul. Asetades meie kliendid oma tegevuste esiritta, korraldame hoolikalt oma ettevõtet, meeskondi ja äriprotsesse vastavalt. Järgides kindlaid põhimõtteid, ei tee me järeleandmisi oma aususe osas.",
 
 //Our firm
 "our firm 1" => "Meie ettevõtte partnerluse eristab horisontaalne struktuur, koostöövalmidus ja avatus. See toimib organisatsioonilise struktuurina, mis soodustab innovatsiooni ja paindlikkust, tagades parimate ideede kiire esilekerkimise.
 <br><br>
 Meie partnerluse kaudu võtame äri ja suhete haldamisel strateegilise ja pikaajalise lähenemisviisi. Vähemate sidusrühmadega ja väliseid aktsionäre rahustamata on meie kuuluvused katkematud.
 <br><br>
-Kuna meie partnerid vastutavad ettevõtte kohustuste eest, oleme välja töötanud tugeva riskijuhtimiskultuuri. Selle tulemusel on Vanwardi partnerid hästi informeeritud ettevõtte tegevusest ja osalevad aktiivselt selle igapäevases juhtimises ja otsustusprotsessides.",
-"our firm 2" => "Vanwardis on meie missioon kristallselge: kaitsta meie klientide finantsheadeolu ja soodustada nende varade pikaajalist kasvu. Korraldame oma ettevõtte, meeskonnad ja ärid hoolikalt nii, et meie kliendid oleksid meie tegevuse keskmes. Me ei tee järeleandmisi oma põhimõtete osas ja seisame kindlameelselt aususe eest.",
+Kuna meie partnerid vastutavad ettevõtte kohustuste eest, oleme välja töötanud tugeva riskijuhtimiskultuuri. Selle tulemusel on Sunrisei partnerid hästi informeeritud ettevõtte tegevusest ja osalevad aktiivselt selle igapäevases juhtimises ja otsustusprotsessides.",
+"our firm 2" => "Sunriseis on meie missioon kristallselge: kaitsta meie klientide finantsheadeolu ja soodustada nende varade pikaajalist kasvu. Korraldame oma ettevõtte, meeskonnad ja ärid hoolikalt nii, et meie kliendid oleksid meie tegevuse keskmes. Me ei tee järeleandmisi oma põhimõtete osas ja seisame kindlameelselt aususe eest.",
 "our firm 3" => "Jätkusuutlikkus, mis hõlmab tugevat pühendumust pikaajalisele väärtusele ja jõukusele, on meie identiteedi keskmes. Oleme siiralt veendunud, et jätkusuutlikkus saavutatakse, juhtides oma äri vastutustundlikul ja eetilisel viisil, samal ajal tehes positiivseid panuseid oma klientidele, töötajatele ja kogukondadele, silmas pidades tulevaste põlvkondade huve.
 <br><br>
 On hädavajalik, et ületaksime praeguse lühiajalise mõtlemise. Selle asemel peame kinni pidama oma väärtustest, käituma ausalt ja panema oma sidusrühmade huvid kõige muu kohale.",
 "our firm 4" => "Meie kliendid",
 "our firm 5" => "Meie kliendid usaldavad meid igapäevaselt oma investeeringute, tegevuste ja finants eesmärkidega. Nende pikaajalise heaolu tagamiseks peame pakkuma läbimõeldud ja tulevikku suunatud lahendusi, mis on kooskõlas nende väärtuste ja parimate huvidega. Lisaks peame tagama oma tegevuse järjepidevuse, turvalisuse ja stabiilsuse ning aitama kaasa finantssektori üldisele pikaajalisele jätkusuutlikkusele. Nende kohustuste täitmisega näitame oma pühendumust oma klientidele ja nende jõupingutuste pikaajalisele edule.",
 "our firm 6" => "Meie inimesed",
-"our firm 7" => "Meie inimesed, erakordne Vanwardi meeskond, on hädavajalikud meie klientide vajaduste täitmiseks. Nad järgivad püsivalt kõrgeima taseme tipptaset ja ausust. Innovatsiooni soodustamiseks ja erakordse jõudluse saavutamiseks värbame ja toetame aktiivselt meeskonda, kellel on mitmekesised talendid ja vaatenurgad. Oleme pühendunud keskkonna loomisele, mis võimaldab meeskonnaliikmetel teha tähendusrikka panuse ning õitseda nii oma tööalases kui ka isiklikus elus. Selle strateegia omaksvõtmisega kasvatame dünaamilist tööjõudu, mis toidab meie edu ja pakub ülimat klienditeenindust.",
+"our firm 7" => "Meie inimesed, erakordne Sunrisei meeskond, on hädavajalikud meie klientide vajaduste täitmiseks. Nad järgivad püsivalt kõrgeima taseme tipptaset ja ausust. Innovatsiooni soodustamiseks ja erakordse jõudluse saavutamiseks värbame ja toetame aktiivselt meeskonda, kellel on mitmekesised talendid ja vaatenurgad. Oleme pühendunud keskkonna loomisele, mis võimaldab meeskonnaliikmetel teha tähendusrikka panuse ning õitseda nii oma tööalases kui ka isiklikus elus. Selle strateegia omaksvõtmisega kasvatame dünaamilist tööjõudu, mis toidab meie edu ja pakub ülimat klienditeenindust.",
 "our firm 8" => "Meie kogukonnad",
 "our firm 9" => "Tunnistame, et meie vastutus ulatub kaugemale meie kontoriruumidest, hõlmates suuremaid kogukondi, kus me tegutseme. Meie kohustuseks on aktiivselt kaasa aidata meie planeedi tervisele, vähendades selle heaolu ohtusid. Lisaks püüame anda positiivseid ja olulisi panuseid kogukondadesse, kus me tegutseme. Nende jõupingutuste kaudu loodame avaldada positiivset mõju, mis ulatub kaugemale meie kohese mõju sfäärist.",
-"our firm 10" => "Vanwardis on aja ja oskuste jagamine kasulik.
+"our firm 10" => "Sunriseis on aja ja oskuste jagamine kasulik.
 <br><br>
-Selle tulemusena lõime Caresi, meie heategevusprogrammi, mis on pühendatud hariduse ja hädavajalike vahendite pakkumisele neile, kes seda vajavad. Selle programmi kaudu saavad Vanwardi töötajad oma kogukondadele tagasi anda, aidata teiste elusid muuta ning tekitada kodaniku- ja sotsiaalse vastutuse tunnet.
+Selle tulemusena lõime Caresi, meie heategevusprogrammi, mis on pühendatud hariduse ja hädavajalike vahendite pakkumisele neile, kes seda vajavad. Selle programmi kaudu saavad Sunrisei töötajad oma kogukondadele tagasi anda, aidata teiste elusid muuta ning tekitada kodaniku- ja sotsiaalse vastutuse tunnet.
 <br><br>
 Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdkondadele.",
 "our firm 11" => "Kohalikele kogukondadele elu kvaliteedi parandamiseks hädavajalike vahendite pakkumine, sealhulgas:",
@@ -2899,8 +2899,8 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 <br>- juhtimisoskuste õpetamine
 <br>- lugemine algkooliõpilastele
 <br>- CV koostamise abistamine",
-"our firm 15" => "Vanwardi töötaja abifond - Töötajad aitavad töötajaid",
-"our firm 16" => "Vanwardi töötaja abifond on heategevusorganisatsioon, mida toetavad peamiselt Vanwardi töötajad ja ärilised partnerid. Selle peamine eesmärk on pakkuda finantsabi abikõlblikele Vanwardi töötajatele ja nende otsestele pereliikmetele ootamatute hädaolukordade ja põhivajaduste korral, mida põhjustavad katastroofilised sündmused. Fondi eesmärk on pakkuda leevendust, aidates vähendada osa nendest raskustest põhjustatud finantskoormusest. Abi antakse administratiivselt teostatavalt võimalikult kiiresti, et pakkuda tuge ja leevendada osa seotud kuludest.",
+"our firm 15" => "Sunrisei töötaja abifond - Töötajad aitavad töötajaid",
+"our firm 16" => "Sunrisei töötaja abifond on heategevusorganisatsioon, mida toetavad peamiselt Sunrisei töötajad ja ärilised partnerid. Selle peamine eesmärk on pakkuda finantsabi abikõlblikele Sunrisei töötajatele ja nende otsestele pereliikmetele ootamatute hädaolukordade ja põhivajaduste korral, mida põhjustavad katastroofilised sündmused. Fondi eesmärk on pakkuda leevendust, aidates vähendada osa nendest raskustest põhjustatud finantskoormusest. Abi antakse administratiivselt teostatavalt võimalikult kiiresti, et pakkuda tuge ja leevendada osa seotud kuludest.",
 
  //menu
  "menu 1" => "Partnerlus",
@@ -2909,7 +2909,7 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 "menu 4" => "Heategevus",
 "menu 5" => "Mida Me Otsime",
 "menu 6" => "Kogu Tasu",
-"menu 7" => "Elu Vanwardis",
+"menu 7" => "Elu Sunriseis",
 "menu 8" => "Investeerimisnõustamine",
 "menu 9" => "Varade Planeerimine",
 "menu 10" => "Heategevusnõustamine",
@@ -2959,7 +2959,7 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 //home page
 "home page 1" => "Saage kliendiks",
 "home page 2" => "Meist",
-"home page 3" => "Vanward Internationalis võtame ainulaadse lähenemisviisi investeerimisele, pakkudes kohandatud strateegiaid iga kliendi eesmärkide põhjal ja tuginedes meie ulatuslikule teadmistele maailmaturgudest ja majandustest. Ekspertide tõlgenduste abil mitmest andmeallikast tuvastame sobivad lahendused teie jaoks, lahendused, mis tugevdavad teie positsiooni.",
+"home page 3" => "Sunrise Fund Limitedis võtame ainulaadse lähenemisviisi investeerimisele, pakkudes kohandatud strateegiaid iga kliendi eesmärkide põhjal ja tuginedes meie ulatuslikule teadmistele maailmaturgudest ja majandustest. Ekspertide tõlgenduste abil mitmest andmeallikast tuvastame sobivad lahendused teie jaoks, lahendused, mis tugevdavad teie positsiooni.",
 "home page 4" => "Ehita kestev laienemine",
 "home page 5" => "Koostöö meiega",
 "home page 6" => "Usaldusväärne ja reageeriv teenus ning tugi",
@@ -2982,12 +2982,12 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 "home page 23" => "Iga vara kogumiseks peate investeerima kasvumääraga, mis on kõrgem kui inflatsioon.",
 "home page 24" => "Peate investeerima võimalikult vara. Eilne päev oli parem kui tänane päev ja tänane päev on parem kui homne päev. Ärge oodake olulist turu langust.",
 "home page 25" => "Oodake parimat. Valmistuge halvimaks. Kasutage ära, mis iganes tuleb.",
-"home page 26" => "Kõik selle veebisaidi teave, uudised, arvamused, uurimused ja analüüsid on esitatud viitena. Kogu Vanward International Securities Limitedi poolt sellel veebisaidil esitatud teave võib aeg-ajalt muutuda ja olla ajakohane. Veebipõhiste platvormide kasutamisel on võimalikud suhtlemishäired, riistvara, tarkvara ja ühenduse probleemid, on meetmed suhtluse rikete ja viivituste minimeerimiseks ja kasutajad peaksid sellest teadlikud olema ja vastutama. Vanward International Securities Limited ei vastuta selle suhtlemise rikete eest. Kogu ja/või mistahes teabe volitamatu kasutamine sellel veebisaidil on rangelt keelatud.",
-"home page 26b" => "Vanward International Securities Limitedil on Hongkongi Väärtuspaberite ja Tulevikute Komisjoni (SFC) väljastatud litsents klientidega suhtlemiseks Väärtuspaberites tehtava kauplemise reguleeritud tegevusena, nagu on määratletud Väärtuspaberite ja Tuleviku Tariifi (SFO) 5. ajakavas. SFC regulatiivne number: BOC314. Vanward International Securities Limited on Hongkongi ettevõte, mille peakontor asub aadressil: Unit 1112, The Metropolis Tower, 10 Metropolis Drive, Hung Hom, Hongkong. Ettevõtte registreerimisnumber: 2715718.",
+"home page 26" => "Kõik selle veebisaidi teave, uudised, arvamused, uurimused ja analüüsid on esitatud viitena. Kogu Sunrise Fund Limited Securities Limitedi poolt sellel veebisaidil esitatud teave võib aeg-ajalt muutuda ja olla ajakohane. Veebipõhiste platvormide kasutamisel on võimalikud suhtlemishäired, riistvara, tarkvara ja ühenduse probleemid, on meetmed suhtluse rikete ja viivituste minimeerimiseks ja kasutajad peaksid sellest teadlikud olema ja vastutama. Sunrise Fund Limited Securities Limited ei vastuta selle suhtlemise rikete eest. Kogu ja/või mistahes teabe volitamatu kasutamine sellel veebisaidil on rangelt keelatud.",
+"home page 26b" => "Sunrise Fund Limited Securities Limitedil on Hongkongi Väärtuspaberite ja Tulevikute Komisjoni (SFC) väljastatud litsents klientidega suhtlemiseks Väärtuspaberites tehtava kauplemise reguleeritud tegevusena, nagu on määratletud Väärtuspaberite ja Tuleviku Tariifi (SFO) 5. ajakavas. SFC regulatiivne number: BOC314. Sunrise Fund Limited Securities Limited on Hongkongi ettevõte, mille peakontor asub aadressil: Unit 1112, The Metropolis Tower, 10 Metropolis Drive, Hung Hom, Hongkong. Ettevõtte registreerimisnumber: 2715718.",
 "home page 27" => "Aadress",
 "home page 28" => "E-post",
 "home page 29" => "Telefon",
-"home page 30" => "Tere tulemast Vanward International'i",
+"home page 30" => "Tere tulemast Sunrise Fund Limited'i",
 "home page 31" => "Põhjalik eravara varahalduse kogemus pikaajaliseks perioodiks",
 "home page 32" => "Meil on põhjalik arusaam erakompaniidele esinevatest väljakutsetest",
 "home page 33" => "Koostöö kõrgkvaliteetsete juhtimismeeskondadega, kes juhivad ettevõtteid läbi otsustava kasvufaasi",
@@ -2995,11 +2995,11 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 
 //public equity
 "pe1" => "USA suured kapitaliseerimisega aktsiad",
-"pe2" => "Vanward Core Select, meie peamine USA suurte kapitaliseerimisega aktsiate strateegia, kasutab siseväärtuse allahindluse raamistikku ja pikaajalist äriomaniku lähenemisviisi. Meie eesmärk on pakkuda investoritele pikaajalist kapitali kasvatamist. Iga investeeringu puhul püüame saavutada atraktiivseid absoluutseid tootlusi, samal ajal minimeerides püsiva kapitalikao riski. Meie investeerimisprotsess põhineb ettevõtete põhjalikul analüüsil alt üles.
+"pe2" => "Sunrise Core Select, meie peamine USA suurte kapitaliseerimisega aktsiate strateegia, kasutab siseväärtuse allahindluse raamistikku ja pikaajalist äriomaniku lähenemisviisi. Meie eesmärk on pakkuda investoritele pikaajalist kapitali kasvatamist. Iga investeeringu puhul püüame saavutada atraktiivseid absoluutseid tootlusi, samal ajal minimeerides püsiva kapitalikao riski. Meie investeerimisprotsess põhineb ettevõtete põhjalikul analüüsil alt üles.
 <br> <br>
 Meie eesmärk on investeerida juba tuntud, sularaha tootvatesse ettevõtetesse, kes on olulised toodete ja teenuste pakkujad ning kellel on tugevad juhtimismeeskonnad, ning omandada nende ettevõtete avalikult kaubeldavad aktsiad allahindlusega nende siseväärtusele*. Siseväärtuse hinnangud põhinevad tulevaste vabade rahavoogude ja kapitali tagastamise analüüsil. Kasutame meetodilist investeerimise valikuprotsessi, mis keskendub ettevõtte, juhtimise ja finantsomadustele.
 <br> <br>
-Vanward Core Select hoiab tavaliselt investeeringuid 25 kuni 35 Põhja-Ameerika ettevõttes, mille turuväärtus on üle 5 miljardi dollari, lisaks teatud teiste arenenud piirkondade ettevõtetele. Meie eesmärk on hoida investeeringuid 3 kuni 5 aastat, ja investeeringuid müüakse tavaliselt siis, kui nende hinnatõus ületab meie hinnangud nende siseväärtusele.",
+Sunrise Core Select hoiab tavaliselt investeeringuid 25 kuni 35 Põhja-Ameerika ettevõttes, mille turuväärtus on üle 5 miljardi dollari, lisaks teatud teiste arenenud piirkondade ettevõtetele. Meie eesmärk on hoida investeeringuid 3 kuni 5 aastat, ja investeeringuid müüakse tavaliselt siis, kui nende hinnatõus ületab meie hinnangud nende siseväärtusele.",
 "pe3" => "Investeerimisstandardid",
 "pe4" => "Usume, et ettevõtted, kellel on järgmised ärilised, juhtimis- ja finantsomadused, on hästi positsioneeritud aktsionäride väärtuse loomiseks sõltumata majandus- ja turutingimustest.",
 "pe5" => "Äriomadused",
@@ -3016,16 +3016,16 @@ Märgatav osalus ettevõttes",
 "pe10" => "- Suurepärane bilanss ja kapitali voog<br>
 Kõrged investeeringutasuvused",
 "pe11" => "Riskid<br>
-Vanward Core Select võib omandada piiratud arvust emiteerijatest märkimisväärseid osalusi, mis võib suurendada hindade volatiilsuse potentsiaali.
+Sunrise Core Select võib omandada piiratud arvust emiteerijatest märkimisväärseid osalusi, mis võib suurendada hindade volatiilsuse potentsiaali.
 Eesmärkide saavutamine ei ole tagatud.
 <br><br>
-Vanwardi hinnang ettevõtte poolt genereeritud raha praegusele väärtusele ja selle jagamisele aktsionäridele nende olemasolu jooksul
+Sunrisei hinnang ettevõtte poolt genereeritud raha praegusele väärtusele ja selle jagamisele aktsionäridele nende olemasolu jooksul
 <br><br>
 MITTE FDICi kindlustatud, EI OLE PANGAGARANTII, VÕIB KAOTADA OMA VÄÄRTUSES",
 "pe12" => "Ülemaailmsed aktsiad",
-"pe13" => "Vanward Global Core Select, meie ülemaailmne aktsiastrateegia, kasutab siseväärtuse allahindluse raamistikku pikaajalise äriomaniku lähenemisviisiga. Me püüame omandada avalikult kaubeldavate suurte kapitaliseerimisega ettevõtete aktsiaid, kes on juba tuntud sularaha tootvad, hästi juhitud ettevõtted, mis on olulised toodete ja teenuste pakkujad ning osta neid aktsiaid allahindlusega nende siseväärtusele. Siseväärtuse hinnangud põhinevad tulevaste vabade rahavoogude ja kapitali tagastamise analüüsil. Kasutame meetodilist investeerimise valikuprotsessi, mis keskendub ettevõtte, juhtimise ja finantsomadustele.
+"pe13" => "Sunrise Global Core Select, meie ülemaailmne aktsiastrateegia, kasutab siseväärtuse allahindluse raamistikku pikaajalise äriomaniku lähenemisviisiga. Me püüame omandada avalikult kaubeldavate suurte kapitaliseerimisega ettevõtete aktsiaid, kes on juba tuntud sularaha tootvad, hästi juhitud ettevõtted, mis on olulised toodete ja teenuste pakkujad ning osta neid aktsiaid allahindlusega nende siseväärtusele. Siseväärtuse hinnangud põhinevad tulevaste vabade rahavoogude ja kapitali tagastamise analüüsil. Kasutame meetodilist investeerimise valikuprotsessi, mis keskendub ettevõtte, juhtimise ja finantsomadustele.
 <br><br>
-Vanward Global Core Select hoiab tavaliselt investeeringuid 30 kuni 40 USA ja mitte-USA ettevõttes, mille turuväärtus on üle 3 miljardi dollari; meie eesmärk on omada vähemalt 40% mitte-USA ettevõtteid. Eesmärkide saavutamiseks on ette nähtud hoidmisperiood kolme kuni viie aasta jooksul, ja investeeringuid müüakse tavaliselt siis, kui nende hinnatõus ületab meie hinnangud nende siseväärtusele.",
+Sunrise Global Core Select hoiab tavaliselt investeeringuid 30 kuni 40 USA ja mitte-USA ettevõttes, mille turuväärtus on üle 3 miljardi dollari; meie eesmärk on omada vähemalt 40% mitte-USA ettevõtteid. Eesmärkide saavutamiseks on ette nähtud hoidmisperiood kolme kuni viie aasta jooksul, ja investeeringuid müüakse tavaliselt siis, kui nende hinnatõus ületab meie hinnangud nende siseväärtusele.",
 "pe14" => "Investeerimiskriteeriumid",
 "pe15" => "Usume, et ettevõtted, kellel on järgmised ärilised, juhtimis- ja finantsomadused, on hästi positsioneeritud aktsionäride väärtuse loomiseks sõltumata majandus- ja turutingimustest.",
 "pe16" => "Äriomadused",
@@ -3041,7 +3041,7 @@ Märgatav osalus ettevõttes",
 "pe21" => "- Suurepärane bilanss ja kapitalivoog<br>
 
 Kõrged investeerimisrendiid",
-"pe22" => "*Vanwardi hinnang ettevõtte oleviku väärtusele, mida ettevõte saab toota ja oma aktsionäridele jaotada oma eksistentsi jooksul.
+"pe22" => "*Sunrisei hinnang ettevõtte oleviku väärtusele, mida ettevõte saab toota ja oma aktsionäridele jaotada oma eksistentsi jooksul.
 <br>
 Strateegia võib võtta suuri positsioone piiratud arvul emiteerijaid, mis suurendab suurema hinnavolatiilsuse riski.
 <br>
@@ -3049,11 +3049,11 @@ Strateegia võib võtta suuri positsioone piiratud arvul emiteerijaid, mis suure
 <br> <br>
 MITTE FDIC KINNITATUD PUUDUB PANGAGARANTII VÕIB KAOTADA OMA VÄÄRTUSES",
 "pe23" => "USA väike- ja keskmise suurusega kapitali strateegia",
-"pe24" => "Vanward Small-to-Mid-Cap Equity investeerib piiratud arvul ebasoodsas olukorras olevatesse väikestesse ja keskmise suurusega ettevõtetesse ilma võimenduse või lühikeseks müümata. Strateegia investeerib tavaliselt kaheksasse kuni viisteist ettevõttesse kolme- kuni viieaastase ajahorisondiga. Tavaliselt kaubeldakse investeeringuid, kui nende hinnatõus ületab nende hinnangulisele olemuslikule väärtusele*.
+"pe24" => "Sunrise Small-to-Mid-Cap Equity investeerib piiratud arvul ebasoodsas olukorras olevatesse väikestesse ja keskmise suurusega ettevõtetesse ilma võimenduse või lühikeseks müümata. Strateegia investeerib tavaliselt kaheksasse kuni viisteist ettevõttesse kolme- kuni viieaastase ajahorisondiga. Tavaliselt kaubeldakse investeeringuid, kui nende hinnatõus ületab nende hinnangulisele olemuslikule väärtusele*.
 <br><br>
 Me järgime rangeid investeerimisprotsesse ja valime rühma hästi paigutatud ettevõtteid, kes kaupleksid märkimisväärse allahindlusega meie hinnangule nende olemuslikust väärtusest. Teeme põhjalikku esialgset uurimistööd igas portfelliettevõttes ja keskendume investeeringutele ettevõtetesse ja tööstusharudesse, mida tunneme ja mõistame, näiteks teabeteenused ja tarkvara, väljaostetavad äriteenused, kaabeltelevisioon ja programmeerimine, tarbekaupade või teenuste tootjad ning finantsteenused. Pärast investeeringu tegemist viime läbi pidevaid arutelusid tööstusharu osalejatega ja hoiame ettevõtte juhtkonnaga pidevat dialoogi.",
 "pe25" => "Maksustatavad fikseeritud sissetulekustrateegiad",
-"pe26" => "Vanwardi maksustatavad fikseeritud sissetulekustrateegiad koostavad portfelle pikaajalistest kõrge tootlusega krediidist, ühendades omavahel meie eristava hindamisraamistiku ja põhjaliku krediidiülevaatuse kriteeriumid. Krediidihinnangud on sageli lahus oma aluslikest fundamentaalsetest teguritest ja allutatud ebaproportsionaalselt kõrgetele volatiilsustasemetele, ebaefektiivsus, mis võimaldab suurendada fikseeritud sissetulekut läbi aktiivse halduse. Meie väärtuspõhine, distsiplineeritud investeerimisprotsess eesmärk on:",
+"pe26" => "Sunrisei maksustatavad fikseeritud sissetulekustrateegiad koostavad portfelle pikaajalistest kõrge tootlusega krediidist, ühendades omavahel meie eristava hindamisraamistiku ja põhjaliku krediidiülevaatuse kriteeriumid. Krediidihinnangud on sageli lahus oma aluslikest fundamentaalsetest teguritest ja allutatud ebaproportsionaalselt kõrgetele volatiilsustasemetele, ebaefektiivsus, mis võimaldab suurendada fikseeritud sissetulekut läbi aktiivse halduse. Meie väärtuspõhine, distsiplineeritud investeerimisprotsess eesmärk on:",
 "pe27" => "- Säästa varasid sõltumatu uurimise kaudu
 <br>
 
@@ -3080,7 +3080,7 @@ Struktuur: On oluline, et emiteerija suudaks genereerida piisavalt sisemist raha
 <br><br>
 MITTE FDIC KINNITATUD PUUDUB PANGAGARANTII VÕIB KAOTADA OMA VÄÄRTUSES",
 "pe33" => "Maksuvaba fikseeritud sissetulekustrateegia",
-"pe34" => "Vanwardi maksuvaba fikseeritud sissetulekustrateegia eesmärk on kaitsta investorite kapitali ja genereerida atraktiivseid pärastmaksustatavaid tootlusi, tuvastades alahinnatud omavalitsuse väärtpabereid läbi põhjaliku sõltumatu uurimistöö ja meie hindamisdistsipliini kombinatsiooni. Meie keskmise pikkusega omavalitsuse võlakirja strateegia sihib 75 kuni 125 krediiti USA omavalitsuste võlakirjaturu peamistes alamsektorites, nagu üldised kohustuslikud võlakirjad, tuludest saadavad võlakirjad ja eelnevalt rahastatud väärtpaberid. Teeme pikaajalisi maksutundlikke investeeringuid, mille oodatav aastane pööratavuse määr on alla 25 protsendi.",
+"pe34" => "Sunrisei maksuvaba fikseeritud sissetulekustrateegia eesmärk on kaitsta investorite kapitali ja genereerida atraktiivseid pärastmaksustatavaid tootlusi, tuvastades alahinnatud omavalitsuse väärtpabereid läbi põhjaliku sõltumatu uurimistöö ja meie hindamisdistsipliini kombinatsiooni. Meie keskmise pikkusega omavalitsuse võlakirja strateegia sihib 75 kuni 125 krediiti USA omavalitsuste võlakirjaturu peamistes alamsektorites, nagu üldised kohustuslikud võlakirjad, tuludest saadavad võlakirjad ja eelnevalt rahastatud väärtpaberid. Teeme pikaajalisi maksutundlikke investeeringuid, mille oodatav aastane pööratavuse määr on alla 25 protsendi.",
 "pe35" => "Investeerimiskriteeriumid:",
 "pe36" => "Portfellide koostamisel kasutame distsiplineeritud investeerimisvaliku protsessi, mis keskendub järgmistele seitsmele emiteerija omadusele:",
 "pe37" => "- Pakub olulisi funktsioone
@@ -3105,7 +3105,7 @@ Kasumlik operatiivne tõhusus
 Tugevad kapitalikulutuste plaanid
 <br>
 Mõistlikud derivaatide kasutamise viisid",
-"pe40" => "Vanward Partners on usaldanud investeerimismeeskonnale Vanwardi enda investeerimisportfelli haldamise, seades sellega firma huvid klientide huvidega vastavusse.
+"pe40" => "Sunrise Partners on usaldanud investeerimismeeskonnale Sunrisei enda investeerimisportfelli haldamise, seades sellega firma huvid klientide huvidega vastavusse.
 <br><br>
 Omavalitsuste võlakirjade sissetulek võib olla kohaliku ja riikliku maksu ning alternatiivse miinimummaksu all.
 <br>
@@ -3113,7 +3113,7 @@ Võlakirjaturul investeerimine on seotud teatud riskidega, sealhulgas turu-, int
 <br><br>
 MITTE FDIC KINNITATUD PUUDUB PANGAGARANTII VÕIB KAOTADA OMA VÄÄRTUSES",
 "pe41" => "USA TIPS strateegia",
-"pe42" => 'Alates USA TIPS turu loomisest 1997. aastal on Vanward olnud USA riigikassa inflatsiooniga kaitstud väärtpaberite (TIPS) uurimise, mõttejuhtimise ja aktiivse haldamise eesliinil. Meie USA TIPS strateegia eesmärk on pakkuda investoritele kaitset tulevase inflatsiooni eest, hoides peamiselt USA TIPS investeeringuid. Meie investeerimisprotsess on suunatud pikaajalisele perspektiivile ja kasutab kogumit ajaproovitud strateegiaid inflatsiooniindeksitud turgudel, mis on mitmekesistatud, et vältida ühe taktikalise strateegia sõltuvust. See "Pure Play" strateegia väldib krediidiga seotud ja reaalse vara riskidega kokkupuuteid ning sealt tulenevat inflatsioonist sõltumatut volatiilsust.',
+"pe42" => 'Alates USA TIPS turu loomisest 1997. aastal on Sunrise olnud USA riigikassa inflatsiooniga kaitstud väärtpaberite (TIPS) uurimise, mõttejuhtimise ja aktiivse haldamise eesliinil. Meie USA TIPS strateegia eesmärk on pakkuda investoritele kaitset tulevase inflatsiooni eest, hoides peamiselt USA TIPS investeeringuid. Meie investeerimisprotsess on suunatud pikaajalisele perspektiivile ja kasutab kogumit ajaproovitud strateegiaid inflatsiooniindeksitud turgudel, mis on mitmekesistatud, et vältida ühe taktikalise strateegia sõltuvust. See "Pure Play" strateegia väldib krediidiga seotud ja reaalse vara riskidega kokkupuuteid ning sealt tulenevat inflatsioonist sõltumatut volatiilsust.',
 "pe43" => "Investeerimiskriteeriumid:",
 "pe44" => "Kvantitatiivse ja kvalitatiivse analüüsi kombineerimisel toimib meie sõltumatu uurimine meie investeerimisprotsessi alusena. Me ära kasutame USA riigikassa inflatsiooniga kaitstud väärtpaberite (TIPS) ja mitte-USA inflatsiooniindeksiga turgude turgudel esinevaid turgude ebaefektiivsusi, kasutades kolme peamist strateegiakategooriat:",
 "pe45" => "- Fundamentaalsed strateegiad: Kasutades omavalmistatud kvantitatiivseid mudeleid, tuvastab meie investeerimismeeskond reaalseid intressimäära tasemeid ja kurve, mis on ajalooliselt mittekooskõlas praeguste majandusliku põhjendatusega. Perioodiliselt määravad selle analüüsi ja meie investeerimismeeskonna ekspertiis mõõdukad kestus- või tootluskõvera positsioonid suhtena indeksile.

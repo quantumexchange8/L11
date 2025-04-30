@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Consultants And Advisors | Specialist Expertise | Investor Services | Vanward International')
+@section('title', 'Consultants And Advisors | Specialist Expertise | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

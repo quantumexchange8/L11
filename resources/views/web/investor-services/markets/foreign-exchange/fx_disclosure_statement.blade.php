@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Fx Disclosure Statement | Foreign Exchange | Markets | Investor Services | Vanward International')
+@section('title', 'Fx Disclosure Statement | Foreign Exchange | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [

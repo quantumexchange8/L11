@@ -1,5 +1,5 @@
 ﻿@extends('layouts.main')
-@section('title', 'Home | Vanward')
+@section('title', 'Home | Sunrise')
 
 @section('content')
 {{-- <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
@@ -68,7 +68,7 @@
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.private-banking.private_equity') }}">@lang('public.private equity')</a>
                             <ul>
-                                <li><a href="{{ route('web.private-banking.private-equity.about_vanward') }}">@lang('public.menu 17')</a></li>
+                                <li><a href="{{ route('web.private-banking.private-equity.about_Sunrise') }}">@lang('public.menu 17')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_profile') }}">@lang('public.menu 18')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_strategy_and_transaction_types') }}">@lang('public.menu 19')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.select_portfolio_companies') }}">@lang('public.menu 20')</a></li>
@@ -96,7 +96,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a class="header" href="https://app.vanward-intl.com/en/applications/create/">@lang('public.open account')</a>
+                            <a class="header" href="https://app.Sunrise-intl.com/en/applications/create/">@lang('public.open account')</a>
                         </li>
                     </ul>
                 </li>
@@ -155,7 +155,7 @@
                     
                 </li>
                 <li class="nav-label">
-                    <a class="main-menu" href="https://app.vanward-intl.com/en/accounts/login/">@lang('public.client login')</a>
+                    <a class="main-menu" href="https://app.Sunrise-intl.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
@@ -215,7 +215,7 @@
                             {{-- We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do. --}}
                         </p>
                         <hr class="space-sm" />
-                        <a href="https://app.vanwardintl.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
+                        <a href="https://app.Sunriseintl.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
                         <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>

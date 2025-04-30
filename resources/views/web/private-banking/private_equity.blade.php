@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Corporate Advisory & Banking | Private Banking | Vanward International')
+@section('title', 'Corporate Advisory & Banking | Private Banking | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [
@@ -70,7 +70,7 @@
                                             <div class="menu menu-visible" id="menu-1">
                                                 <div class="item">
                                                     <div class="item-wrapper">
-                                                        <h3 class="item-name"><a href="{{ route('web.private-banking.private-equity.about_vanward') }}" class="link-effect">@lang('public.about vanward')</a></h3>
+                                                        <h3 class="item-name"><a href="{{ route('web.private-banking.private-equity.about_Sunrise') }}" class="link-effect">@lang('public.about Sunrise')</a></h3>
                                                         {{-- <span class="item-divider"></span> --}}
                                                         <span class="item-price"></span>
                                                     </div>

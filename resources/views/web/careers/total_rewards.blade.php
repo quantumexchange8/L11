@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Total Rewards | Careers | Vanward International')
+@section('title', 'Total Rewards | Careers | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

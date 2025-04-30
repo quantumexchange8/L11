@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Global Tax | Custody & Fund Services | Investor Services | Vanward International')
+@section('title', 'Global Tax | Custody & Fund Services | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

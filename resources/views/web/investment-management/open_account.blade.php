@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Open Account | Investment Management | Vanward International')
+@section('title', 'Open Account | Investment Management | Sunrise Fund Limited')
 
 @section('content')
 

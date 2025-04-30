@@ -1,9 +1,9 @@
 @extends('layouts.main')
-@section('title', 'The Partnership | Vanward')
+@section('title', 'The Partnership | Sunrise')
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.life at vanward'),
+        'title' => __('public.life at Sunrise'),
         'url' => '/careers',
         'sub2' => __('public.careers'),
         'headerImage' => url('assets/img/banner8.jpg'),

@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Investment Advisory | Private Banking | Vanward International')
+@section('title', 'Investment Advisory | Private Banking | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

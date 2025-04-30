@@ -2,7 +2,7 @@ let stores = [{
         "id": "1",
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
-        "email": "irl@vanward-intl.com",
+        "email": "irl@Sunrise-intl.com",
         "phoneNumber": "+353 21480 2699",
         "coordinates": {
             "latitude": 51.8969166,
@@ -16,7 +16,7 @@ let stores = [{
         "id": "2",
         "branchName": "JAPAN, TOKYO",
         "name": "JAPAN, TOKYO",
-        "email": "jpn@vanward-intl.com",
+        "email": "jpn@Sunrise-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 35.6760569,
@@ -30,7 +30,7 @@ let stores = [{
         "id": "3",
         "branchName": "SINGAPORE",
         "name": "SINGAPORE",
-        "email": "sg@vanward-intl.com",
+        "email": "sg@Sunrise-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 1.2832451,
@@ -44,7 +44,7 @@ let stores = [{
         "id": "4",
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
-        "email": "it@vanward-intl.com",
+        "email": "it@Sunrise-intl.com",
         "phoneNumber": "+39 29475 9690",
         "coordinates": {
             "latitude": 45.4818066,
@@ -58,7 +58,7 @@ let stores = [{
         "id": "5",
         "branchName": "UK, LONDON",
         "name": "UK, LONDON",
-        "email": "ldn@vanward-intl.com",
+        "email": "ldn@Sunrise-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 51.5133502,

@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'The Partnership | Vanward')
+@section('title', 'The Partnership | Sunrise')
 
 @section('content')
 <style>

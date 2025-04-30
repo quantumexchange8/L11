@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'The Partnership | Vanward')
+@section('title', 'The Partnership | Sunrise')
 <style>
     .logo-default{
         width: 50px;
@@ -94,7 +94,7 @@
                             <div class="cnt-box cnt-box-top boxed">
                                 <a href="#" class="img-box"><img src={{ url('/resource/life-here.jpeg') }} alt="" /></a>
                                 <div class="caption">
-                                    <h2>@lang('public.life at vanward')</h2>
+                                    <h2>@lang('public.life at Sunrise')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
                                     <p>
                                         @lang('public.careers caption 3')

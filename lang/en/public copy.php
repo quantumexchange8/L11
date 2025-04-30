@@ -8,7 +8,7 @@ return [
     "center for women and wealth caption 3" => "CW&W is thrilled to partner with The Better Life Lab, an initiative of the think tank and social enterprise New America. The Better Life Lab is a protagonist in the national dialogue concerning the evolution of gender roles and norms, family policy, and the way we work and live. They use research, data, and reporting to inform their work and to convey the stories that motivate, enlighten, and inspire change.",
     // conversations on women wealth and leadership
     "conversations on women wealth and leadership caption 1" => "The first step in establishing a dynamic and inclusive environment where women can have productive conversations about topics of interest to them is to encourage dialogue.",
-    "conversations on women wealth and leadership caption 2" => "The Centre for Women & Wealth® and Vanward are committed to women's advancement. We host local and national forums where women can share their experiences and discuss financial, investment, and planning decisions.",
+    "conversations on women wealth and leadership caption 2" => "The Centre for Women & Wealth® and Sunrise are committed to women's advancement. We host local and national forums where women can share their experiences and discuss financial, investment, and planning decisions.",
     "boston, ma" => "Boston, MA",
     "new york, ny" => "New York, NY",
     "philadelphia, pa" => "Philadelphia, PA",
@@ -17,15 +17,15 @@ return [
     "conversations on women wealth and leadership past event 1" => "Dinner with Dr. Patti Fletcher",
     "conversations on women wealth and leadership past event 1 caption" => 'Dr. Patti Fletcher hosted an evening of cocktails with women who "break the mould" as innovators in their industries, communities, and workplaces. The group discussed their individual obstacles and shared perspectives on their prospective success.',
     "conversations on women wealth and leadership past event 2" => "Ellen Perry Dinners",
-    "conversations on women wealth and leadership past event 2 caption" => "The CW&W hosted intimate dinners in New York and Boston with Ellen Perry. Brenner spoke about her path from the Metropolitan Museum of Art to Vanward, her perspective on the current economic cycle, and how to prepare for future volatility.",
+    "conversations on women wealth and leadership past event 2 caption" => "The CW&W hosted intimate dinners in New York and Boston with Ellen Perry. Brenner spoke about her path from the Metropolitan Museum of Art to Sunrise, her perspective on the current economic cycle, and how to prepare for future volatility.",
     "conversations on women wealth and leadership past event 3" => "Sweats & Balances",
-    "conversations on women wealth and leadership past event 3 caption" => "At Vanward, we believe in the Sweats & Balances mission to assist women in achieving a balance between work, leisure, fitness, and health. Together with Sweats & Balances, the Vanward CW&W hosted an evening of yoga, wine, and conversation.",
+    "conversations on women wealth and leadership past event 3 caption" => "At Sunrise, we believe in the Sweats & Balances mission to assist women in achieving a balance between work, leisure, fitness, and health. Together with Sweats & Balances, the Sunrise CW&W hosted an evening of yoga, wine, and conversation.",
     "conversations on women wealth and leadership past event 4" => "Parenting in Affluence",
-    "conversations on women wealth and leadership past event 4 caption" => "Kathryn George, chairwoman of the CW&W, and Ellen Perry, Senior Advisor to Vanward, provided insight on how to raise financially responsible children and facilitated a discussion on the confluence of family, wealth, and values.",
+    "conversations on women wealth and leadership past event 4 caption" => "Kathryn George, chairwoman of the CW&W, and Ellen Perry, Senior Advisor to Sunrise, provided insight on how to raise financially responsible children and facilitated a discussion on the confluence of family, wealth, and values.",
     "conversations on women wealth and leadership past event 5" => "Women Winemakers",
     "conversations on women wealth and leadership past event 5 caption" => "The CW&W hosted a summer party at The Urban Grape to honour women winemakers.",
     "conversations on women wealth and leadership past event 6" => "Tax Tips Given New Tax Legislation",
-    "conversations on women wealth and leadership past event 6 caption" => "The CW&W collaborated with Family Business Magazine to present a tax reform-focused luncheon discussion. Investment and estate planning professionals from Vanward presented their top ten recommendations and opportunities resulting from the recent tax reform legislation, followed by a Q&A on estate planning strategies.",
+    "conversations on women wealth and leadership past event 6 caption" => "The CW&W collaborated with Family Business Magazine to present a tax reform-focused luncheon discussion. Investment and estate planning professionals from Sunrise presented their top ten recommendations and opportunities resulting from the recent tax reform legislation, followed by a Q&A on estate planning strategies.",
     "conversations on women wealth and leadership past event 7" => "Event at The RealReal’s SoHo Store",
     "conversations on women wealth and leadership past event 7 caption" => "The CW&W launched off the summer with a night of cocktails, conversation, and luxury consignment at The RealReal store in Soho.",
     "conversations on women wealth and leadership past event 8" => "CW&W Dinner with Camille Preston, CEO and Founder of AIM Leadership",
@@ -37,23 +37,23 @@ return [
     "conversations on women wealth and leadership past event 11" => "Women Founders and Funders Dinner",
     "conversations on women wealth and leadership past event 11 caption" => "The Centre for Women & Wealth convened a Women Founders and Funders dinner at which Jules Pieri, CEO and co-founder of The Grommet, a platform for sourcing and launching undiscovered products, was the featured speaker. Pieri described the difficulties she encountered while establishing The Grommet.",
     "conversations on women wealth and leadership past event 12" => "Boston Women’s Forum 2019",
-    "conversations on women wealth and leadership past event 12 caption" => "Vanward hosted the seventh annual Boston Women's Forum. Juliette Kayyem, a CNN analyst and author of Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home, discussed commonplace measures we can take to prepare our families for an emergency.",
+    "conversations on women wealth and leadership past event 12 caption" => "Sunrise hosted the seventh annual Boston Women's Forum. Juliette Kayyem, a CNN analyst and author of Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home, discussed commonplace measures we can take to prepare our families for an emergency.",
     "conversations on women wealth and leadership past event 13" => "Philanthropic Impact Roundtable",
-    "conversations on women wealth and leadership past event 13 caption" => "Vanward hosted an interactive roundtable discussion on impact philanthropy prior to the holiday season. Susan Donahue, an expert in non-profit organisation management, Dianne Chipps Bailey, the leader of the Non-Profit Organisations and Foundations Practise Group at Robinson, Bradshaw & Hinson, Pamela Norley, the president of Fidelity, and Maureen Orth, the founder of the Marina Orth Foundation, participated in the roundtable discussion.",
+    "conversations on women wealth and leadership past event 13 caption" => "Sunrise hosted an interactive roundtable discussion on impact philanthropy prior to the holiday season. Susan Donahue, an expert in non-profit organisation management, Dianne Chipps Bailey, the leader of the Non-Profit Organisations and Foundations Practise Group at Robinson, Bradshaw & Hinson, Pamela Norley, the president of Fidelity, and Maureen Orth, the founder of the Marina Orth Foundation, participated in the roundtable discussion.",
     "conversations on women wealth and leadership past event 14" => "CW&W Charlotte Launch Event",
     "conversations on women wealth and leadership past event 14 caption" => "The Centre for Women and Wealth's inauguration in Charlotte was a tremendous success. Brigid Schulte, author of Overwhelmed: Work, Love, and Play When No One Has Time and director of New America's Better Life Lab, delivered the keynote address. In a business culture, discussions centred on work-life balance and finding time for oneself.",
-    "conversations on women wealth and leadership past event 15" => "5th Annual Vanward Women’s Network",
+    "conversations on women wealth and leadership past event 15" => "5th Annual Sunrise Women’s Network",
     "conversations on women wealth and leadership past event 15 caption" => "The Women's Network discussed how to transform &Prime;Grit to Great.&Prime; Caroline Miller, a renowned educator on the relationship between objectives, grit, and happiness, discussed what grit is, why it is important, and how anyone can acquire it. Jackie Fenn, the creator of the Gartner Hype Cycle model, presented her research on the necessity of creativity for a prosperous corporate culture.",
     "conversations on women wealth and leadership past event 16" => "Next Generation Summit",
-    "conversations on women wealth and leadership past event 16 caption" => "Families and clients of Vanward attended the second annual Next Generation Summit, which was a captivating event. Effective communication, entrepreneurship, investing, managing work-life balance, and establishing the financial groundwork for your future were discussed.",
+    "conversations on women wealth and leadership past event 16 caption" => "Families and clients of Sunrise attended the second annual Next Generation Summit, which was a captivating event. Effective communication, entrepreneurship, investing, managing work-life balance, and establishing the financial groundwork for your future were discussed.",
     "conversations on women wealth and leadership past event 17" => "CW&W New York Launch",
-    "conversations on women wealth and leadership past event 17 caption" => "Chairwoman Kathryn George and Executive Director Adrienne Penta welcomed best-selling author and New America CEO Anne-Marie Slaughter to Vanward for the launch of CW&W in New York, where Dr. Slaughter discussed women, men, work, and family.",
+    "conversations on women wealth and leadership past event 17 caption" => "Chairwoman Kathryn George and Executive Director Adrienne Penta welcomed best-selling author and New America CEO Anne-Marie Slaughter to Sunrise for the launch of CW&W in New York, where Dr. Slaughter discussed women, men, work, and family.",
     "conversations on women wealth and leadership past event 18" => "2020 Women on Boards: The National Conversation on Board Diversity",
-    "conversations on women wealth and leadership past event 18 caption" => "On November 19th, 2020 Women on Boards hosted the National Conversation on Board Diversity in cities across the globe. How and why companies are increasing the number of women on U.S. corporate boards was discussed by senior executives. The Vanward CW&W was proud to sponsor the events in Charlotte, North Carolina, and Boston, Massachusetts.",
+    "conversations on women wealth and leadership past event 18 caption" => "On November 19th, 2020 Women on Boards hosted the National Conversation on Board Diversity in cities across the globe. How and why companies are increasing the number of women on U.S. corporate boards was discussed by senior executives. The Sunrise CW&W was proud to sponsor the events in Charlotte, North Carolina, and Boston, Massachusetts.",
     "conversations on women wealth and leadership past event 19" => "Boston Women's Forum 2018",
-    "conversations on women wealth and leadership past event 19 caption" => "Vanward convened the sixth annual Boston Women's Forum in conjunction with the launch of Vanward CW&W. Claire Shipman, an award-winning journalist and co-author of The Confidence Code, provided more than one hundred attendees with insights on women and confidence; she discussed the impact of confidence on success and how to attain it.",
+    "conversations on women wealth and leadership past event 19 caption" => "Sunrise convened the sixth annual Boston Women's Forum in conjunction with the launch of Sunrise CW&W. Claire Shipman, an award-winning journalist and co-author of The Confidence Code, provided more than one hundred attendees with insights on women and confidence; she discussed the impact of confidence on success and how to attain it.",
     "conversations on women wealth and leadership past event 20" => "Next Generation Summit",
-    "conversations on women wealth and leadership past event 20 caption" => "In June, Vanward hosted an intimate and engaging Next Generation Summit at the Soho Grand Hotel in New York, which was attended by both clients and Vanward employees. Spending, value investing, leadership, and social impact were discussed. Based on the positive feedback from attendees, Vanward intends to conduct additional interactive workshops in 2016.",
+    "conversations on women wealth and leadership past event 20 caption" => "In June, Sunrise hosted an intimate and engaging Next Generation Summit at the Soho Grand Hotel in New York, which was attended by both clients and Sunrise employees. Spending, value investing, leadership, and social impact were discussed. Based on the positive feedback from attendees, Sunrise intends to conduct additional interactive workshops in 2016.",
 
     // entry level professionals
     "entry level 1" => "<p>Are you a recent graduate searching for an ideal starting point for your professional career?
@@ -82,13 +82,13 @@ return [
     "entry level 5" => "high integrity",
     "entry level 6" => "an ability to create and maintain valuable relationships",
     "entry level 7" => "a passion for helping others",
-    "entry level 8" => "At Vanward, you have the opportunity to define your career path, and we have a strategy in place to help you succeed.",
+    "entry level 8" => "At Sunrise, you have the opportunity to define your career path, and we have a strategy in place to help you succeed.",
     "entry level 9" => "Companies",
     "entry level 10" => "Companies",
     "entry level 11" => "Companies",
     "entry level 12" => "Companies",
     // experienced professionals
-    "experienced 1" => "At Vanward, our global business strategy relies on attracting and retaining
+    "experienced 1" => "At Sunrise, our global business strategy relies on attracting and retaining
                         exceptional talent. We are dedicated to recruiting the best and brightest individuals, and
                         our strategy, culture, and commitment to achieving outstanding results contribute to their
                         long-term retention. In fact, more than 60% of our senior leaders have been part of our firm
@@ -97,12 +97,12 @@ return [
                         they actively engage with each client. This hands-on involvement fosters intimate and
                         enduring client relationships that span an average of nearly 15 years. We believe in the
                         power of these relationships and the value they bring to our clients.",
-    "experienced 3" => "At Vanward, we offer direct access to senior leadership, providing you with unique
+    "experienced 3" => "At Sunrise, we offer direct access to senior leadership, providing you with unique
                         opportunities to stand out among your peers. We take pride in being an organization that
                         offers top-of-the-industry resources, enabling you to excel in your work. Despite our growth
                         and success, we remain agile and flexible, allowing you to make a tangible impact on our
                         organization and the clients we serve.",
-    "experienced 4" => "By joining Vanward, you become part of a dynamic and supportive environment that
+    "experienced 4" => "By joining Sunrise, you become part of a dynamic and supportive environment that
                         combines the advantages of a large organization with the personal touch of a smaller one. We
                         are committed to providing you with the tools, resources, and opportunities to grow
                         professionally and make a difference.",
@@ -125,7 +125,7 @@ return [
     "restart 3" => "Considerations:",
     "restart 4" => "Candidates must have left the workforce for a minimum of two years at the time the Restart Assignment begins",
     "restart 5" => "Candidates cannot leave a job to join the Restart Program",
-    "restart 6" => "Former Vanward Employees, as well as those new to the Firm, are encouraged to apply",
+    "restart 6" => "Former Sunrise Employees, as well as those new to the Firm, are encouraged to apply",
     "restart 7" => "Candidates must be able to work in locations where the program is currently available
     (Boston, New Jersey, New York & Dublin)",
     "restart 8" => "The program runs for 10 weeks in U.S. locations and for 16 weeks in Dublin.",
@@ -133,7 +133,7 @@ return [
     "restart 10" => "<strong>In the U.S.:</strong> The U.S. Restart program will begin accepting applications in
     the Spring of next year. Check back for additional information in May of 2020.",
     // undergraduate internships
-    "undergraduate 1" => "At Vanward, we offer internship programs that provide valuable opportunities for students to
+    "undergraduate 1" => "At Sunrise, we offer internship programs that provide valuable opportunities for students to
     gain firsthand experience and knowledge about our services, our company culture, and the
     financial services industry. We believe in starting the learning journey early, even before
     graduation, to help interns develop a deep understanding of our organization and its
@@ -167,7 +167,7 @@ return [
                                 August of each year. The program is directed at students in their penultimate year of a
                                 Bachelor or Masters Degree program. Interns will have the opportunity to work in one of our
                                 Investor Services areas, and can look forward to being fully integrated into our teams.
-                                Interns are also supported by a Vanward mentor while participating in the program.
+                                Interns are also supported by a Sunrise mentor while participating in the program.
                             </p>
                             <p>
                                 In Krakow, Poland, a variety of opportunities are available in our Investor Services
@@ -187,7 +187,7 @@ return [
     "undergraduate 15" => "Companies",
     "undergraduate 16" => "Companies",
     // affinity network community
-    "affinity network community 1"  => "“The greater our diversity and inclusion, the more we unlock human potential and the greater the prosperity of Vanward.”",
+    "affinity network community 1"  => "“The greater our diversity and inclusion, the more we unlock human potential and the greater the prosperity of Sunrise.”",
     "affinity network community 2"  => "Jeff Schoenfeld",
     "affinity network community 3"  => "Partner and Pride Network Executive Sponsor",
     "affinity network community 4"  => "The Affinity Network Community (“CANC”) is a global community of employee-led networks
@@ -213,9 +213,9 @@ return [
                         success.",
     "core values 2" => "What TIEs Us Together",
     "core values 3" => "<p>
-                            Teamwork. Integrity. Excellence. What makes these values distinct at Vanward is how we bring
+                            Teamwork. Integrity. Excellence. What makes these values distinct at Sunrise is how we bring
                             them to life. Recently, we celebrated our core values by asking employees to share how they
-                            experience Teamwork, Integrity, and Excellence at Vanward. We heard countless stories:
+                            experience Teamwork, Integrity, and Excellence at Sunrise. We heard countless stories:
                             colleagues who went out of their way to help their teams; decisions made in the best
                             interest of clients; times when we stuck to our principles even when our view was not
                             popular; and leaders who inspired us by their commitment to our Values.</p>
@@ -223,12 +223,12 @@ return [
                         <p>Though we have varied years of tenure, sit in 18 locations around the world, come from
                             diverse backgrounds, and work in different lines of business, a common set of values unites
                             our diverse points of view in service to our clients and to each other. Daily and frequent
-                            displays of our core values make Vanward a place our employees want to work—and continue
+                            displays of our core values make Sunrise a place our employees want to work—and continue
                             working, which helps us to build lasting, transparent, and meaningful relationships.
                         </p>",
     "core values 4" => "Companies",
     // our culture
-    "our culture 1" => "At Vanward, going above and beyond for our clients will always be the expectation,
+    "our culture 1" => "At Sunrise, going above and beyond for our clients will always be the expectation,
                         not the exception. Our goal is to be the best, not the biggest. We strive to be the most
                         trusted, valued, and differentiated partner to every client we serve, so we invest our
                         resources and empower our employees to be just that. The result is a culture of partnership
@@ -288,7 +288,7 @@ return [
     "black affinity 2" => "- Donavan Brown, Black Affinity Network Global Co-Chair",
     "black affinity 3" => "The Black Affinity Network celebrates African-American, Caribbean/West Indian, and African ancestry
                             through informational events, awareness-raising activities, and philanthropic initiatives. By fostering
-                            the personal and professional growth of our members, we aim to make Vanward an employer of choice for
+                            the personal and professional growth of our members, we aim to make Sunrise an employer of choice for
                             diverse talent. We strengthen the leadership pipeline for people of multicultural descent by supporting
                             employee development and educational opportunities, promoting the benefits of an inclusive culture, and
                             helping members build meaningful relationships at every level of the organization.",
@@ -298,14 +298,14 @@ return [
                             disadvantaged backgrounds are positioned to excel in STEM (Science, Technology, Engineering, Math)
                             careers. Through this programme, local high school students have the opportunity to visit our London
                             office for networking and career panel discussions with finance professionals, and can learn more
-                            about the annual internship partnership with Vanward.",
+                            about the annual internship partnership with Sunrise.",
     "black affinity 6" => "Jazz & the Civil Rights Movement",
     "black affinity 7" => "The Black Affinity Network organized a presentation on the historical importance of jazz music, led
                             by former radio personality Bill Daughtry. Hosted from our New York office, the session shared key
                             moments in U.S. history where jazz artists highlighted struggles of the civil rights movement
                             through their music and used their influence to drive change.",
     "black affinity 8" => "Black Histories, Black Futures at the MFA",
-    "black affinity 9" => "Vanward’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
+    "black affinity 9" => "Sunrise’s Black Affinity Network members and friends visited the Museum of Fine Arts, Boston for a
                             private viewing of an exhibit, curated by local teens, that presented Black experiences through
                             works by 20th century artist of color. We were able to join a discussion with the teens on their
                             selection of works and process of designing of the gallery spaces for this exhibit.",
@@ -325,7 +325,7 @@ return [
                                     advocacy, technology, and organizational adaptations.",
     "diverse ability allies 2" => "– Andrew Hofer, Diverse Ability Allies Network Executive Sponsor",
     "diverse ability allies 3" => "The mission of the Diverse Ability Allies Network (DAAN) is to encourage and support every member of the
-                                    Firm in achieving their full potential by demonstrating that Vanward is a supportive and inclusive
+                                    Firm in achieving their full potential by demonstrating that Sunrise is a supportive and inclusive
                                     environment for employees who are disabled, or care for individuals with disabilities. By increasing
                                     awareness, collaboration, problem-solving, adaptation, innovation, and advocacy for community members
                                     with disabilities, we provide a more comfortable, inclusive, and understanding work environment for
@@ -346,21 +346,21 @@ return [
                                     the importance of creating a workplace where diversity awareness always includes ability. Attendees
                                     learned how to be strong allies who remove roadblocks for colleagues with diverse abilities.",
     // global employee network
-    "global employee 1" => "“I’ve had the opportunity to do business in 11 of our offices over the course of my career at Vanward.
+    "global employee 1" => "“I’ve had the opportunity to do business in 11 of our offices over the course of my career at Sunrise.
                             Each new experience has positively impacted my professional and personal development. The Global
                             Employee Network provides opportunities for people to share their wisdom and stories with other
                             colleagues interested in learning more about the rich and diverse cultures of our people and the
                             international opportunities the firm has to offer.”",
     "global employee 2" => "– R.J. Rondini, Global Employee Network Chair",
-    "global employee 3" => "Once a casual network of Vanward Employees sharing global work experiences with one another, the Global
-                            Employee Network now includes members in nearly every office and organized chapters in Vanward locations
+    "global employee 3" => "Once a casual network of Sunrise Employees sharing global work experiences with one another, the Global
+                            Employee Network now includes members in nearly every office and organized chapters in Sunrise locations
                             around the globe. Through organized networking sessions, training and events simulcast across
                             offices, the network focuses on three main pillars of activity: celebration and exploration of the
-                            rich cultural diversity at Vanward; managing the challenges that come with working on a global team; and
+                            rich cultural diversity at Sunrise; managing the challenges that come with working on a global team; and
                             supporting the needs of those working outside their home location. Participation in events
-                            sponsored by the network are open to all Vanward Employees.",
+                            sponsored by the network are open to all Sunrise Employees.",
     "global employee 4" => "Culture Fair Worldwide",
-    "global employee 5" => "Annual culture fairs are hosted in Vanward's Boston, Dublin, Hong Kong, Kraków, and Jersey City offices.
+    "global employee 5" => "Annual culture fairs are hosted in Sunrise's Boston, Dublin, Hong Kong, Kraków, and Jersey City offices.
     Employees learn about resources such as community engagement and wellness programs, and can sign up
     for activities such as the 1818 Social Club and BANC affinity groups.",
     "global employee 6" => "Embracing a Global Workforce",
@@ -370,7 +370,7 @@ return [
     // latino cultural network
     "latino cultural 1" => "“Within the Latino Cultural Network (LCN), I found a home. LCN has connected me with mentorship and
                             networking opportunities that have helped me grow in my career. Together with leaders from across
-                            the Vanward Affinity Networks, LCN has inspired me to further integrate myself into the Vanward community.
+                            the Sunrise Affinity Networks, LCN has inspired me to further integrate myself into the Sunrise community.
                             It feels great to enhance my skills and personal development while celebrating and sharing my
                             culture with others.”",
     "latino cultural 2" => "– Yaritza Avila, Latino Cultural Network",
@@ -406,15 +406,15 @@ return [
                             impressions, and how personal brand can evolve over time.",
     // military veterans network
     "military veterans 1" => "As a Veteran of the United States Marine Corps, I understand the value a veteran can add to any
-                            workplace. I take pride in seeing the commitment Vanward has made in hiring and supporting veterans who
-                            have or continue to serve in the Armed Forces. Through my involvement in the Vanward Military Veterans
-                            Network and other affinity groups I’ve seen firsthand the ways Vanward is invested in employees and the
+                            workplace. I take pride in seeing the commitment Sunrise has made in hiring and supporting veterans who
+                            have or continue to serve in the Armed Forces. Through my involvement in the Sunrise Military Veterans
+                            Network and other affinity groups I’ve seen firsthand the ways Sunrise is invested in employees and the
                             community.",
     "military veterans 2" => "– Travis Partington, Military Veterans Network",
     "military veterans 3" => "The Military Veterans Network supports active duty and reserve military personnel, veterans and their
                                 families through mentoring, professional development, and community outreach. We are committed to
                                 raising awareness for the complex issues Veterans face when transitioning into civilian employment. We
-                                further Vanward’s commitment to recruit, integrate, progress, and retain veterans by providing employees
+                                further Sunrise’s commitment to recruit, integrate, progress, and retain veterans by providing employees
                                 with valuable resources to advance their careers. We serve as advisors inside and outside the Firm to
                                 educate potential employers about veterans’ unique skills and experiences, and support talent
                                 development by interviewing candidates with military experience.",
@@ -427,11 +427,11 @@ return [
     "military veterans 7" => "Network members volunteered at The New England Center & Home for Veterans to teach computer basics to
                             Veterans.",
     "military veterans 8" => "Veterans & Friends Brown Bag Lunch Series",
-    "military veterans 9" => "This informal series provides Vanward Employees with an opportunity to meet veterans and friends for
+    "military veterans 9" => "This informal series provides Sunrise Employees with an opportunity to meet veterans and friends for
                                 casual conversation.",
     "military veterans 10" => "Don't Ask, Don't Tell: Then & Now A Conversation
                                 with Dan Woods, Lead Counsel who Took on Don't Ask, Don't Tell and Won",
-    "military veterans 11" => "The Vanward",
+    "military veterans 11" => "The Sunrise",
     "military veterans 12" => "and Military Networks joined forces to
                                 present, Dan Woods, lead counsel on the team that took on Don't Ask, Don't Tell, and won. Dan spoke
                                 about his role in this landmark case which led to the end of a law that prohibited gay and lesbian
@@ -455,7 +455,7 @@ return [
                     and New Parents, Elementary School Age Children, Middle School/ High School Age Children, College Age/
                     Adult Children, and Reverse Parenting. The Parenting Network closely partners with the other BANC
                     networks, such as the",
-    "parenting 4" => "networks to ensure support programs are appropriately tailored to employee needs. Our goal is to equip members with the knowledge and support needed to grow their careers while successfully balancing the competing demands of work and home. We also help to evolve our workplace by providing input on Vanward policies and products from a family and caregiver perspective.",
+    "parenting 4" => "networks to ensure support programs are appropriately tailored to employee needs. Our goal is to equip members with the knowledge and support needed to grow their careers while successfully balancing the competing demands of work and home. We also help to evolve our workplace by providing input on Sunrise policies and products from a family and caregiver perspective.",
     "parenting 5" => "Bring Your Children to Work Day (Annual)",
     "parenting 6" => "This event is held each year in many of our global offices. Bring Your Children to work day is
                     designed to strengthen the connection between education and work, as well as relationships between
@@ -474,10 +474,10 @@ return [
     "pride 1" => "I’m proud to be part of the Pride Network and be part of a Firm where LGBTQ professionals and
     supporters have a community of peers to come together for sharing, networking, and volunteering. The
     greater our diversity and inclusion, the more we unlock human potential and the greater the
-    prosperity of Vanward. Having a diverse set of colleagues who feel comfortable being themselves is our
+    prosperity of Sunrise. Having a diverse set of colleagues who feel comfortable being themselves is our
     culture in tangible and intangible ways.",
     "pride 2" => "– Jeff Schoenfeld, Partner and Pride Network",
-    "pride 3" => "Vanward believes everyone should feel empowered to bring their whole selves to work regardless of sexual
+    "pride 3" => "Sunrise believes everyone should feel empowered to bring their whole selves to work regardless of sexual
     orientation or gender identity. The Pride Network creates a welcoming community for employees who
     identify as LGBTQ (lesbian, gay, bisexual, transgender or questioning) and their allies. Through
     education and advocacy, we raise awareness of topics relevant to the LGBTQ community, helping to create
@@ -486,24 +486,24 @@ return [
     communities. We also partner with our Lines of Business to ensure policies and practices are sensitive
     to, and inclusive of, LGBTQ professionals.",
     "pride 4" => "Using Sensitivity & Intelligence to Understand Gender Diversity",
-    "pride 5" => "The Vanward Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
+    "pride 5" => "The Sunrise Pride Network presented award-winning transgender storyteller, diversity speaker, educator,
                 and Ted Talk Presenter, Scott Turner Schofield, whose presentation touched on themes of &Prime;gender
                 diversity,&Prime; identity, culture, language, and ally-ship. Scott's presentation included transgender
                 themes and introduced the concept of &Prime;inter-sectionality&Prime; — answering the question of how biological
                 sex, gender, and sexuality are influenced by factors including race, socioeconomic status,
                 geographical location, and disability. Scott masterfully wove these topics together, speaking to
                 audience members' varied experiences, both in and out of the workplace.",
-    "pride 6" => "Leading the Way: Vanward Hosts LGBT Workplace Summit in Kraków",
-    "pride 7" => "Vanward Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
+    "pride 6" => "Leading the Way: Sunrise Hosts LGBT Workplace Summit in Kraków",
+    "pride 7" => "Sunrise Kraków Pride members hosted the third in a series of LGBT Symposia with organizations that
                 included US Consulate General, IBM, Shell, HSBC, Cisco, LGBT Business Forum, Heineken, CapGemini,
                 Akamai, ABB, Diversity Hub, and Stowarzyszenie Queerowy Maj. The symposium’s goal is to strengthen
                 alliances with other companies and share strategies on how to build LGBT networks and employee
-                resource groups in Kraków, Poland. As an early member of this consortium, Vanward is leading the way
+                resource groups in Kraków, Poland. As an early member of this consortium, Sunrise is leading the way
                 alongside our corporate partners in sharing information, experiences and knowledge on how to ensure
                 our workplaces remain welcoming and open to the LGBT community and allies.",
     "pride 8" => "Parent Panel",
     "pride 9" => "Partner Jeff Schoenfeld, Pride Network’s Executive Sponsor, led a conversation with three of his
-    fellow Vanward Partners, Carter Sullivan, Rick Berk, and Digger Donahue, along with their LGBT+ family
+    fellow Sunrise Partners, Carter Sullivan, Rick Berk, and Digger Donahue, along with their LGBT+ family
     members. Participants shared their perspectives on what it means to be a supportive parent or
     sibling to an LGBT+ individual.",
     "pride 10" => "Where Will We Go?",
@@ -549,16 +549,16 @@ return [
                     trends in the ESG space and explained why the movement is here to stay.",
     // young professionals network
     "young professionals 1" => "“The Young Professionals Network offers fantastic opportunities for employees in the early stages of
-                                their career to get involved at Vanward, joining has helped me grow personally and professionally.”",
+                                their career to get involved at Sunrise, joining has helped me grow personally and professionally.”",
     "young professionals 2" => "– Sean Farrell, Young Professional Network Co-Chair",
     "young professionals 3" => "The mission of the Young Professionals Network is to engage, develop, and connect employees who are early
-                                in their careers, or new to Vanward or the financial services industry. We offer opportunities for
+                                in their careers, or new to Sunrise or the financial services industry. We offer opportunities for
                                 employees to expand their professional networks, build their personal brands, and support our
                                 communities. Special programs promote constructive peer and mentor relationships while empowering
                                 members with the skills needed to drive success as future leaders. We create a forum for employees to
                                 have an open dialogue about the opportunities and challenges of a multi-generational workplace.",
     "young professionals 4" => "YPN Survey",
-    "young professionals 5" => "The Dublin chapter of Vanward’s Young Professionals Network marked the firm’s bicentennial anniversary in
+    "young professionals 5" => "The Dublin chapter of Sunrise’s Young Professionals Network marked the firm’s bicentennial anniversary in
                                 2018 by assessing the current and future shape of today’s workplace. The network conducted a survey of
                                 two distinct demographic groups in employment—under 30 and over 30—to understand their attitudes toward
                                 work and education. The survey tested the hypothesis that the current and future workforces are
@@ -596,7 +596,7 @@ return [
                                                 security for your future, and peace of mind.</p>",
     "benefits wellness compensation 3" => "Companies",
     // career management
-    "career management 1"   => "At Vanward, we believe in fostering the growth and development of our employees. We are
+    "career management 1"   => "At Sunrise, we believe in fostering the growth and development of our employees. We are
                             dedicated to providing you with the necessary tools and resources to take ownership of your career and
                             achieve your long-term goals. Our firm-employee partnership is built on continuous learning and
                             development, and we offer a range of resources to support your professional growth, including:",
@@ -621,7 +621,7 @@ return [
                                     of an ideal career fit and evaluate different pathways to enhance your career satisfaction. By
                                     leveraging this resource, you can gain clarity on your professional aspirations and take steps
                                     towards achieving them.</li>",
-    "career management 3"   => "At Vanward, we are committed to your professional growth and development. We provide the
+    "career management 3"   => "At Sunrise, we are committed to your professional growth and development. We provide the
                                 necessary support, resources, and opportunities for you to thrive in your current role and advance in
                                 your career. By taking advantage of our performance management processes, development planning
                                 initiatives, mentorship programs, and career-driven e-Learning series, you can actively shape your
@@ -630,7 +630,7 @@ return [
     "career management 5" => "Companies",
     "career management 6" => "Companies",
     // mobility
-    "mobility 1" => "Vanward provides countless opportunities throughout your career to hone your
+    "mobility 1" => "Sunrise provides countless opportunities throughout your career to hone your
                     expertise, take on new challenges, and reinvent yourself in new roles and business areas. We
                     look for ways to help our employees grow, creating succession plans, assigning stretch
                     projects outside everyday responsibilities, and advertising all open roles and giving
@@ -641,7 +641,7 @@ return [
     "mobility 2" => "Take on the World",
     "mobility 3" => "Interested in expanding your global mindset, developing language skills, and applying your
                     expertise in different businesses and cultures? Our Global Assignment Program supports
-                    Vanward’s global strategy while providing employees development and cross-cultural
+                    Sunrise’s global strategy while providing employees development and cross-cultural
                     opportunities. We offer both short-term and long-term assignments that run anywhere from
                     three months to five years. These assignments provide you the opportunity to:",
     "mobility 4"    => "<li>gain advanced international skills and experience</li>
@@ -654,7 +654,7 @@ return [
     "mobility 7" => "Companies",
     "mobility 8" => "Companies",
     // ongoing learning
-    "ongoing learning 1"    => "Opportunities for learning and development begin on your first day of work at Vanward
+    "ongoing learning 1"    => "Opportunities for learning and development begin on your first day of work at Sunrise
                                 and continue throughout your career. Our approach is a mix of collaborative
                                 learning, on-the-job application, and online tools that help you apply new ideas and
                                 grow. Here are a few ways we support your development:",
@@ -662,23 +662,23 @@ return [
                                 you to be a trusted advisor to our clients, providing innovative solutions to address their
                                 financial needs. We look to develop leaders at all levels within our organization and
                                 our specialized courses prepare you to succeed.",
-    "ongoing learning 3"    => "Vanward Academy:",
+    "ongoing learning 3"    => "Sunrise Academy:",
     "ongoing learning 4"    => "Our online learning and career center provides the
                                 resources and guidance to help you realize your career aspirations. Enjoy 24/7 access to
                                 e-Learning courses, online business and technical articles, competency assessments, and
                                 interactive tools offering hundreds of learning opportunities.",
-    "ongoing learning 5"    => "Vanward Scholars Program:",
-    "ongoing learning 6"    => "Where the business need exists, Vanward assists
+    "ongoing learning 5"    => "Sunrise Scholars Program:",
+    "ongoing learning 6"    => "Where the business need exists, Sunrise assists
                                 you in obtaining professional certifications, as well as continuing your formal education
                                 through tuition reimbursement.",
     "ongoing learning 7"    => "Toastmasters:",
     "ongoing learning 8"    => "These clubs build leadership and public speaking skills
                                 with a “learn-by-doing” approach while providing opportunities to network with colleagues.",
     "ongoing learning 9"    => "Professional Memberships and Subscriptions:",
-    "ongoing learning 10"   => "Vanward pays for professional
+    "ongoing learning 10"   => "Sunrise pays for professional
                                 organization membership fees and job-related subscriptions that are directly job related.",
     // signature programs
-    "signature programs 1"  => "Our signature development programs are tailored to Vanward’s unique culture, helping
+    "signature programs 1"  => "Our signature development programs are tailored to Sunrise’s unique culture, helping
                                 you as you progress in your career to grow as a leader, build long-term relationships, and
                                 navigate the global marketplace. Some programs are designed for specific points in your
                                 career, such as a promotion to management, while others employ a competitive selection
@@ -692,7 +692,7 @@ return [
                                 new culture, and sharing their knowledge with local teams. The program includes a
                                 combination of on-the-job experiences and classroom training. Participants enroll in formal
                                 training classes and are assigned a mentor.",
-    "signature programs 4"  => "Foundations of Vanward Management:",
+    "signature programs 4"  => "Foundations of Sunrise Management:",
     "signature programs 5"  => "This cohort-based program targets new and/or
                                 recently promoted managers, ensuring they are equipped to lead a global and diverse
                                 workforce. The curriculum engages a variety of learning styles by blending self-led,
@@ -702,7 +702,7 @@ return [
     "signature programs 6"  => "Leadership Education And Development:",
     "signature programs 7"  => "This two-year leadership
                                 commitment starts with a nine-week intensive program designed to help participants map their
-                                leadership journey, deepen their financial acumen, and contribute to Vanward’s strategic
+                                leadership journey, deepen their financial acumen, and contribute to Sunrise’s strategic
                                 objectives. Employees deepen their self-awareness; create a personal leadership brand;
                                 succeed in large, complex assignments; and develop a network within the firm and the
                                 industry.",
@@ -721,7 +721,7 @@ return [
                                 <li>Retirement Plan</li>
                                 <li>Profit Sharing</li>",
     "thrive financially 3"  => "Financial Well-being",
-    "thrive financially 4"  => "As part of our commitment to providing a comprehensive total rewards package, Vanward offers you
+    "thrive financially 4"  => "As part of our commitment to providing a comprehensive total rewards package, Sunrise offers you
                                 access to financial education, resources and programs including:",
     "thrive financially 5"  => "<li>Life and disability Insurance</li>
                                 <li>Before tax programs (FSAs and HSA)</li>
@@ -735,7 +735,7 @@ return [
                                 <li>Employee Relief Fund</li>
                                 <li>Undergraduate Scholarship Program</li>",
     // thrive personally
-    "thrive personally 1"   => "Vanward recognizes that each employee has different needs both inside and outside
+    "thrive personally 1"   => "Sunrise recognizes that each employee has different needs both inside and outside
                                 the workplace. Our goal is to ensure you have a rewarding and productive work experience
                                 with the flexibility and time to enjoy your personal and family life at every stage of your
                                 career. Offerings vary locally and include resources on:",
@@ -749,7 +749,7 @@ return [
                                 <li>Sleep Disorders</li>
                                 <li>Stress Management</li>",
     // thrive physically
-    "thrive physically 1"   => "<p>At Vanward, we prioritize the health and well-being of our employees and their
+    "thrive physically 1"   => "<p>At Sunrise, we prioritize the health and well-being of our employees and their
                                     families. That's why we offer a comprehensive Benefits Program that provides extensive
                                     healthcare coverage and additional benefits to support your overall well-being.</p>
                                     <br>
@@ -782,18 +782,18 @@ return [
                                     as legal, tax, or investment advice. It does not constitute an offer to sell or a solicitation to buy
                                     securities or investment products. While we strive to gather information from reliable sources, we cannot
                                     guarantee the accuracy, completeness, or fairness of the information presented. This material does not
-                                    constitute an offer of services from Vanward. Any opinions expressed are subject to change without
+                                    constitute an offer of services from Sunrise. Any opinions expressed are subject to change without
                                     prior notice. Links to third-party websites are provided for your convenience and do not imply endorsement
-                                    or recommendation by Vanward of these websites or the products and services they offer.",
-    "additional disclosures 2"  => "Vanward is not responsible for the accuracy and validity of the content of these third party websites. Any
+                                    or recommendation by Sunrise of these websites or the products and services they offer.",
+    "additional disclosures 2"  => "Sunrise is not responsible for the accuracy and validity of the content of these third party websites. Any
                                     reference to tax matters is not intended to be used, and may not be used, for purposes of avoiding penalties
                                     under the U.S. Internal Revenue Code or for promotion, marketing or recommendation to third parties.
-                                    Unauthorized use or distribution without the prior written permission of Vanward is prohibited. This content is
-                                    approved for distribution in member states of the EEA by Vanward Investor Services Limited, authorized and
-                                    regulated by the Financial Conduct Authority (FCA). Vanward is a service mark of Vanward, registered in the
-                                    United States and other countries. © Vanward 2023. All rights reserved.",
+                                    Unauthorized use or distribution without the prior written permission of Sunrise is prohibited. This content is
+                                    approved for distribution in member states of the EEA by Sunrise Investor Services Limited, authorized and
+                                    regulated by the Financial Conduct Authority (FCA). Sunrise is a service mark of Sunrise, registered in the
+                                    United States and other countries. © Sunrise 2023. All rights reserved.",
     // bcp statement
-    "bcp statement 1"   => "Vanward's Business Continuity Planning Program is a comprehensive and ongoing initiative that
+    "bcp statement 1"   => "Sunrise's Business Continuity Planning Program is a comprehensive and ongoing initiative that
                             encompasses various measures to ensure the continuity of our operations. These include implementing
                             preventative measures, conducting ongoing risk management, developing recovery plans for all business units
                             and systems, testing the plans, providing BCP training to senior management, business unit planners, and
@@ -803,7 +803,7 @@ return [
                             business interruptions of different scales and impacts by leveraging geographically dispersed staff,
                             alternative processing locations, and redundant infrastructure. We conduct regular and extensive testing of
                             our BCP arrangements to ensure their effectiveness.",
-    "bcp statement 3"   => "While it is impossible to guarantee uninterrupted service, Vanward is well-positioned to maintain a high level
+    "bcp statement 3"   => "While it is impossible to guarantee uninterrupted service, Sunrise is well-positioned to maintain a high level
                             of client service during any interruption. For detailed information about our Business Continuity Planning
                             Program, please reach out to your Relationship Manager, who will be able to provide you with further
                             details.",
@@ -811,32 +811,32 @@ return [
     "confidential ethics reporting 1" => "This system makes it easy to report possible illegal or unethical activity.",
     "confidential ethics reporting 2" => "Convercent Anonymous Reporting",
     // data protection notice
-    "data protection notice 1"      => "This notice is to make you aware of how the personal data that you provide to Vanward is processed. In this
-                                        notice, “Vanward” means one or more of the following Vanward entities with which you are contracted: Vanward
-                                        Trustee Services (Ireland) Limited, Vanward Fund Administration Services (Ireland) Limited, Vanward Investor
-                                        Services Limited (UK), Vanward (Luxembourg) S.C.A.
+    "data protection notice 1"      => "This notice is to make you aware of how the personal data that you provide to Sunrise is processed. In this
+                                        notice, “Sunrise” means one or more of the following Sunrise entities with which you are contracted: Sunrise
+                                        Trustee Services (Ireland) Limited, Sunrise Fund Administration Services (Ireland) Limited, Sunrise Investor
+                                        Services Limited (UK), Sunrise (Luxembourg) S.C.A.
                                         <br><br>
-                                        Vanward as Data Controller processes personal data in compliance with General Data Protection Regulation
+                                        Sunrise as Data Controller processes personal data in compliance with General Data Protection Regulation
                                         (EU/2016/679) (“GDPR”).
                                         <br><br>
-                                        As a client which provides Vanward with the personal data of individuals associated with you in connection with
+                                        As a client which provides Sunrise with the personal data of individuals associated with you in connection with
                                         your business relationship with us, the information in this notice is relevant to such individuals, and we
                                         request that you make this information available to them.
                                         <br><br>
                                         By continuing to provide us with personal data, you confirm that:",
-    "data protection notice 2"      => "1. All personal data that you provide to Vanward has been collected, processed and provided to Vanward in
+    "data protection notice 2"      => "1. All personal data that you provide to Sunrise has been collected, processed and provided to Sunrise in
                                         compliance with applicable laws, including the GDPR; <br>
                                         2. All such personal data is accurate, relevant, limited to what is necessary for the purposes for which
                                         you <br>
                                         3. provide it, and, as applicable, up-to-date; and
-                                        When you provide personal data to Vanward for the express purpose of being forwarded to a jurisdiction that
+                                        When you provide personal data to Sunrise for the express purpose of being forwarded to a jurisdiction that
                                         does not have equivalent protections for personal data as those in the EU, you have informed the
                                         relevant individuals whose personal data you are providing to us in accordance with GDPR and obtained
                                         specific, unambiguous and freely given consent from them.",
     "data protection notice 3"      => "GDPR Compliance",
-    "data protection notice 4"      => "Vanward will process any personal data that you provide in accordance with the GDPR. Vanward has implemented
+    "data protection notice 4"      => "Sunrise will process any personal data that you provide in accordance with the GDPR. Sunrise has implemented
                                         technical and organizational measures to provide an appropriate level of security for such personal data.
-                                        Vanward shall act as a Data Controller under the GDPR with respect to such processing.",
+                                        Sunrise shall act as a Data Controller under the GDPR with respect to such processing.",
     "data protection notice 5"      => "Purposes and Legal Basis of Processing",
     "data protection notice 6"      => "1. To perform its obligations under its agreement(s) with you; <br>
                                         2. To communicate with you and to otherwise maintain and develop our business relationship, including
@@ -846,30 +846,30 @@ return [
     "data protection notice 7"      => "Will only process personal data for the purposes for which it has been provided to us, unless otherwise
                                         permitted by applicable law.
                                         <br><br>
-                                        The legal bases upon which Vanward will process personal data are Vanward’s legitimate interest in operating its
-                                        business and to comply with laws, rules and regulations to which Vanward is subject.",
+                                        The legal bases upon which Sunrise will process personal data are Sunrise’s legitimate interest in operating its
+                                        business and to comply with laws, rules and regulations to which Sunrise is subject.",
     "data protection notice 8"      => "Recipients of Personal Data",
     "data protection notice 9"      => "In processing personal data for the purposes identified above, we may transfer or disclose such personal data to the following entities and their personnel and agents:",
-    "data protection notice 10"     => "1. Vanward’s affiliates; <br>
-                                        2. Vanward’s agents, network and service providers, including those providing audit, legal, tax, sub custody
+    "data protection notice 10"     => "1. Sunrise’s affiliates; <br>
+                                        2. Sunrise’s agents, network and service providers, including those providing audit, legal, tax, sub custody
                                         and information technology services; and <br>
-                                        3. Regulatory agencies with jurisdiction over Vanward, as required by applicable law.",
-                                        "data protection notice 11"     => "Vanward will comply with the GDPR when transferring personal data to a recipient outside of the European
+                                        3. Regulatory agencies with jurisdiction over Sunrise, as required by applicable law.",
+                                        "data protection notice 11"     => "Sunrise will comply with the GDPR when transferring personal data to a recipient outside of the European
     Economic Area.",
     "data protection notice 12"     => "Storage Limitation",
-    "data protection notice 13"     => "Vanward will retain personal data only for as long as is reasonably necessary for the purpose for which it was provided, except to the extent Vanward is required to retain such personal data for a longer period of time by applicable laws, rules and regulations.",
+    "data protection notice 13"     => "Sunrise will retain personal data only for as long as is reasonably necessary for the purpose for which it was provided, except to the extent Sunrise is required to retain such personal data for a longer period of time by applicable laws, rules and regulations.",
     "data protection notice 14"     => "Individuals’ Rights",
     "data protection notice 15"     => "Individuals have a right to obtain a copy of, and the right to rectify any inaccuracies in, the personal
-                                        data Vanward holds about them by making a request to us in writing. Such individuals also have certain rights
+                                        data Sunrise holds about them by making a request to us in writing. Such individuals also have certain rights
                                         under the GDPR to request erasure, restriction, and portability, and to not be subject to a decision based
                                         on automated processing (including profiling). An individual seeking to assert any such rights should
-                                        contact Vanward using the email address set out below. Vanward will respond to such a request in writing, or
+                                        contact Sunrise using the email address set out below. Sunrise will respond to such a request in writing, or
                                         orally, if requested, as soon as practicable, but in any event within the time frame prescribed by
                                         applicable law.",
-    "data protection notice 16"     => "Individuals also have the right to lodge a complaint with the relevant data protection supervisory authority if they are unhappy with how Vanward personal data is processing their personal data.",
+    "data protection notice 16"     => "Individuals also have the right to lodge a complaint with the relevant data protection supervisory authority if they are unhappy with how Sunrise personal data is processing their personal data.",
     "data protection notice 17"     => "Contact",
-    "data protection notice 18"     => "Please address requests to Vanward by email at",
-    "data protection notice 19"     => "This publication is provided by Vanward and its subsidiaries to recipients, who are classified as
+    "data protection notice 18"     => "Please address requests to Sunrise by email at",
+    "data protection notice 19"     => "This publication is provided by Sunrise and its subsidiaries to recipients, who are classified as
                                         Professional Clients or Eligible Counterparties if in the European Economic Area (&Prime;EEA&Prime;), solely for
                                         informational purposes. This does not constitute legal, tax or investment advice and is not intended as an
                                         offer to sell or a solicitation to buy securities or investment products. Any reference to tax matters is
@@ -877,24 +877,24 @@ return [
                                         Revenue Code or for promotion, marketing or recommendation to third parties. This information has been
                                         obtained from sources believed to be reliable that are available upon request. This material does not
                                         comprise an offer of services. Any opinions expressed are subject to change without notice. Unauthorized use
-                                        or distribution without the prior written permission of Vanward is prohibited. This publication is approved for
-                                        distribution in member states of the EEA by Vanward Investor Services Limited, authorized and regulated by
-                                        the Financial Conduct Authority (FCA). Vanward is a service mark of Vanward, registered in the United States
-                                        and other countries. © Vanward 2023. All rights reserved.",
+                                        or distribution without the prior written permission of Sunrise is prohibited. This publication is approved for
+                                        distribution in member states of the EEA by Sunrise Investor Services Limited, authorized and regulated by
+                                        the Financial Conduct Authority (FCA). Sunrise is a service mark of Sunrise, registered in the United States
+                                        and other countries. © Sunrise 2023. All rights reserved.",
     // online security
     "online security 1"     => "Last Updated: November 11, 2022",
-    "online security 2"     => 'Be aware of potential threats, steps you can take to protect yourself, staying informed and reporting Fraud or Suspicious Activity to Vanward ("Vanward").',
-    "online security 3"     => "At Vanward, the security of our client’s information is paramount. As part of our Information Security Program, we employ technology and processes to protect our clients’ information. However, there are steps you can take to help further protect your information.
+    "online security 2"     => 'Be aware of potential threats, steps you can take to protect yourself, staying informed and reporting Fraud or Suspicious Activity to Sunrise ("Sunrise").',
+    "online security 3"     => "At Sunrise, the security of our client’s information is paramount. As part of our Information Security Program, we employ technology and processes to protect our clients’ information. However, there are steps you can take to help further protect your information.
                                 <br><br>
                                 The purpose of this page is to provide you with suggestions regarding actions that you can take to ensure the protection of your information.",
     "online security 4"     => "Be aware of potential threats",
     "online security 5"     => "To protect your information, it is important to be vigilant to the potential threats that exist today. Cyber criminals looking to obtain confidential and/or personal information from an individual or company often employ deceptive techniques to “trick” people into readily handing over such information (i.e., phishing) or unwittingly opening themselves up for security attacks (i.e., spoofing). These techniques can include, but are not limited to, emails appearing to be from legitimate sources, internet “pop-ups”, and online advertisements hiding malicious viruses or malware, fake websites, etc.
                                 <br><br>
                                 In today’s world, it is critical to be cautious when accessing and sharing your personal and confidential information online and in your daily interactions. The following are some important considerations to be mindful of while performing your daily business and personal routines:",
-    "online security 6"     => "Vanward's website address is",
-    "online security 7"     => "All legitimate communications from Vanward will come from a vanward-intl.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
+    "online security 6"     => "Sunrise's website address is",
+    "online security 7"     => "All legitimate communications from Sunrise will come from a Sunrise-intl.com domain. All others should be considered suspect. If you have any questions about Sunrise's website or suspect you may have received a suspicious Sunrise link or Sunrise email you may call your Sunrise Relationship Manager or contact Sunrise at any of our main locations.
                                 <br><br>
-                                Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide your logon credentials, electronic banking or other personal information.
+                                Be cautious of any emails requesting personal or confidential information. Under no circumstances will Sunrise ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide your logon credentials, electronic banking or other personal information.
                                 <br><br>
                                 Do not share personal information with anyone whom you are not familiar with or trust.
                                 <br><br>
@@ -960,10 +960,10 @@ return [
     "online security 21"    => "The Department of Homeland Security (DHS) website has many topics and links about the responsibilities of
                                 the DHS including many useful tips and information sources. Click this link for more information:",
     "online security 22"    => "Cybersecurity",
-    "online security 23"    => "Reporting Fraud or suspicious activity to Vanward
+    "online security 23"    => "Reporting Fraud or suspicious activity to Sunrise
                                 <br><br>
-                                If you have a question regarding any Vanward correspondence, or suspect any suspicious or fraudulent activity,
-                                please contact us at any one of our locations or by calling your Vanward Relationship Manager directly.
+                                If you have a question regarding any Sunrise correspondence, or suspect any suspicious or fraudulent activity,
+                                please contact us at any one of our locations or by calling your Sunrise Relationship Manager directly.
                                 <br><br>
                                 Locations can be viewed here:",
     "online security 24"    => "Office Locations",
@@ -974,13 +974,13 @@ return [
     // cookie policy
     "cookie policy 1"    => "IMPORTANT NOTICE: PLEASE READ BEFORE USING THIS WEBSITE:",
     "cookie policy 2"    => "Last Updated: 29 May 2022",
-    "cookie policy 3"    => 'Vanward and all other related affiliates and subsidiaries (collectively “Vanward”, “we” or “us”)
+    "cookie policy 3"    => 'Sunrise and all other related affiliates and subsidiaries (collectively “Sunrise”, “we” or “us”)
                             use cookies, web beacons and similar technologies ("Cookies") to store information, enhance
                             your web browsing experience and improve the functionality of our websites. The information
                             set out in this Cookie Policy is provided in addition to and should be read alongside our
                             Privacy Policy, which can be found at',
     "cookie policy 4"    => "Websites covered by this Cookie Policy",
-    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on vanward-intl.com and other websites operated by
+    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on Sunrise-intl.com and other websites operated by
                                 us from which you are accessing this Cookie Policy (collectively referred to as the
                                 &Prime;Sites&Prime;).</p>
                             <p>The policy may be amended from time to time. When it is amended, we will let you know by
@@ -1089,7 +1089,7 @@ return [
                             have asked for such as watching a video or commenting on a blog. Subject to applicable legal
                             restrictions, we may use information collected from our Cookies to identify user behavior
                             and to serve content and information on products and services based on your profile. We may
-                            pass or share this information within Vanward for marketing or analysis purposes. However, we
+                            pass or share this information within Sunrise for marketing or analysis purposes. However, we
                             will not be able to associate this information with your name, unless you have previously
                             provided your contact information to us and are opening or clicking on a link in an email
                             which you have received from us.",
@@ -1212,7 +1212,7 @@ return [
                             <p>Scroll down and tap “Safari”</p>
                             <p>Under “Privacy and Security,” tap “Block Cookies” toggle to activate</p>",
     // personal information request
-    "personal information 1"    => "At Vanward, our purpose is clear and concise: to safeguard our clients' financial well-being and
+    "personal information 1"    => "At Sunrise, our purpose is clear and concise: to safeguard our clients' financial well-being and
                                     foster the growth of their assets over extended periods. Placing our clients at the forefront of our
                                     operations, we meticulously organize our firm, teams, and businesses accordingly. Upholding unwavering
                                     integrity, we refuse to compromise on our principles.",

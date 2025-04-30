@@ -5,7 +5,7 @@ return [
     "rewarding you" => "Premiándote",
 
     // common / short phrases
-    "email" => "info@vanwardintl.com",
+    "email" => "info@Sunriseintl.com",
     "past events" => "Eventos pasados",
     "signature events" => "Eventos destacados",
     "partnerships" => "Alianzas",
@@ -35,7 +35,7 @@ return [
     "our clients" => "Nuestros clientes",
     "our people" => "Nuestra gente",
     "our communities" => "Nuestras comunidades",
-    "vanward" => "Vanward",
+    "Sunrise" => "Sunrise",
     "fund servicing" => "Servicio de fondos",
     "funds servicing" => "Servicio de fondos",
     "global custody" => "Custodia global",
@@ -120,7 +120,7 @@ return [
     "corporate banking" => "Banca Corporativa",
     "center for family business" => "Centro para Empresas Familiares",
     "private equity" => "Capital Privado",
-    "about vanward" => "Acerca de Vanward",
+    "about Sunrise" => "Acerca de Sunrise",
     "investment profile" => "Perfil de Inversión",
     "investment strategy & transaction types" => "Estrategia de Inversión y Tipos de Transacciones",
     "select portfolio companies" => "Seleccionar Empresas del Portafolio",
@@ -158,7 +158,7 @@ return [
     "infofx" => "InfoFX",
     "currency hedging" => "Cobertura de Divisas",
     "securities lending" => "Préstamo de Valores",
-    "vanward securities lending execution policy" => "Política de Ejecución de Préstamo de Valores de Vanward",
+    "Sunrise securities lending execution policy" => "Política de Ejecución de Préstamo de Valores de Sunrise",
     "market intelligence" => "Inteligencia de Mercados",
     "investment operations & technology solutions" => "Operaciones de Inversión y Soluciones Tecnológicas",
     "technology services" => "Servicios Tecnológicos",
@@ -218,7 +218,7 @@ return [
     "signature programs" => "Programas Emblemáticos",
     "mobility" => "Movilidad",
     "life here" => "Vida Aquí",
-    "life at vanward" => "Vida en Vanward",
+    "life at Sunrise" => "Vida en Sunrise",
     "our culture" => "Nuestra Cultura",
     "core values" => "Valores Fundamentales",
     "affinity network community" => "Comunidad de Redes de Afinidad",
@@ -256,7 +256,7 @@ return [
 
     // LEVEL 1
     // private banking
-    "private banking 1"         => "En Vanward, nuestra misión exclusiva dentro de Banca Privada es ayudar a propietarios de empresas privadas e individuos adinerados con la administración 
+    "private banking 1"         => "En Sunrise, nuestra misión exclusiva dentro de Banca Privada es ayudar a propietarios de empresas privadas e individuos adinerados con la administración 
                                     generacional de su riqueza, asegurando su creación, transferencia, preservación y crecimiento. Proporcionamos asesoramiento financiero e inversión 
                                     imparcial a clientes corporativos e individuales, así como facilitamos el acceso a capital de deuda y capital social. Nuestra dedicación a un servicio 
                                     superior fomenta relaciones duraderas basadas en la confianza, lo que nos convierte en un socio financiero confiable para nuestros clientes.",
@@ -265,7 +265,7 @@ return [
     "private banking caption 3" => "Como inversores activos en capital privado de mediana envergadura, buscamos apoyar y asociarnos con equipos de gestión y propietarios operadores talentosos mediante la provisión de soluciones de capital junior personalizadas.",
 
     // investment management
-    "investment management 1"           => "La misión de Vanward es ser el mejor en la preservación y crecimiento a largo plazo del capital de nuestros clientes. Nos centramos en estrategias de inversión escalables en las que nuestra filosofía, metodología y experiencia pueden producir resultados distintivos. Vanward Investment Management ha estado gestionando inversiones en renta variable y renta fija, y lo que nos distingue es nuestra estrategia de inversión distintiva.
+    "investment management 1"           => "La misión de Sunrise es ser el mejor en la preservación y crecimiento a largo plazo del capital de nuestros clientes. Nos centramos en estrategias de inversión escalables en las que nuestra filosofía, metodología y experiencia pueden producir resultados distintivos. Sunrise Investment Management ha estado gestionando inversiones en renta variable y renta fija, y lo que nos distingue es nuestra estrategia de inversión distintiva.
                                             <br><br>
                                             Nuestra estrategia de inversión está gobernada por un conjunto de principios fundamentales que se aplican a la totalidad de nuestra cartera de inversiones. Juntos, constituyen una filosofía probada en el tiempo que nos ha permitido establecer relaciones duraderas con los clientes y nos diferencia de nuestros competidores.
                                             <br><br>",
@@ -277,7 +277,7 @@ return [
     "investment management 7"           => "disciplina y tolerancia",
     "investment management 8"           => "Aprende cómo nuestra estrategia de inversión bottom-up incorpora",
     "investment management 9"           => "consideraciones ambientales, sociales y de gobierno (ESG).",
-    "investment management caption 1"   => "Con énfasis en la preservación del capital, las estrategias de renta variable pública de Vanward buscan generar atractivos retornos de inversión a largo plazo en ciclos completos de mercado.",
+    "investment management caption 1"   => "Con énfasis en la preservación del capital, las estrategias de renta variable pública de Sunrise buscan generar atractivos retornos de inversión a largo plazo en ciclos completos de mercado.",
     "investment management caption 2"   => "Ofrecemos estrategias imponibles, exentas de impuestos e indexadas a la inflación que emplean nuestra distintiva filosofía de inversión y metodología de valoración para generar retornos a largo plazo que superan a los de nuestros competidores.",
     "investment management caption 3" => "Nuestros principios de inversión:",
     "investment management caption 4" => "Concentrarse en la preservación de activos",
@@ -288,7 +288,7 @@ return [
     "investment management caption 9" => "Descubre cómo nuestra estrategia de inversión bottom-up incorpora ",
     
     // investor services
-    "investor services 1"           => "Vanward Investor Services se dedica a ofrecer servicios de administración de activos y soluciones tecnológicas de vanguardia a los principales 
+    "investor services 1"           => "Sunrise Investor Services se dedica a ofrecer servicios de administración de activos y soluciones tecnológicas de vanguardia a los principales 
                                         captadores de activos globales. Nos enfocamos específicamente en un grupo selecto de clientes que buscan un socio comprometido y proactivo para 
                                         obtener una ventaja competitiva. Cada cliente recibe un servicio altamente personalizado y adaptado complementado con tecnología de última 
                                         generación.
@@ -299,7 +299,7 @@ return [
                                         <br><br>
                                         Los clientes acuden a nosotros para desbloquear valor, explorar enfoques innovadores para la gestión de riesgos y complejidades, e impulsar sus 
                                         negocios hacia adelante. Esperan y reciben un servicio excepcional, ya que somos consistentemente descritos como su recurso principal cuando se 
-                                        enfrentan a situaciones novedosas y desafiantes. Nuestros clientes califican consistentemente a Vanward como su principal proveedor de servicios 
+                                        enfrentan a situaciones novedosas y desafiantes. Nuestros clientes califican consistentemente a Sunrise como su principal proveedor de servicios 
                                         globales.",
     "investor services caption 1"   => "Asegurando el preciso procesamiento de operaciones, custodia, reportes y administración de los fondos y activos más complejos de nuestros 
 clientes.",
@@ -307,12 +307,12 @@ clientes.",
     "investor services caption 3"   => "Ofreciendo soluciones de comercio de divisas, administración de divisas y préstamo de valores centradas en la calidad de ejecución y los más altos niveles de eficiencia operativa, transparencia y control del cliente.",
     "investor services caption 4"   => "Poniendo a disposición de los clientes componentes clave de nuestra plataforma tecnológica en formato SaaS, IaaS y totalmente externalizado.",
     // Carreras
-    "careers 1"         => "En Vanward, valoramos enormemente las perspectivas y experiencia de cada empleado. Nuestra estructura organizativa está diseñada para ser plana, fomentando una 
+    "careers 1"         => "En Sunrise, valoramos enormemente las perspectivas y experiencia de cada empleado. Nuestra estructura organizativa está diseñada para ser plana, fomentando una 
                             cultura colaborativa donde las contribuciones de todos los miembros del equipo son fundamentales para nuestro éxito. Estamos comprometidos a crear un ambiente 
                             donde cada idea es bienvenida y compartida, reconociendo que cada idea tiene el potencial de tener un impacto significativo en nuestras operaciones y logros.",
     "careers caption 1" => "Buscamos activamente a personas que aporten perspectivas y experiencias diversas a nuestra organización, ya que son cruciales para nuestro éxito. Nuestros 
                             empleados poseen una mentalidad emprendedora y demuestran pensamiento de propiedad en todos los niveles de la organización.",
-    "careers caption 2" => "En Vanward, fomentamos el aprendizaje y el crecimiento continuo al proporcionar oportunidades para adquirir nuevas habilidades, colaborar en diferentes 
+    "careers caption 2" => "En Sunrise, fomentamos el aprendizaje y el crecimiento continuo al proporcionar oportunidades para adquirir nuevas habilidades, colaborar en diferentes 
                             disciplinas y explorar diferentes roles. Nuestra cultura está orientada hacia los resultados, lo que significa que nos enfocamos en los resultados y valoramos 
                             el impacto que generas. Creemos en empoderar a nuestros empleados para que vivan su mejor vida, tanto personal como profesionalmente.",
     "careers caption 3" => "Creemos en crear un ambiente donde puedas tener un impacto positivo, tanto dentro de nuestra empresa como en tu comunidad.",
@@ -320,7 +320,7 @@ clientes.",
     "careers 6" => "Si eres un candidato a un empleo y tienes una pregunta sobre cómo enviar una solicitud, por favor envía un correo electrónico a:",
     
     // Nuestra empresa
-    "our firm 1" => "Vanward Asset Management Limited es una firma de servicios financieros independiente, con operaciones propias. Nos enfocamos en atender a individuos e instituciones 
+    "our firm 1" => "Sunrise Asset Management Limited es una firma de servicios financieros independiente, con operaciones propias. Nos enfocamos en atender a individuos e instituciones 
                     altamente exigentes, ofreciendo experiencia especializada en Banca Privada, Gestión de Inversiones y Servicios para Inversionistas.
                     <br><br>
                     Al no estar influenciados por accionistas externos, nuestros intereses están completamente alineados con los de nuestros clientes. Nuestro éxito proviene del éxito de 
@@ -333,7 +333,7 @@ clientes.",
 
     // LEVEL 2 - Banca Privada
     // Administración de Patrimonio Privado
-    "private wealth management 1" => "Nuestra misión en Vanward es sencilla: preservar y hacer crecer su patrimonio*. Nuestro enfoque nos distingue en este sentido. Combinamos una cultura de inversión profundamente arraigada con una planificación patrimonial perspicaz y un servicio ejemplar para brindarle la experiencia más deliberada e integral en administración de patrimonio privado a largo plazo. Nuestras relaciones con los clientes se basan en la estabilidad, longevidad y alineación de intereses que ofrece nuestra estructura de sociedad en participación.",
+    "private wealth management 1" => "Nuestra misión en Sunrise es sencilla: preservar y hacer crecer su patrimonio*. Nuestro enfoque nos distingue en este sentido. Combinamos una cultura de inversión profundamente arraigada con una planificación patrimonial perspicaz y un servicio ejemplar para brindarle la experiencia más deliberada e integral en administración de patrimonio privado a largo plazo. Nuestras relaciones con los clientes se basan en la estabilidad, longevidad y alineación de intereses que ofrece nuestra estructura de sociedad en participación.",
     "private wealth management 2" => "Adoptamos un enfoque de inversión orientado al valor y a largo plazo con el objetivo de preservar y hacer crecer su patrimonio.",
     "private wealth management 3" => "Nuestros expertos planificadores patrimoniales colaboran con usted y sus asesores en asuntos de fideicomisos, patrimonio, impuestos y planificación financiera para ayudarlo a alcanzar sus objetivos personales y financieros.",
     "private wealth management 4" => "Ayudamos a nuestros clientes a abordar todos los aspectos de sus planes y objetivos filantrópicos para tener un impacto positivo duradero.",
@@ -343,14 +343,14 @@ clientes.",
 
     // Asesoría Corporativa y Banca
     "corporate advisory & banking 1" => "Como sociedad en participación de propiedad privada de larga trayectoria que ha prosperado desde 1818, tenemos un conocimiento completo de los desafíos que enfrentan los propietarios y gerentes de empresas privadas. Esta perspectiva única, junto con nuestro compromiso inquebrantable de poner los mejores intereses de nuestros clientes en primer lugar, fomenta relaciones duraderas basadas en la confianza mutua. No nos motiva la obtención de ganancias transaccionales a corto plazo; más bien, nuestro único objetivo es brindar a nuestros clientes asesoría objetiva e inteligente a lo largo de sus trayectorias financieras.",
-    "corporate advisory & banking 2" => "El equipo de Asesoría Corporativa y Banca está compuesto por expertos sénior en finanzas corporativas con una amplia experiencia colaborando con propietarios y gerentes de empresas en transacciones de fusiones y adquisiciones y financiamiento. Entregamos toda la gama de servicios de Vanward a nuestros clientes al colaborar de manera efectiva con expertos en la materia de nuestra división de Banca Privada y la empresa en su conjunto.",
+    "corporate advisory & banking 2" => "El equipo de Asesoría Corporativa y Banca está compuesto por expertos sénior en finanzas corporativas con una amplia experiencia colaborando con propietarios y gerentes de empresas en transacciones de fusiones y adquisiciones y financiamiento. Entregamos toda la gama de servicios de Sunrise a nuestros clientes al colaborar de manera efectiva con expertos en la materia de nuestra división de Banca Privada y la empresa en su conjunto.",
     "corporate advisory & banking 3" => "Brindamos a nuestros clientes orientación objetiva y accionable para ayudarlos a alcanzar sus objetivos empresariales y personales.",
     "corporate advisory & banking 4" => "Capital con valor agregado para empresas privadas de gran envergadura en los Estados Unidos con perfiles crediticios sobresalientes.",
     "corporate advisory & banking 5" => "Provisión de servicios de consultoría y capital para propietarios de empresas familiares para ayudarles a abordar sus desafíos únicos.",
 
     // private_equity
-    "private equity 1" => "Desde 1996, Vanward private equity ha invertido más de $2.5 mil millones en capital de crecimiento en empresas de propiedad privada en diversas industrias. Vanward colabora con equipos directivos de alto calibre que guían a las empresas en fases cruciales de crecimiento y desarrollo estratégico. Destacamos nuestra asociación con equipos directivos y propietarios que desean aprovechar las relaciones, experiencia y recursos de una institución con más de 200 años de antigüedad.",
-    "private equity 2" => "Vanward tiene experiencia invirtiendo en empresas con valores empresariales que oscilan entre $50 millones y $400 millones en el mercado medio inferior. Vanward puede actuar como inversor controlador o no controlador y estructurar inversiones como una combinación de acciones y valores de deuda subordinada.",
+    "private equity 1" => "Desde 1996, Sunrise private equity ha invertido más de $2.5 mil millones en capital de crecimiento en empresas de propiedad privada en diversas industrias. Sunrise colabora con equipos directivos de alto calibre que guían a las empresas en fases cruciales de crecimiento y desarrollo estratégico. Destacamos nuestra asociación con equipos directivos y propietarios que desean aprovechar las relaciones, experiencia y recursos de una institución con más de 200 años de antigüedad.",
+    "private equity 2" => "Sunrise tiene experiencia invirtiendo en empresas con valores empresariales que oscilan entre $50 millones y $400 millones en el mercado medio inferior. Sunrise puede actuar como inversor controlador o no controlador y estructurar inversiones como una combinación de acciones y valores de deuda subordinada.",
     "private equity 3" => "Un proveedor de capital de desarrollo que ofrece soluciones de capital altamente personalizadas a empresas en el mercado medio inferior.",
     "private equity 4" => "Invertimos en empresas del mercado medio inferior con sólidas características comerciales utilizando una variedad de estructuras de transacción.",
     "private equity 5" => "Mandato de inversión flexible que permite transacciones de control y no control y una combinación de deuda y capital.",
@@ -361,7 +361,7 @@ clientes.",
     "investment advisory 1"  => "La asignación de activos es un componente crucial de su estrategia de inversión. Le ayudamos a asignar sus activos de acuerdo con sus necesidades de gasto, su deseo de dejar riqueza a las futuras generaciones y sus objetivos filantrópicos. Cuanto mejor comprendamos los usos previstos de su riqueza, más precisamente podemos alinear las características de riesgo y rendimiento esperado de su cartera con sus objetivos.",
     "investment advisory 2"  => "Implementamos su asignación de activos utilizando una combinación de estrategias de inversión internas y de terceros centradas en un único objetivo: preservar y expandir su riqueza. Todos los gestores de inversiones compiten por estar incluidos en nuestra plataforma, y para ser considerados, deben compartir nuestras creencias de que comprar valores con un descuento en relación a su valoración y entender lo que posee y por qué son los métodos más efectivos para preservar y hacer crecer la riqueza a lo largo del tiempo.",
     "investment advisory 3"  => "Metodología de Asignación de Activos",
-    "investment advisory 4"  => "Los equipos de inversión de Vanward proporcionan recomendaciones de asignación de activos para una variedad de tipos de clientes, y nuestros equipos de relación utilizan estas recomendaciones como punto de partida para combinar nuestro mejor criterio con consejos de inversión y planificación patrimonial adaptados a las necesidades de su familia.",
+    "investment advisory 4"  => "Los equipos de inversión de Sunrise proporcionan recomendaciones de asignación de activos para una variedad de tipos de clientes, y nuestros equipos de relación utilizan estas recomendaciones como punto de partida para combinar nuestro mejor criterio con consejos de inversión y planificación patrimonial adaptados a las necesidades de su familia.",
     "investment advisory 5"  => "Nuestros Principios Fundamentales de Inversión",
     "investment advisory 6"  => "Administración Activa",
     "investment advisory 7"  => "Creemos que todos los mercados son inherentemente ineficientes y que los inversores pueden generar retornos excesivos con menos riesgo de pérdida de capital permanente a través de una cuidadosa selección de valores.",
@@ -413,7 +413,7 @@ clientes.",
     // Servicios Fiduciarios
     "trust services 1"  => "Como fiduciarios y ejecutores experimentados, trabajamos con clientes y sus asesores para administrar todo tipo de fideicomisos, desde fideicomisos vivos simples hasta complejos vehículos de planificación patrimonial con fines fiscales. También ofrecemos servicios especializados para fondos de jubilación y fundaciones benéficas.
                             <br><br>
-                            Nuestras oficinas fiduciarias están ubicadas en diferentes regiones de Estados Unidos y operan bajo una carta nacional, lo que permite la prestación local de servicios fiduciarios. La compañía fiduciaria de Vanward con sede en Delaware ofrece a nuestros clientes acceso a una jurisdicción amigable con los beneficiarios y eficiente desde el punto de vista fiscal para la administración de fideicomisos. La empresa también mantiene una compañía fiduciaria con sede en las Islas Caimán, principalmente para satisfacer las necesidades de nuestros clientes no estadounidenses.
+                            Nuestras oficinas fiduciarias están ubicadas en diferentes regiones de Estados Unidos y operan bajo una carta nacional, lo que permite la prestación local de servicios fiduciarios. La compañía fiduciaria de Sunrise con sede en Delaware ofrece a nuestros clientes acceso a una jurisdicción amigable con los beneficiarios y eficiente desde el punto de vista fiscal para la administración de fideicomisos. La empresa también mantiene una compañía fiduciaria con sede en las Islas Caimán, principalmente para satisfacer las necesidades de nuestros clientes no estadounidenses.
                             <br><br>",
     "trust services 2"  => "Brindando Continuidad para su Familia",
     "trust services 3"  => "Al actuar como fiduciarios y/o ejecutores, proporcionamos a nuestros clientes la continuidad necesaria para ayudar a alcanzar sus metas personales y financieras a lo largo de las generaciones. Nuestros servicios integrales incluyen:",
@@ -425,7 +425,7 @@ clientes.",
     "trust services 9"  => "mantenimiento de registros y contabilidad fiduciaria",
     "trust services 10" => "planificación fiscal para fideicomisos, patrimonios, donantes y beneficiarios",
     "trust services 11" => "administración de IRAs",
-    "trust services 12" => "Vanward y sus afiliadas no brindan asesoramiento legal y no ofrecen asesoramiento fiscal a menos que se contraten los Servicios Fiscales para Clientes Privados de Banca Privada para la preparación de declaraciones de impuestos. Los clientes deben consultar con su asesor legal o fiscal antes de tomar cualquier acción relacionada con el tema de esta comunicación.",
+    "trust services 12" => "Sunrise y sus afiliadas no brindan asesoramiento legal y no ofrecen asesoramiento fiscal a menos que se contraten los Servicios Fiscales para Clientes Privados de Banca Privada para la preparación de declaraciones de impuestos. Los clientes deben consultar con su asesor legal o fiscal antes de tomar cualquier acción relacionada con el tema de esta comunicación.",
 
     // Préstamos a Clientes Privados
     "private client lending 1" => "Ofrecemos a nuestros clientes préstamos personales y líneas de crédito flexibles y garantizados. Normalmente, los fondos se utilizan para comprar bienes raíces, invertir en un negocio, adquirir un activo valioso o hacer regalos a familiares. Nuestros equipos de relación trabajan en colaboración con usted y su familia para implementar estrategias financieras que lo ayudarán a alcanzar sus objetivos.",
@@ -448,17 +448,17 @@ clientes.",
     "center for women and wealth caption 2" => "New America: Better Life Lab",
     "center for women and wealth caption 3" => "El CM&P se complace en asociarse con The Better Life Lab, una iniciativa del grupo de pensamiento y empresa social New America. The Better Life Lab es un protagonista en el diálogo nacional sobre la evolución de los roles y normas de género, las políticas familiares y la forma en que trabajamos y vivimos. Utilizan investigaciones, datos y reportajes para informar su trabajo y transmitir las historias que motivan, iluminan e inspiran el cambio.",
 
-    // Acerca de Vanward
-    "about vanward 1" => "Vanward es una estrategia de capital privado que proporciona soluciones de capital junior altamente personalizadas y completas a empresas de la mediana empresa. En la actualidad, contamos con aproximadamente $1.1 mil millones de capital comprometido disponible para inversión.",
-    "about vanward 2" => "Vanward invierte entre $10 millones y $125 millones en empresas con valores empresariales entre $10 millones y $500 millones, y puede invertir considerablemente más mediante asociaciones con coinversores estratégicos o coinversiones de socios limitados. Nuestras inversiones se concentran en las industrias de atención médica, tecnología, medios y telecomunicaciones, y productos y servicios empresariales. Nuestro capital facilita una variedad de transacciones, incluyendo adquisiciones, capital para el crecimiento, recapitalizaciones y fusiones y adquisiciones.",
-    "about vanward 3" => "Ventajas de Vanward como Asociado",
-    "about vanward 4" => "El Beneficio de Vanward",
-    "about vanward 5" => "Vanward utiliza su extensa red global para brindar a sus empresas del portafolio una variedad de ventajas, como acceso a nuevas relaciones con clientes/proveedores, presentaciones de posibles objetivos de adquisición y asistencia con la implementación de sistemas de información mejorados.",
-    "about vanward 6" => "Mandato Flexible",
-    "about vanward 7" => "Nuestro mandato de inversión flexible nos permite operar como inversor controlador o no controlador y estructurar nuestras inversiones como una combinación de valores de capital y deuda subordinada. Esta flexibilidad es única y nos permite estructurar las inversiones de acuerdo con los requisitos de cada oportunidad.",
+    // Acerca de Sunrise
+    "about Sunrise 1" => "Sunrise es una estrategia de capital privado que proporciona soluciones de capital junior altamente personalizadas y completas a empresas de la mediana empresa. En la actualidad, contamos con aproximadamente $1.1 mil millones de capital comprometido disponible para inversión.",
+    "about Sunrise 2" => "Sunrise invierte entre $10 millones y $125 millones en empresas con valores empresariales entre $10 millones y $500 millones, y puede invertir considerablemente más mediante asociaciones con coinversores estratégicos o coinversiones de socios limitados. Nuestras inversiones se concentran en las industrias de atención médica, tecnología, medios y telecomunicaciones, y productos y servicios empresariales. Nuestro capital facilita una variedad de transacciones, incluyendo adquisiciones, capital para el crecimiento, recapitalizaciones y fusiones y adquisiciones.",
+    "about Sunrise 3" => "Ventajas de Sunrise como Asociado",
+    "about Sunrise 4" => "El Beneficio de Sunrise",
+    "about Sunrise 5" => "Sunrise utiliza su extensa red global para brindar a sus empresas del portafolio una variedad de ventajas, como acceso a nuevas relaciones con clientes/proveedores, presentaciones de posibles objetivos de adquisición y asistencia con la implementación de sistemas de información mejorados.",
+    "about Sunrise 6" => "Mandato Flexible",
+    "about Sunrise 7" => "Nuestro mandato de inversión flexible nos permite operar como inversor controlador o no controlador y estructurar nuestras inversiones como una combinación de valores de capital y deuda subordinada. Esta flexibilidad es única y nos permite estructurar las inversiones de acuerdo con los requisitos de cada oportunidad.",
 
     // Perfil de Inversión
-    "investment profile 1" => "Vanward tiene como objetivo invertir en empresas que cumplan con los siguientes criterios:",
+    "investment profile 1" => "Sunrise tiene como objetivo invertir en empresas que cumplan con los siguientes criterios:",
     "investment profile 2" => "Características Organizacionales:",
     "investment profile 3" => "bienes o servicios indispensables",
     "investment profile 4" => "ingresos recurrentes o flujo de efectivo sólido",
@@ -490,11 +490,11 @@ clientes.",
     // Estrategia de Inversión y Tipos de Transacciones
     "investment strategy and transaction types 1"   =>  "La adaptabilidad de nuestro mandato de inversión es un diferenciador clave para los equipos directivos y coinversores. Podemos invertir en diferentes valores, como acciones, deuda subordinada o una combinación de ambos. A diferencia de otros fondos, no hay una fórmula predeterminada para la división de capital en acciones y deuda, lo que nos permite adaptar la estructura de capital de cada inversión.
                                                         <br><br>
-                                                        Vanward invierte en las siguientes categorías de transacciones:
+                                                        Sunrise invierte en las siguientes categorías de transacciones:
                                                         <br><br>",
     "investment strategy and transaction types 2" => "Transacciones de Control:",
     "investment strategy and transaction types 3" => "Adquirimos la mayoría de las acciones de la empresa y actuamos como su patrocinador financiero:",
-    "investment strategy and transaction types 4" => "La estructura típica contiene una inversión de acciones y deuda subordinada por parte de Vanward como solución integral de capital junior.",
+    "investment strategy and transaction types 4" => "La estructura típica contiene una inversión de acciones y deuda subordinada por parte de Sunrise como solución integral de capital junior.",
     "investment strategy and transaction types 5" => "Esta es una opción atractiva para los propietarios-operadores que valoran la certeza de cierre que proporciona un proveedor de capital junior.",
     "investment strategy and transaction types 6" => "En transacciones minoritarias/no de control y en asociación con ejecutivos o inversores operativos, nuestro capital respalda adquisiciones por parte de la dirección, crecimiento, recapitalizaciones, empresas respaldadas por capital de riesgo cuya base de inversores puede tener diversos objetivos de liquidez, e inversores que buscan capital para obtener liquidez parcial y/o crecimiento.",
     "investment strategy and transaction types 7" => "Transacciones No de Control/Minoritarias:",
@@ -573,7 +573,7 @@ clientes.",
     "corporate advisory 7" => "Brindar orientación y asesoramiento independiente y reflexivo durante el proceso de una transacción de financiamiento o M&A",
     "corporate advisory 8" => "Ofrecer acceso y apoyo desde la red de WAML.",
     // corporate banking
-    "corporate banking 1" => "Vanward se compromete a comprender las empresas e industrias de nuestros clientes para poder brindar asesoramiento sólido y objetivo para ayudarles a expandirse. Somos proveedores de capital con valor agregado para importantes empresas privadas en Estados Unidos con perfiles de crédito sobresalientes. Vanward posee una amplia experiencia y conocimientos en diversas industrias, como commodities y logística, cuidado de la salud, manufactura y servicios empresariales. Nuestras principales ofertas de crédito incluyen:",
+    "corporate banking 1" => "Sunrise se compromete a comprender las empresas e industrias de nuestros clientes para poder brindar asesoramiento sólido y objetivo para ayudarles a expandirse. Somos proveedores de capital con valor agregado para importantes empresas privadas en Estados Unidos con perfiles de crédito sobresalientes. Sunrise posee una amplia experiencia y conocimientos en diversas industrias, como commodities y logística, cuidado de la salud, manufactura y servicios empresariales. Nuestras principales ofertas de crédito incluyen:",
     "corporate banking 2" => "Financiamiento comercial",
     "corporate banking 3" => "Financiamiento exento de impuestos/bonos industriales",
     "corporate banking 4" => "Servicios comerciales como cartas de crédito comerciales y contingentes.",
@@ -591,13 +591,13 @@ clientes.",
     "balancing 7" => "Preparando a la Próxima Generación de Líderes en Empresas Familiares para el Éxito: Conversación con Michael Preston, Co-Director del Programa de Empresas Familiares de la Escuela de Negocios de Columbia",
     "balancing 8" => "Michael Preston, profesor adjunto en la Escuela de Negocios de Columbia y co-director de su Programa de Empresas Familiares, comparte perspectivas y consejos obtenidos de enseñar a la próxima generación de propietarios de empresas familiares durante más de una década.",
     "balancing 9" => "Por qué la Toma de Decisiones es tan Complicada en una Empresa Familiar",
-    "balancing 10" => "Ellen Perry, Asesora Senior de Vanward, analiza las complejidades de la toma de decisiones en una empresa familiar, cómo las familias pueden superar obstáculos en la toma de decisiones y las herramientas que pueden utilizar para mejorarla.",
+    "balancing 10" => "Ellen Perry, Asesora Senior de Sunrise, analiza las complejidades de la toma de decisiones en una empresa familiar, cómo las familias pueden superar obstáculos en la toma de decisiones y las herramientas que pueden utilizar para mejorarla.",
     "balancing 11" => "Equilibrando las Necesidades de Reinversión Empresarial y de Liquidez para los Accionistas en una Empresa Familiar Multigeneracional",
     "balancing 12" => "John Secor, Ajit George y Kyle Gordon discuten un desafío importante que enfrentan las empresas familiares: la dificultad de gestionar los requisitos de capital y liquidez. Ofrecen orientación sobre cómo las empresas familiares pueden lograr este objetivo esencial centrándose en el capital paciente, un factor crucial para alcanzar el equilibrio adecuado.",
     // building
     "building 1" => "Una red de asesores externos ofrece importantes beneficios para las empresas familiares. En nuestra experiencia, invertir tiempo en identificar y cultivar relaciones con otras familias, colegas y asesores profesionales tiene un gran valor y beneficio para la familia y el negocio.
                     <br><br>
-                    Vanward trabaja con propietarios de empresas familiares para ayudarles a consolidar sus equipos de asesoramiento considerando preocupaciones cruciales, como las 
+                    Sunrise trabaja con propietarios de empresas familiares para ayudarles a consolidar sus equipos de asesoramiento considerando preocupaciones cruciales, como las 
                     siguientes:
                     <br><br>",
     "building 2" => "¿Con quién dentro de la familia o la red profesional de la familia pueden los propietarios confiar para discutir sobre su negocio, su familia, su patrimonio familiar y la intersección de estos temas?",
@@ -607,7 +607,7 @@ clientes.",
     "building 6" => "¿Se han discutido conflictos de intereses? ¿Cómo se reducirán?",
     "building 7" => "¿Qué proveedores de servicios han contratado los propietarios de negocios para ayudar en la navegación tanto de sus empresas como de sus familias?",
     // capital
-   "capital 1" => "Las políticas de capital son una parte integral de cualquier organización. Estas políticas abordan temas cruciales para las empresas familiares, como la asignación de capital, la permisibilidad de aumentar el capital y la dilución resultante de la propiedad, el apalancamiento, la venta y redención de acciones, y las distribuciones a los accionistas. Como proveedor de capital y asesor de empresas familiares durante más de dos siglos, y al ser una empresa privada en sí misma, Vanward tiene una amplia experiencia trabajando con empresas familiares para formular estas políticas.
+   "capital 1" => "Las políticas de capital son una parte integral de cualquier organización. Estas políticas abordan temas cruciales para las empresas familiares, como la asignación de capital, la permisibilidad de aumentar el capital y la dilución resultante de la propiedad, el apalancamiento, la venta y redención de acciones, y las distribuciones a los accionistas. Como proveedor de capital y asesor de empresas familiares durante más de dos siglos, y al ser una empresa privada en sí misma, Sunrise tiene una amplia experiencia trabajando con empresas familiares para formular estas políticas.
                     <br><br>
                     Trabajamos con empresas familiares para proporcionar respuestas a preocupaciones cruciales sobre las políticas de capital, tales como:
                     <br><br>",
@@ -626,7 +626,7 @@ clientes.",
     "defining 6" => "¿Qué valores y principios deben guiar la toma de decisiones de la familia y la empresa familiar?",
     "defining 7" => "¿Cómo llegó la familia a estos valores y principios guías, y los han documentado?",
     // distributions
-    "distributions 1" => "Muchas empresas familiares tienen miembros de la familia que son accionistas sin ser empleados. Por lo tanto, es esencial establecer y comunicar políticas para generar liquidez para los accionistas. Los accionistas familiares desean saber si recibirán distribuciones y si pueden redimir o transferir sus acciones. También desean tener voz en las expectativas inherentes de rendimiento de la propiedad de acciones. Las empresas exitosas elogian frecuentemente las virtudes de la propiedad a largo plazo para los miembros de la familia y los efectos de mejora de valor del capital paciente en el negocio y la familia con el tiempo. Como empresa privada que ha perdurado durante siglos, Vanward comprende el delicado equilibrio entre la reinversión de capital y los retornos para los propietarios.
+    "distributions 1" => "Muchas empresas familiares tienen miembros de la familia que son accionistas sin ser empleados. Por lo tanto, es esencial establecer y comunicar políticas para generar liquidez para los accionistas. Los accionistas familiares desean saber si recibirán distribuciones y si pueden redimir o transferir sus acciones. También desean tener voz en las expectativas inherentes de rendimiento de la propiedad de acciones. Las empresas exitosas elogian frecuentemente las virtudes de la propiedad a largo plazo para los miembros de la familia y los efectos de mejora de valor del capital paciente en el negocio y la familia con el tiempo. Como empresa privada que ha perdurado durante siglos, Sunrise comprende el delicado equilibrio entre la reinversión de capital y los retornos para los propietarios.
                             <br><br>
                             Al trabajar con clientes de empresas familiares en temas de distribución y liquidez, les ayudamos a responder las siguientes preguntas:
                             <br><br>",
@@ -657,7 +657,7 @@ clientes.",
                         <br><br>
                         Además, las empresas familiares enfrentan el desafío de la transición de la propiedad. En muchos casos, la próxima generación de propietarios puede no trabajar para la empresa, a pesar de ser accionistas. En ausencia de una declaración clara de objetivos a largo plazo y un conjunto cuidadosamente considerado de políticas de propiedad y transferencia de acciones, esto puede llevar a complicaciones.
                         <br><br>
-                        Vanward ha trabajado con empresas familiares durante generaciones en la planificación de sucesiones de gestión y propiedad, y como empresa privada propiedad de socios multigeneracionales, consideramos este tema de manera rutinaria. Al ayudar a nuestros clientes a desarrollar soluciones para sus problemas de sucesión, consideramos las siguientes preguntas con ellos:
+                        Sunrise ha trabajado con empresas familiares durante generaciones en la planificación de sucesiones de gestión y propiedad, y como empresa privada propiedad de socios multigeneracionales, consideramos este tema de manera rutinaria. Al ayudar a nuestros clientes a desarrollar soluciones para sus problemas de sucesión, consideramos las siguientes preguntas con ellos:
                         <br><br>",
     "succession 2" => "¿Cómo influye el modelo actual de gestión y propiedad en el desempeño de la próxima generación de gerentes y propietarios familiares al momento de la transición? ¿Y en los ejecutivos no familiares?",
     "succession 3" => "¿Qué alternativas se están considerando para la planificación de la sucesión, si las hay?",
@@ -668,7 +668,7 @@ clientes.",
 
     // LEVEL 2 - Investment Management
     // esg approach
-    "esg approach 1"    => "La misión de Vanward es ser el mejor en la preservación y crecimiento de capital a largo plazo para nuestros clientes. Vanward ha llevado a cabo su propia 
+    "esg approach 1"    => "La misión de Sunrise es ser el mejor en la preservación y crecimiento de capital a largo plazo para nuestros clientes. Sunrise ha llevado a cabo su propia 
                             investigación de inversiones con un enfoque en la preservación a largo plazo del capital y la gestión prudente del riesgo en relación con el rendimiento. En el 
                             núcleo de nuestro proceso de inversión siempre ha estado la comprensión de que evitar pérdidas es la clave para generar rendimientos de inversión superiores a 
                             largo plazo.
@@ -696,10 +696,10 @@ clientes.",
     "esg approach 14"   => "Cada uno de nuestros equipos de inversión utiliza un enfoque específico de la estrategia que es consistente con nuestra filosofía y procedimiento de inversión.",
     "esg approach 15"   => "Nos comprometemos con una investigación exhaustiva de los factores que podrían resultar en deterioro del capital. Como con cualquier otro riesgo potencial, si los riesgos relacionados con ESG no se abordan y mitigados adecuadamente, puede influir en nuestra decisión con respecto a ese valor.",
     "esg approach 16"   => "A través de nuestra investigación bottom-up de empresas e industrias, el compromiso sólido con la gestión y emisores y los esfuerzos continuos para monitorear el entorno regulatorio y gubernamental, mejoramos constantemente nuestra comprensión de cómo se gestionan los factores ESG.",
-    "esg approach 17"   => "Vanward ofrece servicios de gestión de inversiones a inversores institucionales e individuales de todo el mundo. Los criterios ESG se incorporan plenamente en nuestro procedimiento de inversión. Tenemos la capacidad de adaptar soluciones de inversión a los objetivos o preferencias de filtrado ESG de cada cliente individual.",
-    "esg approach 18"   => "Vanward puede ser utilizado como un término genérico para referirse a toda la empresa y/o sus diversas subsidiarias. Esta información y cualquier producto o servicio pueden ser emitidos o proporcionados en múltiples jurisdicciones por subsidiarias debidamente autorizadas y reguladas. Este contenido es solo para fines informativos y de referencia; no constituye asesoramiento legal, fiscal o de inversión, ni es una oferta de venta o una solicitud de compra de valores, servicios o productos de inversión. Cualquier referencia a asuntos fiscales no pretende ser utilizada, ni puede ser utilizada, para eludir sanciones bajo el Código de Rentas Internas de EE. UU. u otros regímenes fiscales aplicables, o para promover, comercializar o recomendar servicios a terceros. Toda la información ha sido obtenida de lo que se cree que son fuentes confiables; sin embargo, no se puede garantizar su exactitud y no debe ser considerada como una garantía. Sin el permiso de Vanward, este contenido no puede ser reproducido, duplicado o transmitido, ni puede ser divulgado a terceros. Todas las marcas y marcas de servicio incluidas pertenecen a Vanward o a sus respectivos propietarios. © Vanward 2023. Todos los derechos reservados.",
+    "esg approach 17"   => "Sunrise ofrece servicios de gestión de inversiones a inversores institucionales e individuales de todo el mundo. Los criterios ESG se incorporan plenamente en nuestro procedimiento de inversión. Tenemos la capacidad de adaptar soluciones de inversión a los objetivos o preferencias de filtrado ESG de cada cliente individual.",
+    "esg approach 18"   => "Sunrise puede ser utilizado como un término genérico para referirse a toda la empresa y/o sus diversas subsidiarias. Esta información y cualquier producto o servicio pueden ser emitidos o proporcionados en múltiples jurisdicciones por subsidiarias debidamente autorizadas y reguladas. Este contenido es solo para fines informativos y de referencia; no constituye asesoramiento legal, fiscal o de inversión, ni es una oferta de venta o una solicitud de compra de valores, servicios o productos de inversión. Cualquier referencia a asuntos fiscales no pretende ser utilizada, ni puede ser utilizada, para eludir sanciones bajo el Código de Rentas Internas de EE. UU. u otros regímenes fiscales aplicables, o para promover, comercializar o recomendar servicios a terceros. Toda la información ha sido obtenida de lo que se cree que son fuentes confiables; sin embargo, no se puede garantizar su exactitud y no debe ser considerada como una garantía. Sin el permiso de Sunrise, este contenido no puede ser reproducido, duplicado o transmitido, ni puede ser divulgado a terceros. Todas las marcas y marcas de servicio incluidas pertenecen a Sunrise o a sus respectivos propietarios. © Sunrise 2023. Todos los derechos reservados.",
     // renta fija
-    "fixed income 1"    => "Vanward ha gestionado estrategias de renta fija para instituciones públicas y privadas y familias adineradas. Nuestro enfoque en renta fija se puede resumir en una sola frase: adquirimos créditos duraderos* cuando se ofrecen a rendimientos atractivos. Nuestras estrategias de inversión imponibles, libres de impuestos e indexadas a la inflación se basan en nuestra distintiva filosofía de inversión y metodología de valoración, y están diseñadas para generar atractivos rendimientos a largo plazo.",
+    "fixed income 1"    => "Sunrise ha gestionado estrategias de renta fija para instituciones públicas y privadas y familias adineradas. Nuestro enfoque en renta fija se puede resumir en una sola frase: adquirimos créditos duraderos* cuando se ofrecen a rendimientos atractivos. Nuestras estrategias de inversión imponibles, libres de impuestos e indexadas a la inflación se basan en nuestra distintiva filosofía de inversión y metodología de valoración, y están diseñadas para generar atractivos rendimientos a largo plazo.",
     "fixed income 2"    => "Nuestro ethos de inversión se basa en los siguientes principios rectores:
                             <br>
                             • Históricamente, las valoraciones de crédito en los sectores de renta fija ofrecen recompensas en exceso de las pérdidas impulsadas por incumplimientos.
@@ -729,9 +729,9 @@ clientes.",
     "fixed income 6"   => "Estrategia gestionada activamente en el mercado de valores indexados a la inflación.",
     "fixed income 7"   => "*Obligaciones como bonos, notas, préstamos, arrendamientos y otras formas de deuda emitidas por obligados que no sean el Gobierno de los Estados Unidos y sus agencias, excluyendo efectivo y equivalentes de efectivo, y registradas a nivel del obligado o garante final de la obligación.",
     // abrir cuenta
-    "open account 1"=> "Nuestra misión en Vanward es sencilla: preservar y hacer crecer su riqueza*. Nuestro enfoque nos distingue en este sentido. Combinamos una cultura de inversión profundamente arraigada con una planificación patrimonial perspicaz y un servicio ejemplar para brindarle la experiencia más deliberada y completa posible de gestión de patrimonio privado a largo plazo. Nuestras relaciones con los clientes cuentan con el respaldo de la estabilidad, longevidad y alineación de intereses de la estructura de asociación.",
+    "open account 1"=> "Nuestra misión en Sunrise es sencilla: preservar y hacer crecer su riqueza*. Nuestro enfoque nos distingue en este sentido. Combinamos una cultura de inversión profundamente arraigada con una planificación patrimonial perspicaz y un servicio ejemplar para brindarle la experiencia más deliberada y completa posible de gestión de patrimonio privado a largo plazo. Nuestras relaciones con los clientes cuentan con el respaldo de la estabilidad, longevidad y alineación de intereses de la estructura de asociación.",
     // acciones públicas
-    "public equity 1"   => "Vanward Investment Management emplea lo que consideramos un enfoque de inversión en acciones de bajo riesgo, basado en una toma de decisiones coherente, objetiva y lógica. Generamos rendimientos atractivos ajustados al riesgo a largo plazo para nuestros clientes aplicando un conjunto completo de criterios de inversión a nuestra cartera.",
+    "public equity 1"   => "Sunrise Investment Management emplea lo que consideramos un enfoque de inversión en acciones de bajo riesgo, basado en una toma de decisiones coherente, objetiva y lógica. Generamos rendimientos atractivos ajustados al riesgo a largo plazo para nuestros clientes aplicando un conjunto completo de criterios de inversión a nuestra cartera.",
     "public equity 2"   => "Nuestros principios rectores incluyen:
                             <br>
                             • Invertir en empresas bien establecidas que generen efectivo y sean líderes en el mercado en la provisión de bienes y servicios esenciales.
@@ -744,19 +744,19 @@ clientes.",
     "public equity 3"   => "La estrategia de acciones de gran capitalización nacional busca invertir principalmente en empresas norteamericanas establecidas que generen efectivo.",
     "public equity 4"  => "Una estrategia de acciones globales que busca invertir en destacadas empresas norteamericanas e internacionales que proveen bienes y servicios esenciales.",
     "public equity 5"  => "Una estrategia de acciones de pequeña y mediana capitalización que busca invertir en un número limitado de empresas impopulares o poco seguidas.",
-    "public equity 6"  => "*Estimación de Vanward del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.",
+    "public equity 6"  => "*Estimación de Sunrise del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.",
     "public equity 7"  => "* *Existe un margen de seguridad cuando hay un descuento significativo respecto al valor intrínseco en el momento de la compra; buscamos comprar a un 75% o menos de nuestra estimación del valor intrínseco.",
 
     // NIVEL 3 - Gestión de Inversiones
     // acciones globales
-    "global equity 1" => "Vanward Global Core Select, nuestra estrategia de acciones globales, emplea un marco de descuento al valor intrínseco con un enfoque de propiedad empresarial a 
+    "global equity 1" => "Sunrise Global Core Select, nuestra estrategia de acciones globales, emplea un marco de descuento al valor intrínseco con un enfoque de propiedad empresarial a 
                         largo plazo. Buscamos adquirir valores de acciones de empresas establecidas, generadoras de efectivo y bien administradas, que sean destacados proveedores de 
                         productos y servicios esenciales con un descuento respecto a sus valores intrínsecos*. Las estimaciones del valor intrínseco se derivan de un análisis de los flujos 
                         de efectivo futuros previstos y los retornos de capital. Empleamos un procedimiento metódico de selección de inversiones centrado en las características 
                         empresariales, de gestión y financieras.
                         <br><br>
 
-                        Vanward Global Core Select generalmente mantendrá inversiones en 30 a 40 empresas estadounidenses y no estadounidenses con capitalizaciones de mercado superiores a 
+                        Sunrise Global Core Select generalmente mantendrá inversiones en 30 a 40 empresas estadounidenses y no estadounidenses con capitalizaciones de mercado superiores a 
                         $3 mil millones; nuestro objetivo es poseer al menos un 40% de empresas no estadounidenses. El período de tenencia objetivo está entre tres y cinco años, y las 
                         inversiones se venden típicamente si su apreciación en precio supera nuestras estimaciones de su valor intrínseco.
                         <br><br>",
@@ -774,7 +774,7 @@ clientes.",
     "global equity 13" => "Atributos Financieros",
     "global equity 14" => "Excelente balance y flujo de capital",
     "global equity 15" => "Altos rendimientos de inversión",
-    "global equity 16"  => "*Estimación de Vanward del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
+    "global equity 16"  => "*Estimación de Sunrise del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
                             <br>
                             -Esto puede aumentar el potencial de mayores fluctuaciones de precios.
                             <br>
@@ -785,7 +785,7 @@ clientes.",
     "global equity 18" => "Empresas",
     "global equity 19" => "Empresas",
     // acciones de gran capitalización de EE. UU.
-    "us large cap equity 1" => "Vanward Core Select, nuestra principal estrategia de acciones de gran capitalización de EE. UU., utiliza un marco de descuento al valor intrínseco y un 
+    "us large cap equity 1" => "Sunrise Core Select, nuestra principal estrategia de acciones de gran capitalización de EE. UU., utiliza un marco de descuento al valor intrínseco y un 
                                 enfoque de propiedad empresarial a largo plazo. Nuestro objetivo es proporcionar a los inversores apreciación de capital a largo plazo. En cada inversión, 
                                 buscamos atractivos rendimientos absolutos minimizando el riesgo de pérdida permanente de capital. Nuestro proceso de inversión se basa en un análisis 
                                 fundamental de empresas.
@@ -795,7 +795,7 @@ clientes.",
                                 valor intrínseco se derivan de un análisis de los flujos de efectivo futuros previstos y los retornos de capital. Empleamos un procedimiento metódico de 
                                 selección de inversiones centrado en las características empresariales, de gestión y financieras.
                                 <br><br>
-                                Vanward Core Select generalmente mantendrá inversiones en 25 a 35 empresas norteamericanas con capitalizaciones de mercado superiores a $5 mil millones, 
+                                Sunrise Core Select generalmente mantendrá inversiones en 25 a 35 empresas norteamericanas con capitalizaciones de mercado superiores a $5 mil millones, 
                                 además de ciertas empresas domiciliadas en otras regiones desarrolladas. Nuestro período de tenencia objetivo está entre tres y cinco años, y las 
                                 inversiones se venden típicamente si su apreciación en precio supera nuestras estimaciones de su valor intrínseco.",
     "us large cap equity 2" => "Estándares de Inversión",
@@ -813,14 +813,14 @@ clientes.",
     "us large cap equity 14" => "Excelente balance y flujo de capital",
     "us large cap equity 15" => "Altos rendimientos de inversión",
     "us large cap equity 16" => "Riesgos",
-    "us large cap equity 17" => "Vanward Core Select puede adquirir participaciones sustanciales en un número limitado de emisores, lo que puede aumentar el potencial de una mayor 
+    "us large cap equity 17" => "Sunrise Core Select puede adquirir participaciones sustanciales en un número limitado de emisores, lo que puede aumentar el potencial de una mayor 
                                 volatilidad del precio.
                                 <br>
                                 No hay garantía de que se alcance el objetivo.
                                 <br><br>",
-    "us large cap equity 18" => "*Estimación de Vanward del capital que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.",
+    "us large cap equity 18" => "*Estimación de Sunrise del capital que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.",
     // acciones de mediana y pequeña capitalización de EE. UU.
-    "us small and mid cap equity 1" => "Sin utilizar apalancamiento ni ventas en corto, la estrategia de Acciones de Mediana y Pequeña Capitalización de Vanward invierte en un número 
+    "us small and mid cap equity 1" => "Sin utilizar apalancamiento ni ventas en corto, la estrategia de Acciones de Mediana y Pequeña Capitalización de Sunrise invierte en un número 
                                         selecto de empresas pequeñas y medianas que están fuera de favor o no reciben mucha atención. La estrategia generalmente invierte en ocho a quince 
                                         empresas con un horizonte de tres a cinco años. Típicamente, las inversiones se venden si su apreciación en precio supera su valor intrínseco 
                                         estimado*.
@@ -846,7 +846,7 @@ clientes.",
     "us small and mid cap equity 14" => "Excelente balance y flujo de capital",
     "us small and mid cap equity 15" => "Atributos de Valoración",
     "us small and mid cap equity 16" => "Valor intrínseco derivado de proyecciones conservadoras",
-    "us small and mid cap equity 17" => "*Estimación de Vanward del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
+    "us small and mid cap equity 17" => "*Estimación de Sunrise del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
                                         <br>
                                         -Esto puede aumentar el potencial de mayores fluctuaciones de precios.
                                         <br>
@@ -854,7 +854,7 @@ clientes.",
                                         normas de auditoría y otras normas financieras.
                                         <br><br>",
     // Estrategia de renta fija libre de impuestos
-    "tax exempt fixed income strategy 1" => "La Estrategia de Renta Fija Libre de Impuestos de Vanward tiene como objetivo proteger el capital de los inversores y generar atractivos rendimientos después de impuestos mediante la identificación de valores municipales infravalorados a través de una combinación de exhaustiva investigación independiente y nuestra disciplina de valoración. Nuestra estrategia de bonos municipales intermedios se enfoca en 75 a 125 créditos en los principales subsectores del mercado de bonos municipales de EE. UU., como bonos de obligación general, bonos de ingresos y valores prefinanciados. Realizamos inversiones a largo plazo y sensibles a los impuestos con una tasa de rotación anual esperada de menos del 25 por ciento.",
+    "tax exempt fixed income strategy 1" => "La Estrategia de Renta Fija Libre de Impuestos de Sunrise tiene como objetivo proteger el capital de los inversores y generar atractivos rendimientos después de impuestos mediante la identificación de valores municipales infravalorados a través de una combinación de exhaustiva investigación independiente y nuestra disciplina de valoración. Nuestra estrategia de bonos municipales intermedios se enfoca en 75 a 125 créditos en los principales subsectores del mercado de bonos municipales de EE. UU., como bonos de obligación general, bonos de ingresos y valores prefinanciados. Realizamos inversiones a largo plazo y sensibles a los impuestos con una tasa de rotación anual esperada de menos del 25 por ciento.",
     "tax exempt fixed income strategy 2" => "Criterios de Inversión",
     "tax exempt fixed income strategy 3" => "Al construir nuestras carteras, empleamos un procedimiento disciplinado de selección de inversiones que se concentra en las siete características del emisor que se enumeran a continuación:",
     "tax exempt fixed income strategy 4" => "Proporciona funciones esenciales",
@@ -869,13 +869,13 @@ clientes.",
     "tax exempt fixed income strategy 13" => "Eficiencia operativa positiva",
     "tax exempt fixed income strategy 14" => "Planes de gasto de capital",
     "tax exempt fixed income strategy 15" => "Uso responsable de derivados",
-    "tax exempt fixed income strategy 16" => "Al confiar al equipo de inversiones la gestión de la propia cartera de inversiones de Vanward, Vanward Partners ha alineado los intereses de la empresa con los de nuestros clientes.",
+    "tax exempt fixed income strategy 16" => "Al confiar al equipo de inversiones la gestión de la propia cartera de inversiones de Sunrise, Sunrise Partners ha alineado los intereses de la empresa con los de nuestros clientes.",
     "tax exempt fixed income strategy 17" => "-Los ingresos de los bonos municipales pueden estar sujetos a impuestos estatales y locales, así como al impuesto mínimo alternativo.
                                             <br>
                                             -Las inversiones en el mercado de bonos están sujetas a riesgos de mercado, tasas de interés, emisor, crédito e inflación; las inversiones pueden valer más o menos que su costo original al momento del reembolso.",
     "tax exempt fixed income strategy 18" => "empresas",
     // Estrategias de renta fija gravable
-    "taxable fixed income strategies 1" => "Las Estrategias de Renta Fija Gravable de Vanward combinan nuestro marco de valoración único y criterios integrales de revisión crediticia para 
+    "taxable fixed income strategies 1" => "Las Estrategias de Renta Fija Gravable de Sunrise combinan nuestro marco de valoración único y criterios integrales de revisión crediticia para 
                                             construir carteras de créditos duraderos comprados cuando ofrecen rendimientos atractivos.
                                             Las valoraciones crediticias a menudo están desconectadas de sus fundamentos subyacentes y son propensas a niveles injustificadamente altos de 
                                             volatilidad, una ineficiencia que brinda la oportunidad de mejorar los rendimientos de renta fija mediante una gestión activa. Nuestro 
@@ -908,7 +908,7 @@ clientes.",
                                             inflacionario; las inversiones pueden valer más o menos que el costo original al momento del rescate.",
     "taxable fixed income strategies 19" => "Empresas",
     // Estrategia de TIPS de EE. UU. (Valores Protegidos contra la Inflación del Tesoro de EE. UU.)
-    "us tips strategy 1" => "Desde el inicio del mercado de TIPS de EE. UU. en 1997, Vanward ha estado a la vanguardia de la investigación, liderazgo intelectual y gestión activa de 
+    "us tips strategy 1" => "Desde el inicio del mercado de TIPS de EE. UU. en 1997, Sunrise ha estado a la vanguardia de la investigación, liderazgo intelectual y gestión activa de 
                             Valores Protegidos contra la Inflación del Tesoro de EE. UU. (TIPS). Nuestra estrategia de TIPS de EE. UU. busca proporcionar a los inversores una protección 
                             contra la futura inflación manteniendo inversiones principalmente en TIPS de EE. UU. Nuestro proceso de inversión se enfoca en el largo plazo y emplea una 
                             colección de estrategias probadas en el tiempo dentro de los mercados indexados a la inflación, diversificados para evitar depender de una sola estrategia 
@@ -929,7 +929,7 @@ clientes.",
 
     // LEVEL 2 - Investor Services
     // custody & fund services
-    "custody & fund services 1"     => "Vanward ofrece una gama de soluciones de servicios de activos diseñadas para ayudar a los clientes institucionales a acceder y navegar en la 
+    "custody & fund services 1"     => "Sunrise ofrece una gama de soluciones de servicios de activos diseñadas para ayudar a los clientes institucionales a acceder y navegar en la 
                                         inversión transfronteriza. Como especialistas en gestionar lo nuevo y lo difícil, hemos ganado la confianza de los captadores de activos más 
                                         sofisticados del mundo para garantizar un arreglo oportuno, custodia y reporte preciso, y una administración sin errores de sus fondos y tipos de 
                                         activos más complejos.
@@ -946,9 +946,9 @@ clientes.",
     "custody & fund services 6"     => "Ofreciendo una agencia global de transferencias para gestores de activos que distribuyen fondos transfronterizos a inversores institucionales y mayoristas.",
     "custody & fund services 7" => "Trabajando con nuestros clientes para estructurar el tratamiento fiscal más beneficioso en una variedad de vehículos de inversión en más de 95 mercados.",
     "custody & fund services 8" => "Protegiendo a los gestores de activos de las inversiones necesarias para cumplir con los complejos requisitos de garantía.",
-    "custody & fund services 9" => "Procesamiento de órdenes y servicios de custodia para los clientes de Vanward que compran y mantienen fondos de inversión.",
+    "custody & fund services 9" => "Procesamiento de órdenes y servicios de custodia para los clientes de Sunrise que compran y mantienen fondos de inversión.",
     // specialist expertise
-    "specialist expertise 1"    => "Vanward se enfoca en brindar experiencia especializada para establecer relaciones más profundas y duraderas con nuestros clientes, en áreas donde 
+    "specialist expertise 1"    => "Sunrise se enfoca en brindar experiencia especializada para establecer relaciones más profundas y duraderas con nuestros clientes, en áreas donde 
                                     creemos que podemos agregar el mayor valor.
                                     <br><br>
                                     Al centrarnos en proporcionar servicios de activos a un número selecto de los principales captadores de activos globales, nos hemos convertido en 
@@ -968,7 +968,7 @@ clientes.",
     "specialist expertise 9"    => "Manteniendo informados a los clientes sobre los requisitos del mercado y las regulaciones que afectan sus negocios.",
 
     // markets
-    "markets 1" => "Vanward Markets ofrece trading de divisas, cobertura de moneda y soluciones de préstamos de valores a captadores de activos globales.
+    "markets 1" => "Sunrise Markets ofrece trading de divisas, cobertura de moneda y soluciones de préstamos de valores a captadores de activos globales.
                     <br><br>
                     Nuestra estrategia consiste en descubrir oportunidades y fuentes de valor para nuestros clientes mediante una combinación de experiencia en el mercado, eficiencia 
                     operativa, transparencia antes y después de la operación, y control del cliente.
@@ -977,7 +977,7 @@ clientes.",
                     significa brindar a nuestros clientes una transparencia completa en toda la cadena de transacciones (antes de la operación, punto de ejecución, precio y procesamiento 
                     después de la operación), junto con la capacidad para que los clientes conserven elementos importantes de control de la negociación.",
     "markets 2" => "Apoyando una amplia gama de requisitos operativos y estratégicos de trading de divisas para captadores de activos globales.",
-    "markets 3" => "Apoyando los requisitos estratégicos de divisas de nuestros clientes a través del escritorio principal de trading de divisas de Vanward y plataformas de ejecución de la industria.",
+    "markets 3" => "Apoyando los requisitos estratégicos de divisas de nuestros clientes a través del escritorio principal de trading de divisas de Sunrise y plataformas de ejecución de la industria.",
     "markets 4" => "Proporcionando una herramienta de ejecución de divisas automatizada, operativamente eficiente y efectiva para necesidades de trading relacionadas con valores.",
     "markets 5" => "Estructurando soluciones de cobertura de cartera y clase de acciones para gestores de activos que buscan una alternativa a la gestión interna de programas de cobertura de divisas basados en reglas.",
     "markets 6" => "Ofreciendo soluciones de préstamos de valores neutrales para custodios centradas en generar rendimientos competitivos ajustados al riesgo bajo los términos de nuestros clientes.",
@@ -986,10 +986,10 @@ clientes.",
     "investment operations & technology solutions 1"  => "La creciente complejidad de los mercados globales de hoy ha llevado a muchos captadores de activos a buscar una creciente variedad 
                                                             de soluciones para la gestión intermedia y posterior por parte de proveedores de servicios de custodia y fondos. Ya sea la 
                                                             provisión de servicios tecnológicos en base a 'Software as a Service' (SaaS) o una capacidad de externalización más completa, 
-                                                            Vanward se compromete a ayudar a nuestros clientes a tomar decisiones informadas sobre qué estrategias son las más adecuadas 
+                                                            Sunrise se compromete a ayudar a nuestros clientes a tomar decisiones informadas sobre qué estrategias son las más adecuadas 
                                                             para sus negocios. Creemos en un enfoque de implementación modular que permite a los clientes retener más control y minimizar el 
                                                             riesgo de ejecución.",
-    "investment operations & technology solutions 2"  => "Poniendo a disposición de los clientes componentes clave de la plataforma tecnológica de Vanward en base a SaaS e IaaS.",
+    "investment operations & technology solutions 2"  => "Poniendo a disposición de los clientes componentes clave de la plataforma tecnológica de Sunrise en base a SaaS e IaaS.",
     "investment operations & technology solutions 3"  => "Ofreciendo opciones modulares de externalización operativa y tecnológica que maximizan el control del cliente y minimizan el riesgo.",
 
 
@@ -1000,32 +1000,32 @@ clientes.",
                     regulatorios.
                     <br><br>
                     Trabajar con un custodio global que tiene una experiencia probada en la gestión de riesgos y complejidades nunca ha sido tan importante. Como especialistas en navegar 
-                    lo nuevo y lo difícil, Vanward ha ganado la confianza de los captadores de activos más sofisticados del mundo para garantizar un arreglo oportuno, custodia y reporte 
+                    lo nuevo y lo difícil, Sunrise ha ganado la confianza de los captadores de activos más sofisticados del mundo para garantizar un arreglo oportuno, custodia y reporte 
                     preciso de sus fondos y tipos de activos más complejos.",
     "custody 2" => "Tomando el Riesgo Personalmente",
-    "custody 3" => "Como empresa de propiedad privada, Vanward está enfocada en la gestión de riesgos. Nos comprometemos a invertir en una infraestructura de cumplimiento de clase mundial 
+    "custody 3" => "Como empresa de propiedad privada, Sunrise está enfocada en la gestión de riesgos. Nos comprometemos a invertir en una infraestructura de cumplimiento de clase mundial 
                     y mantenemos cuentas segregadas para ofrecer los más altos niveles de transparencia y seguridad a cada cliente. Con una estrategia de sub-custodia no cautiva, 
                     seleccionamos de manera independiente los bancos que consideramos los mejores y más confiables proveedores de servicios en cada mercado. Esto proporciona 
                     diversificación de riesgos, resistencia y la capacidad para evaluar todos los aspectos de las interacciones del mercado.",
     "custody 4" => "Descubriendo Nuevas Fuentes de Valor",
-    "custody 5" => "Vanward se asocia con los clientes para descubrir nuevas fuentes de valor y crear relaciones mutuamente beneficiosas enfocadas en el crecimiento. A medida que nuestros 
+    "custody 5" => "Sunrise se asocia con los clientes para descubrir nuevas fuentes de valor y crear relaciones mutuamente beneficiosas enfocadas en el crecimiento. A medida que nuestros 
                     clientes se expanden, los ayudamos a identificar tendencias del mercado y diseñar soluciones para manejar la complejidad de nuevas clases de activos y estructuras de 
                     inversión. Co-creamos productos en un entorno de arquitectura abierta respaldado por una plataforma tecnológica global única, diseñada para evolucionar con sus 
                     cambiantes requisitos. Nuestras inversiones tecnológicas se centran en permitir el crecimiento del cliente mediante mejoras continuas en la eficiencia, transparencia y 
                     accesibilidad de nuestras aplicaciones, en lugar de integrar múltiples entornos operativos.",
     "custody 6" => "Ofreciendo un Servicio Mediblemente Superior",
-    "custody 7" => "Vanward se compromete a brindar una experiencia de servicio al cliente mediblemente superior. Nuestro modelo de servicio global las 24 horas del día está adaptado a los 
+    "custody 7" => "Sunrise se compromete a brindar una experiencia de servicio al cliente mediblemente superior. Nuestro modelo de servicio global las 24 horas del día está adaptado a los 
                     requisitos geográficos, lingüísticos y de zona horaria de nuestros clientes. Nuestros equipos de servicio y los clientes acceden a los mismos sistemas e información en 
-                    tiempo real, lo que proporciona una plataforma común para una respuesta rápida a las consultas. Este modelo integrado ayuda a Vanward a ejecutar sin problemas los 
+                    tiempo real, lo que proporciona una plataforma común para una respuesta rápida a las consultas. Este modelo integrado ayuda a Sunrise a ejecutar sin problemas los 
                     requisitos rutinarios y complejos de nuestros clientes. Somos líderes en automatización y procesamiento sin interrupciones.",
     // depositary & trustee
-    "depositary & trustee 1" => "Con más de 25 años de experiencia, Vanward es un proveedor líder de servicios de depositario y fideicomisario para fondos domiciliados en Luxemburgo, 
+    "depositary & trustee 1" => "Con más de 25 años de experiencia, Sunrise es un proveedor líder de servicios de depositario y fideicomisario para fondos domiciliados en Luxemburgo, 
                                 Irlanda, Islas Caimán y Hong Kong.
                                 <br><br>
                                 Diseñamos y proporcionamos modelos operativos completos para productos complejos en una amplia gama de clases de activos y estrategias de inversión. 
                                 Trabajando en estrecha colaboración con nuestros clientes, nos aseguramos de que sus activos estén adecuadamente protegidos y los ayudamos a cumplir con sus 
                                 propias obligaciones fiduciarias.",
-    "depositary & trustee 2" => "Vanward aplica un enfoque de supervisión y monitoreo continuo basado en el riesgo. Una evaluación exhaustiva de los riesgos asociados con la naturaleza, 
+    "depositary & trustee 2" => "Sunrise aplica un enfoque de supervisión y monitoreo continuo basado en el riesgo. Una evaluación exhaustiva de los riesgos asociados con la naturaleza, 
                                 escala y complejidad de la estrategia del fondo y la organización del gestor del fondo determina el alcance y la frecuencia adecuados de los procedimientos 
                                 de supervisión aplicados.
                                 <br><br>
@@ -1040,7 +1040,7 @@ clientes.",
                             asociarse con un proveedor global de contabilidad de fondos que esté equipado con una infraestructura de sistemas estable, controlada e independiente, que 
                             brinde transparencia en el cálculo del valor neto del activo (NAV).
                             <br><br>
-                            Con experiencia probada y capacidades de servicio confiables y diseñadas para permitir el crecimiento, Vanward Fund Accounting es reconocido por nuestra 
+                            Con experiencia probada y capacidades de servicio confiables y diseñadas para permitir el crecimiento, Sunrise Fund Accounting es reconocido por nuestra 
                             capacidad para respaldar tipos de inversiones complejas y cálculos de tarifas en todos los domicilios de fondos, jurisdicciones y tipos de entidades. Estamos 
                             estructurados para proporcionar una ejecución global coordinada de manera perfecta y brindar información diferenciada sobre la industria y las carteras.",
     "fund accounting 2" => "Infraestructura de Sistemas Controlada e Independiente",
@@ -1050,13 +1050,13 @@ clientes.",
                             digitales es nuestra herramienta NAV Progress, que proporciona a nuestros clientes transparencia en tiempo real en el proceso de producción del NAV durante todo 
                             el día. Nuestros procedimientos de gestión de riesgos y cambios están diseñados para mitigar fallas, al tiempo que proporcionan estabilidad y resiliencia.",
     "fund accounting 4" => "Entrega de un Servicio Mediblemente Superior",
-    "fund accounting 5" => "Vanward se compromete a brindar una experiencia de servicio al cliente mediblemente superior. Nuestro modelo de servicio global flexible funciona las 24 horas y 
+    "fund accounting 5" => "Sunrise se compromete a brindar una experiencia de servicio al cliente mediblemente superior. Nuestro modelo de servicio global flexible funciona las 24 horas y 
                             se adapta a las necesidades geográficas, lingüísticas y de zona horaria de nuestros clientes. Independientemente de la ubicación del cliente o el domicilio del 
                             fondo, nuestros equipos de servicio y los clientes acceden a los mismos sistemas e información en tiempo real para una rápida respuesta a las consultas. 
                             Nuestros expertos piensan de manera crítica en todo el proceso de contabilidad y se enfocan en lograr una precisión del 100% en el NAV. Esta estructura de 
                             servicio nos permite desarrollar soluciones automatizadas para mitigar riesgos y mejorar la calidad y eficiencia.",
     // fund administration
-    "fund administration 1" => "Vanward ofrece una amplia gama de servicios modulares de cumplimiento y administración de fondos diseñados para respaldar los productos más complejos de 
+    "fund administration 1" => "Sunrise ofrece una amplia gama de servicios modulares de cumplimiento y administración de fondos diseñados para respaldar los productos más complejos de 
                                 nuestros clientes. Nuestro negocio se basa en proporcionar acceso directo a información y experiencia, y un modelo de servicio global sincronizado que 
                                 fomenta la colaboración con los clientes.",
     "fund administration 2" => "Los servicios de administración de fondos incluyen:",
@@ -1087,9 +1087,9 @@ clientes.",
                                 accesibilidad de nuestra infraestructura e información proporcionada a los clientes, en lugar de integrar múltiples entornos operativos.",
     // transfer agency
     "transfer agency 1" => "La Agencia de Transferencia es fundamental para el éxito de la distribución de fondos. Sirviendo a muchos de los gestores de activos más sofisticados del mundo, 
-                            Vanward se compromete a proporcionar una Agencia de Transferencia global. Apoyamos a clientes que distribuyen fondos domiciliados en Luxemburgo, Irlanda, Islas 
+                            Sunrise se compromete a proporcionar una Agencia de Transferencia global. Apoyamos a clientes que distribuyen fondos domiciliados en Luxemburgo, Irlanda, Islas 
                             Caimán, Bermudas y Hong Kong, así como fondos alternativos domiciliados en EE. UU., a inversores institucionales y mayoristas.",
-    "transfer agency 2" => "La Agencia de Transferencia es un componente fundamental de la oferta global de servicios de Vanward. Apoyamos a nuestros clientes y sus inversores en casi 100 países de todo el mundo a través de nuestra",
+    "transfer agency 2" => "La Agencia de Transferencia es un componente fundamental de la oferta global de servicios de Sunrise. Apoyamos a nuestros clientes y sus inversores en casi 100 países de todo el mundo a través de nuestra",
     "transfer agency 3" => "Nuestro servicio cubre el procesamiento central y los servicios para los accionistas, así como",
     "transfer agency 4" => "Destacamos en el servicio de estructuras de fondos complejas y algunas de las características clave de nuestra oferta incluyen:",
     "transfer agency 5" => "Compromiso y Estrategia a Largo Plazo",
@@ -1097,17 +1097,17 @@ clientes.",
     "transfer agency 7" => "Modelo de Servicio Global Personalizable",
     "transfer agency 8" => "Nuestros escritorios de servicio multilingües en diferentes zonas horarias ofrecen una capacidad operativa completa con un nivel de servicio consistente.",
     "transfer agency 9" => "Infraestructura Robusta",
-    "transfer agency 10" => "Proporcionamos una única plataforma de Agencia de Transferencia a nivel global. Cuando se combina con Vanward",
+    "transfer agency 10" => "Proporcionamos una única plataforma de Agencia de Transferencia a nivel global. Cuando se combina con Sunrise",
     "transfer agency 11" => "esto ofrece una solución de conectividad única para las comunicaciones de distribuidores.",
     "transfer agency 12" => "Enfoque en la Incorporación de Inversores",
     "transfer agency 13" => "Nos enfocamos en la incorporación y servicio continuo de inversores, aspectos críticos para la relación de un gestor de activos con sus clientes. Contamos con una sólida experiencia en las prácticas comerciales locales, incluyendo AML/KYC.",
     // global tax
-    "global tax 1"  => "Vanward Global Tax Services proporciona experiencia y soluciones estratégicas en áreas de investigación fiscal, operaciones fiscales, impuestos de administración de 
+    "global tax 1"  => "Sunrise Global Tax Services proporciona experiencia y soluciones estratégicas en áreas de investigación fiscal, operaciones fiscales, impuestos de administración de 
                         fondos e informes fiscales europeos para gestores de activos globales e intermediarios financieros. Nuestro equipo de profesionales de impuestos dedicados, ubicados 
                         en Boston, Denver, Londres, Tokio, Hong Kong y Cracovia, trabaja con nuestros clientes para estructurar tratamientos fiscales efectivos en una amplia gama de 
                         vehículos de inversión en más de 95 mercados.",
     "global tax 2"  => "Tecnología Fiscal Propositiva",
-    "global tax 3" => "Vanward Global Tax Services ofrece soluciones efectivas para gestionar la complejidad de la inversión en EE. UU. y a nivel mundial, como nuestra solución de 
+    "global tax 3" => "Sunrise Global Tax Services ofrece soluciones efectivas para gestionar la complejidad de la inversión en EE. UU. y a nivel mundial, como nuestra solución de 
                         cumplimiento fiscal E-W8™. E-W8 es una solución de cumplimiento de impuestos de EE. UU. y FATCA, mitigadora de riesgos, rentable, escalable y ligera, que aborda las 
                         obligaciones de cumplimiento con respecto a la apertura de cuentas, la corrección y el seguimiento de cambios de circunstancias.",
     "global tax 4"  => "Profesionales de Impuestos Expertos y Experimentados",
@@ -1122,38 +1122,38 @@ clientes.",
                                     swaps. La forma en que los gestores de activos adapten su disciplina de gestión de garantías afectará su capacidad para ofrecer un rendimiento de 
                                     inversión.
                                     <br><br>
-                                    Vanward proporciona servicios de gestión de garantías integrales y operativamente eficientes diseñados para controlar el riesgo, mejorar la toma de 
+                                    Sunrise proporciona servicios de gestión de garantías integrales y operativamente eficientes diseñados para controlar el riesgo, mejorar la toma de 
                                     decisiones en la oficina de negociación y minimizar el impacto en el rendimiento de la cartera. Trabajamos para aislar a los clientes de las inversiones 
                                     onerosas necesarias para cumplir con los complejos requisitos de garantías, mientras ellos se enfocan en generar rendimientos de inversión.",
     "collateral management 2"   => "Control de Riesgos",
-    "collateral management 3"   => "• Tecnología personalizada maximiza el procesamiento directo y la conectividad con múltiples contrapartes a través de Vanward Infomediary®, reduciendo 
+    "collateral management 3"   => "• Tecnología personalizada maximiza el procesamiento directo y la conectividad con múltiples contrapartes a través de Sunrise Infomediary®, reduciendo 
                                     el riesgo operativo",
     "collateral management 4"   => "• Gestión del riesgo crediticio de contraparte inherente al trading de derivados asegurando que las exposiciones a las contrapartes estén gestionadas",
     "collateral management 5"   => "• Informes robustos que proporcionan métricas clave, como la exposición a contraparte y las transacciones de garantías",
     "collateral management 6"   => "Mejora de la Toma de Decisiones en la Oficina de Negociación",
     "collateral management 7"   => "• Mayor visibilidad del uso de garantías en todas las contrapartes",
     "collateral management 8"   => "• Vistas en tiempo real del estado de liquidación, inventario y posiciones de garantías",
-    "collateral management 9"   => "• Acceso a la experiencia en gestión de garantías de Vanward",
+    "collateral management 9"   => "• Acceso a la experiencia en gestión de garantías de Sunrise",
     "collateral management 10"  => "Minimización del Impacto en el Rendimiento de la Cartera",
     "collateral management 11"  => "• Selección de la garantía óptima basada en jerarquías definidas por el cliente y exposiciones a contrapartes",
     "collateral management 12"  => '• Identificación y compromiso de garantías "más baratas para entregar" según los parámetros definidos por el cliente',
     "collateral management 13"  => "• Asegurarse de que las garantías recibidas cumplan con los criterios de elegibilidad",
     "collateral management 14"  => "• Reducción del exceso de garantías con las contrapartes",
-    "collateral management 15"  => "Programa de Gestión de Garantías de Vanward",
-    "collateral management 16"  => "El programa de Gestión de Garantías de Vanward cubre todo el ciclo de vida de las garantías, lo que nos permite apoyar las estrategias de negociación de 
+    "collateral management 15"  => "Programa de Gestión de Garantías de Sunrise",
+    "collateral management 16"  => "El programa de Gestión de Garantías de Sunrise cubre todo el ciclo de vida de las garantías, lo que nos permite apoyar las estrategias de negociación de 
                                     derivados más complejas. Los servicios de gestión de garantías también están vinculados de manera transparente con la contabilidad de fondos y la 
-                                    custodia de Vanward, lo que proporciona eficiencia y gestión de riesgos adicionales.
+                                    custodia de Sunrise, lo que proporciona eficiencia y gestión de riesgos adicionales.
                                     <br><br>
-                                    El programa de Gestión de Garantías de Vanward está respaldado por una plataforma de tecnología personalizada diseñada para mejorar su modelo operativo, 
+                                    El programa de Gestión de Garantías de Sunrise está respaldado por una plataforma de tecnología personalizada diseñada para mejorar su modelo operativo, 
                                     incorporar las mejores prácticas de la industria y proporcionar informes de datos en tiempo real.
                                     <br><br>
-                                    Vanward presta servicios a múltiples participantes en el ciclo de vida de las garantías, incluidos CCPs, FCMs y gestores de activos. Nuestros clientes 
+                                    Sunrise presta servicios a múltiples participantes en el ciclo de vida de las garantías, incluidos CCPs, FCMs y gestores de activos. Nuestros clientes 
                                     se benefician de la experiencia adquirida.
                                     <br><br>
-                                    Además, los clientes se benefician del modelo de servicio global superior de Vanward, que incorpora nuestra experiencia operativa, gestión de relaciones 
+                                    Además, los clientes se benefician del modelo de servicio global superior de Sunrise, que incorpora nuestra experiencia operativa, gestión de relaciones 
                                     locales e inteligencia de mercado en planes de relación específicos para cada cliente.",
     // orden y custodia de fondos
-    "fund order & custody 1" => "Vanward Fund Order & Custody ofrece servicios a clientes de custodia de Vanward que compran y mantienen fondos de inversión. Esto incluye el procesamiento 
+    "fund order & custody 1" => "Sunrise Fund Order & Custody ofrece servicios a clientes de custodia de Sunrise que compran y mantienen fondos de inversión. Esto incluye el procesamiento 
                                 de órdenes a través de nuestra plataforma en línea exclusiva, Fund WorldView®.
                                 <br><br>
                                 Con más de 25 años de experiencia en el servicio de activos de fondos de inversión, hemos desarrollado una comprensión profunda de las complejidades 
@@ -1183,7 +1183,7 @@ clientes.",
                                     instrumentos y mercados no estándar, y a una comunicación fragmentada. Los altos costos fijos y los requisitos regulatorios en evolución complican aún 
                                     más las prioridades de capital.
                                     <br><br>
-                                    Si bien los mercados cambian rápidamente, el compromiso de Vanward de gestionar la complejidad para nuestros clientes no cambia. Ayudamos a los clientes 
+                                    Si bien los mercados cambian rápidamente, el compromiso de Sunrise de gestionar la complejidad para nuestros clientes no cambia. Ayudamos a los clientes 
                                     a responder a los desafíos en sus operaciones de oficina intermedia a través de un enfoque diferenciado y modular que aborda tanto la tecnología 
                                     obsoleta como los modelos operativos sobrecargados. Trabajamos para satisfacer las necesidades actuales de nuestros clientes y ayudarlos a crear la 
                                     escala y flexibilidad necesarias para hacer frente a los cambios en los requisitos del mercado.",  
@@ -1194,16 +1194,16 @@ negociación.",
     "middle office outsourcing 5" => "Diseñamos servicios para ayudar a los gestores de activos a cumplir con los complejos requisitos de garantía y así protegerse de las inversiones necesarias para ello.",
     // servicios tecnológicos
     "technology services 1" => "Diseñado para los captadores de activos que desean mantener el control sobre sus procesos operativos mientras aprovechan una tecnología financiera rentable, 
-                                eficiente y de vanguardia, Vanward pone a disposición de los clientes componentes clave de nuestra plataforma tecnológica. Con acceso directo a nuestras 
+                                eficiente y de vanguardia, Sunrise pone a disposición de los clientes componentes clave de nuestra plataforma tecnológica. Con acceso directo a nuestras 
                                 plataformas de Custodia Global, Custodia en EE. UU., Contabilidad de Fondos y Agencia de Transferencia, los clientes se benefician de las continuas 
-                                inversiones de Vanward en productos y regulaciones en estos sistemas grandes y que requieren muchos recursos. Además, nuestra suite de aplicaciones 
-                                Infomediary puede proporcionar el mismo acceso a la conectividad, acciones corporativas, conciliación y módulos de gestión de operaciones de Vanward.",
+                                inversiones de Sunrise en productos y regulaciones en estos sistemas grandes y que requieren muchos recursos. Además, nuestra suite de aplicaciones 
+                                Infomediary puede proporcionar el mismo acceso a la conectividad, acciones corporativas, conciliación y módulos de gestión de operaciones de Sunrise.",
     "technology services 2" => "Proporcionamos opciones de conectividad diseñadas para agilizar la conciliación, la gestión de operaciones, las acciones corporativas, el cambio de divisas 
 y otros desafíos operativos y tecnológicos.",
     "technology services 3" => "Ayudamos a las instituciones financieras globales a expandir y diferenciar sus capacidades de custodia global.",
     "technology services 4" => "Ayudamos a las instituciones financieras globales a obtener acceso directo a los depositarios centrales de valores de EE. UU.",
     // hosted operations & reporting
-    "hosted operations & reporting 1" => "Vanward ofrece servicios operativos para la oficina intermedia en todo el ciclo de vida posterior a la ejecución de las operaciones, incluida la 
+    "hosted operations & reporting 1" => "Sunrise ofrece servicios operativos para la oficina intermedia en todo el ciclo de vida posterior a la ejecución de las operaciones, incluida la 
                                         gestión de operaciones, la administración de efectivo y la gestión de garantías. Nos especializamos en soluciones para clases de activos 
                                         alternativos, como derivados, préstamos bancarios y otras inversiones complejas.
                                         <br><br>",
@@ -1230,9 +1230,9 @@ y otros desafíos operativos y tecnológicos.",
     "infonav 5" => "Capacidad para gestionar una amplia gama de estrategias y varios administradores de contabilidad en una sola aplicación",
     "infonav 6" => "Proporciona una comparación del NAV primario con el NAV secundario, detallando áreas de desviación para un análisis más detallado",
     "infonav 7" => "Opciones de servicio de valor agregado con acceso a la experiencia de Contabilidad de Fondos de primer nivel",
-    "infonav 8" => "Integración con múltiples fuentes de datos a través de Vanward Infomediary®.",
+    "infonav 8" => "Integración con múltiples fuentes de datos a través de Sunrise Infomediary®.",
     // InfoRecon
-    "inforecon 1" => "Vanward Infomediary® ofrece varias aplicaciones modulares exclusivas sobre el motor de mensajería y conectividad, incluido InfoRecon®, una solución de externalización 
+    "inforecon 1" => "Sunrise Infomediary® ofrece varias aplicaciones modulares exclusivas sobre el motor de mensajería y conectividad, incluido InfoRecon®, una solución de externalización 
     escalable que proporciona un proceso automatizado para la conciliación de datos de efectivo (transacciones y saldos) y datos de valores (posiciones y transacciones) en todos los 
     proveedores de servicios de nuestros clientes.
     <br><br>
@@ -1240,12 +1240,12 @@ y otros desafíos operativos y tecnológicos.",
     "inforecon 2" => "Tecnología",
     "inforecon 3" => "Motor de recopilación y normalización de datos flexible y probado, Infomediary",
     "inforecon 4" => "Plataforma robusta de software de conciliación para el procesamiento de datos y la gestión de excepciones",
-    "inforecon 5" => "Informes completos para el cliente que se pueden acceder a través de vanward-intl.com o mediante entrega por correo electrónico en varios formatos (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Informes completos para el cliente que se pueden acceder a través de Sunrise-intl.com o mediante entrega por correo electrónico en varios formatos (PDF, MS Excel, CSV)",
     "inforecon 6" => "Mejores Prácticas de la Industria",
     "inforecon 7" => "Conciliación diaria a nivel de transacción",
-    "inforecon 8" => "Vanward trabaja con los proveedores de los clientes para aumentar la eficiencia en el procesamiento directo de operaciones (STP) para maximizar la eficiencia y reducir el riesgo de errores y omisiones",
+    "inforecon 8" => "Sunrise trabaja con los proveedores de los clientes para aumentar la eficiencia en el procesamiento directo de operaciones (STP) para maximizar la eficiencia y reducir el riesgo de errores y omisiones",
     "inforecon 9" => "Servicio al Cliente Superior",
-    "inforecon 10" => "Un equipo centralizado de especialistas en conciliación y mercados respaldado por la organización galardonada de servicio al cliente de Vanward",
+    "inforecon 10" => "Un equipo centralizado de especialistas en conciliación y mercados respaldado por la organización galardonada de servicio al cliente de Sunrise",
     "inforecon 11" => "Sigue las mejores prácticas de identificación de excepciones de conciliación",
     "inforecon 12" => "Empresas",
     // Soporte contable de inversiones y datos empresariales
@@ -1268,15 +1268,15 @@ y otros desafíos operativos y tecnológicos.",
     "investment accounting & enterprise data support 7" => "Captura de Datos",
     "investment accounting & enterprise data support 8" => "Agregación y Enriquecimiento",
     "investment accounting & enterprise data support 9" => "Entrega de Información",
-    "investment accounting & enterprise data support 10" => "Vanward ofrece perspectivas del mercado sobre estos componentes para ayudar a los clientes a diseñar sus estrategias de 
+    "investment accounting & enterprise data support 10" => "Sunrise ofrece perspectivas del mercado sobre estos componentes para ayudar a los clientes a diseñar sus estrategias de 
                                                             gobierno de datos. Nuestra plataforma tecnológica proporciona un repositorio de datos de toda la empresa para la captura 
                                                             consistente de datos entre los proveedores de servicios, y agrega y enriquece los datos de manera significativa. Esto nos 
                                                             permite impulsar los centros de datos empresariales de los clientes para facilitar una mejor toma de decisiones en la oficina 
                                                             delantera.",
     "investment accounting & enterprise data support 11" => "Empresas",
     // Soluciones tecnológicas dirigidas a través de Infomediary
-    "targeted technology solutions via infomediary 1" => "Un componente central de la plataforma tecnológica integrada única de Vanward es el robusto motor de mensajería y conectividad \
-                                                        Vanward Infomediary®, especialmente diseñado para gestores de activos, compañías de seguros, bancos, distribuidores de fondos, 
+    "targeted technology solutions via infomediary 1" => "Un componente central de la plataforma tecnológica integrada única de Sunrise es el robusto motor de mensajería y conectividad \
+                                                        Sunrise Infomediary®, especialmente diseñado para gestores de activos, compañías de seguros, bancos, distribuidores de fondos, 
                                                         infraestructuras de la industria y otras plataformas tecnológicas. Infomediary ayuda a los clientes a centrarse en su negocio 
                                                         principal y mejorar su ventaja competitiva al resolver numerosos desafíos operativos relacionados con la conciliación, la gestión y 
                                                         el envío de mensajes de operaciones, las acciones corporativas, la compensación de divisas y la agregación, así como los estándares 
@@ -1291,21 +1291,21 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     "targeted technology solutions via infomediary 8" => "Una solución de externalización escalable que proporciona un proceso automatizado para la conciliación de datos de efectivo y datos de valores en todos los proveedores de servicios.",
     "targeted technology solutions via infomediary 9" => "Una herramienta de NAV secundaria multi-proveedor diseñada para que los gestores de activos supervisen la producción de NAV en todas sus entidades administradoras.",
     // Operador de Cuenta Directa para Depositarios de Valores de EE. UU.
-    "account operator direct for us depositories 1" => "Vanward Account Operator permite a nuestros clientes institucionales globales obtener acceso directo a los depositarios centrales de 
-                                                        valores de EE. UU. aprovechando a Vanward como proveedor de tecnología y servicios.
+    "account operator direct for us depositories 1" => "Sunrise Account Operator permite a nuestros clientes institucionales globales obtener acceso directo a los depositarios centrales de 
+                                                        valores de EE. UU. aprovechando a Sunrise como proveedor de tecnología y servicios.
                                                         <br><br>
                                                         Los clientes mantienen el control operativo sobre sus activos en EE. UU., actuando como participantes directos del depositario y 
                                                         reduciendo el riesgo de terceros. Los clientes pueden ser más competitivos en el mercado estadounidense, lo que les permite aumentar 
                                                         su alcance global. La participación directa en el mercado está disponible sin la inversión en infraestructura y experiencia en 
                                                         personal del mercado local, lo que proporciona un tiempo de comercialización más rápido que una construcción interna.
                                                         <br><br>
-                                                        Account Operator incluye los programas integrados de planificación de continuidad del negocio y gestión de riesgos de Vanward que 
+                                                        Account Operator incluye los programas integrados de planificación de continuidad del negocio y gestión de riesgos de Sunrise que 
                                                         actualmente prestan servicio a las instituciones más grandes y sofisticadas del mundo.",
     "account operator direct for us depositories 2" => "Empresas",
     "account operator direct for us depositories 3" => "Empresas",
     // Conectividad de datos y aplicaciones a través de Infomediary
-    "data connectivity & applications via infomediary 1" => "Un componente central de la plataforma tecnológica integrada única de Vanward es el robusto motor de mensajería y conectividad 
-                                                                Vanward Infomediary®, especialmente diseñado para gestores de activos, compañías de seguros, bancos, distribuidores de 
+    "data connectivity & applications via infomediary 1" => "Un componente central de la plataforma tecnológica integrada única de Sunrise es el robusto motor de mensajería y conectividad 
+                                                                Sunrise Infomediary®, especialmente diseñado para gestores de activos, compañías de seguros, bancos, distribuidores de 
                                                                 fondos, infraestructuras de la industria y otras plataformas tecnológicas. Infomediary ayuda a los clientes a centrarse en 
                                                                 su negocio principal y mejorar su ventaja competitiva al resolver numerosos desafíos operativos relacionados con la 
                                                                 conciliación, la gestión y el envío de mensajes de operaciones, las acciones corporativas, la compensación de divisas y la 
@@ -1323,22 +1323,22 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     "data connectivity & applications via infomediary 9" => "Una herramienta de NAV secundaria multi-proveedor diseñada para que los gestores de activos supervisen la producción de NAV en todas sus entidades administradoras.",
     // Custodia Global Directa
     "global custody direct 1"   => "Las instituciones financieras que buscan expandir y diferenciar sus capacidades de custodia global y brindar un servicio más efectivo a sus clientes 
-                                    pueden asociarse con Vanward como una alternativa a la inversión continua en plataformas e infraestructura heredadas.
+                                    pueden asociarse con Sunrise como una alternativa a la inversión continua en plataformas e infraestructura heredadas.
                                     <br><br>
-                                    Con Global Custody Direct, la probada plataforma de custodia global de Vanward, el servicio operativo y el portal se personalizan según los estándares 
+                                    Con Global Custody Direct, la probada plataforma de custodia global de Sunrise, el servicio operativo y el portal se personalizan según los estándares 
                                     corporativos de nuestro cliente para respaldar su base de clientes global. Los clientes de Global Custody Direct tienen la opción adicional de 
-                                    aprovechar los productos centrales de servicios financieros de Vanward, incluida nuestra red de subcustodia global, préstamos de valores y cambio de 
+                                    aprovechar los productos centrales de servicios financieros de Sunrise, incluida nuestra red de subcustodia global, préstamos de valores y cambio de 
                                     divisas.
                                     <br><br>
                                     Global Custody Direct permite a los clientes centrarse en sus competencias principales dentro de sus mercados locales mientras se benefician de la 
-                                    inversión continua de Vanward en hardware y software, manteniendo el control de los servicios operativos y para inversores. Los clientes se benefician 
-                                    de aprovechar la sólida infraestructura tecnológica global de Vanward junto con nuestros programas de planificación de continuidad del negocio y gestión 
+                                    inversión continua de Sunrise en hardware y software, manteniendo el control de los servicios operativos y para inversores. Los clientes se benefician 
+                                    de aprovechar la sólida infraestructura tecnológica global de Sunrise junto con nuestros programas de planificación de continuidad del negocio y gestión 
                                     de riesgos que actualmente prestan servicio a las instituciones más grandes y sofisticadas del mundo.",
     "global custody direct 2" => "Empresas",
     "global custody direct 3" => "Empresas",
 
     // active fx execution
-    "active fx execution 1" => "El escritorio global de divisas de Vanward ofrece una combinación de ejecución competitiva con un equipo de ventas confiable y experimentado que se enfoca en atender a gestores de activos globales y comprender sus necesidades comerciales y operativas únicas.",
+    "active fx execution 1" => "El escritorio global de divisas de Sunrise ofrece una combinación de ejecución competitiva con un equipo de ventas confiable y experimentado que se enfoca en atender a gestores de activos globales y comprender sus necesidades comerciales y operativas únicas.",
     "active fx execution 2" => "Enfoque centrado en el cliente para el trading:",
     "active fx execution 3" => "Nuestra filosofía de trading se centra en relaciones a largo plazo y en ofrecer precios competitivos rápidos a nuestros clientes.",
     "active fx execution 4" => "Ofrecemos a nuestros clientes un único punto de contacto a través de traders de ventas en Nueva York, Londres, Tokio y Hong Kong, lo que, junto con un escritorio de operaciones centralizado, nos permite proporcionar cobertura ininterrumpida las 24 horas del día.",
@@ -1376,9 +1376,9 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     "active fx execution 13" => "Empresas",
     // currency hedging
     "currency hedging 1" => "Ya sea que esté gestionando una cartera internacional con exposición no deseada a divisas o que ofrezca clases de acciones con cobertura de varias monedas, 
-                            Vanward ofrece una solución integral y flexible de cobertura de divisas pasiva.
+                            Sunrise ofrece una solución integral y flexible de cobertura de divisas pasiva.
                             <br><br>
-                            Creada específicamente para gestores de activos, la solución de cobertura de divisas de Vanward reduce la carga operativa de la gestión interna del programa, 
+                            Creada específicamente para gestores de activos, la solución de cobertura de divisas de Sunrise reduce la carga operativa de la gestión interna del programa, 
                             permitiendo a los gestores centrarse en funciones principales.",
     "currency hedging 2" => "Delegue el Proceso, No el Control",
     "currency hedging 3" => "Con una interfaz configurable, FX HedgeHub™, una plataforma de informes en línea, proporciona una vista de 360 grados del universo de productos de cobertura de 
@@ -1389,7 +1389,7 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                             mandato en relación con el objetivo de cobertura. Nuestra solución incluye calibración personalizada del programa y diseño de implementación, seguimiento diario 
                             y administración de cobertura, cálculo de operaciones, ejecución de operaciones e informes detallados.",
     "currency hedging 6" => "Eficiencia Operativa a través de la Escalabilidad",
-    "currency hedging 7" => "Independientemente de lo simple o complejo del proceso operativo, los sistemas de Vanward están diseñados para ser eficientes y escalables. Nuestro monitoreo y 
+    "currency hedging 7" => "Independientemente de lo simple o complejo del proceso operativo, los sistemas de Sunrise están diseñados para ser eficientes y escalables. Nuestro monitoreo y 
                             validación exhaustivos antes y después de las operaciones ayudan a confirmar que se generen operaciones apropiadas de manera constante dentro de los parámetros 
                             acordados.",
     "currency hedging 8" => "Experiencia en Ejecución",
@@ -1399,16 +1399,16 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     "currency hedging 10" => "*No disponible para todos los productos",
     "currency hedging 11" => "Empresas",
     // Foreign Exchange
-    "foreign exchange 1" => "Vanward ofrece soluciones innovadoras y flexibles de cambio de divisas diseñadas para las necesidades operativas y estratégicas de gestores de activos 
+    "foreign exchange 1" => "Sunrise ofrece soluciones innovadoras y flexibles de cambio de divisas diseñadas para las necesidades operativas y estratégicas de gestores de activos 
                             globales. Respaldados por una reputación de ejecución competitiva y excelencia en relaciones, nuestro objetivo es proporcionar a cada cliente un programa 
                             integral de cambio de divisas sin problemas, desde el inicio hasta el final.",
     "foreign exchange 2" => "Experiencia en Cambio de Divisas",
-    "foreign exchange 3" => "Vanward es un proveedor de cambio de divisas probado y comprometido. Ofrecemos ejecuciones en operaciones al contado y a plazo para monedas libremente 
+    "foreign exchange 3" => "Sunrise es un proveedor de cambio de divisas probado y comprometido. Ofrecemos ejecuciones en operaciones al contado y a plazo para monedas libremente 
                             negociadas, y nos especializamos en operar en mercados emergentes y restringidos seleccionados. Nuestros clientes reciben cobertura global del mercado a través 
                             de un equipo de operaciones centralizado con gestión de relaciones locales, y tienen la opción de cómo tratar con nuestra mesa de operaciones. Nuestra 
                             experiencia en el cambio de divisas se complementa con una destacada investigación de mercado y estrategia de divisas.",
     "foreign exchange 4" => "Elección y Control del Cliente",
-    "foreign exchange 5" => "Desde la implementación hasta la asistencia en la ejecución y el informe, las soluciones de cambio de divisas personalizadas de Vanward se crean junto con los 
+    "foreign exchange 5" => "Desde la implementación hasta la asistencia en la ejecución y el informe, las soluciones de cambio de divisas personalizadas de Sunrise se crean junto con los 
                             clientes para ayudar a satisfacer sus necesidades específicas. Ofrecemos productos de cambio de divisas que aprovechan nuestra plataforma tecnológica 
                             configurable para proporcionar a los clientes opciones de ejecución con diferentes grados de participación del cliente.",
     "foreign exchange 6" => "Transparencia líder en la industria",
@@ -1416,14 +1416,14 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                             programas de cambio de divisas eficientes y completos.",
     "foreign exchange 8" => "Haga clic para ver nuestros:",
     // InfoFX
-    "infofx 1"  => "InfoFX® de Vanward es una alternativa dinámica de gestión operativa de cambio de divisas que ofrece la facilidad de una solución de bajo contacto con la perspicacia y 
+    "infofx 1"  => "InfoFX® de Sunrise es una alternativa dinámica de gestión operativa de cambio de divisas que ofrece la facilidad de una solución de bajo contacto con la perspicacia y 
                     flexibilidad de una mesa interna en mercados libremente negociados y selectos mercados restringidos.
                     <br><br>
-                    Creada específicamente para gestores de activos, InfoFX ofrece un enfoque totalmente automatizado y alojado por Vanward, construido en torno a la calidad de ejecución, 
+                    Creada específicamente para gestores de activos, InfoFX ofrece un enfoque totalmente automatizado y alojado por Sunrise, construido en torno a la calidad de ejecución, 
                     eficiencia operativa, informes exhaustivos y el control para tomar decisiones en tiempo real.",
     "infofx 2"  => "Eficiencia Operativa",
     "infofx 3"  => "InfoFX calcula automáticamente los requisitos de operaciones de cambio de divisas en función de los detalles de liquidación de valores y ofrece funcionalidades de 
-                    compensación y agregación cuando corresponda. El riesgo operativo y de liquidación se puede minimizar mediante nuestra plataforma de mensajería propietaria, Vanward.",
+                    compensación y agregación cuando corresponda. El riesgo operativo y de liquidación se puede minimizar mediante nuestra plataforma de mensajería propietaria, Sunrise.",
     "infofx 4"  => "Elección a través del Control",
     "infofx 5"  => "A través de nuestra plataforma interactiva, los clientes tienen la capacidad de programar o cambiar los horarios de ejecución para mercados seleccionados y abordar 
                     posibles errores comerciales antes de que ocurran.",
@@ -1436,26 +1436,26 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                     para que puedan evaluar la calidad de ejecución y ofrecemos la opción de configurar informes personalizados.",
     "infofx 10" => "Empresas",
     // Securities Lending
-    "securities lending 1"  => "Vanward se especializa en el préstamo de valores para gestores de activos, con aproximadamente el 90% de nuestros clientes perteneciendo a este segmento de 
-                                la industria. Los gestores de activos que trabajan con Vanward cuentan con un programa especializado adaptado a sus necesidades únicas.
+    "securities lending 1"  => "Sunrise se especializa en el préstamo de valores para gestores de activos, con aproximadamente el 90% de nuestros clientes perteneciendo a este segmento de 
+                                la industria. Los gestores de activos que trabajan con Sunrise cuentan con un programa especializado adaptado a sus necesidades únicas.
                                 <br><br>
-                                Apoyado por una plataforma 'neutral con respecto a custodios', todos los clientes de préstamo de valores de Vanward reciben el mismo nivel de excelencia 
+                                Apoyado por una plataforma 'neutral con respecto a custodios', todos los clientes de préstamo de valores de Sunrise reciben el mismo nivel de excelencia 
                                 operativa, flexibilidad y servicio, independientemente de su custodio. Más del 50% de nuestro negocio es impulsado por préstamos de 'terceros' y mantenemos 
                                 conexiones automatizadas con la mayoría de los custodios globales.",
     "securities lending 2"  => "La Importancia de la Gestión de Riesgos",
     "securities lending 3"  => "El préstamo para gestores de activos es diferente al tipo de préstamo que suelen favorecer los fondos de pensiones, bancos, fondos soberanos y aseguradoras. 
-                                Esta diferencia radica en la gestión del riesgo. Vanward es experto en estructurar programas de préstamo de valores que maximizan los rendimientos de 
+                                Esta diferencia radica en la gestión del riesgo. Sunrise es experto en estructurar programas de préstamo de valores que maximizan los rendimientos de 
                                 nuestros clientes dentro de tolerancias de riesgo específicas.",
     "securities lending 4"  => "La Dinámica del Trading de Préstamo de Valores",
-    "securities lending 5"  => "Al no mantener un programa de préstamo de gran volumen, Vanward está posicionado de manera única para ejecutar estrategias basadas en el valor para nuestros 
-                                clientes. Al asociarse con Vanward, los gestores de activos pueden estar seguros de que se unirán a otros prestamistas con ideas afines, en un programa que 
+    "securities lending 5"  => "Al no mantener un programa de préstamo de gran volumen, Sunrise está posicionado de manera única para ejecutar estrategias basadas en el valor para nuestros 
+                                clientes. Al asociarse con Sunrise, los gestores de activos pueden estar seguros de que se unirán a otros prestamistas con ideas afines, en un programa que 
                                 tiene una ventaja estructural única para negociar comisiones por sus préstamos de mayor valor.
                                 <br><br>
                                 Nuestra estrategia de negociación maximiza el rendimiento de un número relativamente pequeño de operaciones que ofrecen los rendimientos más significativos, 
                                 a través de un equipo de operaciones globales en Londres, Boston y Hong Kong que comprende en profundidad las dinámicas que impulsan la demanda de los 
                                 prestatarios. Utilizamos la tecnología para automatizar la actividad de negociación de bajo valor que complementa estas oportunidades de alto margen.",
     "securities lending 6"  => "Herramientas Digitales Pioneras Adaptadas a Necesidades Únicas",
-    "securities lending 7"  => "Antes de la operación, Vanward ofrece Securities Lending DealBoard, que permite a nuestros clientes ver oportunidades de ingresos, demanda de préstamos y 
+    "securities lending 7"  => "Antes de la operación, Sunrise ofrece Securities Lending DealBoard, que permite a nuestros clientes ver oportunidades de ingresos, demanda de préstamos y 
                                 tendencias de precios de las acciones en un solo lugar. Nuestros clientes pueden ver y actuar en cada oportunidad en sus fondos. Después de la operación, 
                                 hemos lanzado una nueva experiencia digital para ofrecer la próxima generación de transparencia, lo que permite a nuestros clientes supervisar su programa 
                                 de préstamo en tiempo real, monitorear los ingresos y los mercados que los generan.",
@@ -1465,126 +1465,126 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     // fx disclosure
     "fx disclosure 1"   => "Introducción
                             <br><br>
-                            Este Aviso de Divulgación de FX (“Aviso”) describe la relación entre los clientes y Vanward (“Vanward”)1 y/o sus afiliados (colectivamente \"Vanward\") y divulga 
-                            ciertas prácticas de Vanward en la fijación de precios, manejo y ejecución de transacciones de FX en relación con su negocio de cambio de divisas o servicios de 
-                            ejecución de divisas. Vanward puede proporcionar otros productos y/o servicios a los clientes, sin embargo, a menos que se haga referencia explícitamente aquí, 
+                            Este Aviso de Divulgación de FX (“Aviso”) describe la relación entre los clientes y Sunrise (“Sunrise”)1 y/o sus afiliados (colectivamente \"Sunrise\") y divulga 
+                            ciertas prácticas de Sunrise en la fijación de precios, manejo y ejecución de transacciones de FX en relación con su negocio de cambio de divisas o servicios de 
+                            ejecución de divisas. Sunrise puede proporcionar otros productos y/o servicios a los clientes, sin embargo, a menos que se haga referencia explícitamente aquí, 
                             dichos productos y/o servicios no están contemplados en este Aviso.
                             <br><br>
-                            Este Aviso complementa, pero no reemplaza, los contratos que rigen las relaciones entre los clientes y Vanward. En caso de conflicto entre este Aviso y un 
+                            Este Aviso complementa, pero no reemplaza, los contratos que rigen las relaciones entre los clientes y Sunrise. En caso de conflicto entre este Aviso y un 
                             contrato, el contrato prevalecerá.
                             <br><br>
-                            Los clientes que tengan preguntas sobre este Aviso o sobre cómo Vanward fija los precios, maneja o ejecuta transacciones de FX pueden comunicarse con su Gerente 
+                            Los clientes que tengan preguntas sobre este Aviso o sobre cómo Sunrise fija los precios, maneja o ejecuta transacciones de FX pueden comunicarse con su Gerente 
                             de Relaciones de FX.",
     "fx disclosure 2"   => "Prácticas generales",
     "fx disclosure 3"   => "Métodos de comunicación",
-    "fx disclosure 4"   => "Los clientes pueden comunicarse con Vanward electrónicamente, por teléfono o a través de otros canales permitidos.2 Vanward puede, a su discreción, aceptar 
+    "fx disclosure 4"   => "Los clientes pueden comunicarse con Sunrise electrónicamente, por teléfono o a través de otros canales permitidos.2 Sunrise puede, a su discreción, aceptar 
                             ciertas instrucciones de los clientes por correo electrónico. Es posible que se requiera que los clientes ejecuten ciertos documentos y/o cumplan con requisitos 
-                            específicos de Vanward antes de que Vanward acepte dichas instrucciones por correo electrónico.",
+                            específicos de Sunrise antes de que Sunrise acepte dichas instrucciones por correo electrónico.",
     "fx disclosure 5"   => "Manejo de la información",
-    "fx disclosure 6"   => "Vanward tiene políticas y procedimientos diseñados para proteger razonablemente la confidencialidad de la información de los clientes y contrapartes al 
+    "fx disclosure 6"   => "Sunrise tiene políticas y procedimientos diseñados para proteger razonablemente la confidencialidad de la información de los clientes y contrapartes al 
                             restringir la divulgación y el uso de información confidencial. Estas políticas y procedimientos generalmente restringen la divulgación de información 
                             confidencial del cliente a partes que 'necesiten saber' para ejecutar transacciones o realizar de otra manera el acuerdo acordado y gestionar eventos 
                             posteriores relacionados con dicha ejecución o desempeño. También se establece que la información confidencial del cliente solo puede utilizarse con fines 
-                            comerciales legítimos para proporcionar un producto, realizar un servicio o supervisar un producto o servicio que Vanward haya sido contratado, o se espere que 
-                            realice. Sin embargo, Vanward puede utilizar información confidencial del cliente suficientemente agregada y anonimizada para formar opiniones sobre las 
-                            tendencias del mercado que puede compartir con los clientes (por ejemplo, análisis del mercado). Además, como entidad regulada, es posible que Vanward esté 
+                            comerciales legítimos para proporcionar un producto, realizar un servicio o supervisar un producto o servicio que Sunrise haya sido contratado, o se espere que 
+                            realice. Sin embargo, Sunrise puede utilizar información confidencial del cliente suficientemente agregada y anonimizada para formar opiniones sobre las 
+                            tendencias del mercado que puede compartir con los clientes (por ejemplo, análisis del mercado). Además, como entidad regulada, es posible que Sunrise esté 
                             obligado a compartir información confidencial del cliente con los reguladores globales pertinentes.",
     "fx disclosure 7"   => "Conflictos de interés",
-    "fx disclosure 8"   => "Aunque Vanward toma todas las medidas razonables para evitar que los conflictos de interés afecten adversamente los intereses de sus clientes, los intereses de 
-                            Vanward pueden entrar en conflicto en ocasiones con los intereses de sus clientes, y los intereses de los clientes pueden entrar en conflicto entre sí. Por 
-                            ejemplo, Vanward puede ejecutar transacciones y llevar posiciones en varios productos de FX, incluidos los spot, forwards (incluidos forwards no entregables) y 
+    "fx disclosure 8"   => "Aunque Sunrise toma todas las medidas razonables para evitar que los conflictos de interés afecten adversamente los intereses de sus clientes, los intereses de 
+                            Sunrise pueden entrar en conflicto en ocasiones con los intereses de sus clientes, y los intereses de los clientes pueden entrar en conflicto entre sí. Por 
+                            ejemplo, Sunrise puede ejecutar transacciones y llevar posiciones en varios productos de FX, incluidos los spot, forwards (incluidos forwards no entregables) y 
                             swaps, en su libro en relación con solicitudes de operaciones reales o anticipadas de los clientes, estrategias de cobertura o de otra manera. Las actividades 
-                            de Vanward en relación con dichas transacciones y posiciones podrían afectar los precios y la liquidez disponibles, potencialmente en detrimento de un cliente. 
-                            Cuando Vanward acepta y trata de cumplir con un pedido de un cliente, puede estar participando en actividades de negociación de FX para su propio beneficio en 
-                            los mismos o similares productos de FX. Cuando Vanward proporciona otros productos y/o servicios a un cliente, la provisión de dichos productos y/o servicios 
+                            de Sunrise en relación con dichas transacciones y posiciones podrían afectar los precios y la liquidez disponibles, potencialmente en detrimento de un cliente. 
+                            Cuando Sunrise acepta y trata de cumplir con un pedido de un cliente, puede estar participando en actividades de negociación de FX para su propio beneficio en 
+                            los mismos o similares productos de FX. Cuando Sunrise proporciona otros productos y/o servicios a un cliente, la provisión de dichos productos y/o servicios 
                             también puede dar lugar a otros conflictos de interés.",
-    "fx disclosure 9"   => "Vanward realiza transacciones con clientes en calidad de principal",
-    "fx disclosure 10"  => "Vanward ejecuta transacciones de FX en calidad de principal como contraparte de sus clientes. Cuando actúa en calidad de principal, Vanward: (i) negocia por su 
+    "fx disclosure 9"   => "Sunrise realiza transacciones con clientes en calidad de principal",
+    "fx disclosure 10"  => "Sunrise ejecuta transacciones de FX en calidad de principal como contraparte de sus clientes. Cuando actúa en calidad de principal, Sunrise: (i) negocia por su 
                             propia cuenta, bajo su propio riesgo, en su beneficio; y (ii) no actúa como agente, fiduciario, asesor financiero u otra capacidad similar para o en nombre de 
-                            los clientes. Se espera que los clientes que operen con Vanward actuando en calidad de principal evalúen de manera independiente la adecuación de cualquier 
-                            transacción propuesta. Además, cualquier declaración realizada por el personal de negociación de Vanward o distribuida a través de un sistema electrónico de 
-                            Vanward no debe interpretarse ni depender de ella como asesoramiento o recomendación.",
+                            los clientes. Se espera que los clientes que operen con Sunrise actuando en calidad de principal evalúen de manera independiente la adecuación de cualquier 
+                            transacción propuesta. Además, cualquier declaración realizada por el personal de negociación de Sunrise o distribuida a través de un sistema electrónico de 
+                            Sunrise no debe interpretarse ni depender de ella como asesoramiento o recomendación.",
     "fx disclosure 11"  => "Fijación de precios",
-    "fx disclosure 12"  => "Cualquier cotización de precios o tasas de transmisión que proporcione Vanward es un precio indicativo 'todo incluido'. Vanward ejerce discreción al adaptar sus 
+    "fx disclosure 12"  => "Cualquier cotización de precios o tasas de transmisión que proporcione Sunrise es un precio indicativo 'todo incluido'. Sunrise ejerce discreción al adaptar sus 
                             precios indicativos para clientes o transacciones individuales, teniendo en cuenta una variedad de factores comerciales. Estos factores pueden incluir, entre 
                             otros: (i) las condiciones del mercado vigentes; (ii) el tamaño del pedido; (iii) la hora del día; (iv) la liquidez de la(s) divisa(s); (v) la relación de 
-                            Vanward con el cliente; (vi) los costos que Vanward pueda incurrir en relación con la transacción; y (vii) los riesgos crediticios, de liquidación, operativos y 
-                            otros de la transacción. Vanward puede diferenciar sus precios indicativos según el lugar de negociación, la plataforma o el método de comunicación. Como tal, 
-                            Vanward puede proporcionar diferentes precios indicativos para las mismas o similares transacciones a diferentes clientes. Vanward puede cambiar sus estrategias 
+                            Sunrise con el cliente; (vi) los costos que Sunrise pueda incurrir en relación con la transacción; y (vii) los riesgos crediticios, de liquidación, operativos y 
+                            otros de la transacción. Sunrise puede diferenciar sus precios indicativos según el lugar de negociación, la plataforma o el método de comunicación. Como tal, 
+                            Sunrise puede proporcionar diferentes precios indicativos para las mismas o similares transacciones a diferentes clientes. Sunrise puede cambiar sus estrategias 
                             de precios sin previo aviso y no está obligado a revelar los componentes de su precio 'todo incluido'.
                             <br><br>
-                            Vanward puede, de vez en cuando, acordar ejecutar órdenes utilizando arreglos de precios alternativos (consulte, por ejemplo, tasas de referencia y tasas fijas 
+                            Sunrise puede, de vez en cuando, acordar ejecutar órdenes utilizando arreglos de precios alternativos (consulte, por ejemplo, tasas de referencia y tasas fijas 
                             y algoritmos).",
     "fx disclosure 13"  => "Cobertura y posicionamiento previo",
-    "fx disclosure 14"  => "Vanward puede participar en actividades de cobertura y posicionamiento previo basadas en su conocimiento de las actividades de negociación de sus clientes. 
-                            Vanward se esforzará por llevar a cabo estas actividades de cobertura y posicionamiento previo de manera que no perjudique a los clientes y con la intención de 
-                            evitar impactar materialmente los precios del mercado. Vanward lleva a cabo actividades de cobertura y posicionamiento previo en calidad de principal en 
+    "fx disclosure 14"  => "Sunrise puede participar en actividades de cobertura y posicionamiento previo basadas en su conocimiento de las actividades de negociación de sus clientes. 
+                            Sunrise se esforzará por llevar a cabo estas actividades de cobertura y posicionamiento previo de manera que no perjudique a los clientes y con la intención de 
+                            evitar impactar materialmente los precios del mercado. Sunrise lleva a cabo actividades de cobertura y posicionamiento previo en calidad de principal en 
                             relación con sus actividades principales, bajo su propio riesgo, y no como agente de los clientes.",
     "fx disclosure 15"  => "Tasas de referencia y tasas fijas",
-    "fx disclosure 16"  => "Vanward puede acordar ejecutar una orden del cliente basándose en una tasa de referencia o tasa fija. Si bien Vanward no intenta intencionadamente afectar las 
+    "fx disclosure 16"  => "Sunrise puede acordar ejecutar una orden del cliente basándose en una tasa de referencia o tasa fija. Si bien Sunrise no intenta intencionadamente afectar las 
                             tasas de referencia o tasas fijas, puede participar en actividades de cobertura u otras actividades de FX que puedan impactar las tasas de referencia o tasas 
                             fijas definitivas.",
     "fx disclosure 17"  => "Manejo de órdenes",
-    "fx disclosure 18"  => "Cuando Vanward reconoce, acepta o declara que está dispuesto a 'trabajar' una orden del cliente, intentará pero no está obligado contractualmente a ejecutar la 
-                            operación al precio y cantidad solicitados o cerca de estos. Vanward no está obligado a aceptar las órdenes de los clientes y puede aceptar o rechazar cualquier 
+    "fx disclosure 18"  => "Cuando Sunrise reconoce, acepta o declara que está dispuesto a 'trabajar' una orden del cliente, intentará pero no está obligado contractualmente a ejecutar la 
+                            operación al precio y cantidad solicitados o cerca de estos. Sunrise no está obligado a aceptar las órdenes de los clientes y puede aceptar o rechazar cualquier 
                             orden por cualquier motivo a su sola discreción. El hecho de que se haya activado una condición a la que está sujeta una orden (por ejemplo, una orden de stop 
-                            loss) no significa que Vanward pueda o vaya a completar la orden al precio y/o cantidad solicitados. Vanward puede secuenciar/priorizar las órdenes de los 
+                            loss) no significa que Sunrise pueda o vaya a completar la orden al precio y/o cantidad solicitados. Sunrise puede secuenciar/priorizar las órdenes de los 
                             clientes a su sola discreción y puede agregar las órdenes de los clientes con el fin de fijar el precio.",
     "fx disclosure 19"  => "Manejo de solicitudes recibidas a través de plataformas de negociación electrónica (Última mirada)",
-    "fx disclosure 20"  => "Cualquier cotización de precios o tasas de transmisión que proporcione Vanward es un precio indicativo 'todo incluido'. Los clientes pueden enviar una solicitud 
-                            electrónica de operación (una oferta) para operar con Vanward en respuesta a dichos precios indicativos 'todo incluido' y, en tal caso, Vanward puede aceptar o 
+    "fx disclosure 20"  => "Cualquier cotización de precios o tasas de transmisión que proporcione Sunrise es un precio indicativo 'todo incluido'. Los clientes pueden enviar una solicitud 
+                            electrónica de operación (una oferta) para operar con Sunrise en respuesta a dichos precios indicativos 'todo incluido' y, en tal caso, Sunrise puede aceptar o 
                             rechazar esa solicitud electrónica de operación a su sola discreción.",
     "fx disclosure 21"  => "Operaciones algorítmicas",
-    "fx disclosure 22"  => "Vanward puede utilizar estrategias de operaciones algorítmicas al ejecutar operaciones principales de cambio de divisas con fines de gestión de riesgos propios. 
-                            Vanward también puede brindar a los clientes acceso a su servicio de ejecución algorítmica (‘Servicio de Ejecución Algorítmica’). El Servicio de Ejecución 
-                            Algorítmica permite que un cliente solicite realizar una transacción de cambio de divisas con Vanward, a un precio basado en tasas derivadas de operaciones 
-                            compensatorias entre Vanward y proveedores de liquidez, y sujeto a cualquier margen acordado por Vanward. Bajo el Servicio de Ejecución Algorítmica, las 
-                            operaciones compensatorias mencionadas entre Vanward y los proveedores de liquidez se realizarán en función del algoritmo solicitado por el cliente y otros 
+    "fx disclosure 22"  => "Sunrise puede utilizar estrategias de operaciones algorítmicas al ejecutar operaciones principales de cambio de divisas con fines de gestión de riesgos propios. 
+                            Sunrise también puede brindar a los clientes acceso a su servicio de ejecución algorítmica (‘Servicio de Ejecución Algorítmica’). El Servicio de Ejecución 
+                            Algorítmica permite que un cliente solicite realizar una transacción de cambio de divisas con Sunrise, a un precio basado en tasas derivadas de operaciones 
+                            compensatorias entre Sunrise y proveedores de liquidez, y sujeto a cualquier margen acordado por Sunrise. Bajo el Servicio de Ejecución Algorítmica, las 
+                            operaciones compensatorias mencionadas entre Sunrise y los proveedores de liquidez se realizarán en función del algoritmo solicitado por el cliente y otros 
                             parámetros de acuerdo con los Términos y Condiciones de Ejecución Algorítmica aplicables.",
     "fx disclosure 23"  => "FX como agente",
     "fx disclosure 24"  => "Servicios de Ejecución de Divisas",
-    "fx disclosure 25"  => "Vanward Investor Services Limited ('VanwardISL') puede acordar actuar como agente en la ejecución de operaciones del cliente con agentes de compensación 
+    "fx disclosure 25"  => "Sunrise Investor Services Limited ('SunriseISL') puede acordar actuar como agente en la ejecución de operaciones del cliente con agentes de compensación 
                             designados por el cliente o contrapartes bancarias aprobadas como parte de sus Servicios de Ejecución de Divisas ('operaciones CES'). La fijación de precios de 
                             las operaciones CES se basará en tasas derivadas de un grupo de proveedores de liquidez, más una tarifa previamente acordada, si corresponde. Las operaciones de 
-                            agencia se realizan de conformidad con la Política de Manejo de Órdenes de VanwardISL. VanwardISL puede delegar la responsabilidad de cumplir ciertas funciones 
-                            relacionadas con las operaciones CES a Vanward, que también se dedica a una actividad comercial principal. Por lo tanto, existe un riesgo de conflicto de 
-                            intereses entre las actividades de agente y de comercio principal de Vanward.
+                            agencia se realizan de conformidad con la Política de Manejo de Órdenes de SunriseISL. SunriseISL puede delegar la responsabilidad de cumplir ciertas funciones 
+                            relacionadas con las operaciones CES a Sunrise, que también se dedica a una actividad comercial principal. Por lo tanto, existe un riesgo de conflicto de 
+                            intereses entre las actividades de agente y de comercio principal de Sunrise.
                             <br><br>
-                            VanwardISL puede, a su discreción, agregar las operaciones CES de varios clientes con fines de fijación de precios. Aunque es poco probable que la agregación de 
+                            SunriseISL puede, a su discreción, agregar las operaciones CES de varios clientes con fines de fijación de precios. Aunque es poco probable que la agregación de 
                             órdenes y transacciones perjudique en general a algún cliente cuyas órdenes se deban agregar, el efecto de la agregación podría perjudicar a un cliente en 
                             relación con una orden específica.",
     "fx disclosure 26"  => "Otras actividades como agente",
-    "fx disclosure 27"  => "En ciertos casos, Vanward puede ejecutar transacciones de cambio de divisas como agente de sus clientes. En tales casos, Vanward actúa únicamente como agente 
+    "fx disclosure 27"  => "En ciertos casos, Sunrise puede ejecutar transacciones de cambio de divisas como agente de sus clientes. En tales casos, Sunrise actúa únicamente como agente 
                             para fines de ejecución y no actúa como agente, fiduciario, asesor financiero u otra capacidad similar para o en nombre de los clientes.",
     "fx disclosure 28"  => "Cobertura y posicionamiento previo",
-    "fx disclosure 29"  => "VanwardISL no se dedica a la cobertura ni al posicionamiento previo cuando actúa en calidad de agente.
+    "fx disclosure 29"  => "SunriseISL no se dedica a la cobertura ni al posicionamiento previo cuando actúa en calidad de agente.
                             <br><br>
-                            ¹ A la fecha de publicación de este comunicado, Vanward es la única entidad de Vanward que ejecuta transacciones de cambio de divisas como principal. <br>
-                            ² Vanward puede grabar las comunicaciones telefónicas según lo permitido por las normas locales aplicables.",
+                            ¹ A la fecha de publicación de este comunicado, Sunrise es la única entidad de Sunrise que ejecuta transacciones de cambio de divisas como principal. <br>
+                            ² Sunrise puede grabar las comunicaciones telefónicas según lo permitido por las normas locales aplicables.",
     // Requisitos de informes regulatorios
-    "regulatory reporting requirements 1" => "De acuerdo con los requisitos relevantes de informes Dodd-Frank/CFTC, Vanward ('Vanward') comenzó a informar ciertas Transacciones de Divisas 
+    "regulatory reporting requirements 1" => "De acuerdo con los requisitos relevantes de informes Dodd-Frank/CFTC, Sunrise ('Sunrise') comenzó a informar ciertas Transacciones de Divisas 
                                                 Cubiertas a su repositorio de datos de permutas, DTCC Data Repository (U.S.) LLC, el 10 de abril de 2013.",
     "regulatory reporting requirements 2" => "TRANSACCIONES DE DIVISAS CUBIERTAS",
     "regulatory reporting requirements 3" => "Las Transacciones de Divisas Cubiertas incluyen todos los contratos de cambio de divisas ('FX') forward, swap de FX y/o permutas ejecutadas 
-                                                con Vanward como principal, ya sea (1) antes del 21 de julio de 2010, pero que aún estaban vigentes el 21 de julio de 2010, o (2) en o 
+                                                con Sunrise como principal, ya sea (1) antes del 21 de julio de 2010, pero que aún estaban vigentes el 21 de julio de 2010, o (2) en o 
                                                 después del 21 de julio de 2010.
                                                 <br><br>
                                                 Las Transacciones de Divisas Cubiertas no incluyen transacciones al contado (es decir, operaciones de FX con una fecha de liquidación T+2 o 
-                                                que constituyen operaciones al contado genuinas), que generalmente están excluidas de los informes de Dodd-Frank. Vanward tratará cualquier 
+                                                que constituyen operaciones al contado genuinas), que generalmente están excluidas de los informes de Dodd-Frank. Sunrise tratará cualquier 
                                                 transacción de FX con un plazo de T+3 o más como una transacción al contado si (i) se proporcionan suficientes detalles relacionados con la 
-                                                operación de seguridad subyacente a Vanward en el momento de la ejecución, o (ii) Vanward ha concluido que dicha transacción de FX es una 
+                                                operación de seguridad subyacente a Sunrise en el momento de la ejecución, o (ii) Sunrise ha concluido que dicha transacción de FX es una 
                                                 transacción al contado genuina (por ejemplo, debido a la relación comercial, por ejemplo, transacción de FX instruida a través de una 
-                                                instrucción permanente de FX de custodia o el producto InfoFX de Vanward). De lo contrario, Vanward tratará dicha transacción de FX como un 
+                                                instrucción permanente de FX de custodia o el producto InfoFX de Sunrise). De lo contrario, Sunrise tratará dicha transacción de FX como un 
                                                 forward de FX sujeto a los informes de Dodd-Frank.",
     "regulatory reporting requirements 4" => "CONTRAPARTE DE INFORMES",
-    "regulatory reporting requirements 5" => "Vanward es y será la contraparte de informes con respecto a una Transacción de Divisas Cubierta, a menos que:
+    "regulatory reporting requirements 5" => "Sunrise es y será la contraparte de informes con respecto a una Transacción de Divisas Cubierta, a menos que:
                                                 <br><br>
-                                                La contraparte comercial de Vanward sea un swap dealer (ya sea o no una Persona de EE. UU.);
-                                                La contraparte comercial de Vanward sea un participante importante en permutas (ya sea o no una Persona de EE. UU.); o
-                                                La contraparte comercial de Vanward sea una Persona de EE. UU. y una entidad financiera (y no un swap dealer o un participante importante en 
+                                                La contraparte comercial de Sunrise sea un swap dealer (ya sea o no una Persona de EE. UU.);
+                                                La contraparte comercial de Sunrise sea un participante importante en permutas (ya sea o no una Persona de EE. UU.); o
+                                                La contraparte comercial de Sunrise sea una Persona de EE. UU. y una entidad financiera (y no un swap dealer o un participante importante en 
                                                 permutas) que haya solicitado ser la contraparte de informes.",
     "regulatory reporting requirements 6" => "INFORMACIÓN DE CONTRAPARTE DE COMERCIO",
-    "regulatory reporting requirements 7" => "Para confirmar su papel como contraparte de informes y garantizar informes precisos y completos, Vanward requerirá la siguiente información de 
+    "regulatory reporting requirements 7" => "Para confirmar su papel como contraparte de informes y garantizar informes precisos y completos, Sunrise requerirá la siguiente información de 
                                                 sus contrapartes de comercio:
                                                 <br><br>
                                                 Identificador Legal de la Entidad de Contraparte ('LEI') o Identificador Global de Entidad de Mercados ('GMEI') de la contraparte de 
@@ -1593,24 +1593,24 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                                                 Si la contraparte de comercio es un swap dealer o un participante importante en permutas registrado; y
                                                 Si la contraparte de comercio es una entidad financiera.
                                                 <br><br>
-                                                Vanward también espera ser notificado de manera oportuna en caso de cambios en lo anterior.
+                                                Sunrise también espera ser notificado de manera oportuna en caso de cambios en lo anterior.
                                                 <br><br>
-                                                En su informe de una Transacción de Divisas Cubierta, Vanward se comunicará con una contraparte de comercio para obtener su LEI/GMEI si 
-                                                Vanward aún no ha recibido esa información, o para obtener garantías que demuestren que la Transacción de Divisas Cubierta fue de hecho una 
-                                                transacción al contado genuina. Si ninguna de estas se proporciona satisfactoriamente a Vanward, Vanward informará la Transacción de Divisas 
-                                                Cubierta utilizando un identificador interno de Vanward.
+                                                En su informe de una Transacción de Divisas Cubierta, Sunrise se comunicará con una contraparte de comercio para obtener su LEI/GMEI si 
+                                                Sunrise aún no ha recibido esa información, o para obtener garantías que demuestren que la Transacción de Divisas Cubierta fue de hecho una 
+                                                transacción al contado genuina. Si ninguna de estas se proporciona satisfactoriamente a Sunrise, Sunrise informará la Transacción de Divisas 
+                                                Cubierta utilizando un identificador interno de Sunrise.
                                                 <br><br>
-                                                Por favor, dirija cualquier consulta relacionada con Dodd Frank a su gerente de relaciones con Vanward o a FXReg.reports@vanwardintl.com.
+                                                Por favor, dirija cualquier consulta relacionada con Dodd Frank a su gerente de relaciones con Sunrise o a FXReg.reports@Sunriseintl.com.
                                                 <br><br>
                                                 [1] La información LEI/GMEI no es aplicable a las Transacciones de Divisas Cubiertas que vencieron o terminaron antes del 25 de abril de 
                                                 2011.
                                                 <br><br>
-                                                De acuerdo con los requisitos relevantes de informes de transacciones adoptados por los reguladores provinciales de Canadá, Vanward 
-                                                ('Vanward') comenzó a informar ciertas Transacciones de Divisas Cubiertas a su repositorio de operaciones designado, DTCC Data Repository 
+                                                De acuerdo con los requisitos relevantes de informes de transacciones adoptados por los reguladores provinciales de Canadá, Sunrise 
+                                                ('Sunrise') comenzó a informar ciertas Transacciones de Divisas Cubiertas a su repositorio de operaciones designado, DTCC Data Repository 
                                                 (U.S.) LLC, el 31 de octubre de 2014.",
     "regulatory reporting requirements 8" => "TRANSACCIONES DE DIVISAS CUBIERTAS",
     "regulatory reporting requirements 9" => "Las Transacciones de Divisas Cubiertas incluyen todos los contratos de cambio de divisas ('FX') forward, swap de FX y/o permutas ejecutadas 
-                                                con Vanward, como principal, ya sea en o después del 31 de octubre de 2014 con una contraparte local canadiense.
+                                                con Sunrise, como principal, ya sea en o después del 31 de octubre de 2014 con una contraparte local canadiense.
                                                 <br><br>
                                                 Una 'contraparte local' es, en el momento de la transacción: (a) una persona o empresa organizada bajo las leyes de, o que tenga su sede 
                                                 principal o lugar principal de negocios en la respectiva provincia canadiense, o (b) una afiliada de una entidad descrita en (a) donde la 
@@ -1622,20 +1622,20 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                                                 operación de seguridad relevante, (ii) tiene la intención, en el momento de la ejecución, de ser liquidado mediante la entrega de la divisa 
                                                 dentro de los períodos de tiempo establecidos en (i) anteriormente, y (iii) no permite que el contrato o instrumento sea renovado.
                                                 <br><br>
-                                                Vanward generalmente tratará cualquier transacción de FX con un plazo de T+3 o más como una transacción al contado si (i) se proporcionan 
-                                                suficientes detalles relacionados con la operación de seguridad subyacente a Vanward en el momento de la ejecución, o (ii) Vanward ha 
+                                                Sunrise generalmente tratará cualquier transacción de FX con un plazo de T+3 o más como una transacción al contado si (i) se proporcionan 
+                                                suficientes detalles relacionados con la operación de seguridad subyacente a Sunrise en el momento de la ejecución, o (ii) Sunrise ha 
                                                 concluido que dicha transacción de FX es una transacción al contado (por ejemplo, debido a la relación comercial, por ejemplo, transacción 
-                                                de FX instruida a través de una instrucción permanente de FX de custodia o el producto InfoFX de Vanward). De lo contrario, Vanward tratará 
+                                                de FX instruida a través de una instrucción permanente de FX de custodia o el producto InfoFX de Sunrise). De lo contrario, Sunrise tratará 
                                                 dicha transacción de FX como un forward de FX sujeto a los informes de las autoridades reguladoras provinciales canadienses.",
     "regulatory reporting requirements 10" => "CONTRAPARTE DE INFORMES",
-    "regulatory reporting requirements 11" => "Vanward es y será la contraparte de informes con respecto a una Transacción de Divisas Cubierta, a menos que:
+    "regulatory reporting requirements 11" => "Sunrise es y será la contraparte de informes con respecto a una Transacción de Divisas Cubierta, a menos que:
                                                 <br><br>
-                                                La contraparte comercial de Vanward sea un distribuidor canadiense o distribuidor de derivados que haya aceptado ser la contraparte de 
+                                                La contraparte comercial de Sunrise sea un distribuidor canadiense o distribuidor de derivados que haya aceptado ser la contraparte de 
                                                 informes; o
-                                                La contraparte comercial de Vanward sea una contraparte local canadiense (y no un distribuidor canadiense o distribuidor de derivados) que 
+                                                La contraparte comercial de Sunrise sea una contraparte local canadiense (y no un distribuidor canadiense o distribuidor de derivados) que 
                                                 haya solicitado ser la contraparte de informes.",
     "regulatory reporting requirements 12" => "INFORMACIÓN DE CONTRAPARTE DE COMERCIO",
-    "regulatory reporting requirements 13" => "Para confirmar su papel como contraparte de informes y garantizar informes precisos y completos, Vanward requerirá la siguiente información 
+    "regulatory reporting requirements 13" => "Para confirmar su papel como contraparte de informes y garantizar informes precisos y completos, Sunrise requerirá la siguiente información 
                                                 de sus contrapartes de comercio:
                                                 <br><br>
                                                 Identificador Legal de la Entidad de Contraparte ('LEI') o Identificador Global de Entidad de Mercados ('GMEI') de la contraparte de 
@@ -1643,49 +1643,49 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                                                 Si la contraparte de comercio es un distribuidor canadiense o distribuidor de derivados.
                                                 Si la contraparte de comercio es una contraparte local canadiense.
                                                 <br><br>
-                                                Vanward también espera ser notificado de manera oportuna en caso de cambios en lo anterior.
+                                                Sunrise también espera ser notificado de manera oportuna en caso de cambios en lo anterior.
                                                 <br><br>
-                                                En su informe de una Transacción de Divisas Cubierta, Vanward se comunicará con una contraparte de comercio para obtener su LEI/GMEI si 
-                                                Vanward aún no ha recibido esa información, o para obtener garantías que demuestren que la Transacción de Divisas Cubierta fue una 
+                                                En su informe de una Transacción de Divisas Cubierta, Sunrise se comunicará con una contraparte de comercio para obtener su LEI/GMEI si 
+                                                Sunrise aún no ha recibido esa información, o para obtener garantías que demuestren que la Transacción de Divisas Cubierta fue una 
                                                 transacción al contado que cumple con los requisitos mencionados anteriormente.
                                                 <br><br>
                                                 Por favor, dirija cualquier consulta sobre informes comerciales de las autoridades reguladoras provinciales canadienses a su gerente de 
-                                                relaciones con Vanward.",
+                                                relaciones con Sunrise.",
     // terms and conditions
     "terms and conditions 1" => "Estos Términos y Condiciones de Divisas constituyen el contrato aplicable a cualquier operación de cambio de divisas, incluyendo, sin limitación, cualquier 
-                                    instrucción permanente para una operación de cambio de divisas (cada una una 'Transacción') celebrada entre Vanward ('Vanward') y una contraparte 
-                                    ('usted', 'su'), excepto en la medida en que Vanward haya acordado por escrito o le haya notificado por escrito que se aplican otros términos 
+                                    instrucción permanente para una operación de cambio de divisas (cada una una 'Transacción') celebrada entre Sunrise ('Sunrise') y una contraparte 
+                                    ('usted', 'su'), excepto en la medida en que Sunrise haya acordado por escrito o le haya notificado por escrito que se aplican otros términos 
                                     adicionales.",
     "terms and conditions 2" => "Compensación de Liquidación.",
-    "terms and conditions 3" => "A menos que se acuerde lo contrario por escrito por Vanward, cualquier cantidad que deba pagar una parte en una Transacción a la otra parte de dicha 
+    "terms and conditions 3" => "A menos que se acuerde lo contrario por escrito por Sunrise, cualquier cantidad que deba pagar una parte en una Transacción a la otra parte de dicha 
                                     Transacción con respecto a ventas o compras de la misma divisa para la misma fecha de valoración se liquidará por el monto neto de la moneda comprada y 
                                     vendida, y la obligación de cada parte de efectuar el pago del monto bruto se cumplirá y reemplazará automáticamente por una obligación de la parte 
                                     correspondiente de efectuar el pago del monto neto.",
     "terms and conditions 4" => "Eventos de Incumplimiento",
     "terms and conditions 5" => "(i) Cada uno de los siguientes será considerado un evento de incumplimiento (cada uno, un 'Evento de Incumplimiento'): (a) Su incumplimiento de realizar (o 
                                     sus fondos disponibles son insuficientes para realizar), cuando corresponda, cualquier pago requerido en virtud de una Transacción, si dicho 
-                                    incumplimiento no se subsana en o antes del primer día hábil después de la notificación de dicho incumplimiento por parte de Vanward; (b) Usted, su 
+                                    incumplimiento no se subsana en o antes del primer día hábil después de la notificación de dicho incumplimiento por parte de Sunrise; (b) Usted, su 
                                     empresa matriz, afiliada o gestor / asesor de inversiones (según corresponda), está sujeto a un evento que implique la quiebra, insolvencia, 
                                     administración, liquidación, disolución o liquidación, ejecución de una garantía o interés de seguridad, ejecución hipotecaria o cualquier otro proceso 
                                     legal que involucre la pérdida de la propiedad beneficiaria de la totalidad o de una parte sustancial de sus activos (un 'Evento de Insolvencia'); o (c) 
                                     Usted está sujeto a un evento o una serie de eventos, ya sea o no dentro de su control (incluyendo, sin limitación, cualquier cambio adverso 
-                                    significativo en su negocio, activos o posición financiera / calificación crediticia) que Vanward determine a su exclusiva discreción que pueda afectar 
+                                    significativo en su negocio, activos o posición financiera / calificación crediticia) que Sunrise determine a su exclusiva discreción que pueda afectar 
                                     negativamente su capacidad para cumplir con sus obligaciones en virtud de cualquier Transacción.",
     "terms and conditions 6" => "Consecuencias de la Terminación",
-    "terms and conditions 7" => "(i) Tras la terminación en virtud de las Cláusulas 2 anterior y 5 a continuación, Vanward tendrá el derecho de liquidar todas las Transacciones pendientes 
-                                    entre usted y Vanward. Vanward utilizará la metodología establecida en la Sección 6(e)(i) del Acuerdo Maestro ISDA 2002, publicado por la International 
+    "terms and conditions 7" => "(i) Tras la terminación en virtud de las Cláusulas 2 anterior y 5 a continuación, Sunrise tendrá el derecho de liquidar todas las Transacciones pendientes 
+                                    entre usted y Sunrise. Sunrise utilizará la metodología establecida en la Sección 6(e)(i) del Acuerdo Maestro ISDA 2002, publicado por la International 
                                     Swaps and Derivatives Association, Inc. ('Acuerdo ISDA') para calcular el pago adeudado en la terminación (el 'Monto de Terminación Anticipada'). Al 
                                     aplicar la Sección 6(e)(i) del Acuerdo Maestro ISDA, las referencias a 'Transacción Terminada' se refieren a cada Transacción sujeta a liquidación de 
                                     conformidad con esta cláusula, la 'Moneda de Terminación' es Dólares Estadounidenses, la 'Parte Determinante' en la definición de 'Monto de Liquidación' 
-                                    es Vanward, y la 'Fecha de Terminación Anticipada' es la fecha efectiva de terminación en virtud de las Cláusulas 2 anterior y 5 a continuación, según 
-                                    corresponda. (ii) Vanward le notificará a usted (o a su gestor / asesor de inversiones, según corresponda) el Monto de Terminación Anticipada por 
-                                    escrito tan pronto como sea razonablemente posible después de la terminación. Si se debe un Monto de Terminación Anticipada a Vanward, usted deberá 
-                                    pagarlo a Vanward en una cuenta especificada por Vanward. Si el monto es adeudado a usted por Vanward, Vanward pagará el valor absoluto del Monto de 
-                                    Terminación Anticipada a su cuenta. Estos pagos serán realizados en la fecha en que Vanward proporcione la notificación bajo esta cláusula.",
+                                    es Sunrise, y la 'Fecha de Terminación Anticipada' es la fecha efectiva de terminación en virtud de las Cláusulas 2 anterior y 5 a continuación, según 
+                                    corresponda. (ii) Sunrise le notificará a usted (o a su gestor / asesor de inversiones, según corresponda) el Monto de Terminación Anticipada por 
+                                    escrito tan pronto como sea razonablemente posible después de la terminación. Si se debe un Monto de Terminación Anticipada a Sunrise, usted deberá 
+                                    pagarlo a Sunrise en una cuenta especificada por Sunrise. Si el monto es adeudado a usted por Sunrise, Sunrise pagará el valor absoluto del Monto de 
+                                    Terminación Anticipada a su cuenta. Estos pagos serán realizados en la fecha en que Sunrise proporcione la notificación bajo esta cláusula.",
     "terms and conditions 8" => "Compensación",
-    "terms and conditions 9" => "(i) Vanward tendrá un derecho general de compensación con respecto a todas las cantidades adeudadas por usted en virtud de una Transacción o de otra 
+    "terms and conditions 9" => "(i) Sunrise tendrá un derecho general de compensación con respecto a todas las cantidades adeudadas por usted en virtud de una Transacción o de otra 
                                     manera, ya sea exigibles o no, y sin importar si ha ocurrido un Evento de Incumplimiento o si una Transacción ha sido terminada. (ii) Los derechos de 
-                                    Vanward en virtud de este documento serán adicionales y no limitarán ni excluirán otros derechos que Vanward pueda tener (por acuerdo, por ley o de otra 
+                                    Sunrise en virtud de este documento serán adicionales y no limitarán ni excluirán otros derechos que Sunrise pueda tener (por acuerdo, por ley o de otra 
                                     manera).",
     "terms and conditions 10" => "Fuerza Mayor",
     "terms and conditions 11" => "Ninguna de las partes será responsable por pérdidas o daños como resultado de un evento de Fuerza Mayor. Un evento de Fuerza Mayor será cualquier 
@@ -1703,68 +1703,68 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
                                     podrá dar por terminadas las Transacciones afectadas mediante notificación por escrito a la Parte Afectada con efecto inmediato, y las disposiciones de 
                                     la Cláusula 3 se aplicarán a tales Transacciones afectadas pendientes.",
     "terms and conditions 12" => "Instrucciones de Transacción, Confirmaciones e Instrucciones de Liquidación",
-    "terms and conditions 13" => "(i) Las instrucciones de Transacción pueden ser enviadas por usted a Vanward de la manera y sujeto a los términos acordados entre las partes de vez en 
-                                    cuando. Vanward puede, sin más indagaciones, actuar y usted quedará obligado por cualquier instrucción recibida por Vanward que ésta razonablemente crea 
-                                    de buena fe que ha sido dada por usted, o en su nombre. (ii) Vanward se esforzará por enviar una confirmación dentro de las 24 horas posteriores a la 
-                                    ejecución de una Transacción, de la manera acordada entre las partes de vez en cuando. A menos que usted notifique a Vanward antes de la liquidación y 
-                                    con un tiempo razonable para que Vanward deshaga la operación que una confirmación es incorrecta o que la Transacción descrita en la misma no fue 
-                                    autorizada correctamente, dicha Transacción se considerará válida y vinculante para usted. La falta de Vanward por cualquier motivo de proporcionar una 
-                                    confirmación no invalidará ninguna Transacción ejecutada por Vanward. (iii) Usted proporcionará a Vanward una lista de las personas designadas para 
-                                    recibir confirmaciones de Vanward, junto con su información de contacto (por ejemplo, direcciones postales, direcciones de correo electrónico, números 
+    "terms and conditions 13" => "(i) Las instrucciones de Transacción pueden ser enviadas por usted a Sunrise de la manera y sujeto a los términos acordados entre las partes de vez en 
+                                    cuando. Sunrise puede, sin más indagaciones, actuar y usted quedará obligado por cualquier instrucción recibida por Sunrise que ésta razonablemente crea 
+                                    de buena fe que ha sido dada por usted, o en su nombre. (ii) Sunrise se esforzará por enviar una confirmación dentro de las 24 horas posteriores a la 
+                                    ejecución de una Transacción, de la manera acordada entre las partes de vez en cuando. A menos que usted notifique a Sunrise antes de la liquidación y 
+                                    con un tiempo razonable para que Sunrise deshaga la operación que una confirmación es incorrecta o que la Transacción descrita en la misma no fue 
+                                    autorizada correctamente, dicha Transacción se considerará válida y vinculante para usted. La falta de Sunrise por cualquier motivo de proporcionar una 
+                                    confirmación no invalidará ninguna Transacción ejecutada por Sunrise. (iii) Usted proporcionará a Sunrise una lista de las personas designadas para 
+                                    recibir confirmaciones de Sunrise, junto con su información de contacto (por ejemplo, direcciones postales, direcciones de correo electrónico, números 
                                     de fax y / o teléfono y direcciones SWIFT, según corresponda) en un formato acordado por las partes. A menos que y hasta que usted notifique lo 
-                                    contrario por escrito a Vanward, Vanward podrá confiar de manera concluyente en cualquier lista de personas designadas (y la información en ella 
+                                    contrario por escrito a Sunrise, Sunrise podrá confiar de manera concluyente en cualquier lista de personas designadas (y la información en ella 
                                     establecida) proporcionada por usted de vez en cuando. Usted reconoce que las transmisiones de correo electrónico a través de Internet y / o las 
                                     transmisiones de fax no son un método de entrega garantizado y pueden ser susceptibles a la pérdida de información, errores, entrega errónea, 
                                     transmisión errónea, demoras en la entrega, eliminaciones por error y acceso y uso no deseados por parte de terceros. Además, usted reconoce que no se 
-                                    puede garantizar la recepción de instrucciones legibles a través de fax, que Vanward no puede verificar que las firmas autorizadas en una instrucción de 
-                                    fax sean originales o estén correctamente colocadas. En consecuencia, usted acepta no responsabilizar a Vanward por ninguna pérdida incurrida como 
+                                    puede garantizar la recepción de instrucciones legibles a través de fax, que Sunrise no puede verificar que las firmas autorizadas en una instrucción de 
+                                    fax sean originales o estén correctamente colocadas. En consecuencia, usted acepta no responsabilizar a Sunrise por ninguna pérdida incurrida como 
                                     consecuencia de efectuar cualquier instrucción de correo electrónico o fax.",
     "terms and conditions 14" => "Comunicaciones Electrónicas",
     "terms and conditions 15" => "Usted consiente el monitoreo y grabación de todas las comunicaciones electrónicas (incluidos los correos electrónicos, correos de voz, llamadas 
-                                    telefónicas y uso del sitio web) entre usted y Vanward y acepta (i) notificar (y, en su caso, obtener el consentimiento de) sus empleados y funcionarios 
+                                    telefónicas y uso del sitio web) entre usted y Sunrise y acepta (i) notificar (y, en su caso, obtener el consentimiento de) sus empleados y funcionarios 
                                     de dicha grabación y monitoreo si así lo exige la ley; y (ii) que cualquier grabación de este tipo puede ser presentada como prueba en cualquier 
                                     tribunal o en cualquier procedimiento legal relacionado con una Transacción.",
     "terms and conditions 16" => "Cesión, Integración, Contrato Financiero Cualificado",
     "terms and conditions 17" => "No se podrá hacer ninguna cesión de este contrato o de ninguno de sus derechos u obligaciones aquí establecidos sin el consentimiento expreso previo por 
-                                    escrito de Vanward, y cualquier cesión o transferencia pretendida sin el consentimiento previo por escrito de Vanward no tendrá efecto. Este contrato 
+                                    escrito de Sunrise, y cualquier cesión o transferencia pretendida sin el consentimiento previo por escrito de Sunrise no tendrá efecto. Este contrato 
                                     será vinculante para usted y / o su sucesión, albaceas, administradores, sucesores y cesionarios. El tiempo es esencial con respecto a todo su 
-                                    desempeño. Este contrato, junto con todas las Transacciones y opciones entre usted y Vanward, constituyen un contrato integrado (no obstante el derecho 
-                                    de Vanward de considerar cada Transacción como un contrato independiente a los fines del quinto párrafo anterior). Este contrato constituirá un 
+                                    desempeño. Este contrato, junto con todas las Transacciones y opciones entre usted y Sunrise, constituyen un contrato integrado (no obstante el derecho 
+                                    de Sunrise de considerar cada Transacción como un contrato independiente a los fines del quinto párrafo anterior). Este contrato constituirá un 
                                     'contrato financiero cualificado' en el sentido que ese término se define en la Ley General de Obligaciones de Nueva York y el Código Comercial Uniforme 
-                                    y es una expresión final del acuerdo entre Vanward y usted con respecto a las Transacciones enumeradas en el reverso del presente.",
+                                    y es una expresión final del acuerdo entre Sunrise y usted con respecto a las Transacciones enumeradas en el reverso del presente.",
     "terms and conditions 18" => "Jurisdicción y Ley Aplicable",
-    "terms and conditions 19" => "Este contrato y las Transacciones entre usted y Vanward estarán regidas por las leyes del Estado de Nueva York, sin referencia a ninguna norma de elección 
-                                    de ley. Vanward y usted renuncian irrevocablemente: (a) a la jurisdicción no exclusiva de los tribunales del Estado de Nueva York y el Tribunal de 
+    "terms and conditions 19" => "Este contrato y las Transacciones entre usted y Sunrise estarán regidas por las leyes del Estado de Nueva York, sin referencia a ninguna norma de elección 
+                                    de ley. Sunrise y usted renuncian irrevocablemente: (a) a la jurisdicción no exclusiva de los tribunales del Estado de Nueva York y el Tribunal de 
                                     Distrito de los Estados Unidos ubicado en el Borough de Manhattan en la ciudad de Nueva York; (b) a cualquier objeción al lugar de los tribunales 
                                     mencionados; (c) a cualquier reclamación de que cualquier demanda, acción o procedimiento en dichos tribunales se haya presentado en un foro 
-                                    inconveniente; (d) a la objeción de que dichos tribunales no tienen jurisdicción sobre Vanward o usted, según corresponda; (e) a la renuncia del juicio 
+                                    inconveniente; (d) a la objeción de que dichos tribunales no tienen jurisdicción sobre Sunrise o usted, según corresponda; (e) a la renuncia del juicio 
                                     con jurado en cualquier demanda, acción o procedimiento; y (f) designan al Secretario de Estado del Estado de Nueva York como su agente para el servicio 
-                                    de procesos (siempre que Vanward y usted puedan, mediante notificación por escrito a la otra parte, cambiar su designación de agente a una persona 
+                                    de procesos (siempre que Sunrise y usted puedan, mediante notificación por escrito a la otra parte, cambiar su designación de agente a una persona 
                                     especificada ubicada en el Borough de Manhattan).
                                     <br><br>
                                     Esta información no pretende ser un consejo financiero ni una oferta o recomendación de productos financieros y está sujeta a cambios sin previo aviso. 
-                                    Ni Vanward ni sus afiliados aceptan ninguna responsabilidad por los resultados o responsabilidades que surjan del uso de esta información. Toda la 
-                                    información suministrada por Vanward & Co. proviene de fuentes consideradas confiables y se proporciona sujeta a errores, omisiones, modificaciones y no 
+                                    Ni Sunrise ni sus afiliados aceptan ninguna responsabilidad por los resultados o responsabilidades que surjan del uso de esta información. Toda la 
+                                    información suministrada por Sunrise & Co. proviene de fuentes consideradas confiables y se proporciona sujeta a errores, omisiones, modificaciones y no 
                                     está garantizada. El receptor de este informe reconoce y acepta que es el único responsable de cualquier decisión de comercio o inversión que el 
-                                    receptor tome después de revisar este informe, y también acepta que Vanward y sus afiliados no tienen responsabilidad alguna por tales decisiones.",
+                                    receptor tome después de revisar este informe, y también acepta que Sunrise y sus afiliados no tienen responsabilidad alguna por tales decisiones.",
     "terms and conditions 20" => "Empresas",
 
     // alternative funds
-    "alternative funds 1"   => "Vanward es un proveedor líder de servicios globales para fondos alternativos. Actualmente, prestamos servicios a más de $275 mil millones* en activos 
+    "alternative funds 1"   => "Sunrise es un proveedor líder de servicios globales para fondos alternativos. Actualmente, prestamos servicios a más de $275 mil millones* en activos 
                                 alternativos, ofreciendo servicios integrales de custodia, administración y servicios relacionados para todas las principales clases y estrategias de 
                                 activos alternativos, en tres categorías principales:",
     "alternative funds 2"   => "Hedge y otras estrategias líquidas",
     "alternative funds 3"   => "Nuestra oferta ayuda a los clientes a manejar la complejidad de su negocio de fondos alternativos, crecer y competir a nivel mundial, y brindar un servicio 
                                 superior a sus propios clientes subyacentes.",
     "alternative funds 4"   => "Facilitando el crecimiento",
-    "alternative funds 5"   => "Vanward trabaja con gestores e inversores de Estados Unidos, Europa y Asia. Nuestra experiencia en la prestación de servicios tanto para activos 
+    "alternative funds 5"   => "Sunrise trabaja con gestores e inversores de Estados Unidos, Europa y Asia. Nuestra experiencia en la prestación de servicios tanto para activos 
                                 tradicionales como alternativos para algunos de los gestores de activos más sofisticados del mundo nos permite comprender realmente los requisitos de 
                                 servicio de un conjunto de productos global y complejo.
                                 <br><br>
                                 Hemos desarrollado una plataforma escalable e integrada para fondos de cobertura, activos reales, capital privado y fondos de deuda, lo que permite a 
                                 nuestros clientes disfrutar de los beneficios de una única plataforma global.",
     "alternative funds 6"   => "Protegiendo su Marca",
-    "alternative funds 7"   => "El éxito de Vanward está impulsado por el de nuestros clientes y nos enfocamos en proteger sus negocios y reputación como lo hacemos con el nuestro. 
+    "alternative funds 7"   => "El éxito de Sunrise está impulsado por el de nuestros clientes y nos enfocamos en proteger sus negocios y reputación como lo hacemos con el nuestro. 
                                 Adoptamos un enfoque prudente para gestionar los procesos operativos de los fondos de inversión alternativos, basado en los principios de una empresa de 
                                 propiedad y gestión privada con una sólida cultura de gestión de riesgos.
                                 <br><br>
@@ -1775,7 +1775,7 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     "alternative funds 9"   => "La transparencia es de suma importancia para los inversores en activos y estrategias alternativas. Nos enfocamos en guiar a los inversores y nuestras 
                                 plataformas tecnológicas proporcionan la granularidad de información necesaria para satisfacer las complejas necesidades de los inversores.
                                 <br><br>
-                                Como una empresa de asociación, Vanward tiene un enfoque más personal en la forma en que gestionamos nuestras relaciones con los clientes, ofreciendo acceso 
+                                Como una empresa de asociación, Sunrise tiene un enfoque más personal en la forma en que gestionamos nuestras relaciones con los clientes, ofreciendo acceso 
                                 directo a los propietarios y directivos de la empresa. Esto también promueve un enfoque más abierto y transparente.",
     "alternative funds 10"  => "Empresas",
     "alternative funds 11"  => "Empresas",
@@ -1786,12 +1786,12 @@ los clientes y sus proveedores de servicios externos y sistemas internos. Infome
     // consultants and advisors
     "consultants and advisors 1" => "Los consultores y asesores están desempeñando un papel cada vez más significativo en los procesos de toma de decisiones estratégicas de nuestros clientes, así como en nuestra propia interacción con la industria.
 <br><br>
-Vanward ha construido una disciplina en torno a la colaboración con consultores y asesores con dos objetivos principales:",
+Sunrise ha construido una disciplina en torno a la colaboración con consultores y asesores con dos objetivos principales:",
     "consultants and advisors 2" => "Asegurarse de que los consultores y asesores tengan las herramientas que necesitan para ayudar a sus clientes a satisfacer sus cambiantes y evolucionadas necesidades.",
     "consultants and advisors 3" => "Proporcionar un espacio para el intercambio de ideas e información de la industria sobre capacidades, experiencia y servicios.",
     "consultants and advisors 4" => "Empresas",
     // cross border funds
-    "cross border funds 1" => "Vanward es un especialista en servicios de fondos transfronterizos. Creemos en el continuo crecimiento de los mercados de distribución transfronterizos y lo 
+    "cross border funds 1" => "Sunrise es un especialista en servicios de fondos transfronterizos. Creemos en el continuo crecimiento de los mercados de distribución transfronterizos y lo 
 hemos convertido en un enfoque central de nuestra empresa.",
     "cross border funds 2" => "y servicios relacionados para muchos de los gestores de activos transfronterizos globales más exitosos. Al hacerlo, hemos desarrollado una profunda 
 comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
@@ -1828,12 +1828,12 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     "cross border funds 18" => "Empresas",
     // distribution intelligence
     "distribution intelligence 1" => "Fundamental para el",
-    "distribution intelligence 2" => "servicio de fondos transfronterizos de Vanward",
-    "distribution intelligence 3" => "Los servicios de inteligencia de distribución de Vanward están diseñados para ayudar a los gestores de activos a desarrollar, ejecutar y evaluar su estrategia de distribución.",
+    "distribution intelligence 2" => "servicio de fondos transfronterizos de Sunrise",
+    "distribution intelligence 3" => "Los servicios de inteligencia de distribución de Sunrise están diseñados para ayudar a los gestores de activos a desarrollar, ejecutar y evaluar su estrategia de distribución.",
     "distribution intelligence 4" => "Desarrollo de Estrategia: Análisis de Mercado",
     "distribution intelligence 5" => "Trabajando con muchos de los gestores de activos transfronterizos más exitosos a nivel mundial, hemos desarrollado una experiencia específica en regiones que nos permite proporcionar información e inteligencia adaptada a las necesidades de los clientes sobre entrada al mercado, canales de distribución, panorama competitivo y flujos de activos.",
     "distribution intelligence 6" => "Ejecución de Estrategia: Soporte Operativo",
-    "distribution intelligence 7" => "Vanward proporciona un modelo único",
+    "distribution intelligence 7" => "Sunrise proporciona un modelo único",
     "distribution intelligence 8" => "que permite a los gestores de activos distribuir sus productos en múltiples mercados. En el centro de este modelo se encuentra nuestra única plataforma tecnológica que conduce a un alto nivel de integración y coordinación global.",
     "distribution intelligence 9" => "Nuestra oferta es el pilar de nuestro modelo de soporte de distribución, permitiendo un soporte de incorporación de inversores completamente localizado con tecnología líder en la industria.",
     "distribution intelligence 10" => "La plataforma de mensajería y conectividad se implementa para armonizar, traducir y transmitir datos electrónicos para facilitar la eficiencia de la distribución de fondos.",
@@ -1841,47 +1841,47 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     "distribution intelligence 12" => "Evaluación de Estrategia: Análisis de Datos",
     "distribution intelligence 13" => "Los gestores de activos necesitan monitorear y revisar regularmente el éxito de su estrategia de distribución. Basándonos en los datos de la agencia de transferencia de un cliente y comparándolos con datos de mercado, podemos ayudar a evaluar el rendimiento del canal de distribución en mercados individuales.",
     // exchange traded funds
-    "exchange traded funds 1" => "Vanward es un proveedor líder de servicios de activos para el mercado global de ETFs. Vanward es un especialista en ETFs para productos domiciliados en EE. UU., Europa y Asia, y trabaja tanto con gestores de ETF experimentados como con nuevos y novedosos participantes del mercado para introducir y hacer crecer sus productos ETF.",
+    "exchange traded funds 1" => "Sunrise es un proveedor líder de servicios de activos para el mercado global de ETFs. Sunrise es un especialista en ETFs para productos domiciliados en EE. UU., Europa y Asia, y trabaja tanto con gestores de ETF experimentados como con nuevos y novedosos participantes del mercado para introducir y hacer crecer sus productos ETF.",
     "exchange traded funds 2" => "Amplia y diversa experiencia en productos",
-    "exchange traded funds 3" => "Con un equipo compuesto por especialistas de todas las áreas de la industria de ETFs, Vanward mantiene experiencia en todas las estructuras de ETFs físicos (en especie) y sintéticos y Productos Negociados en Bolsa (ETP). Nuestros clientes utilizan estrategias de ETF activos, pasivos y cuantitativos. Prestamos servicios a productos de ETF de renta variable y renta fija emergentes/desarrollados, de inversión/ apalancamiento, de divisas y de materias primas.",
+    "exchange traded funds 3" => "Con un equipo compuesto por especialistas de todas las áreas de la industria de ETFs, Sunrise mantiene experiencia en todas las estructuras de ETFs físicos (en especie) y sintéticos y Productos Negociados en Bolsa (ETP). Nuestros clientes utilizan estrategias de ETF activos, pasivos y cuantitativos. Prestamos servicios a productos de ETF de renta variable y renta fija emergentes/desarrollados, de inversión/ apalancamiento, de divisas y de materias primas.",
     "exchange traded funds 4" => "Consultoría con Clientes desde el Concepto hasta la Implementación",
-    "exchange traded funds 5" => "Los especialistas de Vanward consultan con patrocinadores de ETF a través de una variedad de obstáculos legales, de investigación y de gestión de proyectos relacionados con el lanzamiento y crecimiento de productos ETF. Nuestros clientes se benefician de:",
+    "exchange traded funds 5" => "Los especialistas de Sunrise consultan con patrocinadores de ETF a través de una variedad de obstáculos legales, de investigación y de gestión de proyectos relacionados con el lanzamiento y crecimiento de productos ETF. Nuestros clientes se benefician de:",
     "exchange traded funds 6" => "Experiencia en el proceso previo al lanzamiento de ETFs y en varias clases de activos y geografías",
     "exchange traded funds 7" => "Relaciones sólidas con bolsas de cotización, distribuidores y participantes autorizados",
     "exchange traded funds 8" => "Experiencia e información sobre la industria global de ETFs a través de expertos en la materia que provienen de promotores de fondos, proveedores de servicios, proveedores de índices, empresas de comercio y tecnología",
     "exchange traded funds 9" => "Un enfoque práctico y consultivo para brindar servicios a los clientes",
     "exchange traded funds 10" => "Tecnología Escalable y Flexible Específica para ETFs",
-    "exchange traded funds 11" => "Vanward ha tomado una decisión estratégica de invertir en una plataforma tecnológica personalizada líder en el mercado diseñada específicamente para brindar servicios a ETFs:",
+    "exchange traded funds 11" => "Sunrise ha tomado una decisión estratégica de invertir en una plataforma tecnológica personalizada líder en el mercado diseñada específicamente para brindar servicios a ETFs:",
     "exchange traded funds 12" => "ETF ConnectTM, que ofrece acceso en línea a los datos de los clientes, informes y otras herramientas poderosas que promueven la gestión empresarial",
     "exchange traded funds 13" => "AP EXchangeTM, que ofrece funcionalidad de operaciones y la flexibilidad para presentar y monitorear actividades de creación y amortización",
-    "exchange traded funds 14" => "ETF Star, una plataforma específica para ETFs que está completamente integrada con el sistema de contabilidad principal de Vanward y se enfoca en la generación de canastas y archivos de composición de cartera (PCF)",
+    "exchange traded funds 14" => "ETF Star, una plataforma específica para ETFs que está completamente integrada con el sistema de contabilidad principal de Sunrise y se enfoca en la generación de canastas y archivos de composición de cartera (PCF)",
     // insurance
     "insurance 1" => "Las empresas de (re)seguros enfrentan un entorno de mercado en rápida evolución caracterizado por requisitos de capital más estrictos, deterioro de reservas, limitada 
                     flexibilidad financiera y el prolongado entorno de bajos tipos de interés. Al mismo tiempo, mejorar el rendimiento, aumentar la eficiencia y mejorar la gestión 
                     empresarial de riesgos se han convertido en prioridades basadas en la mayor demanda de los clientes.
                     <br><br>
-                    Vanward ayuda a las empresas a cumplir con estas prioridades, al tiempo que gestiona la complejidad del mercado en constante cambio. Combinamos la experiencia en 
+                    Sunrise ayuda a las empresas a cumplir con estas prioridades, al tiempo que gestiona la complejidad del mercado en constante cambio. Combinamos la experiencia en 
                     productos, mercados y regulación con tecnología probada y excelencia en servicios para ofrecer soluciones personalizadas que se adapten a las necesidades específicas de 
                     nuestros clientes.",
     "insurance 2" => "Oferta de Servicios Integrada y Modular a Nivel Global",
     "insurance 3" => "Ya sea que las compañías de (re)seguros busquen una solución completamente integrada o servicios específicos de forma modular, pueden aprovechar la amplia gama de 
-                    productos de Vanward para respaldar sus objetivos de servicio e inversión globales. Con experiencia en el servicio a los gestores de activos más sofisticados del mundo, 
+                    productos de Sunrise para respaldar sus objetivos de servicio e inversión globales. Con experiencia en el servicio a los gestores de activos más sofisticados del mundo, 
                     nuestro equipo dedicado de (re)seguros apoya a nuestros clientes en sus esfuerzos por minimizar el riesgo, optimizar costos y gestionar sus necesidades únicas de 
                     activos/pasivos, contabilidad, garantías, regulación e informes.",
     "insurance 4" => "Potenciado por la Tecnología",
     "insurance 5" => "Las aplicaciones de tecnología integradas y flexibles son fundamentales para nuestro objetivo de proporcionar a los clientes una experiencia de servicio superior. 
-                    Independientemente de su ubicación, los equipos de servicio de Vanward tienen acceso a los mismos sistemas e información en tiempo real, lo que garantiza una rápida 
+                    Independientemente de su ubicación, los equipos de servicio de Sunrise tienen acceso a los mismos sistemas e información en tiempo real, lo que garantiza una rápida 
                     respuesta a las consultas y una mejora continua.
                     <br><br>
-                    Como un banco aprobado por la NAIC, Vanward ofrece los siguientes servicios:",
+                    Como un banco aprobado por la NAIC, Sunrise ofrece los siguientes servicios:",
     "insurance 6" => "Empresas",
     "insurance 7" => "Empresas",
     // regulatory intelligence
     "regulatory intelligence 1" => "El cambio regulatorio es un componente clave del proceso de planificación estratégica de las organizaciones. Para ayudar a nuestros clientes en su 
-                                    respuesta al cambio regulatorio, Vanward cuenta con una disciplina de Inteligencia Regulatoria dedicada.
+                                    respuesta al cambio regulatorio, Sunrise cuenta con una disciplina de Inteligencia Regulatoria dedicada.
                                     <br><br>
                                     El equipo de Inteligencia Regulatoria es responsable de identificar, analizar y articular el impacto potencial de importantes desarrollos regulatorios. 
-                                    Se aseguran de que los clientes estén informados sobre los desarrollos regulatorios para que Vanward pueda ayudarles a anticipar y gestionar estos 
+                                    Se aseguran de que los clientes estén informados sobre los desarrollos regulatorios para que Sunrise pueda ayudarles a anticipar y gestionar estos 
                                     cambios de manera adecuada.
                                     <br><br>
                                     Nuestros expertos trabajan estrechamente con los clientes, participando en asuntos regulatorios a través de diversas asociaciones industriales, 
@@ -1890,27 +1890,27 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     "regulatory intelligence 2" => "Empresas",
     "regulatory intelligence 3" => "Empresas",
     // us funds
-    "us funds 1" => "Vanward es un proveedor líder de soluciones para fondos en los Estados Unidos. Nuestras soluciones satisfacen las necesidades en evolución de nuestros clientes en el 
+    "us funds 1" => "Sunrise es un proveedor líder de soluciones para fondos en los Estados Unidos. Nuestras soluciones satisfacen las necesidades en evolución de nuestros clientes en el 
                     área operativa y de soporte. Nuestra única plataforma tecnológica y experiencia única en servicio al cliente ayudan a optimizar los procesos operativos de nuestros 
                     clientes, proteger el rendimiento y proporcionar una base confiable para el crecimiento.
                     <br><br>
                     Trabajamos para ayudar a nuestros clientes a reducir sus costos y gestionar sus riesgos a través de soluciones modulares integrales que brindan eficiencias operativas y 
                     una ventaja competitiva en estas áreas clave:",
     "us funds 2" => "Facilitando el Crecimiento",
-    "us funds 3" => "La experiencia de Vanward en el servicio a todas las clases de activos para algunos de los gestores de activos más sofisticados del mundo nos permite comprender 
+    "us funds 3" => "La experiencia de Sunrise en el servicio a todas las clases de activos para algunos de los gestores de activos más sofisticados del mundo nos permite comprender 
                     realmente las necesidades cambiantes de nuestros clientes de fondos en los Estados Unidos. Hemos creado una plataforma tecnológica única que respalda las necesidades de 
                     nuestros clientes y ofrece un enfoque reflexivo para ayudarles a alcanzar sus objetivos de crecimiento a través de ofertas tecnológicas optimizadas.",
     "us funds 4" => "Protegiendo la Marca",
-    "us funds 5" => "Como una organización de propiedad y gestión privada, el éxito de Vanward está impulsado por el de nuestros clientes y nos enfocamos en proteger sus negocios y 
+    "us funds 5" => "Como una organización de propiedad y gestión privada, el éxito de Sunrise está impulsado por el de nuestros clientes y nos enfocamos en proteger sus negocios y 
                     reputaciones tanto como los nuestros. Adoptamos un enfoque prudente para la gestión de procesos operativos de fondos en los Estados Unidos, guiado por un pensamiento 
                     disciplinado y una rigurosa gestión de riesgos.",
     "us funds 6" => "Descubriendo Eficiencias",
-    "us funds 7" => "Vanward se compromete a ofrecer una experiencia de servicio al cliente medible y superior. Nuestros equipos de servicio acceden a los mismos sistemas e información en 
+    "us funds 7" => "Sunrise se compromete a ofrecer una experiencia de servicio al cliente medible y superior. Nuestros equipos de servicio acceden a los mismos sistemas e información en 
                     tiempo real a nivel mundial, proporcionando una plataforma común para la eficiencia y consistencia. Este modelo integrado optimiza los requisitos operativos y 
                     proporciona informes consistentes y de alta calidad tanto a nuestros clientes como a sus inversores.",
     "us funds 8" => "Empresas",
     // hedge funds
-    "hedge funds 1" => "Vanward es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
+    "hedge funds 1" => "Sunrise es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
                         <br><br>
                         Apoyamos $22 mil millones* en estrategias de hedge funds, incluidos fondos de cobertura tradicionales y otras alternativas líquidas, y estamos capacitados para 
                         manejar los requisitos estructurales y operativos típicos de estos tipos de fondos.
@@ -1927,7 +1927,7 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     // "hedge funds 5" => "Empresas",
     // "hedge funds 6" => "Empresas",
     // private equity specialist
-    "private equity specialist 1" => "Vanward es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
+    "private equity specialist 1" => "Sunrise es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
                                     <br><br>
                                     Con un servicio de $73 mil millones* en fondos de capital privado, tenemos experiencia en una variedad de estructuras y jurisdicciones utilizadas por 
                                     los principales gestores de capital privado del mundo.
@@ -1942,18 +1942,18 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     "private equity specialist 3" => "Empresas",
     "private equity specialist 4" => "Empresas",
     // real assets & infrastructure
-    "real assets & infrastructure 1" => "Vanward es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
+    "real assets & infrastructure 1" => "Sunrise es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
                                             <br><br>
                                             Desde 2004, brindamos servicios a activos reales y ahora apoyamos $53 mil millones* en activos para algunos de los gestores de bienes raíces e 
                                             infraestructuras más sofisticados del mundo que invierten en Europa, Estados Unidos y Asia.
                                             <br><br>
                                             Aprovechando nuestras competencias centrales en administración, contabilidad, custodia, agencia de transferencia y domicilio, y con equipos de 
-                                            servicio y de integración comercial dedicados, Vanward ayuda a los clientes a operar fondos inmobiliarios y de infraestructura complejos.
+                                            servicio y de integración comercial dedicados, Sunrise ayuda a los clientes a operar fondos inmobiliarios y de infraestructura complejos.
                                             <br><br>
                                             Tenemos una importante participación de mercado en el servicio de fondos de inversión inmobiliaria domiciliados en Luxemburgo, con más de 15 
                                             años de experiencia en ayudar a los gestores en este importante domicilio de fondos.",
     // syndicated and originated debt
-    "syndicated and originated debt 1"  => "Vanward es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
+    "syndicated and originated debt 1"  => "Sunrise es un proveedor líder de servicios globales para fondos alternativos, con más de $275 mil millones* en activos bajo administración.
                                             <br><br>
                                             Brindamos servicio a $72 mil millones* en fondos de deuda sindicada y $33 mil millones* en fondos de deuda originada, y contamos con experiencia 
                                             en la amplia variedad de estructuras y jurisdicciones que los gestores de activos alternativos consideran para este tipo de inversión, tanto 
@@ -1963,7 +1963,7 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
                                             Nuestro modelo de servicio de deuda está completamente integrado en nuestra plataforma principal de servicios de activos, lo que proporciona una 
                                             experiencia de servicio eficiente y simplificada para los gestores que requieren servicios para toda su gama de fondos.
                                             <br><br>
-                                            Vanward considera que esta es un área de crecimiento importante para los gestores de activos alternativos y ha invertido en tecnología y 
+                                            Sunrise considera que esta es un área de crecimiento importante para los gestores de activos alternativos y ha invertido en tecnología y 
                                             personal con la experiencia necesaria para apoyar a los gestores a medida que se adentran en este espacio y hacen crecer sus carteras.",
     "syndicated and originated debt 2" => "Empresas",
     "syndicated and originated debt 3" => "Empresas",
@@ -1973,7 +1973,7 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
                     transfronterizos del mundo. Es crucial para los gestores asociarse con un proveedor de servicios experimentado para evolucionar su infraestructura de servicios globales 
                     y respaldar su crecimiento futuro.",
     "dublin 2"  => "Proveedor Líder en Dublín",
-    "dublin 3"  => "Presente en el mercado irlandés desde 1995, Vanward ha respaldado el crecimiento de la industria de fondos irlandesa desde su creación. Ahora somos uno de los 
+    "dublin 3"  => "Presente en el mercado irlandés desde 1995, Sunrise ha respaldado el crecimiento de la industria de fondos irlandesa desde su creación. Ahora somos uno de los 
                     principales proveedores de servicios del país, ofreciendo nuestra completa suite de servicios de activos a fondos domiciliados en Dublín, tanto UCITS como no UCITS.
                     <br><br>
                     Nos especializamos en ayudar a nuestros clientes a manejar la complejidad del servicio de fondos transfronterizos, con experiencia particular en estructuras de fondos 
@@ -1985,12 +1985,12 @@ comprensión de estructuras de fondos complejas distribuidas a nivel mundial.",
     // global
     "global 1"  => "Los gestores de activos sofisticados requieren un servicio de atención al inversor de la más alta calidad, independientemente de la ubicación o la zona horaria.
                     <br><br>
-                    Vanward ofrece esto a través de un modelo de servicio global adaptado a las necesidades de cada gestor. Ubicamos los equipos de servicio en función de las zonas 
+                    Sunrise ofrece esto a través de un modelo de servicio global adaptado a las necesidades de cada gestor. Ubicamos los equipos de servicio en función de las zonas 
                     horarias de los clientes, la ubicación de sus domicilios de fondos y sus mercados de distribución.
                     <br><br>
                     Nuestro modelo de servicio global armonizado y coherente crea eficiencias operativas, mitiga el riesgo y mejora la experiencia del cliente y de sus inversores.",
     "global 2"  => "Un Equipo Global",
-    "global 3"  => "Con una sola P&L global y un equipo integrado, la experiencia de servicio de Vanward es fluida. Damos a los clientes la capacidad de dirigir todas las consultas y 
+    "global 3"  => "Con una sola P&L global y un equipo integrado, la experiencia de servicio de Sunrise es fluida. Damos a los clientes la capacidad de dirigir todas las consultas y 
                     comunicaciones a través de un equipo multidisciplinario y orientado al cliente en la zona horaria de su elección. Esto facilita los más altos niveles de compromiso con 
                     el cliente, comunicación transparente y un servicio medible y superior.",
     "global 4"  => "Plataforma Tecnológica",
@@ -2012,23 +2012,23 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                         <br><br>
                         Desde nuestras oficinas en Hong Kong y Beijing, ofrecemos una gama completa de servicios, incluida custodia, servicio de fondos y productos de mercado en los 
                         idiomas regionales de nuestros clientes como parte de nuestra",
-    "greater china 4"   => "Vanward se enfoca en Greater China, donde mantiene una fuerte presencia y brinda servicios para",
+    "greater china 4"   => "Sunrise se enfoca en Greater China, donde mantiene una fuerte presencia y brinda servicios para",
     "greater china 5"   => "plataformas UCITS, QFII, RQFII, RQFII ETF y QDII.",
     "greater china 6"   => "Inversiones Salientes desde China",
-    "greater china 7"   => "Qualified Domestic Institutional Investor (QDII): Vanward ha estado brindando servicios para productos QDII a nuestros clientes bancarios custodios chinos desde 
+    "greater china 7"   => "Qualified Domestic Institutional Investor (QDII): Sunrise ha estado brindando servicios para productos QDII a nuestros clientes bancarios custodios chinos desde 
                             2007. Nuestros clientes incluyen los 10 principales bancos custodios maestros de China y los principales gestores de activos chinos como patrocinadores QDII.
                             Fondos de Clase Compartida CNH: Nuestro equipo de cambio de divisas en Hong Kong ofrece capacidades de cobertura para CNH y otras monedas restringidas.",
     "greater china 8"   => "Inversiones Entrantes a China",
-    "greater china 9"   => "Inversionista Institucional Extranjero Calificado en Renminbi (RQFII)/ Inversionista Institucional Extranjero Calificado (QFII): Vanward tiene experiencia en 
+    "greater china 9"   => "Inversionista Institucional Extranjero Calificado en Renminbi (RQFII)/ Inversionista Institucional Extranjero Calificado (QFII): Sunrise tiene experiencia en 
                             servicios para productos RQFII y QFII domiciliados en todo el mundo. Nuestra experiencia en el servicio de ETF y nuestra experiencia en el mercado local ayudan 
                             a los clientes a lanzar productos que cumplen con los requisitos únicos del esquema.
-                            Stock Connect: Vanward respalda a nuestros clientes globales que utilizan las plataformas Shanghai-Hong Kong y Shenzhen-Hong Kong Stock Connect.",
+                            Stock Connect: Sunrise respalda a nuestros clientes globales que utilizan las plataformas Shanghai-Hong Kong y Shenzhen-Hong Kong Stock Connect.",
     "greater china 10"   => "Distribución en Greater China",
-    "greater china 11"   => "UCITS en Greater China: los fondos UCITS tienen una alta tasa de penetración en Hong Kong y Taiwán. Vanward tiene una amplia experiencia en el servicio de 
+    "greater china 11"   => "UCITS en Greater China: los fondos UCITS tienen una alta tasa de penetración en Hong Kong y Taiwán. Sunrise tiene una amplia experiencia en el servicio de 
                             fondos UCITS a nivel mundial, ya que ayudamos a los gestores de activos a aprovechar nuevos segmentos de mercado.
                             Reconocimiento Mutuo de China-Hong Kong: el programa de Reconocimiento Mutuo de Fondos de China-Hong Kong permite a los gestores de activos globales distribuir 
                             fondos domiciliados en Hong Kong en la China continental y a los gestores de activos chinos distribuir sus fondos en Hong Kong. Es el primer y único vehículo de 
-                            fondos offshore permitido para su distribución en China continental. Vanward ofrece una amplia gama de servicios, incluida la",
+                            fondos offshore permitido para su distribución en China continental. Sunrise ofrece una amplia gama de servicios, incluida la",
     "greater china 12" => "en Hong Kong",
     "hong kong domiciled" => "fondos domiciliados en Hong Kong",
     // japan
@@ -2036,7 +2036,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     transfronterizos. Estas inversiones se realizan a través de fondos de gestión fiduciaria de inversión japoneses (ITM), cuentas separadas y fondos transfronterizos 
                     domiciliados en mercados extraterritoriales en los dominios público y privado.
                     <br><br>
-                    La oficina de Vanward en Tokio presta servicios a muchos de los gestores de activos locales y globales más sofisticados, bancos fiduciarios y inversores 
+                    La oficina de Sunrise en Tokio presta servicios a muchos de los gestores de activos locales y globales más sofisticados, bancos fiduciarios y inversores 
                     institucionales, incluidas entidades cuasi gubernamentales, para sus inversiones transfronterizas desde Japón.
                     <br><br>
                     Estamos orgullosos de nuestros lazos de larga data con Japón, que se remontan a principios de 1900, mucho antes de la apertura de nuestra oficina en Tokio en 1984. 
@@ -2046,19 +2046,19 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     experimentado equipo de servicios de fondos reside en Tokio para atender las necesidades diarias en la zona horaria local. El equipo respalda nuestro modelo de servicio 
                     global, brindando servicios de custodia, contabilidad de fondos y administración de fondos.
                     <br><br>
-                    Vanward también trabaja con nuestros clientes japoneses para brindar servicios de préstamo de valores, cambio de divisas y servicios de mensajería e interconexión 
+                    Sunrise también trabaja con nuestros clientes japoneses para brindar servicios de préstamo de valores, cambio de divisas y servicios de mensajería e interconexión 
                     Infomediary®.",
     // latin america
     "latin america 1"   => "El rápido crecimiento de los activos institucionales en los cinco mercados más grandes de América Latina: Brasil, México, Chile, Colombia y Perú, está generando 
                             un interés significativo por parte de los gestores de activos globales para establecer y expandir sus operaciones en la región.
                             <br><br>
                             Con una excelencia constante en el servicio durante varias décadas, un enfoque personalizado para abordar los requisitos del mercado local y conocimientos 
-                            estratégicos sobre la distribución global de fondos, Vanward es el principal proveedor de servicios de activos para los mayores captadores de activos de América 
+                            estratégicos sobre la distribución global de fondos, Sunrise es el principal proveedor de servicios de activos para los mayores captadores de activos de América 
                             Latina.",
     "latin america 2"   => "Soluciones Integradas",
-    "latin america 3"   => "Vanward ofrece una gama completa de soluciones de servicios de inversión, incluyendo:",
+    "latin america 3"   => "Sunrise ofrece una gama completa de soluciones de servicios de inversión, incluyendo:",
     "latin america 4"   => "Compromiso con la Región",
-    "latin america 5"   => "Vanward ha mantenido estrechos vínculos con América Latina desde nuestra fundación en 1818 y ha brindado servicios al sistema de fondos de pensiones de América 
+    "latin america 5"   => "Sunrise ha mantenido estrechos vínculos con América Latina desde nuestra fundación en 1818 y ha brindado servicios al sistema de fondos de pensiones de América 
                             Latina desde su inicio hace casi 40 años. Nuestra reputación como el principal custodio de la región se basa en nuestras estrechas relaciones de trabajo con 
                             clientes, reguladores locales y la infraestructura del mercado. Respaldados por el pensamiento y el enfoque a largo plazo que proporciona nuestra estructura de 
                             asociación, diseñamos nuestros servicios específicamente para satisfacer los requisitos locales de nuestros clientes y mantener la flexibilidad para adaptar 
@@ -2069,7 +2069,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                         Los fondos domiciliados en Luxemburgo siguen ganando popularidad en todo el mundo, desde Asia hasta América Latina. Por lo tanto, es crucial que los gestores se 
                         asocien con un proveedor de servicios experimentado para desarrollar su infraestructura de servicio global y respaldar su crecimiento futuro.",
     "luxembourg 2"  => "Proveedor líder de servicios en Luxemburgo",
-    "luxembourg 3"  => "Presente en el mercado desde 1989, brindando apoyo a nuestros clientes desde el lanzamiento de los primeros fondos UCITS, Vanward es ahora uno de los principales 
+    "luxembourg 3"  => "Presente en el mercado desde 1989, brindando apoyo a nuestros clientes desde el lanzamiento de los primeros fondos UCITS, Sunrise es ahora uno de los principales 
                         custodios y administradores externos en Luxemburgo. Ofrecemos nuestra gama completa de servicios de activos a fondos UCITS y no UCITS domiciliados en Luxemburgo.
                         <br><br>
                         Nos especializamos en ayudar a nuestros clientes a gestionar la complejidad del servicio de fondos transfronterizos, con una experiencia particular en UCITS, RQFII, 
@@ -2081,7 +2081,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
 
     // LEVEL 2 - Careers
     // what we look for
-    "what we look for 1" => "En Vanward, tu carrera es tuya para definir. Contratamos a personas brillantes y proactivas, les proporcionamos las herramientas para tener éxito y les damos 
+    "what we look for 1" => "En Sunrise, tu carrera es tuya para definir. Contratamos a personas brillantes y proactivas, les proporcionamos las herramientas para tener éxito y les damos 
                             la libertad para destacar.",
     "what we look for 2" => "Trabaja en proyectos desafiantes del mundo real mientras asistes a capacitaciones y estableces redes con empleados en toda la empresa.",
     "what we look for 3" => "Has trabajado duro para obtener tu título y estás listo para lo siguiente: un trabajo que te desafíe, te inspire y te anime a compartir tus ideas.",
@@ -2090,7 +2090,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "what we look for 5" => "Construye una valiosa experiencia y actualiza tus habilidades mientras regresas al mundo laboral corporativo después de una ausencia personal a través de una 
                             Asignación de Reinicio remunerada de 10 semanas.",
     // total rewards
-    "total rewards 1"   => "En Vanward, reconocemos que nuestros empleados son fundamentales para nuestro éxito y para brindar soluciones excepcionales a nuestros clientes. Para mostrar 
+    "total rewards 1"   => "En Sunrise, reconocemos que nuestros empleados son fundamentales para nuestro éxito y para brindar soluciones excepcionales a nuestros clientes. Para mostrar 
                             nuestro agradecimiento y apoyo, ofrecemos un completo paquete de Recompensas Totales diseñado para ayudarte a manejar tu vida personal mientras avanzas en tu 
                             carrera.",
     "total rewards 2"   => "Un programa de beneficios de alta calidad que enfatiza el mantenimiento de una buena salud, seguridad financiera para tu futuro y tranquilidad.",
@@ -2098,7 +2098,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "total rewards 4"   => "Oportunidades para ampliar tus habilidades y conocimientos a través del aprendizaje colaborativo, la aplicación en el trabajo y herramientas en línea.",
     "total rewards 5"   => "Oportunidades para desarrollar tu experiencia, asumir nuevos desafíos y reinventarte a ti mismo, sin dejar la empresa.",
     // life here
-    "life here 1" => "En Vanward, entendemos que nuestro éxito se basa en la calidad de nuestro personal y la cultura que fomentamos. Además de brindar trabajo significativo y 
+    "life here 1" => "En Sunrise, entendemos que nuestro éxito se basa en la calidad de nuestro personal y la cultura que fomentamos. Además de brindar trabajo significativo y 
                     oportunidades de desarrollo, creemos en crear un entorno donde puedas tener un impacto positivo, tanto dentro de nuestra empresa como en tu comunidad. Aquí hay algunas 
                     formas en que apoyamos a nuestros empleados y promovemos una cultura de Trabajo en equipo, Integridad y Excelencia.",
     "life here 2" => "Un espíritu emprendedor y un entorno colaborativo que te permite agregar valor donde sea posible.",
@@ -2106,7 +2106,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "life here 4" => "Una comunidad global de redes lideradas por empleados y creadas por y para profesionales diversos.",
     "life here 5" => "Contribuye a tu comunidad y ayuda a transformar la vida de otros mientras inspiras un espíritu de ciudadanía.",
     // cares
-    "cares 1"   => "Vanward tiene una orgullosa tradición de servicio voluntario. De hecho, el acto de dar está tan arraigado en nuestra cultura que creamos Cares, un programa filantrópico 
+    "cares 1"   => "Sunrise tiene una orgullosa tradición de servicio voluntario. De hecho, el acto de dar está tan arraigado en nuestra cultura que creamos Cares, un programa filantrópico 
                     dedicado a proporcionar educación y necesidades básicas a quienes lo necesitan. Completamente impulsadas por los empleados, las actividades de Cares son patrocinadas 
                     por la empresa y lideradas por voluntarios cuya pasión infunde energía en cada iniciativa. A través de asociaciones con organizaciones sin fines de lucro, brindamos 
                     oportunidades para que los empleados aprendan sobre los problemas que enfrentan nuestras comunidades y cómo ser parte de la solución.",
@@ -2122,7 +2122,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "cares 10"  => "programas de alfabetización y tutoría",
     "cares 11"  => "Nuestra misión es involucrar a niños, jóvenes y familias, y aumentar las tasas de éxito de los diversos miembros de las comunidades en las que vivimos y trabajamos.",
     "cares 12"  => "Obtén más información sobre otros",
-    "cares 13"  => "esfuerzos filantrópicos de Vanward y nuestro Fondo de Ayuda para Empleados.",
+    "cares 13"  => "esfuerzos filantrópicos de Sunrise y nuestro Fondo de Ayuda para Empleados.",
 
 
 
@@ -2135,14 +2135,14 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             partes interesadas y sin accionistas externos que complacer, nuestras lealtades permanecen unidas.
                             <br><br>
                             Como nuestros socios asumen la responsabilidad de las obligaciones de la empresa, hemos cultivado una sólida cultura de gestión de riesgos. En consecuencia, los 
-                            socios de Vanward están bien informados sobre las operaciones de la empresa y participan activamente en su gestión diaria y en los procesos de toma de 
+                            socios de Sunrise están bien informados sobre las operaciones de la empresa y participan activamente en su gestión diaria y en los procesos de toma de 
                             decisiones.",
     // our mission and profile
-    "our mission and profile 1" => "En Vanward, nuestro propósito es claro y conciso: salvaguardar el bienestar financiero de nuestros clientes y fomentar el crecimiento de sus activos a 
+    "our mission and profile 1" => "En Sunrise, nuestro propósito es claro y conciso: salvaguardar el bienestar financiero de nuestros clientes y fomentar el crecimiento de sus activos a 
                                     lo largo de períodos prolongados. Colocando a nuestros clientes en primer plano de nuestras operaciones, organizamos meticulosamente nuestra empresa, 
                                     equipos y negocios en consecuencia. Manteniendo una integridad inquebrantable, nos negamos a comprometer nuestros principios.",
     // sustainability
-    "sustainability 1"  => "Con más de 26 años de experiencia, Vanward se ha establecido como una institución sólida en la industria. La sostenibilidad, que implica una dedicación decidida 
+    "sustainability 1"  => "Con más de 26 años de experiencia, Sunrise se ha establecido como una institución sólida en la industria. La sostenibilidad, que implica una dedicación decidida 
                             al valor y bienestar a largo plazo, está en el corazón de nuestra identidad. Creemos firmemente que la sostenibilidad se logra al llevar a cabo nuestro negocio 
                             de manera responsable y ética, al mismo tiempo que hacemos contribuciones positivas a nuestros clientes, nuestra gente y nuestras comunidades, con miras a las 
                             generaciones futuras.",
@@ -2152,7 +2152,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             ofrezcamos soluciones consideradas y orientadas hacia el futuro que se alineen con sus valores y mejores intereses. Además, tenemos la responsabilidad de 
                             mantener la continuidad, seguridad y estabilidad de nuestras operaciones, así como contribuir a la sostenibilidad a largo plazo de la industria financiera en su 
                             conjunto. Al cumplir con estos compromisos, demostramos nuestra dedicación a nuestros clientes y al éxito duradero de sus esfuerzos.",
-    "sustainability 4"  => "Nuestra gente, el excepcional equipo de Vanward, desempeña un papel crucial para satisfacer las necesidades de nuestros clientes. Siempre se esfuerzan por los 
+    "sustainability 4"  => "Nuestra gente, el excepcional equipo de Sunrise, desempeña un papel crucial para satisfacer las necesidades de nuestros clientes. Siempre se esfuerzan por los 
                             más altos estándares de excelencia e integridad. Para fomentar la innovación y lograr un rendimiento sobresaliente, reclutamos y apoyamos activamente una amplia 
                             gama de habilidades y perspectivas diversas dentro de nuestro equipo. Estamos comprometidos a crear un entorno inclusivo que priorice el bienestar de todos los 
                             miembros del equipo, capacitándolos para hacer contribuciones significativas y prosperar tanto en sus vidas profesionales como personales. Al adoptar este 
@@ -2162,10 +2162,10 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             contribuciones positivas y significativas a las comunidades donde realizamos nuestras actividades comerciales. Al participar en estos esfuerzos, buscamos crear 
                             un impacto positivo y duradero que se extienda más allá de nuestra esfera de influencia inmediata.",
     // philanthropy
-    "philanthropy 1"    => "En Vanward, es bueno compartir tu tiempo y talento.
+    "philanthropy 1"    => "En Sunrise, es bueno compartir tu tiempo y talento.
                             <br><br>
                             Por esta razón, creamos Cares, nuestro programa filantrópico dedicado a brindar educación y necesidades básicas a quienes lo necesitan. A través de este 
-                            programa, los empleados de Vanward pueden devolver a nuestras comunidades y ayudar a transformar la vida de otros mientras inspiran un espíritu de ciudadanía y 
+                            programa, los empleados de Sunrise pueden devolver a nuestras comunidades y ayudar a transformar la vida de otros mientras inspiran un espíritu de ciudadanía y 
                             responsabilidad social.
                             <br><br>
                             Reflejando nuestra misión filantrópica, enfocamos nuestros esfuerzos en las siguientes categorías.",
@@ -2192,10 +2192,10 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                                     necesarios para comprender de manera integral nuestras operaciones y ofertas.",
     // Políticas y divulgaciones > *
     // Legal
-    "legal 1"    => "Estos Términos y Condiciones en línea de Vanward (los 'Términos') incluyen los 'Términos Generales' y
+    "legal 1"    => "Estos Términos y Condiciones en línea de Sunrise (los 'Términos') incluyen los 'Términos Generales' y
                     los 'Términos Específicos del Producto' establecidos a continuación. Todo uso de los servicios electrónicos y
-                    en línea ofrecidos por Vanward (junto con sus filiales, 'Vanward' o 'nosotros'), incluyendo, entre otros, el
-                    portal Vanward WorldView®, cualquier versión futura del mismo o su sucesor, y todos los productos y servicios
+                    en línea ofrecidos por Sunrise (junto con sus filiales, 'Sunrise' o 'nosotros'), incluyendo, entre otros, el
+                    portal Sunrise WorldView®, cualquier versión futura del mismo o su sucesor, y todos los productos y servicios
                     accesibles o disponibles a través de dicho portal (en conjunto, los 'Servicios en línea'), está sujeto a los
                     Términos Generales. Al utilizar cualquiera de los Servicios en línea, usted acepta los Términos Generales.
                     <br><br>
@@ -2203,7 +2203,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     en línea, específicamente referenciados a continuación bajo 'Términos Específicos del Producto', también acepta
                     los Términos aplicables establecidos bajo ese encabezado. En caso de conflicto entre los Términos Generales y
                     los Términos Específicos del Producto aplicables, prevalecerán los Términos Específicos del Producto. Los términos
-                    de cada acuerdo separado que rige su relación comercial con Vanward (cada uno, un 'Acuerdo con el Cliente')
+                    de cada acuerdo separado que rige su relación comercial con Sunrise (cada uno, un 'Acuerdo con el Cliente')
                     también se aplicarán a su uso de los Servicios en línea en relación con dicha relación, y los Términos se
                     incorporan en su totalidad a dicho Acuerdo con el Cliente por referencia. Excepto cuando se indique
                     específicamente lo contrario en los Términos, en caso de conflicto entre los términos de los Términos y los de
@@ -2211,7 +2211,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "legal 2"    => "Términos Generales",
     "legal 3"    => "ACCESO A LOS SERVICIOS EN LÍNEA",
     "legal 4"    => "Credenciales de seguridad",
-    "legal 5"    => "Se requiere un código de identificación ('ID de usuario') y contraseña(s) ('Contraseña') para acceder a cualquiera de los Servicios en línea. También puede ser necesario un certificado digital, una clave de encriptación y/u otros dispositivos de seguridad (en conjunto, 'Credenciales de seguridad'), a discreción de Vanward, para acceder a ciertos Servicios en línea. Usted es responsable: (a) de la seguridad y confidencialidad de todas las ID de usuario, Contraseñas, certificados digitales, claves de encriptación y otros dispositivos de seguridad (en conjunto, 'Credenciales de seguridad'): (b) de proteger sus Credenciales de seguridad y no proporcionar o poner a disposición, de manera intencionada o no, sus Credenciales de seguridad a ninguna persona no autorizada; y (c) de todo uso de los Servicios en línea a través de sus Credenciales de seguridad, incluyendo actividades transaccionales, autorizadas o no por usted. Si elige compartir sus Credenciales de seguridad con un tercero (incluidos, entre otros, asesores de inversiones y agregadores de datos), será plenamente responsable de todas las acciones tomadas por dichos terceros mediante el uso de sus Credenciales de seguridad, lo cual asumiremos que está autorizado por usted. No seremos responsables por ninguna violación de seguridad o por cualquier actividad no autorizada o robo por parte de terceros, causados por su falta (ya sea intencionada, no intencionada o negligente) de mantener la seguridad o confidencialidad de sus Credenciales de seguridad. Debe notificarnos de inmediato por escrito si cree que la seguridad o confidencialidad de alguna de sus Credenciales de seguridad ha sido comprometida, si sospecha acceso no autorizado a su cuenta mediante los Servicios en línea o de otro modo, o si una persona a la que se le ha asignado una Credencial de seguridad deja su empleo o ya no está autorizada para acceder a los Servicios en línea en su nombre. Una persona autorizada de su organización debe comunicar dicha notificación a Vanward mediante el envío de un formulario de solicitud de acceso de usuario completo, que puede obtenerse a través de los contactos de gestión de relaciones de su organización en Vanward.",
+    "legal 5"    => "Se requiere un código de identificación ('ID de usuario') y contraseña(s) ('Contraseña') para acceder a cualquiera de los Servicios en línea. También puede ser necesario un certificado digital, una clave de encriptación y/u otros dispositivos de seguridad (en conjunto, 'Credenciales de seguridad'), a discreción de Sunrise, para acceder a ciertos Servicios en línea. Usted es responsable: (a) de la seguridad y confidencialidad de todas las ID de usuario, Contraseñas, certificados digitales, claves de encriptación y otros dispositivos de seguridad (en conjunto, 'Credenciales de seguridad'): (b) de proteger sus Credenciales de seguridad y no proporcionar o poner a disposición, de manera intencionada o no, sus Credenciales de seguridad a ninguna persona no autorizada; y (c) de todo uso de los Servicios en línea a través de sus Credenciales de seguridad, incluyendo actividades transaccionales, autorizadas o no por usted. Si elige compartir sus Credenciales de seguridad con un tercero (incluidos, entre otros, asesores de inversiones y agregadores de datos), será plenamente responsable de todas las acciones tomadas por dichos terceros mediante el uso de sus Credenciales de seguridad, lo cual asumiremos que está autorizado por usted. No seremos responsables por ninguna violación de seguridad o por cualquier actividad no autorizada o robo por parte de terceros, causados por su falta (ya sea intencionada, no intencionada o negligente) de mantener la seguridad o confidencialidad de sus Credenciales de seguridad. Debe notificarnos de inmediato por escrito si cree que la seguridad o confidencialidad de alguna de sus Credenciales de seguridad ha sido comprometida, si sospecha acceso no autorizado a su cuenta mediante los Servicios en línea o de otro modo, o si una persona a la que se le ha asignado una Credencial de seguridad deja su empleo o ya no está autorizada para acceder a los Servicios en línea en su nombre. Una persona autorizada de su organización debe comunicar dicha notificación a Sunrise mediante el envío de un formulario de solicitud de acceso de usuario completo, que puede obtenerse a través de los contactos de gestión de relaciones de su organización en Sunrise.",
     "legal 6"    => "Terminación del acceso",
     "legal 7"    => "Podemos terminar su acceso a los Servicios en línea en cualquier momento, por cualquier motivo,
                     con un aviso previo de cinco (5) días hábiles; siempre que podamos terminar su acceso a los Servicios en línea
@@ -2245,8 +2245,8 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     manera, en su totalidad o en parte, de ninguna manera sin nuestro consentimiento previo por escrito, excepto
                     en la medida permitida por la Ley de Derechos de Autor de 1976 (17 U.S.C. § 107), modificada, y solo con avisos
                     de nuestros derechos de propiedad. Nuestras marcas comerciales y marcas de servicio incluyen, entre otras,
-                    'ActionView', 'ActionWorld', 'AP Exchange', 'APEX', 'Vanward', 'Vanward & Co.', 'Vanward Comset Plus', 'COnnect',
-                    'Vanward Direct', 'Vanward INFOFX', 'BIDS', 'Vanward', 'DEALBOARD', 'ETF Connect', 'FX INDEXLINK', 'FX OrderView',
+                    'ActionView', 'ActionWorld', 'AP Exchange', 'APEX', 'Sunrise', 'Sunrise & Co.', 'Sunrise Comset Plus', 'COnnect',
+                    'Sunrise Direct', 'Sunrise INFOFX', 'BIDS', 'Sunrise', 'DEALBOARD', 'ETF Connect', 'FX INDEXLINK', 'FX OrderView',
                     'INFOACTION', 'INFOFX', 'INFOMEDIARY', 'INFOSETTLE', 'LIFE OF A TRADE', 'Shared Goals. Shared Success', 'Trust in
                     Partnership', 'WorldView' y '59 Wall St.'. Otras palabras o símbolos destacados, utilizados para identificar
                     la fuente de bienes y servicios, son marcas comerciales de sus respectivos propietarios. No puede copiar,
@@ -2273,7 +2273,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     que no sea Estados Unidos, usted asume la responsabilidad completa del cumplimiento de todas las leyes locales.",
     "legal 17"   => "INSTRUCCIONES",
     "legal 18"   => "Emisión de Instrucciones en General",
-    "legal 19"   => "Cuando corresponda, la emisión de instrucciones adecuadas a Vanward se proporcionará según lo designado en el Contrato de Cliente aplicable.",
+    "legal 19"   => "Cuando corresponda, la emisión de instrucciones adecuadas a Sunrise se proporcionará según lo designado en el Contrato de Cliente aplicable.",
     "legal 20"   => "Emisión de Instrucciones a través de los Servicios en línea",
     "legal 21"   => "Las siguientes disposiciones adicionales se aplican a las instrucciones proporcionadas a través de los Servicios en línea:<br>
                     (a) Usted nos autoriza a actuar según las instrucciones recibidas a través de los Servicios en línea utilizando sus Credenciales de Seguridad como si fueran 
@@ -2303,9 +2303,9 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "legal 28"   => "Comunicaciones por Correo Electrónico",
     "legal 29"   => "Uso Prohibido",
     "legal 30"   => "(a) Si accede a los Servicios en línea a través de Internet (incluidos, entre otros, mediante un dispositivo móvil), se le requerirá que utilice un navegador de 
-                    Internet proporcionado por terceros, como Firefox o Internet Explorer, software de utilidad de Internet de diversos proveedores de software no afiliados a Vanward y/o 
-                    una aplicación móvil proporcionada por Vanward. Su uso de dicho software para acceder a los Servicios en línea será bajo su propio riesgo y estará sujeto a los términos 
-                    y condiciones impuestos por Vanward y dichos terceros, además de estos Términos (por ejemplo, el Contrato de Licencia de Usuario Final de la Aplicación con Licencia de 
+                    Internet proporcionado por terceros, como Firefox o Internet Explorer, software de utilidad de Internet de diversos proveedores de software no afiliados a Sunrise y/o 
+                    una aplicación móvil proporcionada por Sunrise. Su uso de dicho software para acceder a los Servicios en línea será bajo su propio riesgo y estará sujeto a los términos 
+                    y condiciones impuestos por Sunrise y dichos terceros, además de estos Términos (por ejemplo, el Contrato de Licencia de Usuario Final de la Aplicación con Licencia de 
                     Apple). No garantizamos el rendimiento ni asumimos responsabilidad alguna por su uso de cualquier información de terceros, software, hardware de telecomunicaciones o 
                     conexión a Internet. Algunos Servicios en línea pueden ser accesibles mediante una conexión de acceso telefónico directo a través del software que le proporcionamos; en 
                     esos casos, su uso de dicho software estará sujeto a los términos de licencia incluidos con el software para cada Servicio. Dichos términos de licencia, que incluyen 
@@ -2320,7 +2320,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     embargo, renunciamos a cualquier responsabilidad por la interceptación de dichos datos o comunicaciones. Usted acepta que no utilizará el correo electrónico para 
                     solicitar, autorizar o efectuar la compra o venta de valores, monedas o materias primas, para enviar instrucciones de transferencias de fondos o para cualquier otra 
                     transacción, a menos que acordemos mutuamente los procedimientos mediante los cuales todas las comunicaciones por correo electrónico de este tipo por su parte puedan 
-                    ser transmitidas de conformidad con las políticas y procedimientos aplicables de Vanward (por ejemplo, la Política de Instrucciones por Correo Electrónico del Cliente 
+                    ser transmitidas de conformidad con las políticas y procedimientos aplicables de Sunrise (por ejemplo, la Política de Instrucciones por Correo Electrónico del Cliente 
                     de Servicios para Inversionistas). <br>
                     (d) Se le prohíbe el uso indebido deliberado de cualquier elemento de los Servicios en línea, incluida, entre otras, la piratería informática, la interrupción o el uso 
                     excesivo o cualquier uso en contravención de la ley aplicable, y realizar cualquier modificación a los Servicios en línea, incluidos, entre otros, el software, la 
@@ -2360,31 +2360,31 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                     DE SU FECHA, Y NO ASUMIMOS NINGUNA OBLIGACIÓN O RESPONSABILIDAD DE ACTUALIZAR O MODIFICAR DICHA INFORMACIÓN. Su elegibilidad para determinados productos y servicios 
                     está sujeta a nuestra determinación y aceptación final.",
     "legal 38"   => "Cambios en los Términos y Condiciones en Línea",
-    "legal 39"   => "Le informaremos de cualquier cambio en estos Términos mediante la publicación de avisos de tales cambios en Vanward WorldView o su sucesor. Le proporcionaremos avisos 
+    "legal 39"   => "Le informaremos de cualquier cambio en estos Términos mediante la publicación de avisos de tales cambios en Sunrise WorldView o su sucesor. Le proporcionaremos avisos 
                     de tales cambios al menos quince (15) días antes de la fecha efectiva de los mismos, excepto cuando se requiera un período de notificación más corto, en cuyo caso le 
                     proporcionaremos la mayor notificación previa posible según las circunstancias. El uso continuado de los Servicios en línea después de la fecha efectiva de dichos 
                     cambios se considerará como su aceptación y acuerdo con tales cambios.",
     "legal 40"   => "POLÍTICA DE PRIVACIDAD",
-    "legal 41"   => "Cualquier información personal proporcionada por usted a través de los Servicios en línea será tratada de acuerdo con la política de privacidad en línea de Vanward, 
+    "legal 41"   => "Cualquier información personal proporcionada por usted a través de los Servicios en línea será tratada de acuerdo con la política de privacidad en línea de Sunrise, 
                     que está incorporada en su totalidad por referencia en el presente documento.",
     "legal 42"   => "POLÍTICA DE COOKIES",
-    "legal 43"   => "Las partes del sitio web de Vanward donde aparecen estos Términos y los Servicios en línea utilizan cookies en su funcionamiento. Al utilizar dicho sitio web y los 
-                    Servicios en línea, usted acepta la colocación de cookies en su computadora de acuerdo con los términos de la política de cookies de Vanward, que está incorporada en su 
+    "legal 43"   => "Las partes del sitio web de Sunrise donde aparecen estos Términos y los Servicios en línea utilizan cookies en su funcionamiento. Al utilizar dicho sitio web y los 
+                    Servicios en línea, usted acepta la colocación de cookies en su computadora de acuerdo con los términos de la política de cookies de Sunrise, que está incorporada en su 
                     totalidad por referencia en el presente documento.",
     "legal 44"   => "Si no desea aceptar cookies de este sitio web o de los Servicios en línea, desactive las cookies en su navegador web o absténgase de utilizar este sitio.",
     "legal 45"   => "Términos Específicos del Producto",
     "legal 46"   => "Como se describe anteriormente, su uso de cualquier producto o servicio mencionado a continuación está sujeto a los Términos Específicos del Producto aplicables que se 
                     enumeran a continuación con respecto a dicho uso, los cuales están expresamente incorporados por referencia en el presente documento.",
-    "legal 47"   => "Vanward FX",
+    "legal 47"   => "Sunrise FX",
     "legal 48"   => "Términos de la Plataforma de Operaciones",
     // Política de privacidad
-    "privacy policy 1" => "Política de privacidad de Vanward",
+    "privacy policy 1" => "Política de privacidad de Sunrise",
     "privacy policy 2" => "Última actualización: 11 de noviembre de 2022",
-    "privacy policy 3" => "Vanward y todas las afiliadas y subsidiarias relacionadas (colectivamente, “Vanward”, “nosotros” o “nosotros”)
+    "privacy policy 3" => "Sunrise y todas las afiliadas y subsidiarias relacionadas (colectivamente, “Sunrise”, “nosotros” o “nosotros”)
                             respetan su privacidad y se comprometen a protegerla.",
     "privacy policy 4" => "Sitios web y servicios cubiertos por esta política de privacidad",
     "privacy policy 5" => "<p>Esta política de privacidad se aplica a nuestras prácticas de privacidad para el manejo de la información relacionada con
-                            su uso de vanward-intl.com y otros sitios web operados por nosotros desde los que está accediendo a esta
+                            su uso de Sunrise-intl.com y otros sitios web operados por nosotros desde los que está accediendo a esta
                             política de privacidad (en conjunto, denominados los “Sitios”), así como a nuestros servicios en línea
                             en los Sitios y servicios relacionados con nuestros productos comerciales (los “Servicios”). También
                             describimos los derechos que puede tener y cómo puede comunicarse con nosotros sobre nuestras prácticas
@@ -2393,7 +2393,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             políticas de privacidad o a los sitios web de otras compañías o entidades a los que están vinculados este
                             sitio web. Para conocer la política de privacidad de un sitio vinculado, consulte la política de privacidad
                             de ese sitio.</p>
-                        <p>Vanward es el responsable del tratamiento de los datos personales que recopilamos a través de los Sitios.
+                        <p>Sunrise es el responsable del tratamiento de los datos personales que recopilamos a través de los Sitios.
                             También somos el responsable del tratamiento de los datos personales que recopilamos para nuestros contactos
                             comerciales clave. Para los datos personales proporcionados en relación con nuestros productos comerciales,
                             hay momentos en los que actuamos como responsables del tratamiento. Si tiene preguntas sobre cuándo
@@ -2418,8 +2418,8 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             su visita y uso de los Sitios, así como información proporcionada por o a través de nuestros clientes
                             en relación con nuestros Servicios. También recopilamos cierta información cuando:",
     "privacy policy 11" => "<li>envía consultas a través de un formulario en línea;</li>
-                            <li>se registra en los Servicios ofrecidos por Vanward;</li>
-                            <li>se postula para trabajos en Vanward a través de nuestro portal en línea;</li>
+                            <li>se registra en los Servicios ofrecidos por Sunrise;</li>
+                            <li>se postula para trabajos en Sunrise a través de nuestro portal en línea;</li>
                             <li>navega por nuestros Sitios; o</li>
                             <li>interactúa con nuestras comunicaciones de marketing electrónicas (también conocidas como correos
                             electrónicos) (a los que también nos referimos a continuación como correos electrónicos).</li>",
@@ -2433,12 +2433,12 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             preferencias de productos o temas;</li>
                         <li>si se registra para alguno de los servicios en línea que ofrecemos, generalmente proporcionará su nombre
                             e información de contacto, así como cualquier otra información necesaria para acceder a la función;</li>
-                        <li>si solicita un puesto con Vanward a través de nuestra instalación de solicitud en línea, generalmente
+                        <li>si solicita un puesto con Sunrise a través de nuestra instalación de solicitud en línea, generalmente
                             proporcionará su nombre, datos de contacto y una copia de su CV o currículum, y si presenta su solicitud
                             utilizando su perfil de LinkedIn, generalmente proporcionará información sobre su cuenta de LinkedIn.</li>
-                        <li>Si es un contacto clave en una empresa que tiene una cuenta comercial con Vanward, generalmente tenemos
+                        <li>Si es un contacto clave en una empresa que tiene una cuenta comercial con Sunrise, generalmente tenemos
                             su nombre, dirección de correo electrónico, número de teléfono, título y otra información relevante para
-                            su interacción con Vanward en nombre de su empleador.</li>
+                            su interacción con Sunrise en nombre de su empleador.</li>
                         <li>si usted es una persona de la que tenemos información en relación con los servicios que le proporcionamos,
                             generalmente tenemos información que nos ha proporcionado para abrir y administrar su cuenta y / o el
                             registro del (los) Fondo (s) del que es titular de acciones, lo que podría incluir datos para detectar y
@@ -2469,7 +2469,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                                 cuando utilice los Sitios o los Servicios, a menos que elija proporcionarnos directamente dicha
                                 información al comunicarse con nosotros por correo electrónico u otros medios. Utilizaremos su
                                 información personal para procesar su solicitud y, cuando corresponda, responderle.</p>
-                            <p><em>Si usted es un cliente de Vanward</em></p>
+                            <p><em>Si usted es un cliente de Sunrise</em></p>
                             <p>Además de recopilar información directamente de usted, podemos recopilar información de fuentes
                                 externas para cumplir con nuestras obligaciones de diligencia debida en relación con la apertura de su
                                 nueva cuenta. Estos datos de terceros nos permiten verificar la información que nos ha proporcionado,
@@ -2566,7 +2566,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             es necesaria para proteger los intereses vitales de una persona; o (vi) en caso de que vendamos o transfiramos
                             todo o parte de nuestro negocio o activos (incluido en caso de reorganización, disolución o liquidación).",
     "privacy policy 30" => "Cómo transferimos y almacenamos información personal",
-    "privacy policy 31" => "<p>Vanward es una organización global; la información personal que recopilamos puede transferirse
+    "privacy policy 31" => "<p>Sunrise es una organización global; la información personal que recopilamos puede transferirse
                                 internacionalmente a través del mundo a países donde hacemos negocios, los cuales pueden no tener
                                 las mismas leyes de protección de datos que el país en el que usted reside. Tenemos políticas y
                                 procedimientos internos para lograr un nivel equivalente de protección en toda nuestra
@@ -2644,7 +2644,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "privacy policy 55" => "comp",
     "privacy policy 56" => "Por escrito a:",
     "privacy policy 57" => "Atención: Oficial de Privacidad",
-    "vanward address" => "Unidad 1, piso 25, Torre del Banco Comercial de Shanghái, 12 Queen's Road Central, Hong Kong",
+    "Sunrise address" => "Unidad 1, piso 25, Torre del Banco Comercial de Shanghái, 12 Queen's Road Central, Hong Kong",
     "privacy policy 59" => "También puede contactar a nuestros Oficiales de Protección de Datos:",
     "privacy policy 60" => "Atención: Oficial de Protección de Datos",
     "privacy policy 61" => "Por escrito a:",
@@ -2652,8 +2652,8 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "privacy policy 63" => "Última actualización: 21 de mayo de 2020",
     "privacy policy 64" => "La Ley de Privacidad del Consumidor de California (“CCPA”) requiere que divulguemos cierta información sobre nuestra recopilación, uso y divulgación de 
                             información personal de los residentes de California. Estas Divulgaciones de Privacidad del Consumidor de California (“Divulgaciones”) complementan la Política 
-                            de Privacidad de Vanward arriba y se aplican únicamente a los consumidores de California. Estas Divulgaciones no se aplican al personal de Vanward. Las 
-                            secciones 2 a 4 de estas Divulgaciones no se aplican a los solicitantes de empleo de Vanward.",
+                            de Privacidad de Sunrise arriba y se aplican únicamente a los consumidores de California. Estas Divulgaciones no se aplican al personal de Sunrise. Las 
+                            secciones 2 a 4 de estas Divulgaciones no se aplican a los solicitantes de empleo de Sunrise.",
     "privacy policy 65" => "Aviso de Recopilación y Uso de Información Personal",
     "privacy policy 66" => "Dependiendo de la naturaleza de su relación con nosotros, podemos recopilar (y podemos haber recopilado durante los 12 meses anteriores a la fecha de entrada en 
                             vigencia de estas Divulgaciones) las siguientes categorías de información personal sobre usted:",
@@ -2685,7 +2685,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             <li>Depuración para identificar y reparar errores que afecten la funcionalidad prevista existente</li>
                             <li>Realizar investigaciones internas para el desarrollo y demostración tecnológica</li>
                             <li>Llevar a cabo actividades para verificar o mantener la calidad o seguridad de un servicio o dispositivo que nos pertenece, fabricado, fabricado para nosotros o controlado por nosotros, y mejorar, actualizar o mejorar el servicio que nos pertenece, fabricado, fabricado para nosotros o controlado por nosotros</li>
-                            <li>Administrar oportunidades de empleo en Vanward</li>",
+                            <li>Administrar oportunidades de empleo en Sunrise</li>",
     "privacy policy 70" => "Fuentes de Información Personal",
     "privacy policy 71" => "Dependiendo de la naturaleza de su relación con nosotros, durante los 12 meses anteriores a la fecha de entrada en vigencia de estas Divulgaciones, podemos haber obtenido información personal sobre usted de las siguientes categorías de fuentes:",
     "privacy policy 72" => "<li>Directamente de usted, como cuando ingresa su información personal en nuestro sitio o se comunica con nosotros</li>
@@ -2736,7 +2736,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
     "privacy policy 90" => "formulario de solicitud dedicado",
     "privacy policy 91" => "en nuestro sitio web:",
     "privacy policy 92" => "Puede enviar una solicitud por correo electrónico a",
-    "privacy policy 93" => "Puede llamarnos gratis al +852 5808 6078 y solicitar hablar con el Oficial de Privacidad de Vanward.",
+    "privacy policy 93" => "Puede llamarnos gratis al +852 5808 6078 y solicitar hablar con el Oficial de Privacidad de Sunrise.",
     "privacy policy 94" => "<p>Tenga en cuenta que para que podamos atender su solicitud, debemos verificar que usted es la persona a la que se refiere la solicitud. El procedimiento para 
                                 verificar su solicitud variará según la naturaleza de la solicitud y su relación con nosotros, pero normalmente implicará que nos proporcione dos o más 
                                 datos de identificación que coincidan con su información personal ya registrada en nuestros registros. Además, si nos pide que le proporcionemos piezas 
@@ -2777,7 +2777,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "center for women and wealth caption 3" => "CMR se complace en asociarse con Better Life Lab, una iniciativa del think tank y empresa social New America. Better Life Lab es un protagonista en el diálogo nacional sobre la evolución de los roles y normas de género, las políticas familiares y la forma en que trabajamos y vivimos. Utilizan investigación, datos e informes para fundamentar su trabajo y transmitir las historias que motivan, iluminan e inspiran el cambio.",
     // Conversaciones sobre mujeres, riqueza y liderazgo
     "conversations on women wealth and leadership caption 1" => "El primer paso para establecer un entorno dinámico e inclusivo donde las mujeres puedan tener conversaciones productivas sobre temas de interés para ellas es fomentar el diálogo.",
-    "conversations on women wealth and leadership caption 2" => "El Centro para Mujeres y Riqueza® y Vanward están comprometidos con el avance de las mujeres. Organizamos foros locales y nacionales donde las mujeres pueden compartir sus experiencias y discutir decisiones financieras, de inversión y planificación.",
+    "conversations on women wealth and leadership caption 2" => "El Centro para Mujeres y Riqueza® y Sunrise están comprometidos con el avance de las mujeres. Organizamos foros locales y nacionales donde las mujeres pueden compartir sus experiencias y discutir decisiones financieras, de inversión y planificación.",
     "boston, ma" => "Boston, MA",
     "new york, ny" => "Nueva York, NY",
     "philadelphia, pa" => "Filadelfia, PA",
@@ -2786,15 +2786,15 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "conversations on women wealth and leadership past event 1" => "Cena con la Dra. Patti Fletcher",
     "conversations on women wealth and leadership past event 1 caption" => 'DLa Dra. Patti Fletcher organizó una noche de cócteles con mujeres que "rompen el molde" como innovadoras en sus industrias, comunidades y lugares de trabajo. El grupo discutió sus obstáculos individuales y compartió perspectivas sobre su éxito futuro.',
     "conversations on women wealth and leadership past event 2" => "Cenas con Ellen Perry",
-    "conversations on women wealth and leadership past event 2 caption" => "El CMR organizó cenas íntimas en Nueva York y Boston con Ellen Perry. Brenner habló sobre su trayectoria desde el Metropolitan Museum of Art hasta Vanward, su perspectiva sobre el ciclo económico actual y cómo prepararse para futuras volatilidades.",
+    "conversations on women wealth and leadership past event 2 caption" => "El CMR organizó cenas íntimas en Nueva York y Boston con Ellen Perry. Brenner habló sobre su trayectoria desde el Metropolitan Museum of Art hasta Sunrise, su perspectiva sobre el ciclo económico actual y cómo prepararse para futuras volatilidades.",
     "conversations on women wealth and leadership past event 3" => "Sweats & Balances",
-    "conversations on women wealth and leadership past event 3 caption" => "En Vanward, creemos en la misión de Sweats & Balances de ayudar a las mujeres a lograr un equilibrio entre el trabajo, el ocio, el ejercicio y la salud. Juntos con Sweats & Balances, el CMR de Vanward organizó una noche de yoga, vino y conversación.",
+    "conversations on women wealth and leadership past event 3 caption" => "En Sunrise, creemos en la misión de Sweats & Balances de ayudar a las mujeres a lograr un equilibrio entre el trabajo, el ocio, el ejercicio y la salud. Juntos con Sweats & Balances, el CMR de Sunrise organizó una noche de yoga, vino y conversación.",
     "conversations on women wealth and leadership past event 4" => "Educación financiera para padres",
-    "conversations on women wealth and leadership past event 4 caption" => "Kathryn George, presidenta del CMR, y Ellen Perry, Asesora Principal de Vanward, brindaron información sobre cómo criar hijos financieramente responsables y facilitaron una discusión sobre la confluencia entre familia, riqueza y valores.",
+    "conversations on women wealth and leadership past event 4 caption" => "Kathryn George, presidenta del CMR, y Ellen Perry, Asesora Principal de Sunrise, brindaron información sobre cómo criar hijos financieramente responsables y facilitaron una discusión sobre la confluencia entre familia, riqueza y valores.",
     "conversations on women wealth and leadership past event 5" => "Mujeres en la industria vinícola",
     "conversations on women wealth and leadership past event 5 caption" => "El CMR organizó una fiesta de verano en The Urban Grape para honrar a las mujeres enólogas.",
     "conversations on women wealth and leadership past event 6" => "Consejos fiscales ante nueva legislación tributaria",
-    "conversations on women wealth and leadership past event 6 caption" => "El CMR se asoció con Family Business Magazine para presentar una discusión sobre la reforma fiscal. Profesionales de inversiones y planificación patrimonial de Vanward presentaron sus diez principales recomendaciones y oportunidades resultantes de la reciente legislación tributaria, seguido de una sesión de preguntas y respuestas sobre estrategias de planificación patrimonial.",
+    "conversations on women wealth and leadership past event 6 caption" => "El CMR se asoció con Family Business Magazine para presentar una discusión sobre la reforma fiscal. Profesionales de inversiones y planificación patrimonial de Sunrise presentaron sus diez principales recomendaciones y oportunidades resultantes de la reciente legislación tributaria, seguido de una sesión de preguntas y respuestas sobre estrategias de planificación patrimonial.",
     "conversations on women wealth and leadership past event 7" => "Evento en la tienda SoHo de The RealReal",
     "conversations on women wealth and leadership past event 7 caption" => "El CMR inauguró el verano con una noche de cócteles, conversación y artículos de lujo en la tienda The RealReal en Soho.",
     "conversations on women wealth and leadership past event 8" => "Cena del CMR con Camille Preston, CEO y fundadora de AIM Leadership",
@@ -2806,23 +2806,23 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "conversations on women wealth and leadership past event 11" => "Cena de Mujeres Fundadoras e Inversoras",
     "conversations on women wealth and leadership past event 11 caption" => "El Centro de Mujeres y Riqueza organizó una cena de Mujeres Fundadoras e Inversoras en la que Jules Pieri, CEO y co-fundadora de The Grommet, una plataforma para descubrir y lanzar productos no descubiertos, fue la oradora principal. Pieri describió las dificultades que enfrentó al establecer The Grommet.",
     "conversations on women wealth and leadership past event 12" => "Foro de Mujeres de Boston 2019",
-    "conversations on women wealth and leadership past event 12 caption" => "Vanward fue el anfitrión del séptimo Foro Anual de Mujeres de Boston. Juliette Kayyem, analista de CNN y autora de Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home, discutió las medidas comunes que podemos tomar para preparar a nuestras familias para una emergencia.",
+    "conversations on women wealth and leadership past event 12 caption" => "Sunrise fue el anfitrión del séptimo Foro Anual de Mujeres de Boston. Juliette Kayyem, analista de CNN y autora de Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home, discutió las medidas comunes que podemos tomar para preparar a nuestras familias para una emergencia.",
     "conversations on women wealth and leadership past event 13" => "Mesa redonda de Impacto Filantrópico",
-    "conversations on women wealth and leadership past event 13 caption" => "Vanward organizó una mesa redonda interactiva sobre filantropía de impacto antes de la temporada de vacaciones. Susan Donahue, experta en gestión de organizaciones sin fines de lucro, Dianne Chipps Bailey, líder del Grupo de Práctica de Organizaciones Sin Fines de Lucro y Fundaciones en Robinson, Bradshaw & Hinson, Pamela Norley, presidenta de Fidelity, y Maureen Orth, fundadora de la Fundación Marina Orth, participaron en la mesa redonda.",
+    "conversations on women wealth and leadership past event 13 caption" => "Sunrise organizó una mesa redonda interactiva sobre filantropía de impacto antes de la temporada de vacaciones. Susan Donahue, experta en gestión de organizaciones sin fines de lucro, Dianne Chipps Bailey, líder del Grupo de Práctica de Organizaciones Sin Fines de Lucro y Fundaciones en Robinson, Bradshaw & Hinson, Pamela Norley, presidenta de Fidelity, y Maureen Orth, fundadora de la Fundación Marina Orth, participaron en la mesa redonda.",
     "conversations on women wealth and leadership past event 14" => "Evento de lanzamiento del CMR en Charlotte",
     "conversations on women wealth and leadership past event 14 caption" => "La inauguración del Centro de Mujeres y Riqueza en Charlotte fue un gran éxito. Brigid Schulte, autora de Overwhelmed: Work, Love, and Play When No One Has Time y directora del Better Life Lab de New America, pronunció el discurso de apertura. Las discusiones se centraron en la cultura empresarial, el equilibrio entre el trabajo y la vida y encontrar tiempo para uno mismo.",
-    "conversations on women wealth and leadership past event 15" => "5to Evento Anual de la Red de Mujeres de Vanward",
+    "conversations on women wealth and leadership past event 15" => "5to Evento Anual de la Red de Mujeres de Sunrise",
     "conversations on women wealth and leadership past event 15 caption" => "La Red de Mujeres discutió cómo transformar la 'Fuerza de voluntad en Grandeza'. Caroline Miller, reconocida educadora sobre la relación entre objetivos, fuerza de voluntad y felicidad, habló sobre qué es la fuerza de voluntad, por qué es importante y cómo cualquier persona puede adquirirla. Jackie Fenn, creadora del modelo Gartner Hype Cycle, presentó su investigación sobre la necesidad de la creatividad para una cultura empresarial próspera.",
     "conversations on women wealth and leadership past event 16" => "Cumbre de la Próxima Generación",
-    "conversations on women wealth and leadership past event 16 caption" => "Familias y clientes de Vanward asistieron a la segunda Cumbre Anual de la Próxima Generación, que fue un evento cautivador. Se discutieron la comunicación efectiva, el emprendimiento, la inversión, la gestión del equilibrio entre el trabajo y la vida, y el establecimiento de bases financieras para el futuro.",
+    "conversations on women wealth and leadership past event 16 caption" => "Familias y clientes de Sunrise asistieron a la segunda Cumbre Anual de la Próxima Generación, que fue un evento cautivador. Se discutieron la comunicación efectiva, el emprendimiento, la inversión, la gestión del equilibrio entre el trabajo y la vida, y el establecimiento de bases financieras para el futuro.",
     "conversations on women wealth and leadership past event 17" => "Lanzamiento del CMR en Nueva York",
-    "conversations on women wealth and leadership past event 17 caption" => "La presidenta Kathryn George y la directora ejecutiva Adrienne Penta dieron la bienvenida a la autora más vendida y CEO de New America, Anne-Marie Slaughter, a Vanward para el lanzamiento del CMR en Nueva York, donde la Dra. Slaughter habló sobre mujeres, hombres, trabajo y familia.",
+    "conversations on women wealth and leadership past event 17 caption" => "La presidenta Kathryn George y la directora ejecutiva Adrienne Penta dieron la bienvenida a la autora más vendida y CEO de New America, Anne-Marie Slaughter, a Sunrise para el lanzamiento del CMR en Nueva York, donde la Dra. Slaughter habló sobre mujeres, hombres, trabajo y familia.",
     "Cconversations on women wealth and leadership past event 18" => "2020 Women on Boards: La Conversación Nacional sobre la Diversidad en los Consejos",
-    "conversations on women wealth and leadership past event 18 caption" => "El 19 de noviembre, 2020 Women on Boards organizó la Conversación Nacional sobre la Diversidad en los Consejos en ciudades de todo el mundo. Se discutió cómo y por qué las empresas están aumentando el número de mujeres en los consejos corporativos de EE. UU. Los ejecutivos principales participaron en la discusión. El CMR de Vanward se enorgulleció de patrocinar los eventos en Charlotte, Carolina del Norte y Boston, Massachusetts.",
+    "conversations on women wealth and leadership past event 18 caption" => "El 19 de noviembre, 2020 Women on Boards organizó la Conversación Nacional sobre la Diversidad en los Consejos en ciudades de todo el mundo. Se discutió cómo y por qué las empresas están aumentando el número de mujeres en los consejos corporativos de EE. UU. Los ejecutivos principales participaron en la discusión. El CMR de Sunrise se enorgulleció de patrocinar los eventos en Charlotte, Carolina del Norte y Boston, Massachusetts.",
     "conversations on women wealth and leadership past event 19" => "Foro de Mujeres de Boston 2018",
-    "conversations on women wealth and leadership past event 19 caption"=> "Vanward convocó el sexto Foro Anual de Mujeres de Boston en conjunto con el lanzamiento del CMR de Vanward. Claire Shipman, periodista galardonada y coautora de El Código de la Confianza, brindó a más de cien asistentes información sobre las mujeres y la confianza; habló sobre el impacto de la confianza en el éxito y cómo alcanzarla.",
+    "conversations on women wealth and leadership past event 19 caption"=> "Sunrise convocó el sexto Foro Anual de Mujeres de Boston en conjunto con el lanzamiento del CMR de Sunrise. Claire Shipman, periodista galardonada y coautora de El Código de la Confianza, brindó a más de cien asistentes información sobre las mujeres y la confianza; habló sobre el impacto de la confianza en el éxito y cómo alcanzarla.",
     "conversations on women wealth and leadership past event 20" => "Cumbre de la Próxima Generación",
-    "conversations on women wealth and leadership past event 20 caption" => "En junio, Vanward organizó una íntima y atractiva Cumbre de la Próxima Generación en el Soho Grand Hotel de Nueva York, a la que asistieron tanto clientes como empleados de Vanward. Se discutieron temas como el gasto, la inversión en valor, el liderazgo y el impacto social. Basándonos en los comentarios positivos de los asistentes, Vanward tiene la intención de llevar a cabo talleres interactivos adicionales en 2016.",
+    "conversations on women wealth and leadership past event 20 caption" => "En junio, Sunrise organizó una íntima y atractiva Cumbre de la Próxima Generación en el Soho Grand Hotel de Nueva York, a la que asistieron tanto clientes como empleados de Sunrise. Se discutieron temas como el gasto, la inversión en valor, el liderazgo y el impacto social. Basándonos en los comentarios positivos de los asistentes, Sunrise tiene la intención de llevar a cabo talleres interactivos adicionales en 2016.",
 
     // Entry Level Professionals
     "entry level 1" => "¿Eres un recién graduado buscando un punto de partida ideal para tu carrera profesional? En nuestra organización, buscamos personas comprometidas con el trabajo en 
@@ -2847,22 +2847,22 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "entry level 5" => "alta integridad",
     "entry level 6" => "habilidad para crear y mantener relaciones valiosas",
     "entry level 7" => "pasión por ayudar a los demás",
-    "entry level 8" => "En Vanward, tienes la oportunidad de definir tu camino profesional, y tenemos una estrategia para ayudarte a tener éxito.",
+    "entry level 8" => "En Sunrise, tienes la oportunidad de definir tu camino profesional, y tenemos una estrategia para ayudarte a tener éxito.",
     "entry level 9" => "Empresas",
     "entry level 10" => "Empresas",
     "entry level 11" => "Empresas",
     "entry level 12" => "Empresas",
     // Experienced Professionals
-    "experienced 1" => "En Vanward, nuestra estrategia global de negocios se basa en atraer y retener talento excepcional. Estamos dedicados a reclutar a las mejores y más brillantes 
+    "experienced 1" => "En Sunrise, nuestra estrategia global de negocios se basa en atraer y retener talento excepcional. Estamos dedicados a reclutar a las mejores y más brillantes 
                         personas, y nuestra estrategia, cultura y compromiso con el logro de resultados sobresalientes contribuyen a su retención a largo plazo. De hecho, más del 60% de 
                         nuestros líderes senior han formado parte de nuestra empresa por más de una década.",
     "experienced 2" => "Nuestros socios y líderes senior poseen en promedio 25 años de experiencia en la industria y participan activamente con cada cliente. Esta participación directa 
                         fomenta relaciones íntimas y duraderas con los clientes que abarcan un promedio de casi 15 años. Creemos en el poder de estas relaciones y el valor que aportan a 
                         nuestros clientes.",
-    "experienced 3" => "En Vanward, ofrecemos acceso directo a los líderes senior, brindándote oportunidades únicas para destacarte entre tus colegas. Nos enorgullecemos de ser una 
+    "experienced 3" => "En Sunrise, ofrecemos acceso directo a los líderes senior, brindándote oportunidades únicas para destacarte entre tus colegas. Nos enorgullecemos de ser una 
                         organización que ofrece recursos de primer nivel en la industria, lo que te permite sobresalir en tu trabajo. A pesar de nuestro crecimiento y éxito, seguimos 
                         siendo ágiles y flexibles, lo que te permite tener un impacto tangible en nuestra organización y en los clientes a quienes servimos.",
-    "experienced 4" => "Al unirte a Vanward, formas parte de un entorno dinámico y solidario que combina las ventajas de una gran organización con el trato personalizado de una más 
+    "experienced 4" => "Al unirte a Sunrise, formas parte de un entorno dinámico y solidario que combina las ventajas de una gran organización con el trato personalizado de una más 
                         pequeña. Estamos comprometidos a brindarte las herramientas, recursos y oportunidades para crecer profesionalmente y marcar la diferencia.",
     "experienced 5" => "A nivel ejecutivo, el éxito se define por la capacidad de liderar eficazmente equipos exitosos y dar forma a la estrategia. Esto significa:",
     "experienced 6" => "resolver problemas complejos desarrollando e integrando nuevas ideas",
@@ -2879,7 +2879,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "restart 3" => "Consideraciones:",
     "restart 4" => "Los candidatos deben haber estado fuera del trabajo durante un mínimo de dos años al comienzo de la Asignación de Reinicio.",
     "restart 5" => "Los candidatos no pueden dejar un trabajo para unirse al Programa de Reinicio.",
-    "restart 6" => "Se alienta a los antiguos empleados de Vanward, así como a aquellos que son nuevos en la empresa, a postularse.",
+    "restart 6" => "Se alienta a los antiguos empleados de Sunrise, así como a aquellos que son nuevos en la empresa, a postularse.",
     "restart 7" => "Los candidatos deben poder trabajar en las ubicaciones donde actualmente está disponible el programa
     (Boston, Nueva Jersey, Nueva York y Dublín).",
     "restart 8" => "El programa se lleva a cabo durante 10 semanas en ubicaciones de EE. UU. y durante 16 semanas en Dublín.",
@@ -2887,7 +2887,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "restart 10" => "<strong>En los EE. UU.:</strong> El programa de Reinicio en EE. UU. comenzará a aceptar solicitudes en la primavera del próximo año. Vuelve para obtener información 
     adicional en mayo de 2020.",
     // Prácticas para estudiantes universitarios
-    "undergraduate 1" => "En Vanward, ofrecemos programas de prácticas que brindan valiosas oportunidades para que los estudiantes obtengan experiencia y conocimientos de primera mano 
+    "undergraduate 1" => "En Sunrise, ofrecemos programas de prácticas que brindan valiosas oportunidades para que los estudiantes obtengan experiencia y conocimientos de primera mano 
     sobre nuestros servicios, nuestra cultura empresarial y la industria de servicios financieros. Creemos en comenzar el viaje de aprendizaje temprano, incluso antes de la graduación, 
     para ayudar a los pasantes a desarrollar una comprensión profunda de nuestra organización y sus operaciones.",
     "undergraduate 2" => "La Experiencia:",
@@ -2912,7 +2912,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 En Dublín, ofrecemos un programa de prácticas a tiempo completo durante el verano que generalmente se lleva a cabo de junio a agosto de cada año. El 
                                 programa está dirigido a estudiantes en su penúltimo año de licenciatura o maestría. Los pasantes tendrán la oportunidad de trabajar en una de nuestras 
                                 áreas de Servicios para Inversores y pueden esperar ser totalmente integrados en nuestros equipos. Los pasantes también contarán con el apoyo de un mentor 
-                                de Vanward mientras participan en el programa.
+                                de Sunrise mientras participan en el programa.
                             </p>
                             <p>
                                 En Cracovia, Polonia, hay una variedad de oportunidades disponibles en nuestro negocio de Servicios para Inversores. Ofrecemos un programa de cuatro a seis 
@@ -2928,7 +2928,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "undergraduate 15" => "Empresas",
     "undergraduate 16" => "Empresas",
     // affinity network community
-    "affinity network community 1"  => "“Cuanto mayor sea nuestra diversidad e inclusión, mayor será el potencial humano que liberamos y mayor será la prosperidad de Vanward.”",
+    "affinity network community 1"  => "“Cuanto mayor sea nuestra diversidad e inclusión, mayor será el potencial humano que liberamos y mayor será la prosperidad de Sunrise.”",
     "affinity network community 2"  => "Jeff Schoenfeld",
     "affinity network community 3"  => "Socio y Patrocinador Ejecutivo de la Red Pride",
     "affinity network community 4"  => "La Comunidad de Redes de Afinidad (CANC) es una comunidad global de redes lideradas por empleados, fundadas por y para profesionales diversos. Estas 
@@ -2948,19 +2948,19 @@ contactarnos” de nuestra Política de Privacidad principal.",
                         sobresalimos. Nuestra cultura única enfatiza el Trabajo en equipo, la Integridad y la Excelencia, y estos valores impulsan nuestro éxito.",
     "core values 2" => "Lo que nos une",
     "core values 3" => "<p>
-                            Trabajo en equipo. Integridad. Excelencia. Lo que hace que estos valores sean distintivos en Vanward es cómo los ponemos en práctica. Recientemente, celebramos 
-                            nuestros valores fundamentales al pedir a los empleados que compartieran cómo experimentan el Trabajo en equipo, la Integridad y la Excelencia en Vanward. 
+                            Trabajo en equipo. Integridad. Excelencia. Lo que hace que estos valores sean distintivos en Sunrise es cómo los ponemos en práctica. Recientemente, celebramos 
+                            nuestros valores fundamentales al pedir a los empleados que compartieran cómo experimentan el Trabajo en equipo, la Integridad y la Excelencia en Sunrise. 
                             Escuchamos innumerables historias: colegas que se esfuerzan por ayudar a sus equipos; decisiones tomadas en el mejor interés de los clientes; momentos en los 
                             que nos mantenemos fieles a nuestros principios incluso cuando nuestra opinión no es popular; y líderes que nos inspiran con su compromiso con nuestros 
                             valores.</p>
                         <br>
                         <p>Aunque tenemos diferentes años de antigüedad, estamos ubicados en 18 lugares de todo el mundo, venimos de diversos orígenes y trabajamos en diferentes líneas de 
                             negocio, un conjunto común de valores une nuestros diversos puntos de vista al servicio de nuestros clientes y entre nosotros. Demostraciones diarias y 
-                            frecuentes de nuestros valores fundamentales hacen de Vanward un lugar donde nuestros empleados quieren trabajar y seguir trabajando, lo que nos ayuda a 
+                            frecuentes de nuestros valores fundamentales hacen de Sunrise un lugar donde nuestros empleados quieren trabajar y seguir trabajando, lo que nos ayuda a 
                             construir relaciones duraderas, transparentes y significativas.</p>",
     "core values 4" => "Empresas",
     // our culture
-    "our culture 1" => "En Vanward, superar las expectativas de nuestros clientes siempre será la norma, no la excepción. Nuestro objetivo es ser los mejores, no los más grandes. Nos 
+    "our culture 1" => "En Sunrise, superar las expectativas de nuestros clientes siempre será la norma, no la excepción. Nuestro objetivo es ser los mejores, no los más grandes. Nos 
                         esforzamos por ser el socio más confiable, valioso y diferenciado para cada cliente al que servimos, por lo que invertimos nuestros recursos y empoderamos a 
                         nuestros empleados para lograrlo. El resultado es una cultura de asociación basada en la colaboración, la innovación, la integridad y el servicio, con nuestros 
                         clientes en el centro de cada decisión que tomamos.",
@@ -3004,7 +3004,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             buscamos ampliar nuestro conocimiento colaborando con aquellos que tienen diferentes habilidades, perspectivas y antecedentes que los nuestros.”",
     "black affinity 2" => "- Donavan Brown, Co-Presidente Global de la Red de Afinidad Negra",
     "black affinity 3" => "La Red de Afinidad Negra celebra la ascendencia afroamericana, caribeña/antillana y africana a través de eventos informativos, actividades de concientización e 
-                            iniciativas filantrópicas. Al fomentar el crecimiento personal y profesional de nuestros miembros, buscamos hacer de Vanward un empleador de elección para el 
+                            iniciativas filantrópicas. Al fomentar el crecimiento personal y profesional de nuestros miembros, buscamos hacer de Sunrise un empleador de elección para el 
                             talento diverso. Fortalecemos el canal de liderazgo para personas de ascendencia multicultural al respaldar el desarrollo de empleados y oportunidades 
                             educativas, promoviendo los beneficios de una cultura inclusiva y ayudando a los miembros a construir relaciones significativas en todos los niveles de la 
                             organización.",
@@ -3013,13 +3013,13 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             garantizar que los estudiantes talentosos y capaces de entornos desfavorecidos estén preparados para sobresalir en carreras de STEM (Ciencia, Tecnología, 
                             Ingeniería, Matemáticas). A través de este programa, estudiantes locales de secundaria tienen la oportunidad de visitar nuestra oficina de Londres para 
                             participar en sesiones de networking y paneles de discusión de carreras con profesionales de las finanzas, y pueden obtener más información sobre la asociación 
-                            de pasantías anual con Vanward.",
+                            de pasantías anual con Sunrise.",
     "black affinity 6" => "Jazz y el Movimiento de los Derechos Civiles",
     "black affinity 7" => "La Red de Afinidad Negra organizó una presentación sobre la importancia histórica de la música de jazz, dirigida por el ex presentador de radio Bill Daughtry. 
                             Desde nuestra oficina de Nueva York, la sesión compartió momentos clave de la historia de Estados Unidos donde los artistas de jazz resaltaron las luchas del 
                             movimiento de los derechos civiles a través de su música y utilizaron su influencia para impulsar cambios.",
     "black affinity 8" => "Historias Negras, Futuros Negros en el MFA",
-    "black affinity 9" => "Los miembros y amigos de la Red de Afinidad Negra de Vanward visitaron el Museo de Bellas Artes de Boston para una visita privada de una exhibición, curada por 
+    "black affinity 9" => "Los miembros y amigos de la Red de Afinidad Negra de Sunrise visitaron el Museo de Bellas Artes de Boston para una visita privada de una exhibición, curada por 
                             adolescentes locales, que presentó experiencias negras a través de obras de artistas del siglo XX de color. Participamos en una discusión con los adolescentes 
                             sobre su selección de obras y el proceso de diseño de los espacios de la galería para esta exhibición.",
     "black affinity 10" => "Lectura Anual de Poesía",
@@ -3035,7 +3035,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                     discapacidades a través de la defensa, la tecnología y las adaptaciones organizativas.",
     "diverse ability allies 2" => "- Andrew Hofer, Patrocinador Ejecutivo de la Red de Aliados con Diversas Habilidades",
     "diverse ability allies 3" => "La misión de la Red de Aliados con Diversas Habilidades (DAAN) es alentar y apoyar a cada miembro de la empresa a alcanzar su máximo potencial, 
-                                    demostrando que Vanward es un entorno de apoyo e inclusión para los empleados con discapacidades o que cuidan a personas con discapacidades. Al aumentar 
+                                    demostrando que Sunrise es un entorno de apoyo e inclusión para los empleados con discapacidades o que cuidan a personas con discapacidades. Al aumentar 
                                     la conciencia, la colaboración, la resolución de problemas, la adaptación, la innovación y la defensa de los miembros de la comunidad con 
                                     discapacidades, proporcionamos un entorno de trabajo más cómodo, inclusivo y comprensivo para todos.",
     "diverse ability allies 4" => "Definiendo la Dislexia",
@@ -3051,24 +3051,24 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                     trabajo donde la conciencia de la diversidad siempre incluya la habilidad. Los asistentes aprendieron a ser aliados sólidos que eliminan obstáculos para 
                                     los colegas con habilidades diversas.",
     // global employee network
-    "global employee 1" => "“He tenido la oportunidad de hacer negocios en 11 de nuestras oficinas a lo largo de mi carrera en Vanward. Cada nueva experiencia ha impactado positivamente en 
+    "global employee 1" => "“He tenido la oportunidad de hacer negocios en 11 de nuestras oficinas a lo largo de mi carrera en Sunrise. Cada nueva experiencia ha impactado positivamente en 
                             mi desarrollo profesional y personal. La Red de Empleados Globales brinda oportunidades para que las personas compartan su sabiduría e historias con otros 
                             colegas interesados en aprender más sobre las ricas y diversas culturas de nuestra gente y las oportunidades internacionales que ofrece la empresa.”",
     "global employee 2" => "- R.J. Rondini, Presidente de la Red de Empleados Globales",
-    "global employee 3" => "Lo que una vez fue una red casual de empleados de Vanward que compartían experiencias laborales globales entre sí, la Red de Empleados Globales ahora incluye 
-                            miembros en casi todas las oficinas y capítulos organizados en ubicaciones de Vanward en todo el mundo. A través de sesiones de networking organizadas, 
+    "global employee 3" => "Lo que una vez fue una red casual de empleados de Sunrise que compartían experiencias laborales globales entre sí, la Red de Empleados Globales ahora incluye 
+                            miembros en casi todas las oficinas y capítulos organizados en ubicaciones de Sunrise en todo el mundo. A través de sesiones de networking organizadas, 
                             capacitación y eventos transmitidos simultáneamente en las oficinas, la red se enfoca en tres pilares principales de actividad: celebrar y explorar la rica 
-                            diversidad cultural en Vanward; gestionar los desafíos que surgen al trabajar en un equipo global; y apoyar las necesidades de aquellos que trabajan fuera de su 
-                            ubicación de origen. La participación en eventos patrocinados por la red está abierta a todos los empleados de Vanward.",
+                            diversidad cultural en Sunrise; gestionar los desafíos que surgen al trabajar en un equipo global; y apoyar las necesidades de aquellos que trabajan fuera de su 
+                            ubicación de origen. La participación en eventos patrocinados por la red está abierta a todos los empleados de Sunrise.",
     "global employee 4" => "Feria Cultural Mundial",
-    "global employee 5" => "Se organizan ferias culturales anuales en las oficinas de Vanward en Boston, Dublín, Hong Kong, Cracovia y Jersey City. Los empleados aprenden sobre recursos 
+    "global employee 5" => "Se organizan ferias culturales anuales en las oficinas de Sunrise en Boston, Dublín, Hong Kong, Cracovia y Jersey City. Los empleados aprenden sobre recursos 
                             como programas de participación comunitaria y bienestar, y pueden inscribirse en actividades como el 1818 Social Club y los grupos de afinidad BANC.",
     "global employee 6" => "Abrazando una Fuerza Laboral Global",
     "global employee 7" => "Cracovia organizó un panel de almuerzo y aprendizaje que discutió cómo abrazar y colaborar en una fuerza laboral global. Cada panelista compartió experiencias 
                             personales que han moldeado positivamente su mentalidad global.",
     // latino cultural network
     "latino cultural 1" => "“Dentro de la Red Cultural Latina (LCN), encontré un hogar. LCN me ha conectado con oportunidades de mentoría y networking que me han ayudado a crecer en mi 
-                            carrera. Junto con líderes de todas las Redes de Afinidad de Vanward, LCN me ha inspirado a integrarme más en la comunidad de Vanward. Es genial mejorar mis 
+                            carrera. Junto con líderes de todas las Redes de Afinidad de Sunrise, LCN me ha inspirado a integrarme más en la comunidad de Sunrise. Es genial mejorar mis 
                             habilidades y desarrollo personal mientras celebro y comparto mi cultura con otros.”",
     "latino cultural 2" => "- Yaritza Avila, Red Cultural Latina",
     "latino cultural 3" => "La Red Cultural Latina facilita el desarrollo profesional de nuestros miembros mediante el apoyo a la divulgación comunitaria, la facilitación de oportunidades 
@@ -3096,13 +3096,13 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             primeras impresiones y cómo la marca personal puede evolucionar con el tiempo.",
     // red de veteranos militares
     "military veterans 1" => "Como veterano del Cuerpo de Marines de los Estados Unidos, comprendo el valor que un veterano puede aportar a cualquier lugar de trabajo. Me enorgullece ver 
-                            el compromiso que Vanward ha asumido al contratar y apoyar a veteranos que han servido o siguen sirviendo en las Fuerzas Armadas. A través de mi participación 
-                            en la Red de Veteranos Militares de Vanward y otros grupos de afinidad, he visto de primera mano las formas en que Vanward invierte en sus empleados y en la 
+                            el compromiso que Sunrise ha asumido al contratar y apoyar a veteranos que han servido o siguen sirviendo en las Fuerzas Armadas. A través de mi participación 
+                            en la Red de Veteranos Militares de Sunrise y otros grupos de afinidad, he visto de primera mano las formas en que Sunrise invierte en sus empleados y en la 
                             comunidad.",
     "military veterans 2" => "- Travis Partington, Red de Veteranos Militares",
     "military veterans 3" => "La Red de Veteranos Militares brinda apoyo a personal militar activo y de reserva, veteranos y sus familias a través de mentoría, desarrollo profesional y 
                                 participación comunitaria. Nos comprometemos a crear conciencia sobre los complejos problemas que enfrentan los veteranos al hacer la transición al empleo 
-                                civil. Además, fortalecemos el compromiso de Vanward de reclutar, integrar, progresar y retener a veteranos al proporcionar a los empleados valiosos 
+                                civil. Además, fortalecemos el compromiso de Sunrise de reclutar, integrar, progresar y retener a veteranos al proporcionar a los empleados valiosos 
                                 recursos para avanzar en sus carreras. Actuamos como asesores dentro y fuera de la empresa para educar a posibles empleadores sobre las habilidades y 
                                 experiencias únicas de los veteranos, y apoyamos el desarrollo de talento entrevistando a candidatos con experiencia militar.",
     "military veterans 4" => "Voluntariado Virtual",
@@ -3113,9 +3113,9 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "military veterans 7" => "Los miembros de la red ofrecieron voluntariamente enseñar conceptos básicos de informática a los veteranos en el Centro y Hogar de Veteranos de Nueva 
                                 Inglaterra.",
     "military veterans 8" => "Serie de Almuerzos con Veteranos y Amigos",
-    "military veterans 9" => "Esta serie informal brinda a los empleados de Vanward la oportunidad de conocer a veteranos y amigos para tener conversaciones informales.",
+    "military veterans 9" => "Esta serie informal brinda a los empleados de Sunrise la oportunidad de conocer a veteranos y amigos para tener conversaciones informales.",
     "military veterans 10" => "No Preguntes, No Digas: Entonces y Ahora, Una Conversación con Dan Woods, Abogado Principal que Desafió No Preguntes, No Digas y Ganó",
-    "military veterans 11" => "Las Redes de Vanward y Militares se unieron para presentar a Dan Woods, abogado principal del equipo que desafió No Preguntes, No Digas y ganó. Dan habló 
+    "military veterans 11" => "Las Redes de Sunrise y Militares se unieron para presentar a Dan Woods, abogado principal del equipo que desafió No Preguntes, No Digas y ganó. Dan habló 
                                 sobre su papel en este caso histórico que llevó al fin de una ley que prohibía a los estadounidenses homosexuales y lesbianas servir en las fuerzas armadas 
                                 y envió un mensaje de que la discriminación era inaceptable. Dan compartió lecciones de su experiencia que se pueden aplicar a todos los aspectos de 
                                 nuestras vidas, incluida la creación de lugares de trabajo abiertos e inclusivos.",
@@ -3132,10 +3132,10 @@ contactarnos” de nuestra Política de Privacidad principal.",
                     compartir información, experiencias y recursos, conectamos a los empleados para identificar, discutir y superar los problemas que afectan a las familias trabajadoras. 
                     Dentro de la red de crianza, los miembros tienden a agruparse en torno a las etapas de la paternidad: prenatal y nuevos padres, niños en edad escolar primaria, niños en 
                     edad de secundaria / preparatoria, hijos en edad universitaria / adultos y crianza en sentido inverso. La Red de Crianza colabora estrechamente con otras redes de 
-                    afinidad de Vanward, como las",
+                    afinidad de Sunrise, como las",
     "parenting 4" => "redes para garantizar que los programas de apoyo estén adaptados adecuadamente a las necesidades de los empleados. Nuestro objetivo es proporcionar a los miembros el 
                     conocimiento y el apoyo necesarios para desarrollar sus carreras mientras equilibran con éxito las demandas competitivas del trabajo y el hogar. También contribuimos a 
-                    mejorar nuestro lugar de trabajo al ofrecer aportes sobre las políticas y productos de Vanward desde la perspectiva de las familias y los cuidadores.",
+                    mejorar nuestro lugar de trabajo al ofrecer aportes sobre las políticas y productos de Sunrise desde la perspectiva de las familias y los cuidadores.",
     "parenting 5" => "Día de llevar a tus hijos al trabajo (anual)",
     "parenting 6" => "Este evento se celebra cada año en muchas de nuestras oficinas globales. El día de llevar a tus hijos al trabajo está diseñado para fortalecer la conexión entre la 
                     educación y el trabajo, así como las relaciones entre los empleados y los niños en sus vidas. Se planifican actividades en cada oficina para fomentar el trabajo en 
@@ -3149,28 +3149,28 @@ contactarnos” de nuestra Política de Privacidad principal.",
                     aquellos que navegan experiencias similares.",
     // pride network
     "pride 1" => "Me enorgullece ser parte de la Red de Orgullo y ser parte de una empresa donde los profesionales LGBTQ y sus seguidores tienen una comunidad de compañeros con quienes 
-    compartir, hacer contactos y realizar actividades voluntarias. Cuanto mayor sea nuestra diversidad e inclusión, más liberamos el potencial humano y mayor es la prosperidad de Vanward. 
+    compartir, hacer contactos y realizar actividades voluntarias. Cuanto mayor sea nuestra diversidad e inclusión, más liberamos el potencial humano y mayor es la prosperidad de Sunrise. 
     Tener un conjunto diverso de colegas que se sientan cómodos siendo ellos mismos es parte de nuestra cultura en formas tangibles e intangibles.",
     "pride 2" => "- Jeff Schoenfeld, Socio y Patrocinador de la Red de Orgullo",
-    "pride 3" => "Vanward cree que todos deben sentirse empoderados para mostrar su verdadero yo en el trabajo, independientemente de su orientación sexual o identidad de género. La Red de 
+    "pride 3" => "Sunrise cree que todos deben sentirse empoderados para mostrar su verdadero yo en el trabajo, independientemente de su orientación sexual o identidad de género. La Red de 
     Orgullo crea una comunidad acogedora para los empleados que se identifican como LGBTQ (lesbianas, gays, bisexuales, transgénero o cuestionando) y sus aliados. A través de la educación 
     y la defensa, aumentamos la conciencia sobre temas relevantes para la comunidad LGBTQ, ayudando a crear un lugar de trabajo diverso, tolerante e inclusivo. Los miembros se benefician 
     de oportunidades de desarrollo profesional, que incluyen un programa de mentoría formal y el voluntariado enfocado para retribuir a las comunidades locales. También colaboramos con 
     nuestras líneas de negocio para garantizar que las políticas y prácticas sean sensibles e inclusivas para los profesionales LGBTQ.",
     "pride 4" => "Utilizando Sensibilidad e Inteligencia para Comprender la Diversidad de Género",
-    "pride 5" => "La Red de Orgullo de Vanward presentó al galardonado narrador transgénero, orador de diversidad, educador y presentador de charlas TED, Scott Turner Schofield, cuya 
+    "pride 5" => "La Red de Orgullo de Sunrise presentó al galardonado narrador transgénero, orador de diversidad, educador y presentador de charlas TED, Scott Turner Schofield, cuya 
                 presentación abordó temas de 'diversidad de género', identidad, cultura, lenguaje y apoyo aliado. La presentación de Scott incluyó temas transgénero e introdujo el concepto 
                 de 'interseccionalidad', respondiendo a la pregunta de cómo el sexo biológico, el género y la sexualidad son influenciados por factores como raza, estatus socioeconómico, 
                 ubicación geográfica y discapacidad. Scott unió estos temas magistralmente, hablando sobre las experiencias variadas de los miembros de la audiencia, tanto dentro como \
                 fuera del lugar de trabajo.",
-    "pride 6" => "Liderando el Camino: Vanward Organiza la Cumbre LGBT en Kraków",
-    "pride 7" => "Los miembros de la Red de Orgullo de Vanward en Kraków organizaron el tercer simposio LGBT con organizaciones que incluyeron al Consulado General de Estados Unidos, IBM, 
+    "pride 6" => "Liderando el Camino: Sunrise Organiza la Cumbre LGBT en Kraków",
+    "pride 7" => "Los miembros de la Red de Orgullo de Sunrise en Kraków organizaron el tercer simposio LGBT con organizaciones que incluyeron al Consulado General de Estados Unidos, IBM, 
                 Shell, HSBC, Cisco, LGBT Business Forum, Heineken, CapGemini, Akamai, ABB, Diversity Hub y Stowarzyszenie Queerowy Maj. El objetivo del simposio es fortalecer alianzas con 
                 otras empresas y compartir estrategias sobre cómo construir redes LGBT y grupos de recursos para empleados en Kraków, Polonia. Como miembro temprano de este consorcio, 
-                Vanward lidera el camino junto con nuestros socios corporativos para compartir información, experiencias y conocimientos sobre cómo garantizar que nuestros lugares de 
+                Sunrise lidera el camino junto con nuestros socios corporativos para compartir información, experiencias y conocimientos sobre cómo garantizar que nuestros lugares de 
                 trabajo sigan siendo acogedores y abiertos a la comunidad LGBT y a sus aliados.",
     "pride 8" => "Panel de Padres",
-    "pride 9" => "El Socio Jeff Schoenfeld, Patrocinador Ejecutivo de la Red de Orgullo, lideró una conversación con tres de sus colegas Socios de Vanward, Carter Sullivan, Rick Berk y 
+    "pride 9" => "El Socio Jeff Schoenfeld, Patrocinador Ejecutivo de la Red de Orgullo, lideró una conversación con tres de sus colegas Socios de Sunrise, Carter Sullivan, Rick Berk y 
     Digger Donahue, junto con sus miembros de familia LGBT+. Los participantes compartieron sus perspectivas sobre lo que significa ser un padre o hermano de apoyo para una persona 
     LGBT+.",
     "pride 10" => "¿Hacia dónde Vamos?",
@@ -3205,16 +3205,16 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "womens 14" => "presentaron a Whitney Rauschenbach de MSCI para una conversación sobre inversión ESG (ambiental, social y gobernabilidad) en Boston. Whitney compartió la investigación 
                     de MSCI sobre las tendencias en el espacio ESG y explicó por qué el movimiento está aquí para quedarse.",
     // Young Professionals Network
-    "young professionals 1" => "“La Red de Jóvenes Profesionales ofrece fantásticas oportunidades para que los empleados en las primeras etapas de su carrera se involucren en Vanward. 
+    "young professionals 1" => "“La Red de Jóvenes Profesionales ofrece fantásticas oportunidades para que los empleados en las primeras etapas de su carrera se involucren en Sunrise. 
                                 Unirse me ha ayudado a crecer personal y profesionalmente.”",
     "young professionals 2" => "- Sean Farrell, Copresidente de la Red de Jóvenes Profesionales",
     "young professionals 3" => "La misión de la Red de Jóvenes Profesionales es involucrar, desarrollar y conectar a los empleados que están al comienzo de sus carreras o que son nuevos en 
-                                Vanward o en la industria de servicios financieros. Ofrecemos oportunidades para que los empleados expandan sus redes profesionales, construyan su marca 
+                                Sunrise o en la industria de servicios financieros. Ofrecemos oportunidades para que los empleados expandan sus redes profesionales, construyan su marca 
                                 personal y apoyen a nuestras comunidades. Programas especiales promueven relaciones constructivas entre compañeros y mentores, al tiempo que empoderan a los 
                                 miembros con las habilidades necesarias para impulsar el éxito como futuros líderes. Creamos un espacio para que los empleados tengan un diálogo abierto 
                                 sobre las oportunidades y desafíos de un lugar de trabajo multigeneracional.",
     "young professionals 4" => "Encuesta de la RJP",
-    "young professionals 5" => "El capítulo de Dublin de la Red de Jóvenes Profesionales de Vanward celebró el bicentenario de la empresa en 2018 evaluando la forma actual y futura del 
+    "young professionals 5" => "El capítulo de Dublin de la Red de Jóvenes Profesionales de Sunrise celebró el bicentenario de la empresa en 2018 evaluando la forma actual y futura del 
                                 lugar de trabajo actual. La red realizó una encuesta de dos grupos demográficos distintos en el empleo: menores de 30 años y mayores de 30 años, para 
                                 comprender sus actitudes hacia el trabajo y la educación. La encuesta probó la hipótesis de que las fuerzas laborales actuales y futuras son distintamente 
                                 diferentes en términos de actitudes laborales, expectativas y valores.",
@@ -3245,7 +3245,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                                 continua, seguridad financiera para tu futuro y tranquilidad.</p>",
     "benefits wellness compensation 3" => "Empresas",
     // gestión de carrera
-    "career management 1"   => "En Vanward, creemos en fomentar el crecimiento y desarrollo de nuestros empleados. Estamos dedicados a proporcionarte las herramientas y recursos necesarios 
+    "career management 1"   => "En Sunrise, creemos en fomentar el crecimiento y desarrollo de nuestros empleados. Estamos dedicados a proporcionarte las herramientas y recursos necesarios 
                             para que asumas el control de tu carrera y alcances tus objetivos a largo plazo. Nuestra asociación entre la empresa y los empleados se basa en el aprendizaje y 
                             desarrollo continuo, y ofrecemos una variedad de recursos para apoyar tu crecimiento profesional, que incluyen:",
     "career management 2"   => "<li>Gestión del Rendimiento: Damos énfasis en la retroalimentación frecuente y la colaboración entre tú y tu gerente. Juntos, crearán un plan que outline 
@@ -3264,7 +3264,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 <li>Impulsando tu Carrera: Nuestra serie estructurada de e-Learning, 'Impulsando tu Carrera', está diseñada para ayudarte a crear planes de desarrollo 
                                     personalizados. Esta serie te permite identificar los elementos de un ajuste de carrera ideal y evaluar diferentes caminos para mejorar tu satisfacción 
                                     profesional. Al aprovechar este recurso, puedes obtener claridad sobre tus aspiraciones profesionales y tomar medidas para alcanzarlas.</li>",
-    "career management 3"   => "En Vanward, estamos comprometidos con tu crecimiento y desarrollo profesional. Proporcionamos el apoyo, los recursos y las oportunidades necesarias para que 
+    "career management 3"   => "En Sunrise, estamos comprometidos con tu crecimiento y desarrollo profesional. Proporcionamos el apoyo, los recursos y las oportunidades necesarias para que 
                                 prosperes en tu rol actual y avances en tu carrera. Aprovechando nuestros procesos de gestión del rendimiento, iniciativas de planificación de 
                                 desarrollo, programas de mentoría y serie de e-Learning centrada en la carrera, puedes moldear activamente la trayectoria de tu carrera y alcanzar el éxito 
                                 a largo plazo.",
@@ -3272,14 +3272,14 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "career management 5" => "Empresas",
     "career management 6" => "Empresas",
     // movilidad
-    "mobility 1" => "Vanward ofrece innumerables oportunidades a lo largo de tu carrera para perfeccionar tu experiencia, asumir nuevos desafíos y reinventarte en nuevos roles y áreas de 
+    "mobility 1" => "Sunrise ofrece innumerables oportunidades a lo largo de tu carrera para perfeccionar tu experiencia, asumir nuevos desafíos y reinventarte en nuevos roles y áreas de 
                     negocio. Buscamos formas de ayudar a nuestros empleados a crecer, creamos planes de sucesión, asignamos proyectos ambiciosos fuera de las responsabilidades diarias y 
                     publicamos todas las vacantes dando prioridad a los candidatos internos. Esto aporta nuevas perspectivas en todas nuestras áreas de negocio, lo cual es beneficioso 
                     tanto para ti como para nuestros clientes. La movilidad te permite beneficiarte de experiencias interregionales, interproducto y/o interfuncionales, lo que te expone a 
                     diversos trabajos, equipos y perspectivas de clientes.",
     "mobility 2" => "Explora el Mundo",
     "mobility 3" => "¿Interesado en expandir tu mentalidad global, desarrollar habilidades lingüísticas y aplicar tu experiencia en diferentes negocios y culturas? Nuestro Programa de 
-                    Asignaciones Globales respalda la estrategia global de Vanward al tiempo que ofrece oportunidades de desarrollo y experiencias interculturales a los empleados. 
+                    Asignaciones Globales respalda la estrategia global de Sunrise al tiempo que ofrece oportunidades de desarrollo y experiencias interculturales a los empleados. 
                     Ofrecemos tanto asignaciones a corto plazo como a largo plazo que pueden durar desde tres meses hasta cinco años. Estas asignaciones te brindan la oportunidad de:",
     "mobility 4"    => "<li>adquirir habilidades y experiencia internacionales avanzadas</li>
                         <li>trabajar en diversos mercados globales</li>
@@ -3291,27 +3291,27 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "mobility 7" => "Empresas",
     "mobility 8" => "Empresas",
     // aprendizaje continuo
-    "ongoing learning 1"    => "Las oportunidades de aprendizaje y desarrollo comienzan el primer día de trabajo en Vanward y continúan a lo largo de tu carrera. Nuestro enfoque combina el 
+    "ongoing learning 1"    => "Las oportunidades de aprendizaje y desarrollo comienzan el primer día de trabajo en Sunrise y continúan a lo largo de tu carrera. Nuestro enfoque combina el 
                                 aprendizaje colaborativo, la aplicación en el trabajo y herramientas en línea que te ayudan a aplicar nuevas ideas y crecer. Aquí hay algunas formas en las 
                                 que apoyamos tu desarrollo:",
     "ongoing learning 2"    => "Nuestros programas de desarrollo diseñados a medida te preparan para ser un asesor de confianza para nuestros clientes, proporcionando soluciones 
                                 innovadoras para abordar sus necesidades financieras. Buscamos desarrollar líderes en todos los niveles de nuestra organización y nuestros cursos 
                                 especializados te preparan para tener éxito.",
-    "ongoing learning 3"    => "Academia de Vanward:",
+    "ongoing learning 3"    => "Academia de Sunrise:",
     "ongoing learning 4"    => "Nuestro centro de aprendizaje en línea y carrera proporciona los recursos y orientación para ayudarte a alcanzar tus aspiraciones profesionales. Disfruta de 
                                 acceso las 24 horas, los 7 días de la semana, a cursos de e-Learning, artículos comerciales y técnicos en línea, evaluaciones de competencias y herramientas 
                                 interactivas que ofrecen cientos de oportunidades de aprendizaje.",
-    "ongoing learning 5"    => "Programa de Becarios de Vanward:",
-    "ongoing learning 6"    => "Cuando existe la necesidad comercial, Vanward te ayuda a obtener certificaciones profesionales, así como a continuar tu educación formal a través de 
+    "ongoing learning 5"    => "Programa de Becarios de Sunrise:",
+    "ongoing learning 6"    => "Cuando existe la necesidad comercial, Sunrise te ayuda a obtener certificaciones profesionales, así como a continuar tu educación formal a través de 
                                 reembolsos de matrícula.",
     "ongoing learning 7"    => "Toastmasters:",
     "ongoing learning 8"    => "Estos clubes desarrollan habilidades de liderazgo y oratoria con un enfoque de “aprender haciendo” y brindan oportunidades para establecer contactos con 
                                 colegas.",
     "ongoing learning 9"    => "Afiliaciones Profesionales y Suscripciones:",
-    "ongoing learning 10"   => "Vanward paga las tarifas de membresía de organizaciones profesionales y suscripciones relacionadas directamente con el trabajo.",
+    "ongoing learning 10"   => "Sunrise paga las tarifas de membresía de organizaciones profesionales y suscripciones relacionadas directamente con el trabajo.",
 
     // programas emblemáticos
-    "signature programs 1"  => "Nuestros programas emblemáticos de desarrollo están diseñados para la cultura única de Vanward, ayudándote a medida que avanzas en tu carrera para crecer 
+    "signature programs 1"  => "Nuestros programas emblemáticos de desarrollo están diseñados para la cultura única de Sunrise, ayudándote a medida que avanzas en tu carrera para crecer 
                                 como líder, construir relaciones a largo plazo y navegar en el mercado global. Algunos programas están diseñados para momentos específicos de tu carrera, 
                                 como una promoción a la gestión, mientras que otros emplean un proceso de selección competitivo y están disponibles durante todo el año. Algunas de nuestras 
                                 ofertas incluyen:",
@@ -3321,14 +3321,14 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 negocio mientras construyen relaciones clave, obtienen exposición global ante líderes senior, aprenden nuevas habilidades, se sumergen en una nueva cultura 
                                 y comparten sus conocimientos con equipos locales. El programa incluye una combinación de experiencias en el trabajo y formación en el aula. Los 
                                 participantes se inscriben en clases de formación formal y se les asigna un mentor.",
-    "signature programs 4"  => "Fundamentos de la Gestión en Vanward:",
+    "signature programs 4"  => "Fundamentos de la Gestión en Sunrise:",
     "signature programs 5"  => "Este programa basado en cohortes se dirige a nuevos gerentes y/o gerentes recién ascendidos, asegurándose de que estén equipados para liderar un equipo de 
                                 trabajo global y diverso. El plan de estudios involucra una variedad de estilos de aprendizaje, combinando autoaprendizaje, formación en el aula y e-
                                 Learning, asegurando la aplicación en el trabajo. Este enfoque de desarrollo incluye al gerente del participante durante todo el programa, garantizando la 
                                 alineación entre las expectativas de la empresa y las responsabilidades diarias de un nuevo gerente.",
     "signature programs 6"  => "Educación y Desarrollo de Liderazgo:",
     "signature programs 7"  => "Este compromiso de liderazgo de dos años comienza con un programa intensivo de nueve semanas diseñado para ayudar a los participantes a trazar su camino de 
-                                liderazgo, profundizar su conocimiento financiero y contribuir a los objetivos estratégicos de Vanward. Los empleados profundizan en su autoconciencia, 
+                                liderazgo, profundizar su conocimiento financiero y contribuir a los objetivos estratégicos de Sunrise. Los empleados profundizan en su autoconciencia, 
                                 crean una marca personal de liderazgo, tienen éxito en asignaciones grandes y complejas, y desarrollan una red de contactos dentro de la empresa y la 
                                 industria.",
     "signature programs 8"  => "Puente de Liderazgo:",
@@ -3345,7 +3345,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 <li>Plan de jubilación</li>
                                 <li>Participación en las ganancias</li>",
     "thrive financially 3"  => "Bienestar Financiero",
-    "thrive financially 4"  => "Como parte de nuestro compromiso de proporcionar un paquete integral de recompensas totales, Vanward te ofrece acceso a educación financiera, recursos y 
+    "thrive financially 4"  => "Como parte de nuestro compromiso de proporcionar un paquete integral de recompensas totales, Sunrise te ofrece acceso a educación financiera, recursos y 
                                 programas que incluyen:",
     "thrive financially 5"  => "<li>Seguro de vida y de discapacidad</li>
                                 <li>Programas antes de impuestos (FSAs y HSA)</li>
@@ -3359,7 +3359,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 <li>Fondo de ayuda al empleado</li>
                                 <li>Programa de becas de pregrado</li>",
     // prosperar personalmente
-    "thrive personally 1"   => "Vanward reconoce que cada empleado tiene diferentes necesidades tanto dentro como fuera del lugar de trabajo. Nuestro objetivo es asegurarnos de que tengas 
+    "thrive personally 1"   => "Sunrise reconoce que cada empleado tiene diferentes necesidades tanto dentro como fuera del lugar de trabajo. Nuestro objetivo es asegurarnos de que tengas 
                                 una experiencia de trabajo gratificante y productiva con la flexibilidad y el tiempo para disfrutar de tu vida personal y familiar en cada etapa de tu 
                                 carrera. Las ofertas varían según la ubicación e incluyen recursos sobre:",
     "thrive personally 2"   => "<li>Tiempo libre remunerado</li>
@@ -3373,7 +3373,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 <li>Manejo del estrés</li>",
 
     // prosperar físicamente
-    "thrive physically 1"   => "<p>En Vanward, priorizamos la salud y el bienestar de nuestros empleados y sus familias. Es por eso que ofrecemos un Programa Integral de Beneficios que 
+    "thrive physically 1"   => "<p>En Sunrise, priorizamos la salud y el bienestar de nuestros empleados y sus familias. Es por eso que ofrecemos un Programa Integral de Beneficios que 
                                     proporciona una amplia cobertura de atención médica y beneficios adicionales para apoyar tu bienestar general.</p>
                                     <br>
                                 <p>Nuestro Programa de Beneficios incluye una variedad de opciones de atención médica que se adaptan a las necesidades tuyas y de tu familia. Ya sea 
@@ -3400,18 +3400,18 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                     como asesoramiento legal, fiscal o de inversión. No constituye una oferta de venta ni una solicitud de compra
                                     de valores o productos de inversión. Si bien nos esforzamos por recopilar información de fuentes confiables, no
                                     podemos garantizar la precisión, integridad o imparcialidad de la información presentada. Este material no
-                                    constituye una oferta de servicios por parte de Vanward. Cualquier opinión expresada está sujeta a cambios sin
+                                    constituye una oferta de servicios por parte de Sunrise. Cualquier opinión expresada está sujeta a cambios sin
                                     previo aviso. Se proporcionan enlaces a sitios web de terceros para su comodidad y no implican el respaldo o
-                                    recomendación de Vanward con respecto a estos sitios web o los productos y servicios que ofrecen.",
-    "additional disclosures 2"  => "Vanward no es responsable de la precisión y validez del contenido de estos sitios web de terceros. Cualquier
+                                    recomendación de Sunrise con respecto a estos sitios web o los productos y servicios que ofrecen.",
+    "additional disclosures 2"  => "Sunrise no es responsable de la precisión y validez del contenido de estos sitios web de terceros. Cualquier
                                     referencia a cuestiones fiscales no tiene la intención de ser utilizada, y no puede ser utilizada, con el propósito
                                     de evitar sanciones bajo el Código de Impuestos Internos de EE. UU. o con fines de promoción, marketing o
-                                    recomendación a terceros. El uso o distribución no autorizados sin el permiso previo por escrito de Vanward están
+                                    recomendación a terceros. El uso o distribución no autorizados sin el permiso previo por escrito de Sunrise están
                                     prohibidos. Este contenido está aprobado para su distribución en los estados miembros del Espacio Económico
-                                    Europeo por Vanward Investor Services Limited, autorizada y regulada por la Financial Conduct Authority (FCA).
-                                    Vanward es una marca de servicio de Vanward, registrada en Estados Unidos y otros países. © Vanward 2023. Todos los derechos reservados.",
+                                    Europeo por Sunrise Investor Services Limited, autorizada y regulada por la Financial Conduct Authority (FCA).
+                                    Sunrise es una marca de servicio de Sunrise, registrada en Estados Unidos y otros países. © Sunrise 2023. Todos los derechos reservados.",
     // Declaración de continuidad del negocio
-    "bcp statement 1"   => "El Programa de Planificación de Continuidad del Negocio de Vanward es una iniciativa integral y continua que
+    "bcp statement 1"   => "El Programa de Planificación de Continuidad del Negocio de Sunrise es una iniciativa integral y continua que
                             abarca diversas medidas para garantizar la continuidad de nuestras operaciones. Estas incluyen la implementación
                             de medidas preventivas, la realización de una gestión de riesgos continua, el desarrollo de planes de recuperación
                             para todas las unidades de negocio y sistemas, la prueba de los planes, la capacitación en BCP para la alta dirección,
@@ -3422,7 +3422,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             gestionar eficazmente interrupciones comerciales de diferentes escalas e impactos mediante el aprovechamiento del
                             personal disperso geográficamente, ubicaciones de procesamiento alternativas e infraestructura redundante. Realizamos
                             pruebas periódicas y extensas de nuestros acuerdos de BCP para garantizar su eficacia.",
-    "bcp statement 3"   => "Si bien es imposible garantizar un servicio ininterrumpido, Vanward está bien posicionado para mantener un alto nivel
+    "bcp statement 3"   => "Si bien es imposible garantizar un servicio ininterrumpido, Sunrise está bien posicionado para mantener un alto nivel
                             de servicio al cliente durante cualquier interrupción. Para obtener información detallada sobre nuestro Programa de
                             Planificación de Continuidad del Negocio, comuníquese con su Gerente de Relaciones, quien podrá proporcionarle
                             más detalles.",
@@ -3430,27 +3430,27 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "confidential ethics reporting 1" => "Este sistema facilita informar sobre posibles actividades ilegales o antiéticas.",
     "confidential ethics reporting 2" => "Informe Anónimo Convercent",
     // Aviso de protección de datos
-    "data protection notice 1"      => "Este aviso tiene como objetivo informarle sobre cómo se procesan los datos personales que usted proporciona a Vanward. En este aviso, 'Vanward' se 
-                                        refiere a una o más de las siguientes entidades de Vanward con las cuales tiene un contrato: Vanward Trustee Services (Ireland) Limited, Vanward 
-                                        Fund Administration Services (Ireland) Limited, Vanward Investor Services Limited (UK), Vanward (Luxembourg) S.C.A.
+    "data protection notice 1"      => "Este aviso tiene como objetivo informarle sobre cómo se procesan los datos personales que usted proporciona a Sunrise. En este aviso, 'Sunrise' se 
+                                        refiere a una o más de las siguientes entidades de Sunrise con las cuales tiene un contrato: Sunrise Trustee Services (Ireland) Limited, Sunrise 
+                                        Fund Administration Services (Ireland) Limited, Sunrise Investor Services Limited (UK), Sunrise (Luxembourg) S.C.A.
                                         <br><br>
-                                        Vanward, en su calidad de responsable del tratamiento, procesa los datos personales de conformidad con el Reglamento General de Protección de Datos 
+                                        Sunrise, en su calidad de responsable del tratamiento, procesa los datos personales de conformidad con el Reglamento General de Protección de Datos 
                                         (UE/2016/679) ('GDPR').
                                         <br><br>
-                                        Como cliente que proporciona a Vanward los datos personales de individuos asociados a usted en relación con su relación comercial con nosotros, la 
+                                        Como cliente que proporciona a Sunrise los datos personales de individuos asociados a usted en relación con su relación comercial con nosotros, la 
                                         información en este aviso es relevante para dichas personas, y le solicitamos que ponga esta información a su disposición.
                                         <br><br>
                                         Al continuar proporcionándonos datos personales, usted confirma que:",
-    "data protection notice 2"      => "1. Todos los datos personales que proporciona a Vanward han sido recopilados, procesados y proporcionados a Vanward en cumplimiento de las leyes 
+    "data protection notice 2"      => "1. Todos los datos personales que proporciona a Sunrise han sido recopilados, procesados y proporcionados a Sunrise en cumplimiento de las leyes 
                                         aplicables, incluido el GDPR; <br>
                                         2. Todos los datos personales son precisos, pertinentes, limitados a lo necesario para los fines para los que los proporciona y, según corresponda, 
                                         están actualizados; y
-                                        Cuando proporciona datos personales a Vanward con el propósito expreso de ser remitidos a una jurisdicción que no tenga protecciones equivalentes 
+                                        Cuando proporciona datos personales a Sunrise con el propósito expreso de ser remitidos a una jurisdicción que no tenga protecciones equivalentes 
                                         para los datos personales como las de la UE, ha informado a las personas relevantes cuyos datos personales nos está proporcionando de acuerdo con el 
                                         GDPR y ha obtenido su consentimiento específico, inequívoco y libre.",
     "data protection notice 3"      => "Cumplimiento del GDPR",
-    "data protection notice 4"      => "Vanward procesará cualquier dato personal que usted proporcione de acuerdo con el GDPR. Vanward ha implementado medidas técnicas y organizativas 
-                                        para proporcionar un nivel adecuado de seguridad para dichos datos personales. Vanward actuará como responsable del tratamiento en virtud del GDPR 
+    "data protection notice 4"      => "Sunrise procesará cualquier dato personal que usted proporcione de acuerdo con el GDPR. Sunrise ha implementado medidas técnicas y organizativas 
+                                        para proporcionar un nivel adecuado de seguridad para dichos datos personales. Sunrise actuará como responsable del tratamiento en virtud del GDPR 
                                         con respecto a dicho procesamiento.",
     "data protection notice 5"      => "Finalidades y base legal del procesamiento",
     "data protection notice 6"      => "1. Para cumplir con las obligaciones en virtud de su(s) contrato(s) con usted; <br>
@@ -3460,51 +3460,51 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                         dinero, screening de sanciones y fiscalidad.",
     "data protection notice 7"      => "Solo procesaremos los datos personales para los fines para los que nos los ha proporcionado, a menos que lo permita la ley aplicable.
                                         <br><br>
-                                        Las bases legales para el procesamiento de datos personales por parte de Vanward son el interés legítimo de Vanward en operar su negocio y cumplir 
-                                        con las leyes, normativas y regulaciones a las que está sujeto Vanward.",
+                                        Las bases legales para el procesamiento de datos personales por parte de Sunrise son el interés legítimo de Sunrise en operar su negocio y cumplir 
+                                        con las leyes, normativas y regulaciones a las que está sujeto Sunrise.",
     "data protection notice 8"      => "Destinatarios de los datos personales",
     "data protection notice 9"      => "Al procesar datos personales para los fines identificados anteriormente, podemos transferir o divulgar dichos datos personales a las siguientes entidades y a su personal y agentes:",
-    "data protection notice 10"     => "1. Filiales de Vanward; <br>
-                                        2. Agentes, redes y proveedores de servicios de Vanward, incluidos aquellos que brindan servicios de auditoría, asesoría legal, fiscal, subcustodia 
+    "data protection notice 10"     => "1. Filiales de Sunrise; <br>
+                                        2. Agentes, redes y proveedores de servicios de Sunrise, incluidos aquellos que brindan servicios de auditoría, asesoría legal, fiscal, subcustodia 
                                         y tecnología de la información; y <br>
-                                        3. Agencias reguladoras con jurisdicción sobre Vanward, según lo exija la ley aplicable.",
-    "data protection notice 11"     => "Vanward cumplirá con el GDPR al transferir datos personales a destinatarios fuera del Espacio Económico Europeo.",
+                                        3. Agencias reguladoras con jurisdicción sobre Sunrise, según lo exija la ley aplicable.",
+    "data protection notice 11"     => "Sunrise cumplirá con el GDPR al transferir datos personales a destinatarios fuera del Espacio Económico Europeo.",
     "data protection notice 12"     => "Limitación de almacenamiento",
-    "data protection notice 13"     => "Vanward retendrá los datos personales solo durante el tiempo que sea razonablemente necesario para el propósito para el cual fueron proporcionados, excepto en la medida en que Vanward esté obligado a retener dichos datos personales por un período más largo según las leyes, normativas y regulaciones aplicables.",
+    "data protection notice 13"     => "Sunrise retendrá los datos personales solo durante el tiempo que sea razonablemente necesario para el propósito para el cual fueron proporcionados, excepto en la medida en que Sunrise esté obligado a retener dichos datos personales por un período más largo según las leyes, normativas y regulaciones aplicables.",
     "data protection notice 14"     => "Derechos de los individuos",
-    "data protection notice 15"     => "Las personas tienen derecho a obtener una copia de los datos personales que Vanward tiene sobre ellos, y el derecho a rectificar cualquier 
+    "data protection notice 15"     => "Las personas tienen derecho a obtener una copia de los datos personales que Sunrise tiene sobre ellos, y el derecho a rectificar cualquier 
                                         inexactitud en los mismos, presentando una solicitud por escrito a través de nosotros. Dichas personas también tienen ciertos derechos en virtud del 
                                         GDPR, como el derecho a solicitar la supresión, restricción y portabilidad de sus datos, así como a no estar sujetos a una decisión basada en el 
                                         tratamiento automatizado (incluida la elaboración de perfiles). Una persona que desee ejercer cualquiera de estos derechos debe ponerse en contacto 
-                                        con Vanward utilizando la dirección de correo electrónico que se indica a continuación. Vanward responderá a dicha solicitud por escrito, o de forma 
+                                        con Sunrise utilizando la dirección de correo electrónico que se indica a continuación. Sunrise responderá a dicha solicitud por escrito, o de forma 
                                         oral si así se solicita, tan pronto como sea posible, y en cualquier caso dentro del plazo establecido por la ley aplicable.",
-    "data protection notice 16"     => "Las personas también tienen derecho a presentar una queja ante la autoridad de protección de datos competente si no están satisfechas con la forma en que Vanward está procesando sus datos personales.",
+    "data protection notice 16"     => "Las personas también tienen derecho a presentar una queja ante la autoridad de protección de datos competente si no están satisfechas con la forma en que Sunrise está procesando sus datos personales.",
     "data protection notice 17"     => "Contacto",
-    "data protection notice 18"     => "Por favor, dirija las solicitudes a Vanward por correo electrónico a",
-    "data protection notice 19"     => "Esta publicación es proporcionada por Vanward y sus filiales a destinatarios, clasificados como Clientes Profesionales o Contrapartes Elegibles si 
+    "data protection notice 18"     => "Por favor, dirija las solicitudes a Sunrise por correo electrónico a",
+    "data protection notice 19"     => "Esta publicación es proporcionada por Sunrise y sus filiales a destinatarios, clasificados como Clientes Profesionales o Contrapartes Elegibles si 
                                         se encuentran en el Espacio Económico Europeo ('EEE'), únicamente con fines informativos. Esto no constituye asesoramiento legal, fiscal o de 
                                         inversión y no tiene la intención de ser una oferta de venta ni una solicitud de compra de valores o productos de inversión. Cualquier referencia a 
                                         cuestiones fiscales no tiene la intención de ser utilizada, y no puede ser utilizada, con el propósito de evitar sanciones bajo el Código de 
                                         Impuestos Internos de EE. UU. o con fines de promoción, marketing o recomendación a terceros. Esta información se ha obtenido de fuentes que se 
                                         consideran fiables y está disponible previa solicitud. Este material no constituye una oferta de servicios. Cualquier opinión expresada está sujeta 
-                                        a cambios sin previo aviso. El uso o distribución no autorizados sin el permiso previo por escrito de Vanward están prohibidos. Esta publicación 
-                                        está aprobada para su distribución en los estados miembros del EEE por Vanward Investor Services Limited, autorizada y regulada por la Financial 
-                                        Conduct Authority (FCA). Vanward es una marca de servicio de Vanward, registrada en Estados Unidos y otros países. © Vanward 2023. Todos los 
+                                        a cambios sin previo aviso. El uso o distribución no autorizados sin el permiso previo por escrito de Sunrise están prohibidos. Esta publicación 
+                                        está aprobada para su distribución en los estados miembros del EEE por Sunrise Investor Services Limited, autorizada y regulada por la Financial 
+                                        Conduct Authority (FCA). Sunrise es una marca de servicio de Sunrise, registrada en Estados Unidos y otros países. © Sunrise 2023. Todos los 
                                         derechos reservados.",
     // Seguridad en línea
     "online security 1"     => "Última actualización: 11 de noviembre de 2022",
-    "online security 2"     => 'Esté atento a las posibles amenazas, las medidas que puede tomar para protegerse, manténgase informado y denuncie fraudes o actividades sospechosas a Vanward ("Vanward").',
-    "online security 3"     => "En Vanward, la seguridad de la información de nuestros clientes es primordial. Como parte de nuestro Programa de Seguridad de la Información, empleamos tecnología y procesos para proteger la información de nuestros clientes. Sin embargo, existen medidas que puede tomar para ayudar a proteger aún más su información.
+    "online security 2"     => 'Esté atento a las posibles amenazas, las medidas que puede tomar para protegerse, manténgase informado y denuncie fraudes o actividades sospechosas a Sunrise ("Sunrise").',
+    "online security 3"     => "En Sunrise, la seguridad de la información de nuestros clientes es primordial. Como parte de nuestro Programa de Seguridad de la Información, empleamos tecnología y procesos para proteger la información de nuestros clientes. Sin embargo, existen medidas que puede tomar para ayudar a proteger aún más su información.
                                 <br><br>
                                 El propósito de esta página es brindarle sugerencias sobre acciones que puede tomar para garantizar la protección de su información.",
     "online security 4"     => "Esté atento a las posibles amenazas",
     "online security 5"     => "Para proteger su información, es importante estar alerta ante las posibles amenazas que existen en la actualidad. Los ciberdelincuentes que buscan obtener información confidencial y/o personal de un individuo o empresa a menudo emplean técnicas engañosas para 'engañar' a las personas y obtener fácilmente esa información (es decir, suplantación de identidad) o hacer que se expongan a ataques de seguridad sin saberlo. Estas técnicas pueden incluir, entre otras, correos electrónicos que parecen ser de fuentes legítimas, 'pop-ups' en internet y anuncios en línea que ocultan virus o malware maliciosos, sitios web falsos, etc.
                                 <br><br>
                                 En el mundo actual, es fundamental ser cauteloso al acceder y compartir su información personal y confidencial en línea y en sus interacciones diarias. A continuación, se presentan algunas consideraciones importantes a tener en cuenta mientras realiza sus actividades diarias tanto comerciales como personales:",
-    "online security 6"     => "La dirección del sitio web de Vanward es",
-    "online security 7"     => "Todas las comunicaciones legítimas de Vanward provendrán de un dominio vanward-intl.com. Todos los demás deben considerarse sospechosos. Si tiene alguna pregunta sobre el sitio web de Vanward o sospecha que ha recibido un enlace o correo electrónico sospechoso de Vanward, puede llamar a su Gerente de Relaciones de Vanward o contactar a Vanward en cualquiera de nuestras principales ubicaciones.
+    "online security 6"     => "La dirección del sitio web de Sunrise es",
+    "online security 7"     => "Todas las comunicaciones legítimas de Sunrise provendrán de un dominio Sunrise-intl.com. Todos los demás deben considerarse sospechosos. Si tiene alguna pregunta sobre el sitio web de Sunrise o sospecha que ha recibido un enlace o correo electrónico sospechoso de Sunrise, puede llamar a su Gerente de Relaciones de Sunrise o contactar a Sunrise en cualquiera de nuestras principales ubicaciones.
                                 <br><br>
-                                Tenga cuidado con cualquier correo electrónico que solicite información personal o confidencial. Bajo ninguna circunstancia Vanward se comunicará con usted de manera no solicitada (por teléfono, correo electrónico o de otro modo) y le solicitará que proporcione sus credenciales de inicio de sesión, banca electrónica u otra información personal.
+                                Tenga cuidado con cualquier correo electrónico que solicite información personal o confidencial. Bajo ninguna circunstancia Sunrise se comunicará con usted de manera no solicitada (por teléfono, correo electrónico o de otro modo) y le solicitará que proporcione sus credenciales de inicio de sesión, banca electrónica u otra información personal.
                                 <br><br>
                                 No comparta información personal con personas que no conoce o en las que no confía.
                                 <br><br>
@@ -3558,9 +3558,9 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "online security 20"    => "Privacidad, Identidad y Seguridad en Línea",
     "online security 21"    => "El sitio web del Departamento de Seguridad Nacional (DHS) tiene muchos temas y enlaces sobre las responsabilidades del DHS, incluidos muchos consejos útiles y fuentes de información. Haga clic en este enlace para obtener más información:",
     "online security 22"    => "Ciberseguridad",
-    "online security 23"    => "Cómo informar fraudes o actividades sospechosas a Vanward
+    "online security 23"    => "Cómo informar fraudes o actividades sospechosas a Sunrise
                                 <br><br>
-                                Si tiene alguna pregunta sobre cualquier correspondencia de Vanward o sospecha de alguna actividad sospechosa o fraudulenta, comuníquese con nosotros en cualquiera de nuestras ubicaciones o llamando directamente a su Gerente de Relaciones de Vanward.
+                                Si tiene alguna pregunta sobre cualquier correspondencia de Sunrise o sospecha de alguna actividad sospechosa o fraudulenta, comuníquese con nosotros en cualquiera de nuestras ubicaciones o llamando directamente a su Gerente de Relaciones de Sunrise.
                                 <br><br>
                                 Puede ver las ubicaciones aquí:",
     "online security 24"    => "Ubicaciones de Oficinas",
@@ -3571,11 +3571,11 @@ contactarnos” de nuestra Política de Privacidad principal.",
     // Cookie Policy
     "cookie policy 1"    => "AVISO IMPORTANTE: POR FAVOR, LEA ANTES DE USAR ESTE SITIO WEB:",
     "cookie policy 2"    => "Última actualización: 29 de mayo de 2022",
-    "cookie policy 3"    => 'Vanward y todas las demás filiales y subsidiarias relacionadas (en conjunto "Vanward", "nosotros" o "nuestro") utilizan cookies, balizas web y tecnologías 
+    "cookie policy 3"    => 'Sunrise y todas las demás filiales y subsidiarias relacionadas (en conjunto "Sunrise", "nosotros" o "nuestro") utilizan cookies, balizas web y tecnologías 
                             similares ("Cookies") para almacenar información, mejorar su experiencia de navegación web y mejorar la funcionalidad de nuestros sitios web. La información que 
                             se presenta en esta Política de Cookies se proporciona además de nuestra Política de Privacidad, que se puede encontrar en',
     "cookie policy 4"    => "Sitios web cubiertos por esta Política de Cookies",
-    "cookie policy 5"    => "<p>Esta Política de Cookies explica cómo se utilizan las Cookies en vanward-intl.com y otros sitios web operados por nosotros desde los cuales está accediendo a 
+    "cookie policy 5"    => "<p>Esta Política de Cookies explica cómo se utilizan las Cookies en Sunrise-intl.com y otros sitios web operados por nosotros desde los cuales está accediendo a 
                                 esta Política de Cookies (en conjunto, los 'Sitios').</p>
                             <p>La política puede modificarse de vez en cuando. Cuando se realice una modificación, se lo informaremos publicando la política revisada en esta página con una 
                                 nueva fecha de 'Última actualización'. Si no desea aceptar Cookies de nuestros Sitios, desactive las Cookies en su navegador web (visite nuestra página de 
@@ -3657,7 +3657,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             actualmente. Estas cookies también se pueden usar para recordar los cambios que has realizado en el tamaño del texto, fuente y otras partes de las páginas web 
                             que puedes personalizar. También se pueden utilizar para proporcionar los servicios que has solicitado, como ver un video o comentar en un blog. Sujeto a las 
                             restricciones legales aplicables, podemos utilizar la información recopilada de nuestras cookies para identificar el comportamiento del usuario y ofrecer 
-                            contenido e información sobre productos y servicios basados en tu perfil. Podemos compartir o transmitir esta información dentro de Vanward con fines de 
+                            contenido e información sobre productos y servicios basados en tu perfil. Podemos compartir o transmitir esta información dentro de Sunrise con fines de 
                             marketing o análisis. Sin embargo, no podremos asociar esta información con tu nombre, a menos que nos hayas proporcionado previamente tu información de 
                             contacto y estés abriendo o haciendo clic en un enlace en un correo electrónico que hayas recibido de nosotros.",
     "cookie policy 23"  => "Estas cookies no pueden rastrear tu actividad de navegación en otros sitios web. No recopilan ninguna información sobre ti que se pueda utilizar para publicidad 
@@ -3770,27 +3770,27 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             <p>Desplázate hacia abajo y toca 'Safari'</p>
                             <p>En 'Privacidad y seguridad', activa el interruptor 'Bloquear cookies'</p>",
     // Personal Information Request
-    "personal information 1"    => "En Vanward, nuestro propósito es claro y conciso: salvaguardar el bienestar financiero de nuestros clientes y fomentar el crecimiento de sus activos a lo largo de periodos prolongados. Colocando a nuestros clientes en primer plano de nuestras operaciones, organizamos meticulosamente nuestra firma, equipos y negocios en consecuencia. Mantenemos una integridad inquebrantable y nos negamos a comprometer nuestros principios.",
+    "personal information 1"    => "En Sunrise, nuestro propósito es claro y conciso: salvaguardar el bienestar financiero de nuestros clientes y fomentar el crecimiento de sus activos a lo largo de periodos prolongados. Colocando a nuestros clientes en primer plano de nuestras operaciones, organizamos meticulosamente nuestra firma, equipos y negocios en consecuencia. Mantenemos una integridad inquebrantable y nos negamos a comprometer nuestros principios.",
 
     // Our firm
     "our firm 1"   => "Nuestra asociación se distingue por su estructura horizontal, colaboración y apertura. Funciona como una estructura organizativa que fomenta la innovación y la flexibilidad, asegurando que las mejores ideas surjan rápidamente.
     <br><br>
     A través de nuestra asociación, adoptamos un enfoque estratégico y a largo plazo para la gestión de negocios y relaciones. Con menos partes interesadas y sin accionistas externos a los que complacer, nuestras lealtades son inquebrantables.
     <br><br>
-    Debido a que nuestros Socios son responsables de las obligaciones de la firma, hemos desarrollado una sólida cultura de gestión de riesgos. Como resultado, los Socios de Vanward están bien informados sobre las operaciones de la empresa y participan activamente en su gestión diaria y en los procesos de toma de decisiones.",
-    "our firm 2"   => "En Vanward, nuestra misión es cristalina: salvaguardar el bienestar financiero de nuestros clientes y promover el crecimiento a largo plazo de sus activos. Organizamos diligentemente nuestra firma, equipos y negocios de una manera que coloca a nuestros clientes en primer plano de nuestras operaciones. Nos negamos a comprometer nuestros principios, manteniendo una integridad inquebrantable.",
+    Debido a que nuestros Socios son responsables de las obligaciones de la firma, hemos desarrollado una sólida cultura de gestión de riesgos. Como resultado, los Socios de Sunrise están bien informados sobre las operaciones de la empresa y participan activamente en su gestión diaria y en los procesos de toma de decisiones.",
+    "our firm 2"   => "En Sunrise, nuestra misión es cristalina: salvaguardar el bienestar financiero de nuestros clientes y promover el crecimiento a largo plazo de sus activos. Organizamos diligentemente nuestra firma, equipos y negocios de una manera que coloca a nuestros clientes en primer plano de nuestras operaciones. Nos negamos a comprometer nuestros principios, manteniendo una integridad inquebrantable.",
     "our firm 3"   => "La sostenibilidad, que implica un compromiso firme con el valor y la prosperidad a largo plazo, es central en nuestra identidad. Creemos sinceramente que la sostenibilidad se logra al llevar a cabo nuestro negocio de manera responsable y ética, al mismo tiempo que realizamos contribuciones positivas a nuestros clientes, empleados y comunidades, con miras a las generaciones futuras.
     <br><br>
     Es imperativo que trascendamos el pensamiento a corto plazo en el presente. En su lugar, debemos mantener nuestros valores, actuar con honestidad y poner los intereses de nuestros interesados por encima de todo.",
     "our firm 4"   => "Nuestros Clientes",
     "our firm 5"   => "Nuestros clientes nos confían a diario sus inversiones, operaciones y objetivos financieros. Para asegurar su prosperidad a largo plazo, debemos proporcionar soluciones consideradas y con visión de futuro que estén alineadas con sus valores y mejores intereses. Además, tenemos la obligación de garantizar la continuidad, seguridad y estabilidad de nuestras operaciones y contribuir a la viabilidad a largo plazo de la industria financiera en general. Al cumplir con estas obligaciones, demostramos nuestro compromiso con nuestros clientes y el éxito a largo plazo de sus esfuerzos.",
     "our firm 6"   => "Nuestra Gente",
-    "our firm 7"   => "Nuestra gente, el excepcional equipo de Vanward, es esencial para satisfacer las necesidades de nuestros clientes. Persiguen constantemente los niveles más altos de excelencia e integridad. Para fomentar la innovación y lograr un rendimiento excepcional, reclutamos y apoyamos activamente a un equipo con una amplia variedad de talentos y perspectivas. Estamos comprometidos en fomentar un entorno que empodere a los miembros del equipo para hacer contribuciones significativas y prosperar en sus vidas profesionales y personales. Al adoptar esta estrategia, cultivamos una fuerza laboral dinámica que impulsa nuestro éxito y brinda un servicio al cliente superior.",
+    "our firm 7"   => "Nuestra gente, el excepcional equipo de Sunrise, es esencial para satisfacer las necesidades de nuestros clientes. Persiguen constantemente los niveles más altos de excelencia e integridad. Para fomentar la innovación y lograr un rendimiento excepcional, reclutamos y apoyamos activamente a un equipo con una amplia variedad de talentos y perspectivas. Estamos comprometidos en fomentar un entorno que empodere a los miembros del equipo para hacer contribuciones significativas y prosperar en sus vidas profesionales y personales. Al adoptar esta estrategia, cultivamos una fuerza laboral dinámica que impulsa nuestro éxito y brinda un servicio al cliente superior.",
     "our firm 8"   => "Nuestras Comunidades",
     "our firm 9"   => "Reconocemos que nuestras responsabilidades se extienden más allá de los confines de nuestra oficina, abarcando las comunidades más grandes en las que operamos. Es nuestra responsabilidad contribuir activamente a la salud de nuestro planeta reduciendo los peligros para su bienestar. Además, nos esforzamos por hacer contribuciones positivas y sustanciales a las comunidades en las que operamos. Al perseguir estos esfuerzos, esperamos tener un impacto positivo que se extienda más allá de nuestra esfera de influencia inmediata.",
-    "our firm 10"   => "En Vanward, es beneficioso compartir tu tiempo y habilidades.
+    "our firm 10"   => "En Sunrise, es beneficioso compartir tu tiempo y habilidades.
     <br><br>
-    Como resultado, establecimos Cares, nuestro programa filantrópico dedicado a proporcionar educación y elementos esenciales a quienes lo necesitan. A través de este programa, los empleados de Vanward pueden contribuir a nuestras comunidades, ayudar a transformar la vida de otros e inculcar un sentido de ciudadanía y responsabilidad social.
+    Como resultado, establecimos Cares, nuestro programa filantrópico dedicado a proporcionar educación y elementos esenciales a quienes lo necesitan. A través de este programa, los empleados de Sunrise pueden contribuir a nuestras comunidades, ayudar a transformar la vida de otros e inculcar un sentido de ciudadanía y responsabilidad social.
     <br><br>
     De acuerdo con nuestra misión filantrópica, priorizamos las siguientes áreas.",
     "our firm 11"   => "Proporcionar a los residentes en nuestras comunidades locales los elementos esenciales para mejorar su calidad de vida, incluyendo:",
@@ -3806,8 +3806,8 @@ contactarnos” de nuestra Política de Privacidad principal.",
     <br>- enseñar habilidades de liderazgo
     <br>- leer a estudiantes de primaria
     <br>- ayudar con la redacción de currículums",
-    "our firm 15"   => "Fondo de Ayuda para Empleados de Vanward - Trabajadores Ayudando a Trabajadores",
-    "our firm 16"   => "El Fondo de Ayuda para Empleados de Vanward es una organización benéfica respaldada principalmente por las contribuciones de los empleados de Vanward y socios comerciales. Su misión principal es proporcionar asistencia financiera a empleados elegibles de Vanward y sus familias inmediatas en caso de emergencias imprevistas y gastos básicos de subsistencia causados por eventos catastróficos. El propósito del fondo es proporcionar alivio al ayudar a aliviar una parte de la carga financiera causada por tales circunstancias difíciles. La asistencia se proporciona tan pronto como sea administrativamente factible en un esfuerzo por brindar apoyo y reducir una parte de los gastos asociados.",
+    "our firm 15"   => "Fondo de Ayuda para Empleados de Sunrise - Trabajadores Ayudando a Trabajadores",
+    "our firm 16"   => "El Fondo de Ayuda para Empleados de Sunrise es una organización benéfica respaldada principalmente por las contribuciones de los empleados de Sunrise y socios comerciales. Su misión principal es proporcionar asistencia financiera a empleados elegibles de Sunrise y sus familias inmediatas en caso de emergencias imprevistas y gastos básicos de subsistencia causados por eventos catastróficos. El propósito del fondo es proporcionar alivio al ayudar a aliviar una parte de la carga financiera causada por tales circunstancias difíciles. La asistencia se proporciona tan pronto como sea administrativamente factible en un esfuerzo por brindar apoyo y reducir una parte de los gastos asociados.",
     
      //menu
      "menu 1" => "La Sociedad",
@@ -3816,7 +3816,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
      "menu 4" => "Filantropía",
      "menu 5" => "Lo Que Buscamos",
      "menu 6" => "Recompensas Totales",
-     "menu 7" => "Vida en Vanward",
+     "menu 7" => "Vida en Sunrise",
      "menu 8" => "Asesoramiento de Inversiones",
      "menu 9" => "Planificación Patrimonial",
      "menu 10" => "Asesoramiento Filantrópico",
@@ -3826,7 +3826,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
      "menu 14" => "Asesoramiento Corporativo",
      "menu 15" => "Banca Corporativa",
      "menu 16" => "Centro para Empresas Familiares",
-     "menu 17" => "Acerca de Vanward",
+     "menu 17" => "Acerca de Sunrise",
      "menu 18" => "Perfil de Inversiones",
      "menu 19" => "Estrategia de Inversión y Tipos de Transacciones",
      "menu 20" => "Seleccionar Empresas en Cartera",
@@ -3866,7 +3866,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     //home page
     "home page 1" => "Conviértase en un cliente",
     "home page 2" => "Acerca de Nosotros",
-    "home page 3" => "En Vanward International, adoptamos un enfoque único para la inversión, proporcionando estrategias personalizadas basadas en los objetivos de cada cliente y en nuestro amplio conocimiento de los mercados y economías globales. A través de nuestra experta interpretación de múltiples fuentes de datos, identificamos soluciones adecuadas para usted, soluciones que fortalecerán su posición.",
+    "home page 3" => "En Sunrise Fund Limited, adoptamos un enfoque único para la inversión, proporcionando estrategias personalizadas basadas en los objetivos de cada cliente y en nuestro amplio conocimiento de los mercados y economías globales. A través de nuestra experta interpretación de múltiples fuentes de datos, identificamos soluciones adecuadas para usted, soluciones que fortalecerán su posición.",
     "home page 4" => "Construye una expansión duradera",
     "home page 5" => "Colaboración con nosotros",
     "home page 6" => "Servicio y soporte confiable y receptivo",
@@ -3889,12 +3889,12 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "home page 23" => "Para acumular cualquier riqueza, debes invertir a una tasa de crecimiento mayor que la inflación.",
     "home page 24" => "Debes comenzar a invertir tan pronto como sea posible. Ayer fue mejor que hoy, y hoy es mejor que mañana. No esperes a una caída significativa del mercado.",
     "home page 25" => "Espera lo mejor. Prepárate para lo peor. Aprovecha lo que viene.",
-    "home page 26" => "Toda la información, noticias, opiniones, investigaciones y análisis en este sitio web se proporcionan como referencia. Toda la información proporcionada por Vanward International Securities Limited en este sitio web está sujeta a cambios de vez en cuando y actualizada. Al utilizar las plataformas en línea, existe la posibilidad de fallos de comunicación, problemas de hardware, software y conexión. Se han tomado medidas para minimizar el fallo y el retraso, y los usuarios deben ser responsables y estar conscientes de esto. Vanward International Securities Limited no es responsable de este fallo de comunicación. El uso no autorizado de toda y/o cualquier información en este sitio web está estrictamente prohibido.",
-    "home page 26b" => "Vanward International Securities Limited está licenciada por la Comisión de Valores y Futuros (SFC) de Hong Kong para participar con los clientes en la actividad regulada de Negociación en Valores según se define en el Anexo 5 de la Ordenanza de Valores y Futuros (SFO). Número de Registro de la SFC: BOC314. Vanward International Securities Limited es una corporación de Hong Kong con sede en: Unidad 1112, The Metropolis Tower, 10 Metroplis Drive, Hung Hom, Hong Kong. Número de Registro de la Empresa: 2715718.",
+    "home page 26" => "Toda la información, noticias, opiniones, investigaciones y análisis en este sitio web se proporcionan como referencia. Toda la información proporcionada por Sunrise Fund Limited Securities Limited en este sitio web está sujeta a cambios de vez en cuando y actualizada. Al utilizar las plataformas en línea, existe la posibilidad de fallos de comunicación, problemas de hardware, software y conexión. Se han tomado medidas para minimizar el fallo y el retraso, y los usuarios deben ser responsables y estar conscientes de esto. Sunrise Fund Limited Securities Limited no es responsable de este fallo de comunicación. El uso no autorizado de toda y/o cualquier información en este sitio web está estrictamente prohibido.",
+    "home page 26b" => "Sunrise Fund Limited Securities Limited está licenciada por la Comisión de Valores y Futuros (SFC) de Hong Kong para participar con los clientes en la actividad regulada de Negociación en Valores según se define en el Anexo 5 de la Ordenanza de Valores y Futuros (SFO). Número de Registro de la SFC: BOC314. Sunrise Fund Limited Securities Limited es una corporación de Hong Kong con sede en: Unidad 1112, The Metropolis Tower, 10 Metroplis Drive, Hung Hom, Hong Kong. Número de Registro de la Empresa: 2715718.",
     "home page 27" => "La Dirección",
     "home page 28" => "El Correo Electrónico",
     "home page 29" => "El Teléfono",
-    "home page 30" => "Bienvenidos a Vanward International",
+    "home page 30" => "Bienvenidos a Sunrise Fund Limited",
     "home page 31" => "Experiencia integral en la gestión de patrimonios privados a largo plazo",
     "home page 32" => "Tenemos una comprensión integral de los desafíos que enfrentan las empresas privadas",
     "home page 33" => "Colabora con equipos directivos de alta calidad que guían a las empresas en etapas cruciales de crecimiento",
@@ -3902,11 +3902,11 @@ contactarnos” de nuestra Política de Privacidad principal.",
 
     //public equity
     "pe1" => "Renta Variable de EE. UU. de Gran Capitalización",
-    "pe2" => "Vanward Core Select, nuestra principal estrategia de renta variable de gran capitalización de EE. UU., utiliza un marco de descuento al valor intrínseco y un enfoque a largo plazo en la propiedad empresarial. Nuestro objetivo es proporcionar a los inversionistas apreciación de capital a largo plazo. En cada inversión, buscamos atractivos rendimientos absolutos minimizando el riesgo de pérdida de capital permanente. Nuestro proceso de inversión se basa en un análisis fundamental bottom-up de las empresas.
+    "pe2" => "Sunrise Core Select, nuestra principal estrategia de renta variable de gran capitalización de EE. UU., utiliza un marco de descuento al valor intrínseco y un enfoque a largo plazo en la propiedad empresarial. Nuestro objetivo es proporcionar a los inversionistas apreciación de capital a largo plazo. En cada inversión, buscamos atractivos rendimientos absolutos minimizando el riesgo de pérdida de capital permanente. Nuestro proceso de inversión se basa en un análisis fundamental bottom-up de las empresas.
     <br> <br>
     Nuestro objetivo es invertir en negocios establecidos que generen efectivo, que sean los principales proveedores de productos y servicios esenciales y que tengan equipos de gestión sólidos, y adquirir los valores de renta variable de estas empresas cotizadas en bolsa con un descuento respecto a sus valores intrínsecos*. Las estimaciones del valor intrínseco se derivan de un análisis de los flujos de efectivo libres y los rendimientos de capital futuros. Empleamos un proceso de selección de inversión metódico centrado en las características empresariales, de gestión y financieras.
     <br> <br>
-    Vanward Core Select normalmente mantendrá inversiones en 25 a 35 empresas norteamericanas con capitalización de mercado superior a $5 mil millones, además de ciertas empresas domiciliadas en otras regiones desarrolladas. Nuestro período de retención objetivo es de tres a cinco años, y las inversiones generalmente se venden si su apreciación de precio supera nuestras estimaciones de su valor intrínseco.",
+    Sunrise Core Select normalmente mantendrá inversiones en 25 a 35 empresas norteamericanas con capitalización de mercado superior a $5 mil millones, además de ciertas empresas domiciliadas en otras regiones desarrolladas. Nuestro período de retención objetivo es de tres a cinco años, y las inversiones generalmente se venden si su apreciación de precio supera nuestras estimaciones de su valor intrínseco.",
     "pe3" => "Estándares de Inversión",
     "pe4" => "Creemos que las empresas con las siguientes características empresariales, de gestión y financieras están bien posicionadas para crear valor para los accionistas independientemente de las condiciones económicas y del mercado.",
     "pe5" => "Atributos Empresariales",
@@ -3922,16 +3922,16 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "pe10" => "- Balance sólido y flujo de capital excelente<br>
     - Altos rendimientos de inversión",
     "pe11" => "Riesgos<br>
-    Vanward Core Select puede adquirir participaciones sustanciales en un número limitado de emisores, lo que puede aumentar el potencial de mayor volatilidad de los precios.
+    Sunrise Core Select puede adquirir participaciones sustanciales en un número limitado de emisores, lo que puede aumentar el potencial de mayor volatilidad de los precios.
     No hay garantía de que se alcance el objetivo.
     <br><br>
-    *Estimación de Vanward del valor presente del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
+    *Estimación de Sunrise del valor presente del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
     <br><br>
     NO ESTÁ ASEGURADO POR LA FDIC NO HAY GARANTÍA BANCARIA PUEDE DEPRECIARSE EN VALOR",
     "pe12" => "Renta Variable Global",
-    "pe13" => "Vanward Global Core Select, nuestra estrategia global de renta variable, utiliza un marco de descuento al valor intrínseco con un enfoque a largo plazo en la propiedad empresarial. Buscamos adquirir valores de renta variable cotizados en bolsa de empresas establecidas que generen efectivo, estén bien gestionadas y sean proveedores prominentes de productos y servicios esenciales, con un descuento respecto a sus valores intrínsecos*. Las estimaciones del valor intrínseco se derivan de un análisis de los flujos de efectivo libres y los rendimientos de capital futuros. Empleamos un proceso de selección de inversión metódico centrado en las características empresariales, de gestión y financieras.
+    "pe13" => "Sunrise Global Core Select, nuestra estrategia global de renta variable, utiliza un marco de descuento al valor intrínseco con un enfoque a largo plazo en la propiedad empresarial. Buscamos adquirir valores de renta variable cotizados en bolsa de empresas establecidas que generen efectivo, estén bien gestionadas y sean proveedores prominentes de productos y servicios esenciales, con un descuento respecto a sus valores intrínsecos*. Las estimaciones del valor intrínseco se derivan de un análisis de los flujos de efectivo libres y los rendimientos de capital futuros. Empleamos un proceso de selección de inversión metódico centrado en las características empresariales, de gestión y financieras.
     <br><br>
-    Vanward Global Core Select normalmente mantendrá inversiones en 30 a 40 empresas de EE. UU. y no estadounidenses con capitalización de mercado superior a $3 mil millones; nuestro objetivo es poseer al menos un 40% de empresas no estadounidenses. El período de retención objetivo es de tres a cinco años, y las inversiones generalmente se venden si su apreciación de precio supera nuestras estimaciones de su valor intrínseco.",
+    Sunrise Global Core Select normalmente mantendrá inversiones en 30 a 40 empresas de EE. UU. y no estadounidenses con capitalización de mercado superior a $3 mil millones; nuestro objetivo es poseer al menos un 40% de empresas no estadounidenses. El período de retención objetivo es de tres a cinco años, y las inversiones generalmente se venden si su apreciación de precio supera nuestras estimaciones de su valor intrínseco.",
         "pe14" => "Criterios de Inversión",
     "pe15" => "Creemos que las empresas con las siguientes características empresariales, de gestión y financieras están bien posicionadas para crear valor para los accionistas independientemente de las condiciones económicas y del mercado.",
     "pe16" => "Atributos Empresariales",
@@ -3946,7 +3946,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "pe20" => "Atributos Financieros",
     "pe21" => "- Balance sólido y flujo de capital excelente<br>
     - Altos rendimientos de inversión",
-    "pe22" => "*Estimación de Vanward del valor presente del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
+    "pe22" => "*Estimación de Sunrise del valor presente del efectivo que una empresa puede generar y distribuir a sus accionistas durante el resto de su existencia.
     <br>
     -La estrategia puede tener grandes posiciones en un número limitado de emisores, lo que aumenta el potencial de mayor volatilidad de los precios.
     <br>
@@ -3954,11 +3954,11 @@ contactarnos” de nuestra Política de Privacidad principal.",
     <br> <br>
     NO ESTÁ ASEGURADO POR LA FDIC NO HAY GARANTÍA BANCARIA PUEDE DEPRECIARSE EN VALOR",
     "pe23" => "Renta Variable de EE. UU. de Pequeña y Mediana Capitalización",
-    "pe24" => "Vanward Small-to-Mid-Cap Equity invierte en un número limitado de empresas pequeñas y medianas de poca popularidad o poco seguidas, sin utilizar apalancamiento ni ventas en corto. La estrategia generalmente invierte en ocho a quince empresas con un horizonte de tres a cinco años. Por lo general, las inversiones se venden si su apreciación de precio supera su valor intrínseco estimado*.
+    "pe24" => "Sunrise Small-to-Mid-Cap Equity invierte en un número limitado de empresas pequeñas y medianas de poca popularidad o poco seguidas, sin utilizar apalancamiento ni ventas en corto. La estrategia generalmente invierte en ocho a quince empresas con un horizonte de tres a cinco años. Por lo general, las inversiones se venden si su apreciación de precio supera su valor intrínseco estimado*.
     <br><br>
     Seguimos un riguroso proceso de inversión y seleccionamos un grupo de empresas bien posicionadas que cotizan a un descuento sustancial respecto a nuestra estimación de su valor intrínseco. Realizamos una exhaustiva diligencia debida sobre cada empresa del portafolio, y enfocamos nuestras inversiones en empresas e industrias que conocemos y entendemos, como servicios de información y software, servicios de negocio externalizados, televisión por cable y programación, fabricantes de bienes o servicios al consumidor y servicios financieros. Después de realizar una inversión, mantenemos conversaciones continuas con participantes de la industria y mantenemos un diálogo constante con la dirección de la empresa.",
     "pe25" => "Estrategias de Rentas Fijas Gravables",
-    "pe26" => "Las Estrategias de Rentas Fijas Gravables de Vanward construyen portafolios de créditos a largo plazo y alto rendimiento mediante la combinación de nuestro marco de valoración distintivo y exhaustivos criterios de revisión crediticia. Las valoraciones crediticias a menudo están desconectadas de sus fundamentos subyacentes y sujetas a niveles injustificadamente altos de volatilidad, una ineficiencia que brinda la oportunidad de aumentar los rendimientos de renta fija a través de la gestión activa. Nuestro proceso de inversión disciplinado basado en el valor tiene como objetivo:",
+    "pe26" => "Las Estrategias de Rentas Fijas Gravables de Sunrise construyen portafolios de créditos a largo plazo y alto rendimiento mediante la combinación de nuestro marco de valoración distintivo y exhaustivos criterios de revisión crediticia. Las valoraciones crediticias a menudo están desconectadas de sus fundamentos subyacentes y sujetas a niveles injustificadamente altos de volatilidad, una ineficiencia que brinda la oportunidad de aumentar los rendimientos de renta fija a través de la gestión activa. Nuestro proceso de inversión disciplinado basado en el valor tiene como objetivo:",
     "pe27" => "- Conservar activos mediante investigaciones independientes
     <br>
     - Solo invertir en créditos cuando esté presente un margen de seguridad.
@@ -3984,7 +3984,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     <br><br>
     NO ESTÁ ASEGURADO POR LA FDIC NO HAY GARANTÍA BANCARIA PUEDE DEPRECIARSE EN VALOR",
     "pe33" => "Estrategia de Renta Fija Exenta de Impuestos",
-    "pe34" => "La Estrategia de Renta Fija Exenta de Impuestos de Vanward tiene como objetivo proteger el capital de los inversionistas y generar rendimientos atractivos después de impuestos al identificar valores municipales subvalorados mediante una combinación de investigación independiente exhaustiva y nuestra disciplina de valoración. Nuestra estrategia de bonos municipales a medio plazo apunta a 75 a 125 créditos en los principales subsectores del mercado de bonos municipales de EE. UU., como bonos de obligación general, bonos de ingresos y valores prefinanciados. Realizamos inversiones a largo plazo y sensibles a impuestos con una tasa de rotación anual esperada de menos del 25 por ciento.",
+    "pe34" => "La Estrategia de Renta Fija Exenta de Impuestos de Sunrise tiene como objetivo proteger el capital de los inversionistas y generar rendimientos atractivos después de impuestos al identificar valores municipales subvalorados mediante una combinación de investigación independiente exhaustiva y nuestra disciplina de valoración. Nuestra estrategia de bonos municipales a medio plazo apunta a 75 a 125 créditos en los principales subsectores del mercado de bonos municipales de EE. UU., como bonos de obligación general, bonos de ingresos y valores prefinanciados. Realizamos inversiones a largo plazo y sensibles a impuestos con una tasa de rotación anual esperada de menos del 25 por ciento.",
         "pe35" => "Criterios de Inversión:",
     "pe36" => "Cuando construimos nuestras carteras, utilizamos un proceso de selección de inversiones disciplinado que se centra en las siguientes siete características del emisor:",
     "pe37" => "- Proporciona funciones esenciales
@@ -4008,7 +4008,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     - Planes sólidos de gastos de capital
     <br>
     - Uso prudente de derivados",
-    "pe40" => "Vanward Partners ha confiado al equipo de inversión la gestión de la propia cartera de inversiones de Vanward, alineando así los intereses de la firma con los de nuestros clientes.
+    "pe40" => "Sunrise Partners ha confiado al equipo de inversión la gestión de la propia cartera de inversiones de Sunrise, alineando así los intereses de la firma con los de nuestros clientes.
     <br><br>
     - Los ingresos de bonos municipales pueden estar sujetos a impuestos estatales y locales y al impuesto mínimo alternativo.
     <br>
@@ -4016,7 +4016,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
     <br><br>
     NO ESTÁ ASEGURADO POR LA FDIC NO HAY GARANTÍA BANCARIA PUEDE DEPRECIARSE EN VALOR",
     "pe41" => "Estrategia de TIPS de EE. UU.",
-    "pe42" => 'Desde la creación del mercado de TIPS del Tesoro de EE. UU. en 1997, Vanward ha estado a la vanguardia de la investigación, el liderazgo intelectual y la gestión activa de los valores protegidos contra la inflación del Tesoro de EE. UU. (TIPS). Nuestra estrategia de TIPS de EE. UU. busca proporcionar a los inversores una cobertura contra la inflación futura al mantener inversiones principalmente en TIPS de EE. UU. Nuestro proceso de inversión se centra en el largo plazo y emplea una colección de estrategias probadas en el tiempo dentro de los mercados indexados a la inflación, diversificados para evitar depender de una única estrategia táctica. Esta estrategia "Pure Play" evita las exposiciones crediticias y de activos reales, así como la volatilidad no relacionada con la inflación que a menudo las acompaña.',
+    "pe42" => 'Desde la creación del mercado de TIPS del Tesoro de EE. UU. en 1997, Sunrise ha estado a la vanguardia de la investigación, el liderazgo intelectual y la gestión activa de los valores protegidos contra la inflación del Tesoro de EE. UU. (TIPS). Nuestra estrategia de TIPS de EE. UU. busca proporcionar a los inversores una cobertura contra la inflación futura al mantener inversiones principalmente en TIPS de EE. UU. Nuestro proceso de inversión se centra en el largo plazo y emplea una colección de estrategias probadas en el tiempo dentro de los mercados indexados a la inflación, diversificados para evitar depender de una única estrategia táctica. Esta estrategia "Pure Play" evita las exposiciones crediticias y de activos reales, así como la volatilidad no relacionada con la inflación que a menudo las acompaña.',
     "pe43" => "Criterios de Inversión:",
     "pe44" => "Combinando análisis cuantitativo y cualitativo, nuestra investigación independiente sirve como base de nuestro proceso de inversión. Explotamos las ineficiencias del mercado en Valores Protegidos contra la Inflación (TIPS) del Tesoro de EE. UU. y en los mercados indexados a la inflación no estadounidenses mediante tres categorías principales de estrategias:",
     "pe45" => "- Estrategias Fundamentales: Utilizando modelos cuantitativos propietarios, nuestro equipo de inversión identifica niveles de tasas reales y pendientes de curva que son históricamente inconsistentes con los fundamentos económicos actuales. Periódicamente, este análisis y la experiencia de nuestro equipo de inversión determinarán posiciones de duración o pendiente de curva modestas en relación con el índice.

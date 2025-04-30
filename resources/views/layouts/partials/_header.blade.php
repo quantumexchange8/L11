@@ -93,7 +93,7 @@ $languages = [
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.private-banking.private_equity') }}">@lang('public.private equity')</a>
                             <ul>
-                                <li><a href="{{ route('web.private-banking.private-equity.about_vanward') }}">@lang('public.menu 17')</a></li>
+                                <li><a href="{{ route('web.private-banking.private-equity.about_Sunrise') }}">@lang('public.menu 17')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_profile') }}">@lang('public.menu 18')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_strategy_and_transaction_types') }}">@lang('public.menu 19')</a></li>
                                 {{-- <li><a href="{{ route('web.private-banking.private-equity.select_portfolio_companies') }}">@lang('public.menu 20')</a></li> --}}
@@ -121,7 +121,7 @@ $languages = [
                             </ul>
                         </li>
                         <li>
-                            <a class="header" href="https://app.vanwardintl.com/en/applications/create/">@lang('public.open account')</a>
+                            <a class="header" href="https://app.Sunriseintl.com/en/applications/create/">@lang('public.open account')</a>
                         </li>
                     </ul>
                 </li>
@@ -181,14 +181,14 @@ $languages = [
                 </li>
                 
                 <li>
-                    <a class="nav" href="https://app.vanwardintl.com/en/accounts/login/">@lang('public.client login')</a>
+                    <a class="nav" href="https://app.sunrisefundlimited.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
                 <div class="custom-area">
                     Torre Diamante Building<br />
                     Via Mike Bongiorno, 13, 20124 Milano MI Italy<br/>
-                    Call us: <a href="tel:+39294759690" style="color: #fff; text-decoration: none;">(+39) 29475 9690 </a>
+                    Call us: <a href="tel:+39294759690" style="color: #fff; text-decoration: none;">(+39) 1234 1234 </a>
                 </div>
                 <ul class="lan-menu">
                     <li class="dropdown">

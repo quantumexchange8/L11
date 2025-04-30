@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Currency Hedging | Markets | Investor Services | Vanward International')
+@section('title', 'Currency Hedging | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

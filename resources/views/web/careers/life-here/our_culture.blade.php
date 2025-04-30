@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Our Culture | Life Here | Careers | Vanward International')
+@section('title', 'Our Culture | Life Here | Careers | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

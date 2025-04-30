@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Market Intelligence | Markets | Investor Services | Vanward International')
+@section('title', 'Market Intelligence | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [
@@ -77,7 +77,7 @@
                             <br><br>
                             <strong>@lang('public.hosted operations & reporting 4')</strong>
                             <br><br>
-                            @lang('public.vanward') @lang('public.global service model')
+                            @lang('public.Sunrise') @lang('public.global service model')
                             @lang('public.hosted operations & reporting 5')
                         </p>
                     </div>

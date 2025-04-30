@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Securities Lending | Markets | Investor Services | Vanward International')
+@section('title', 'Securities Lending | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [
@@ -83,7 +83,7 @@
                             <br>
                             @lang('public.securities lending 7')
                             <br><br>
-                            @lang('public.vanward securities lending execution policy')
+                            @lang('public.Sunrise securities lending execution policy')
                         </p>
                     </div>
                 </div>

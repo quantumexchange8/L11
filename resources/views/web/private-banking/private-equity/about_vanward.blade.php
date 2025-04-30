@@ -1,9 +1,9 @@
 @extends('layouts.main')
-@section('title', 'Investment Advisory | Private Banking | Vanward International')
+@section('title', 'Investment Advisory | Private Banking | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.about vanward'),
+        'title' => __('public.about Sunrise'),
         'url' => 'private-banking/private-equity',
         'sub2' => __('public.private equity'),
         'headerImage' => url('assets/img/banner32.jpg'),
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- <strong>@lang('public.about vanward')</strong> --}}
+                            {{-- <strong>@lang('public.about Sunrise')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">
@@ -69,19 +69,19 @@
                     <div class="col-md-12">
                         <div class="divider-s"></div>
                         <p class="paragraph">
-                            @lang('public.about vanward 1')
+                            @lang('public.about Sunrise 1')
                                 <br><br>
-                                @lang('public.about vanward 2')
+                                @lang('public.about Sunrise 2')
                                 <br><br>
-                                @lang('public.about vanward 3')
+                                @lang('public.about Sunrise 3')
                                 <br><br>
-                                @lang('public.about vanward 4')
+                                @lang('public.about Sunrise 4')
                                 <br><br>
-                                @lang('public.about vanward 5')
+                                @lang('public.about Sunrise 5')
                                 <br><br>
-                                @lang('public.about vanward 6')
+                                @lang('public.about Sunrise 6')
                                 <br><br>
-                                @lang('public.about vanward 7')
+                                @lang('public.about Sunrise 7')
                             </p>
                         </p>
                     </div>

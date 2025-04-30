@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Contact Us | Vanward International')
+@section('title', 'Contact Us | Sunrise Fund Limited')
 
 @section('content')
 
@@ -64,7 +64,7 @@
                                     85 South Mall<br>
                                     Centre, Cork<br>
                                     T12 A3XN Ireland <br>
-                                    Email : <a class="link-effect" href="mailto: irl@vanwardintl.com">irl@vanwardintl.com</a>
+                                    Email : <a class="link-effect" href="mailto: irl@Sunriseintl.com">irl@Sunriseintl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -78,7 +78,7 @@
                                     1 Chome-11番1号 <br>
                                     Marunouchi, Chiyoda City<br>
                                     Tokyo 100-6213 Japan<br>
-                                    Email : <a class="link-effect" href="mailto: jpn@vanwardintl.com">jpn@vanwardintl.com</a>
+                                    Email : <a class="link-effect" href="mailto: jpn@Sunriseintl.com">jpn@Sunriseintl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -91,7 +91,7 @@
                                     Ocean Financial Centre<br>
                                     10 Collyer Quay<br>
                                     049315 Singapore <br>
-                                    Email : <a class="link-effect" href="mailto: sg@vanwardintl.com">sg@vanwardintl.com</a>
+                                    Email : <a class="link-effect" href="mailto: sg@Sunriseintl.com">sg@Sunriseintl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -107,7 +107,7 @@
                                     Via Mike Bongiorno, 13, 20124 <br>
                                     Milano MI<br>
                                     Italy<br>
-                                    Email : <a class="link-effect" href="mailto: it@vanwardintl.com">it@vanwardintl.com</a>
+                                    Email : <a class="link-effect" href="mailto: it@Sunriseintl.com">it@Sunriseintl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -120,7 +120,7 @@
                                     1 Poultry, Bank London <br>
                                     EC2R 8EJ<br>
                                     UNITED KINGDOM<br>
-                                    Email : <a class="link-effect" href="mailto: ldn@vanwardintl.com">ldn@vanwardintl.com</a>
+                                    Email : <a class="link-effect" href="mailto: ldn@Sunriseintl.com">ldn@Sunriseintl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>

@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>
-            Vanward International
+            Sunrise Fund Limited
         </title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="icon" href="{{ asset('assets/img/logg.png') }}">
@@ -248,15 +248,15 @@
         <div class="col-lg-12">
           <div class="slider text-center" style="color: white; padding-top:20px;">
             <div class="slide">
-              <h1>Welcome to Vanward International</h1>
+              <h1>Welcome to Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Please select your language and country</p>
             </div>
             <div class="slide">
-              <h1>Bienvenue chez Vanward International</h1>
+              <h1>Bienvenue chez Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Veuillez sélectionner votre langue et votre pays</p>
             </div>
             <div class="slide">
-              <h1>欢迎来到 Vanward International</h1>
+              <h1>欢迎来到 Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">请选择您的语言和国家</p>
             </div>
             <div class="slide">
@@ -264,39 +264,39 @@
               <p style="color:#03BFCB;">يرجى تحديد اللغة والبلد الخاص بك</p>
             </div>
             <div class="slide">
-              <h1>Willkommen bei Vanward International</h1>
+              <h1>Willkommen bei Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
             </div>
             <div class="slide">
-              <h1>Welkom bij Vanward International</h1>
+              <h1>Welkom bij Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Selecteer alstublieft uw taal en land</p>
             </div>
             <div class="slide">
-              <h1>Velkommen til Vanward International</h1>
+              <h1>Velkommen til Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Vennligst velg ditt språk og land</p>
             </div>
             <div class="slide">
-              <h1>Välkommen till Vanward International</h1>
+              <h1>Välkommen till Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Vänligen välj ditt språk och land</p>
             </div>
             <div class="slide">
-              <h1>Tervetuloa Vanward Internationaliin</h1>
+              <h1>Tervetuloa Sunrise Fund Limitediin</h1>
               <p style="color:#03BFCB;">Valitse kieli ja maa, ole hyvä</p>
             </div>
             <div class="slide">
-              <h1>Willkomme bi Vanward International</h1>
+              <h1>Willkomme bi Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
             </div>
             <div class="slide">
-              <h1>Tere tulemast Vanward Internationali</h1>
+              <h1>Tere tulemast Sunrise Fund Limitedi</h1>
               <p style="color:#03BFCB;">Palun valige oma keel ja riik</p>
             </div>
             <div class="slide">
-              <h1>Vanward Internationalへようこそ</h1>
+              <h1>Sunrise Fund Limitedへようこそ</h1>
               <p style="color:#03BFCB;">言語と国を選択してください</p>
             </div>
             <div class="slide">
-              <h1>Velkommen til Vanward International</h1>
+              <h1>Velkommen til Sunrise Fund Limited</h1>
               <p style="color:#03BFCB;">Vælg venligst dit sprog og dit land</p>
             </div>
           </div>
@@ -351,11 +351,11 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul aria-labelledby="dropdownMenuLink">
-                              <li><a class="dropdown-item" href="http://vanwardintl.com/lang/en" id="myLink1">Australia</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/zh" id="myLink2">China</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/ja" id="myLink3">Japan</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink4">New Zealand</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
+                              <li><a class="dropdown-item" href="http://Sunriseintl.com/lang/en" id="myLink1">Australia</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/zh" id="myLink2">China</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/ja" id="myLink3">Japan</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink4">New Zealand</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
                             </ul>
                           </div>
 
@@ -371,35 +371,35 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink6">Austria</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/nl" id="myLink7">Belgium</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/da" id="myLink9">Denmark</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/et" id="myLink10">Estonia</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fi" id="myLink11">Finland</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fr" id="myLink12">France</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink13">Germany</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/de" id="myLink6">Austria</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/nl" id="myLink7">Belgium</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/da" id="myLink9">Denmark</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/et" id="myLink10">Estonia</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/fi" id="myLink11">Finland</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/fr" id="myLink12">France</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/de" id="myLink13">Germany</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink14">Greece</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink15">Hungary</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink16">Iceland</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink30">Ireland</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/it" id="myLink17">Italy</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink18">Liechtenstein</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fr" id="myLink19">Luxembourg</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/nl" id="myLink20">Netherlands</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/no" id="myLink21">Norway</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink14">Greece</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink15">Hungary</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink16">Iceland</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink30">Ireland</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/it" id="myLink17">Italy</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/de" id="myLink18">Liechtenstein</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/fr" id="myLink19">Luxembourg</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/nl" id="myLink20">Netherlands</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/no" id="myLink21">Norway</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink22">Poland</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/pt" id="myLink23">Portugal</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink24">Slovakia</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink25">Slovenia</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/es" id="myLink26">Spain</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/sv" id="myLink27">Sweden</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink28">Switzerland</a></li>
-                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink29">United Kingdom</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink22">Poland</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/pt" id="myLink23">Portugal</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink24">Slovakia</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink25">Slovenia</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/es" id="myLink26">Spain</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/sv" id="myLink27">Sweden</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/de" id="myLink28">Switzerland</a></li>
+                              <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink29">United Kingdom</a></li>
                             </ul>
                           </div>
 
@@ -417,9 +417,9 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/pt" id="myLink30">Brazil</a></li>
-                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink31">Canada</a></li>
-                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink32">United States of America</a></li>
+                            <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/pt" id="myLink30">Brazil</a></li>
+                            <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink31">Canada</a></li>
+                            <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink32">United States of America</a></li>
                           </ul>
                         </div>
 
@@ -435,7 +435,7 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink33">South Africa</a></li>
+                            <li><a class="dropdown-item" href="https://Sunriseintl.com/lang/en" id="myLink33">South Africa</a></li>
                           </ul>
                         </div>
 
@@ -451,9 +451,9 @@
           <div class="row" style="color: #ffffff;">
 
               <p style="padding: 50px;">
-                All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Vanward International Securities Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Vanward International Securities Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
+                All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise Fund Limited Securities Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise Fund Limited Securities Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
               </p>
-              <p style="padding-left: 50px;">Vanward International © {{ now()->year }}</p>
+              <p style="padding-left: 50px;">Sunrise Fund Limited © {{ now()->year }}</p>
           </div>
         </div>
         <!-- FOOTER ENDS -->
@@ -717,205 +717,205 @@
             title: "Australia",
             latitude: -25.2743,
             longitude: 133.7751,
-            url: "https://vanwardintl.com/lang/en"
+            url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "China",
               latitude: 35.8616,
               longitude: 104.1953,
-              url: "https://vanwardintl.com/lang/zh"
+              url: "https://Sunriseintl.com/lang/zh"
         },
         {
               title: "Japan",
               latitude: 36.2048,
               longitude: 138.2529,
-              url: "https://vanwardintl.com/lang/ja"
+              url: "https://Sunriseintl.com/lang/ja"
         },
         {
               title: "New Zealand",
               latitude: -40.9005,
               longitude: 174.8859,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "United Arab Emirates",
               latitude: 23.4240,
               longitude: 53.8478,
-              url: "https://vanwardintl.com/lang/ar"
+              url: "https://Sunriseintl.com/lang/ar"
         },
         {
               title: "Austria",
               latitude: 47.5162,
               longitude: 14.5500,
-              url: "https://vanwardintl.com/lang/de"
+              url: "https://Sunriseintl.com/lang/de"
         },
         {
               title: "Belgium",
               latitude: 50.5038,
               longitude: 4.4699,
-              url: "https://vanwardintl.com/lang/nl"
+              url: "https://Sunriseintl.com/lang/nl"
         },
         {
               title: "Czech Republic",
               latitude: 49.8174,
               longitude: 15.4729,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Denmark",
               latitude: 56.2639,
               longitude: 9.5017,
-              url: "https://vanwardintl.com/lang/da"
+              url: "https://Sunriseintl.com/lang/da"
         },
         {
               title: "Estonia",
               latitude: 58.5952,
               longitude: 25.0136,
-              url: "https://vanwardintl.com/lang/et"
+              url: "https://Sunriseintl.com/lang/et"
         },
         {
               title: "Finland",
               latitude: 61.9241,
               longitude: 25.7481,
-              url: "https://vanwardintl.com/lang/fi"
+              url: "https://Sunriseintl.com/lang/fi"
         },
         {
               title: "France",
               latitude: 46.2276,
               longitude: 2.2137,
-              url: "https://vanwardintl.com/lang/fr"
+              url: "https://Sunriseintl.com/lang/fr"
         },
         {
               title: "Germany",
               latitude: 51.1656,
               longitude: 10.4515,
-              url: "https://vanwardintl.com/lang/de"
+              url: "https://Sunriseintl.com/lang/de"
         },
         {
               title: "Greece",
               latitude: 39.0742,
               longitude: 21.8243,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Hungary",
               latitude: 47.1624,
               longitude: 19.5033,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Iceland",
               latitude: 64.9630,
               longitude: -19.0208,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Ireland",
               latitude: 53.4129,
               longitude: -8.2438,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Italy",
               latitude: 41.8719,
               longitude: 12.5673,
-              url: "https://vanwardintl.com/lang/it"
+              url: "https://Sunriseintl.com/lang/it"
         },
         {
               title: "Liechtenstein",
               latitude: 47.166,
               longitude: 9.5553,
-              url: "https://vanwardintl.com/lang/de"
+              url: "https://Sunriseintl.com/lang/de"
         },
         {
               title: "Luxembourg",
               latitude: 49.8152,
               longitude: 6.1295,
-              url: "https://vanwardintl.com/lang/fr"
+              url: "https://Sunriseintl.com/lang/fr"
         },
         {
               title: "Netherlands",
               latitude: 52.1326,
               longitude: 5.2912,
-              url: "https://vanwardintl.com/lang/nl"
+              url: "https://Sunriseintl.com/lang/nl"
         },
         {
               title: "Norway",
               latitude: 60.4720,
               longitude: 8.4689,
-              url: "https://vanwardintl.com/lang/no"
+              url: "https://Sunriseintl.com/lang/no"
         },
         {
               title: "Poland",
               latitude: 51.9194,
               longitude: 19.1451,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Portugal",
               latitude: 39.3998,
               longitude: -8.2244,
-              url: "https://vanwardintl.com/lang/pt"
+              url: "https://Sunriseintl.com/lang/pt"
         },
         {
               title: "Slovakia",
               latitude: 48.6690,
               longitude: 19.6990,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Slovenia",
               latitude: 46.1512,
               longitude: 14.9954,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Spain",
               latitude: 40.4636,
               longitude: -3.7492,
-              url: "https://vanwardintl.com/lang/es"
+              url: "https://Sunriseintl.com/lang/es"
         },
         {
               title: "Sweden",
               latitude: 60.1281,
               longitude: 18.6435,
-              url: "https://vanwardintl.com/lang/sv"
+              url: "https://Sunriseintl.com/lang/sv"
         },
         {
               title: "Switzerland",
               latitude: 46.8181,
               longitude: 8.2275,
-              url: "https://vanwardintl.com/lang/de"
+              url: "https://Sunriseintl.com/lang/de"
         },
         {
               title: "United Kingdom",
               latitude: 55.3780,
               longitude: -3.4359,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "Brazil",
               latitude: -14.2350,
               longitude: -51.9252,
-              url: "https://vanwardintl.com/lang/pt"
+              url: "https://Sunriseintl.com/lang/pt"
         },
         {
               title: "Canada",
               latitude: 56.1303,
               longitude: -106.3467,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "United States of America",
               latitude: 37.0902,
               longitude: -95.7128,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         },
         {
               title: "South Africa",
               latitude: -30.5594,
               longitude: 22.9375,
-              url: "https://vanwardintl.com/lang/en"
+              url: "https://Sunriseintl.com/lang/en"
         }
     ];
 
@@ -972,71 +972,71 @@ var homeButton = chart.children.push(am5.Button.new(root, {
 // Define a map of country codes to their respective URLs
 // var countryUrls = {
 //   // united states
-//   "US": "https://vanwardintl.com/lang/en",
+//   "US": "https://Sunriseintl.com/lang/en",
 //   // canada
-//   "CA": "https://vanwardintl.com/lang/en",
+//   "CA": "https://Sunriseintl.com/lang/en",
 //   // brazil
-//   "BR": "https://vanwardintl.com/lang/pt",
+//   "BR": "https://Sunriseintl.com/lang/pt",
 //   // australia
-//   "AU": "https://vanwardintl.com/lang/en",
+//   "AU": "https://Sunriseintl.com/lang/en",
 //   // china
-//   "CN": "https://vanwardintl.com/lang/zh",
+//   "CN": "https://Sunriseintl.com/lang/zh",
 //   // japan
-//   "JP": "https://vanwardintl.com/lang/ja",
+//   "JP": "https://Sunriseintl.com/lang/ja",
 //   // new zealand
-//   "NZ": "https://vanwardintl.com/lang/en",
+//   "NZ": "https://Sunriseintl.com/lang/en",
 //   // uae
-//   "AE": "https://vanwardintl.com/lang/ar",
+//   "AE": "https://Sunriseintl.com/lang/ar",
 //   // austria
-//   "AT": "https://vanwardintl.com/lang/de",
+//   "AT": "https://Sunriseintl.com/lang/de",
 //   // belgium
-//   "BE": "https://vanwardintl.com/lang/nl",
+//   "BE": "https://Sunriseintl.com/lang/nl",
 //   //czech republic
-//   "CZ": "https://vanwardintl.com/lang/en",
+//   "CZ": "https://Sunriseintl.com/lang/en",
 //   // denmark
-//   "DK": "https://vanwardintl.com/lang/da",
+//   "DK": "https://Sunriseintl.com/lang/da",
 //   // estonia
-//   "EE": "https://vanwardintl.com/lang/et",
+//   "EE": "https://Sunriseintl.com/lang/et",
 //   // finland
-//   "FI": "https://vanwardintl.com/lang/fi",
+//   "FI": "https://Sunriseintl.com/lang/fi",
 //   // france
-//   "FR": "https://vanwardintl.com/lang/fr",
+//   "FR": "https://Sunriseintl.com/lang/fr",
 //   // germany
-//   "DE": "https://vanwardintl.com/lang/de",
+//   "DE": "https://Sunriseintl.com/lang/de",
 //   // greece
-//   "GR": "https://vanwardintl.com/lang/en",
+//   "GR": "https://Sunriseintl.com/lang/en",
 //   // hungary
-//   "HU": "https://vanwardintl.com/lang/en",
+//   "HU": "https://Sunriseintl.com/lang/en",
 //   // iceland
-//   "IS": "https://vanwardintl.com/lang/en",
+//   "IS": "https://Sunriseintl.com/lang/en",
 //   // italy
-//   "IT": "https://vanwardintl.com/lang/it",
+//   "IT": "https://Sunriseintl.com/lang/it",
 //   // liechtenstein
-//   "LI": "https://vanwardintl.com/lang/de",
+//   "LI": "https://Sunriseintl.com/lang/de",
 //   // luxemborg
-//   "LU": "https://vanwardintl.com/lang/fr",
+//   "LU": "https://Sunriseintl.com/lang/fr",
 //   // netherlands
-//   "NL": "https://vanwardintl.com/lang/nl",
+//   "NL": "https://Sunriseintl.com/lang/nl",
 //   // norway
-//   "NO": "https://vanwardintl.com/lang/no",
+//   "NO": "https://Sunriseintl.com/lang/no",
 //   // poland
-//   "PL": "https://vanwardintl.com/lang/en",
+//   "PL": "https://Sunriseintl.com/lang/en",
 //   // portugal
-//   "PT": "https://vanwardintl.com/lang/pt",
+//   "PT": "https://Sunriseintl.com/lang/pt",
 //   // slovakia
-//   "SK": "https://vanwardintl.com/lang/en",
+//   "SK": "https://Sunriseintl.com/lang/en",
 //   // slovenia
-//   "SI": "https://vanwardintl.com/lang/en",
+//   "SI": "https://Sunriseintl.com/lang/en",
 //   // spain
-//   "ES": "https://vanwardintl.com/lang/es",
+//   "ES": "https://Sunriseintl.com/lang/es",
 //   // sweden
-//   "SE": "https://vanwardintl.com/lang/sv",
+//   "SE": "https://Sunriseintl.com/lang/sv",
 //   // switzerland
-//   "CH": "https://vanwardintl.com/lang/de",
+//   "CH": "https://Sunriseintl.com/lang/de",
 //   // uk
-//   "GB": "https://vanwardintl.com/lang/en",
+//   "GB": "https://Sunriseintl.com/lang/en",
 //   // south africa
-//   "ZA": "https://vanwardintl.com/lang/en",
+//   "ZA": "https://Sunriseintl.com/lang/en",
 // };
 
 // Filter the countries from the am5geodata_worldLow GeoJSON

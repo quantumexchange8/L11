@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'WAML Securities Lending Execution Policy | Foreign Exchange | Markets | Investor Services | Vanward International')
+@section('title', 'WAML Securities Lending Execution Policy | Foreign Exchange | Markets | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [

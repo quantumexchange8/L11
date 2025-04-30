@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Data Connectivity & Applications via Infomediary | Technology Services | Investment Operations & Technology Solutions | Investor Services | Vanward International')
+@section('title', 'Data Connectivity & Applications via Infomediary | Technology Services | Investment Operations & Technology Solutions | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [

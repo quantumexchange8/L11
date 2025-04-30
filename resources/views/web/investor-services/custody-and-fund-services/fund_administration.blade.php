@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Fund Administration | Custody & Fund Services | Investor Services | Vanward International')
+@section('title', 'Fund Administration | Custody & Fund Services | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [

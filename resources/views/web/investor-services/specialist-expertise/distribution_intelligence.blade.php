@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Distribution Intelligence | Specialist Expertise | Investor Services | Vanward International')
+@section('title', 'Distribution Intelligence | Specialist Expertise | Investor Services | Sunrise Fund Limited')
 
 @section('content')
     @component('components.page-header', [
@@ -81,9 +81,9 @@
                             <br><br>
                             &nbsp;&nbsp;&nbsp;&bull;&nbsp;<span class="capitalize">@lang('public.our')</span> <a class="link-effect" href="{{ route('web.investor-services.custody-and-fund-services.transfer_agency') }}">@lang('public.transfer agency')</a> @lang('public.distribution intelligence 9')
                             <br>
-                            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.vanward') <a class="link-effect" href="{{ route('web.investor-services.data_connectivity_and_applications_via_infomediary') }}">@lang('public.infomediary')</a>® @lang('public.distribution intelligence 10')
+                            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.Sunrise') <a class="link-effect" href="{{ route('web.investor-services.data_connectivity_and_applications_via_infomediary') }}">@lang('public.infomediary')</a>® @lang('public.distribution intelligence 10')
                             <br>
-                            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.vanward') <a class="link-effect" href="{{ route('web.investor-services.custody-and-fund-services.fund_order_and_custody') }}">@lang('public.fund order & custody')</a> @lang('public.distribution intelligence 11')
+                            &nbsp;&nbsp;&nbsp;&bull;&nbsp;@lang('public.Sunrise') <a class="link-effect" href="{{ route('web.investor-services.custody-and-fund-services.fund_order_and_custody') }}">@lang('public.fund order & custody')</a> @lang('public.distribution intelligence 11')
                             <br><br>
                             <strong>@lang('public.distribution intelligence 12')</strong>
                             <br><br>

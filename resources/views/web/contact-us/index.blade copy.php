@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Contact Us | Vanward International')
+@section('title', 'Contact Us | Sunrise Fund Limited')
 
 @section('content')
 
@@ -65,7 +65,7 @@
                                     Hung Hom<br>
                                     Hong Kong<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: info@vanward-intl.com">info@vanward-intl.com</a>
+                                        href="mailto: info@Sunrise-intl.com">info@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -81,7 +81,7 @@
                                     Centre, Cork<br>
                                     T12 A3XN Ireland <br>
                                     Email : <a class="link-effect"
-                                        href="mailto: irl@vanward-intl.com">irl@vanward-intl.com</a>
+                                        href="mailto: irl@Sunrise-intl.com">irl@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -96,7 +96,7 @@
                                     Marunouchi, Chiyoda City<br>
                                     Tokyo 100-6213 Japan<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: jpn@vanward-intl.com">jpn@vanward-intl.com</a>
+                                        href="mailto: jpn@Sunrise-intl.com">jpn@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -110,7 +110,7 @@
                                     10 Collyer Quay<br>
                                     049315 Singapore <br>
                                     Email : <a class="link-effect"
-                                        href="mailto: sg@vanward-intl.com">sg@vanward-intl.com</a>
+                                        href="mailto: sg@Sunrise-intl.com">sg@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -126,7 +126,7 @@
                                     Avenue J.F. Kennedy<br>
                                     L-1855 Luxembourg<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: lux@vanward-intl.com">lux@vanward-intl.com</a>
+                                        href="mailto: lux@Sunrise-intl.com">lux@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -141,7 +141,7 @@
                                     Milano MI<br>
                                     Italy<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: it@vanward-intl.com">it@vanward-intl.com</a>
+                                        href="mailto: it@Sunrise-intl.com">it@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -155,7 +155,7 @@
                                     EC2R 8EJ<br>
                                     UNITED KINGDOM<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: ldn@vanward-intl.com">ldn@vanward-intl.com</a>
+                                        href="mailto: ldn@Sunrise-intl.com">ldn@Sunrise-intl.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>

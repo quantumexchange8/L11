@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'InfoAction | Targeted Technology Solutions via Infomediary | Middle Office Outsourcing | Investment Operations & Technology Solutions | Investor Services | Vanward International')
+@section('title', 'InfoAction | Targeted Technology Solutions via Infomediary | Middle Office Outsourcing | Investment Operations & Technology Solutions | Investor Services | Sunrise Fund Limited')
 
 @section('content')
 @component('components.page-header', [

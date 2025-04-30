@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'The Patnership | Vanward')
+@section('title', 'The Patnership | Sunrise')
 
 @section('content')
     @component('components.page-header', [

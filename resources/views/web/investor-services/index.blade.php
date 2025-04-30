@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('title', 'Investor Services | Vanward International')
+@section('title', 'Investor Services | Sunrise Fund Limited')
 <style>
     .logo-default{
         width: 50px;

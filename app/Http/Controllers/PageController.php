@@ -17,8 +17,8 @@ class PageController extends Controller
         return view('web.private-banking.corporate-advisory-and-banking.corporate_banking');
     }
     // Private Banking > Private Equity
-    public function aboutVanward() {
-        return view('web.private-banking.private-equity.about_vanward');
+    public function aboutSunrise() {
+        return view('web.private-banking.private-equity.about_Sunrise');
     }
     public function investmentProfile() {
         return view('web.private-banking.private-equity.investment_profile');
