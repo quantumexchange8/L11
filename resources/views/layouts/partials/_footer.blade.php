@@ -31,7 +31,7 @@
     </div>  --}}
     {{-- <div class="footer-bar"> --}}
         <div class="container" style="margin-left:auto; margin-right:auto; text-align:center;">
-            <p>@lang('public.home page 26')<br><br>
+            <p>@lang('public.home page 26')<br><br>@lang('public.home page 26b')<br><br>@lang('public.home page 26c')<br>@lang('public.home page 26d')<br><br><br>
                 </p>
             <span>© {{ now()->year }} Sunrise Fund Limited</span>
             {{-- <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span> --}}
