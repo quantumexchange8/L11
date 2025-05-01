@@ -347,9 +347,9 @@
           <div class="row" style="color: #635d5d; font-size: 14px;">
 
               <p style="padding: 50px 150px 25px 150px; ">
-                All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise Fund Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise Fund Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
+                All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
               </p>
-              <p style="margin-left:auto; margin-right:auto; text-align:center;">Sunrise Fund Limited © {{ now()->year }}</p>
+              <p style="margin-left:auto; margin-right:auto; text-align:center;">Sunrise © {{ now()->year }}</p>
           </div>
         </div>
         <!-- FOOTER ENDS -->

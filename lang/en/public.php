@@ -4406,7 +4406,7 @@ return [
     //home page
     "home page 1" => "Become a client",
     "home page 2" => "About Us",
-    "home page 3" => "We are Sunrise Fund Limited, a leading private equity firm based primarily in Hong Kong & Singapore.
+    "home page 3" => "We are Sunrise, a leading private equity firm based primarily in Canada.
     We specialise in providing strategic investments and financial expertise to unlock the full potential of various businesses across multiple industries. We are dedicated to providing long term value and driving growth for our clients and we have the client-centric approach and strong track record to back it.",
     "home page 4" => "Build lasting expansion",
     "home page 5" => "Collaboration with us",
@@ -4430,7 +4430,7 @@ return [
     "home page 23" => "To accumulate any wealth, you must invest at a growth rate higher than inflation.",
     "home page 24" => "You must start investing as early as possible. Yesterday was better than today, and today is better than tomorrow. Don’t wait for a significant market drop.",
     "home page 25" => "Expect the best. Prepare for the worst. Capitalize on what comes.",
-    "home page 26" => "All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise Fund Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise Fund Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited.",
+    "home page 26" => "All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited.",
     "home page 26b" => "Sunrise Fund (China) Limited is licensed by the Securities and Futures Commission (SFC) of the Hong Kong  to engage with clients by Dealing in Securities regulated activity as defined in Schedule 5 of the Securities and Futures Ordinance (SFO). SFC Regulatory Number: BRH173. Sunrise Fund (China) Limited is a Hong Kong corporation headquartered at: Level 22, 28 Hennessy Road, Wan Chai, Hong Kong. Company Registration No: 71758444.",
     "home page 26c" => "Singapore : Sunrise Fund Pte. Ltd. Company Registration No: 202105157H. Address : 6 Shenton Way,#25-08, OUE Downtown 068809 Singapore.",
     "home page 26d" => "Canada : Sunrise Insurance and Retirement Advisory Services Ltd. Address : 1900-4720 Kingsway Burnaby, BC, V5H 4N2 Canada.",
