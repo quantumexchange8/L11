@@ -18,7 +18,7 @@
                     <div class="row">
                         <div class="col-lg" style="height: 80vh !important;">
                             <div id="map" style="margin-left:auto;margin-right:auto; text-align:center; ">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2462.0016396708493!2d-8.471475523017556!3d51.897434182135065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4844900ff4c4b84f%3A0x3b7c88d8dd156196!2s85%20S%20Mall%2C%20Centre%2C%20Cork%2C%20T12%20A3XN%2C%20Ireland!5e0!3m2!1sen!2smy!4v1746072026290!5m2!1sen!2smy" width="600" height="450" style="width:80%; height:100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://www.google.com/maps/embed/v1/place?q=1900-4720+Kingsway+Burnaby,+BC,+V5H+4N2+Canada&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="600" height="450" style="width:80%; height:100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
