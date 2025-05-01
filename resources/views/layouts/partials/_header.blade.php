@@ -188,7 +188,7 @@ $languages = [
                 <div class="custom-area">
                     Torre Diamante Building<br />
                     Via Mike Bongiorno, 13, 20124 Milano MI Italy<br/>
-                    Call us: <a href="tel:+39294759690" style="color: #fff; text-decoration: none;">(+39) 1234 1234 </a>
+                    Call us: <a href="tel:+39294759690" style="color: #635d5d; text-decoration: none;">(+39) 1234 1234 </a>
                 </div>
                 <ul class="lan-menu">
                     <li class="dropdown">

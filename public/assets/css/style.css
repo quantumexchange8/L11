@@ -331,21 +331,13 @@ nav.active .menu-btn,
 .lan-menu>li:hover>a,
 .glide__bullets>button:hover,
 .glide__bullets>button.glide__bullet--active {
-    background-color: #3081c8;
+    background-color: #d1af6f    ;
 }
 
 .icon-links-button a:hover,
 .pagination li.page:hover a,
 .pagination li.page.active a {
     background-color: #3081c8;
-    border-color: #3081c8;
-}
-
-.btn:hover,
-.input-text:focus,
-.input-select:focus,
-.input-textarea:focus,
-.search-bar input[type=text]:focus {
     border-color: #3081c8;
 }
 
@@ -443,7 +435,7 @@ nav.light a,
 .light .counter .value span:last-child,
 .light.counter .value span:last-child,
 .light .icon-links a i {
-    color: #FFF !important;
+    color: #635d5d !important;
 }
 
 .light .breadcrumb li a:after,
@@ -2530,7 +2522,7 @@ BUTTONS - COMPONENT
 */
 
 .btn {
-    color: #fff;
+    color: #635d5d;
     border-radius: 3px;
     display: inline-block;
     text-decoration: none;

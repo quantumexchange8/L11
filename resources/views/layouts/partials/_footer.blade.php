@@ -30,7 +30,7 @@
         </div>
     </div>  --}}
     {{-- <div class="footer-bar"> --}}
-        <div class="container">
+        <div class="container" style="margin-left:auto; margin-right:auto; text-align:center;">
             <p>@lang('public.home page 26')<br><br>
                 </p>
             <span>© {{ now()->year }} Sunrise Fund Limited</span>

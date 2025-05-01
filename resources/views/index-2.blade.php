@@ -82,9 +82,9 @@
     }
 
     .btn-secondary {
-        color: #fff;
-        background-color: #03BFCB !important;
-        border-color: #03BFCB !important;
+        color: #767171;
+        background-color: #e6d6ba !important;
+        border-color: #e6d6ba !important;
     }
 
     @media only screen and (min-width: 992px) {
@@ -100,23 +100,18 @@
       padding: 0;
     }
     .dropdown-menu li .dropdown-item {
-      color: #ffffff;
+      color: #623e3e;
       background-color: #03BFCB;
       font-size: 1em;
       padding: 0.5em 1em;
     }
     .dropdown-menu li .dropdown-item:hover {
-      background-color: #005067;
+      background-color: #212527;
     }
 
     select option:checked {
-      background-color: #005067 !important;
-      color: #ffffff !important;
-    }
-
-    select option:hover {
-      background-color: #005067 !important;
-      color: #ffffff !important;
+      background-color: #d1af6f !important;
+      color: #000000 !important;
     }
 
     @media only screen and (max-width: 992px) {
@@ -229,7 +224,7 @@
   </style>
 
     </head>
-    <body style="background-color: #6fc5ec;">
+    <body style="background-color: #F5F0E6;">
         @include('cookie-consent::index')
         {{-- @include('custom-cookie-consent') --}}
         {{-- <div class="loading-bar" id="loader">
@@ -246,58 +241,58 @@
         <!--  WELCOME TEXT --> 
 
         <div class="col-lg-12">
-          <div class="slider text-center" style="color: white; padding-top:20px;">
+          <div class="slider text-center" style="color: rgb(0, 0, 0); padding-top:20px;">
             <div class="slide">
               <h1>Welcome to Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Please select your language and country</p>
+              <p style="color:#000000;">Please select your language and country</p>
             </div>
             <div class="slide">
               <h1>Bienvenue chez Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Veuillez sélectionner votre langue et votre pays</p>
+              <p style="color:#000000;">Veuillez sélectionner votre langue et votre pays</p>
             </div>
             <div class="slide">
               <h1>欢迎来到 Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">请选择您的语言和国家</p>
+              <p style="color:#000000;">请选择您的语言和国家</p>
             </div>
             <div class="slide">
               <h1>أهلاً بك في فانوارد الدولية </h1>
-              <p style="color:#ffffff;">يرجى تحديد اللغة والبلد الخاص بك</p>
+              <p style="color:#000000;">يرجى تحديد اللغة والبلد الخاص بك</p>
             </div>
             <div class="slide">
               <h1>Willkommen bei Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
+              <p style="color:#000000;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
             </div>
             <div class="slide">
               <h1>Welkom bij Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Selecteer alstublieft uw taal en land</p>
+              <p style="color:#000000;">Selecteer alstublieft uw taal en land</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Vennligst velg ditt språk og land</p>
+              <p style="color:#000000;">Vennligst velg ditt språk og land</p>
             </div>
             <div class="slide">
               <h1>Välkommen till Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Vänligen välj ditt språk och land</p>
+              <p style="color:#000000;">Vänligen välj ditt språk och land</p>
             </div>
             <div class="slide">
               <h1>Tervetuloa Sunrise Fund Limitediin</h1>
-              <p style="color:#ffffff;">Valitse kieli ja maa, ole hyvä</p>
+              <p style="color:#000000;">Valitse kieli ja maa, ole hyvä</p>
             </div>
             <div class="slide">
               <h1>Willkomme bi Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
+              <p style="color:#000000;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
             </div>
             <div class="slide">
               <h1>Tere tulemast Sunrise Fund Limitedi</h1>
-              <p style="color:#ffffff;">Palun valige oma keel ja riik</p>
+              <p style="color:#000000;">Palun valige oma keel ja riik</p>
             </div>
             <div class="slide">
               <h1>Sunrise Fund Limitedへようこそ</h1>
-              <p style="color:#ffffff;">言語と国を選択してください</p>
+              <p style="color:#000000;">言語と国を選択してください</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Sunrise Fund Limited</h1>
-              <p style="color:#ffffff;">Vælg venligst dit sprog og dit land</p>
+              <p style="color:#000000;">Vælg venligst dit sprog og dit land</p>
             </div>
           </div>
         </div>
@@ -309,13 +304,13 @@
         <div class="col-lg-12" style="padding-top: 20px;">
             <div class="row">
                 <div class="col-lg-8">
-                    <div class="row text-center"   style="background-color: #6fc5ec; border-radius: 25px; margin:10px;">
+                    <div class="row text-center"   style="background-color: #F5F0E6; border-radius: 25px; margin:10px;">
                         <div id="chartdiv"></div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="col-lg-12 col-md-12 p-4">
-                        <p style="color:#ffffff;">Please select your language :</p>
+                        <p style="color:#000000;">Please select your language :</p>
                         <select id="dropSelectLanguage" class="btn btn-secondary" style="text-align: left;" onchange="ChangeLanguage()">
                          
                           <option value="en"  @if (Session::get('locale') == 'en' || empty(Session::get('locale'))) selected @endif>English</option>
@@ -336,110 +331,11 @@
                           <option value="gsw" @if (Session::get('locale') == 'gsw') selected @endif>Switzerland (Swiss German)</option>
                         </select>
                       <br><br>
-                        <p style="color:#ffffff;">Please select your country :</p>
-
-                          <!-- <h2><a onclick="countryAsia()">Asia Pacific</a></h2> -->
-                          <a
-                            class="btn btn-secondary dropdown-toggle"
-                            href="#"
-                            role="button"
-                            id="dropdownMenuLink"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            Asia Pacific / Australia / Middle East
-                          </a>
-                          <div class="dropdown-menu">
-                            <ul aria-labelledby="dropdownMenuLink">
-                              <li><a class="dropdown-item" href="http://Sunriseintl.com/lang/en" id="myLink1">Australia</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/zh" id="myLink2">China</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/ja" id="myLink3">Japan</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink4">New Zealand</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
-                            </ul>
-                          </div>
+                      
 
 
-                          <a
-                            class="btn btn-secondary dropdown-toggle"
-                            href="#"
-                            role="button"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            Europe
-                          </a>
-                          <div class="dropdown-menu">
-                            <ul>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/de" id="myLink6">Austria</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/nl" id="myLink7">Belgium</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/da" id="myLink9">Denmark</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/et" id="myLink10">Estonia</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/fi" id="myLink11">Finland</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/fr" id="myLink12">France</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/de" id="myLink13">Germany</a></li>
-                            </ul>
-                            <ul>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink14">Greece</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink15">Hungary</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink16">Iceland</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink30">Ireland</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/it" id="myLink17">Italy</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/de" id="myLink18">Liechtenstein</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/fr" id="myLink19">Luxembourg</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/nl" id="myLink20">Netherlands</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/no" id="myLink21">Norway</a></li>
-                            </ul>
-                            <ul>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink22">Poland</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/pt" id="myLink23">Portugal</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink24">Slovakia</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink25">Slovenia</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/es" id="myLink26">Spain</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/sv" id="myLink27">Sweden</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/de" id="myLink28">Switzerland</a></li>
-                              <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink29">United Kingdom</a></li>
-                            </ul>
-                          </div>
-
-                          <p></p>
-
-                          <a
-                          class="btn btn-secondary dropdown-toggle"
-                          href="#"
-                          role="button"
-                          id="dropdownMenuLink"
-                          data-bs-toggle="dropdown"
-                          aria-expanded="false"
-                        >
-                          North America / South America
-                        </a>
-                        <div class="dropdown-menu">
-                          <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/pt" id="myLink30">Brazil</a></li>
-                            <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink31">Canada</a></li>
-                            <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink32">United States of America</a></li>
-                          </ul>
-                        </div>
-
-                        <a
-                          class="btn btn-secondary dropdown-toggle"
-                          href="#"
-                          role="button"
-                          id="dropdownMenuLink"
-                          data-bs-toggle="dropdown"
-                          aria-expanded="false"
-                        >
-                          Africa
-                        </a>
-                        <div class="dropdown-menu">
-                          <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://sunrisefundlimited.com/lang/en" id="myLink33">South Africa</a></li>
-                          </ul>
-                        </div>
-
-                      </div>
+                   
+                    </div>
                 </div>
             </div>
         </div>
@@ -448,12 +344,12 @@
 
         <!-- FOOTER --> 
         <div class="col-lg-12">
-          <div class="row" style="color: #ffffff;">
+          <div class="row" style="color: #635d5d; font-size: 14px;">
 
-              <p style="padding: 50px;">
+              <p style="padding: 50px 150px 25px 150px; ">
                 All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise Fund Limitedon this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise Fund Limitedis not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
               </p>
-              <p style="padding-left: 50px;">Sunrise Fund Limited © {{ now()->year }}</p>
+              <p style="margin-left:auto; margin-right:auto; text-align:center;">Sunrise Fund Limited © {{ now()->year }}</p>
           </div>
         </div>
         <!-- FOOTER ENDS -->
@@ -509,8 +405,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <style>
         #chartdiv {
-          width: 100%;
-          height: 500px;
+          width: 70%;
+          height: 400px;
         }
         </style>
     <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
@@ -590,7 +486,7 @@
 <style>
   #chartdiv {
     width: 100%;
-    height: 500px;
+    height: 400px;
   }
   </style>
   
@@ -636,11 +532,12 @@
   
   continentSeries.mapPolygons.template.setAll({
     tooltipText: "{name}",
-    interactive: true
+    interactive: true,
+    fill: am5.color("#d9d2c5") 
   });
   
   continentSeries.mapPolygons.template.states.create("hover", {
-    fill: root.interfaceColors.get("primaryButtonActive")
+    fill: am5.color("#d1af6f") 
   });
   
   // Set up zooming in on clicked continent
@@ -660,7 +557,7 @@
         var container = am5.Container.new(root, {
             tooltipText: "{title}",
             cursorOverStyle: "pointer"
-        });
+          });
 
         container.events.on("click", (e) => {
             window.location.href = e.target.dataItem.dataContext.url;
@@ -673,7 +570,7 @@
                 radius: 4,
                 tooltipY: 0,
                 // fill: colorset.next(),
-                fill: am5.color("#03BFCB"),
+                fill: am5.color("#e6d6ba"),
                 strokeOpacity: 0
             })
         );
@@ -684,7 +581,7 @@
                 radius: 4,
                 tooltipY: 0,
                 // fill: colorset.next(),
-                fill: am5.color("#03BFCB"),
+                fill: am5.color("#c7b189"),
                 strokeOpacity: 0,
                 tooltipText: "{title}"
             })
@@ -954,9 +851,17 @@ var homeButton = chart.children.push(am5.Button.new(root, {
   interactiveChildren: false,
   icon: am5.Graphics.new(root, {
     svgPath: "M16,8 L14,8 L14,16 L10,16 L10,10 L6,10 L6,16 L2,16 L2,8 L0,8 L8,0 L16,8 Z M16,8",
-    fill: am5.color(0xffffff)
+    fill: am5.color("#c7b189")
+  }),
+  background: am5.RoundedRectangle.new(root, {
+    fill: am5.color("#EFE8DC"),     // Background color here
+    cornerRadiusTL: 6,
+    cornerRadiusTR: 6,
+    cornerRadiusBL: 6,
+    cornerRadiusBR: 6
   })
 }));
+
 
   
   // Create polygon series for countries
@@ -1079,11 +984,12 @@ countrySeries.mapPolygons.template.events.on("click", function(ev) {
   
   countrySeries.mapPolygons.template.setAll({
     tooltipText: "{name}",
-    interactive: true
+    interactive: true,
+    fill: am5.color("#d9d2c5")
   });
   
   countrySeries.mapPolygons.template.states.create("hover", {
-    fill: root.interfaceColors.get("primaryButtonActive")
+    fill: am5.color("#d1af6f") 
   });
 
 

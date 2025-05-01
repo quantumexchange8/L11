@@ -1,4 +1,4 @@
-<header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="{{ $headerImage }}" data-offset="0">
+<header class="header-image ken-burn-center light" style="z-index:9999;" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="{{ $headerImage }}" data-offset="0">
     <div class="container">
         <h1>{{ $title }}</h1>
         {{-- <h2>OUr core values </h2> --}}

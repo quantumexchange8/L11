@@ -79,7 +79,7 @@ main>section.section-base.section-color.light,
 .menu-side,
 .btn-video:empty:hover,
 .tweets_txt {
-    background-color: #6fc5ec;
+    background-color: #F5F0E6;
 }
 
 .boxed-area.light,
@@ -159,7 +159,7 @@ h6,
     .lan-menu .dropdown>ul>li>a,
     body .lan-menu>li:hover>a,
     body nav:not(.menu-transparent) .lan-menu>li:hover>a {
-        color: rgb(0, 71, 103);
+        color: #d1af6f;
     }
     nav.light .menu-cnt a {
         color: rgb(0, 71, 103) !important;
@@ -235,7 +235,7 @@ nav.light .menu-cnt>ul>li:hover>a,
 body>header.light h2,
 .boxed-area.light .text-list-bold li b,
 .text-color-2 {
-    color: #03BFCB !important;
+    color: #635d5d !important;
 }
 
 .cnt-box-blog-side .blog-date span:last-child,
@@ -266,7 +266,8 @@ footer .icon-list li:before,
 .arrows-inner-right .glide__arrow,
 .light .breadcrumb li a:after,
 .list-tags a:hover {
-    background-color: #03BFCB
+    background-color: #d1af6f
+
 }
 
 .btn,
@@ -275,8 +276,8 @@ footer .icon-list li:before,
 .pagination li.page:hover a,
 .pagination li.page.active a,
 .list-nav a.list-archive {
-    background-color: #03BFCB;
-    border-color: #03BFCB;
+    background-color: #d1af6f;
+    border-color: #d1af6f;
 }
 
 .light .glide__bullets>button.glide__bullet--active,
@@ -300,7 +301,7 @@ nav .menu-right .custom-area,
 .icon-links-grid a,
 .cnt-box-testimonials-bubble>p,
 .light .table-border td {
-    border-color: #03BFCB
+    border-color: #635d5d38
 }
 
 .cnt-call,
@@ -331,7 +332,7 @@ footer .text-list-line li b,
 .icon-links.icon-links-button a i,
 nav .icon-links:not(.social-colors) a i,
 .menu-btn {
-    color: #FFF;
+    color: #635d5d;
 }
 
 .section-home-slider h2 span,
@@ -376,7 +377,7 @@ footer.light ul li>a,
 .bg-color,
 body main>section.bg-color,
 .menu-top-logo>.container:before {
-    background-color: rgba(255, 255, 255, 0.25);
+    background-color:#635d5d38;
 }
 
 
@@ -927,8 +928,10 @@ h3+h1 {
 }
 
 .row {
-    margin-right: -15px;
-    margin-left: -15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .col-1,

@@ -16,40 +16,12 @@
                     <link rel="stylesheet" href="{{ asset('maps/style/style.css') }}" />
                     <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
                     <div class="row">
-                        <div class="col-lg-3">
-                            <div class="title">Branch</div>
-                                <div class="search-container">
-                                  <div class="search">
-                                    <input type="text" id="country-input" placeholder="Enter Country" />
-                                    <i class="fas fa-search" onclick="searchStores()"></i>
-                                  </div>
-                                </div>
-                                <div class="stores-list-container">
-                                  <div class="stores-list">
-                                    <div class="store-container">
-                                      <div class="store-info-container">
-                                        <div class="store-address">
-                                          <span>Torre Diamante Building,</span>
-                                          <span>Via Mike Bongiorno, 13, 20124 Milano MI Italy</span>
-                                        </div>
-                                        <div class="store-phone-number"></div>
-                                      </div>
-                                      <div class="store-number-container">
-                                        <div class="store-number">
-                                          1
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                        </div>
-                        <div class="col-lg-9" style="height: 80vh !important;">
-                            <div id="map"></div>
+                        <div class="col-lg" style="height: 80vh !important;">
+                            <div id="map" style="margin-left:auto;margin-right:auto; text-align:center; ">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2462.0016396708493!2d-8.471475523017556!3d51.897434182135065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4844900ff4c4b84f%3A0x3b7c88d8dd156196!2s85%20S%20Mall%2C%20Centre%2C%20Cork%2C%20T12%20A3XN%2C%20Ireland!5e0!3m2!1sen!2smy!4v1746072026290!5m2!1sen!2smy" width="600" height="450" style="width:80%; height:100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
                         </div>
                     </div>
-                    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmnzW-yNsC4NrLvJTVUn9uNd19lReBw1Y&callback=initMap">
-        </script>
     {{-- <div class="lower-page lower-page-post">
         <div class="post-content">
             <div class="container">
