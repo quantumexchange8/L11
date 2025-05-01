@@ -74,7 +74,7 @@
       font-size: 1.1em;
     }
     .dropdown-menu {
-      background-color: #03BFCB;
+      background-color: #F5F0E6;
       box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
       border: none;
       border-radius: 0;
@@ -101,7 +101,7 @@
     }
     .dropdown-menu li .dropdown-item {
       color: #623e3e;
-      background-color: #03BFCB;
+      background-color: #F5F0E6;
       font-size: 1em;
       padding: 0.5em 1em;
     }
@@ -215,8 +215,8 @@
 }
 
 .js-cookie-consent-agree{
-  background-color: #03BFCB; 
-  border-color: #03BFCB; 
+  background-color: #F5F0E6; 
+  border-color: #F5F0E6; 
   padding:10px; 
   border-radius: 8px;
 }

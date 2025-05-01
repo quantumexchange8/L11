@@ -6,7 +6,7 @@
             <p class="text-white cookie-consent__message">
                 Your experience on this site will be improved by allowing cookies.
                 &nbsp;&nbsp;&nbsp;
-                <button style="background-color: #03BFCB; border-color: #03BFCB; padding:10px; border-radius: 8px;">
+                <button style="background-color: #F5F0E6; border-color: #F5F0E6; padding:10px; border-radius: 8px;">
                     Allow cookies
                 </button>
             </p>

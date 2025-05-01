@@ -115,12 +115,12 @@ h6,
 .media-box.media-box-down .caption h2,
 .menu-inner .menu-btn,
 .menu-inner>div>span {
-    color: rgb(0, 71, 103);
+    color: #d1af6f;
 }
 
 .light .dropdown ul li:not(:hover)>a,
 .text-color-1 {
-    color: rgb(0, 71, 103) !important;
+    color: #d1af6f !important;
 }
 
 .btn:hover,
@@ -132,22 +132,22 @@ h6,
 .accordion-list>li,
 .table-time td,
 .table-time th {
-    border-color: rgb(0, 71, 103);
+    border-color: #d1af6f;
 }
 
 .tab-nav li:not(.active):not(:hover) a,
 .btn.btn-border:hover,
 .btn.btn-border.active {
-    color: rgb(0, 71, 103);
-    border-color: rgb(0, 71, 103);
+    color: #d1af6f;
+    border-color: #d1af6f;
 }
 
 .tab-nav li.active a,
 .tab-nav li:hover a,
 .btn:not(.btn-border).active,
 .icon-links-button:not(.social-colors):not(.social-colors-hover) a:hover {
-    background-color: rgb(0, 71, 103);
-    border-color: rgb(0, 71, 103);
+    background-color: #d1af6f;
+    border-color: #d1af6f;
 }
 
 @media (max-width: 991.98px) {
@@ -162,10 +162,10 @@ h6,
         color: #d1af6f;
     }
     nav.light .menu-cnt a {
-        color: rgb(0, 71, 103) !important;
+        color: #d1af6f !important;
     }
     .search-box-menu {
-        border-color: rgb(0, 71, 103);
+        border-color: #d1af6f;
     }
 }
 
@@ -223,7 +223,7 @@ body>header h2,
 .countdown-vertical [data-time]>div>span:first-child,
 .countdown-horizontal [data-time]>div>span:first-child,
 .social-feed a {
-    color: #03BFCB
+    color: #a78b57
 }
 
 footer.light a,
@@ -282,8 +282,8 @@ footer .icon-list li:before,
 
 .light .glide__bullets>button.glide__bullet--active,
 .section-home-slider .glide__arrow {
-    background-color: #03BFCB !important;
-    border-color: #03BFCB !important;
+    background-color: #F5F0E6 !important;
+    border-color: #F5F0E6 !important;
 }
 
 .shop-menu,
