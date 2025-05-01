@@ -186,9 +186,9 @@ $languages = [
             </ul>
             <div class="menu-right">
                 <div class="custom-area">
-                    Torre Diamante Building<br />
-                    Via Mike Bongiorno, 13, 20124 Milano MI Italy<br/>
-                    Call us: <a href="tel:+39294759690" style="color: #635d5d; text-decoration: none;">(+39) 1234 1234 </a>
+                    1900-4720 Kingsway Burnaby, <br />
+                    BC, V5H 4N2 Canada<br/>
+                    Call us: <a href="tel:+39294759690" style="color: #635d5d; text-decoration: none;">(+1) 7788 013 527 </a>
                 </div>
                 <ul class="lan-menu">
                     <li class="dropdown">
