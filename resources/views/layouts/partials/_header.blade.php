@@ -31,10 +31,10 @@ $languages = [
     <div class="container">
         <div class="menu-brand">
             <a href="{{ url('/home') }}">
-                <img class="logo-default scroll-hide" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
-                <img class="logo-retina scroll-hide" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
-                <img class="logo-default scroll-show" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
-                <img class="logo-retina scroll-show" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
+                <img class="logo-default scroll-hide" src="{{ asset('assets/img/SUNRISE4.png') }}" alt="logo" />
+                <img class="logo-retina scroll-hide" src="{{ asset('assets/img/SUNRISE4.png') }}" alt="logo" />
+                <img class="logo-default scroll-show" src="{{ asset('assets/img/SUNRISE4.png') }}" alt="logo" />
+                <img class="logo-retina scroll-show" src="{{ asset('assets/img/SUNRISE4.png') }}" alt="logo" />
             </a>
         </div>
         <i class="menu-btn"></i>

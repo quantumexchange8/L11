@@ -79,12 +79,12 @@ main>section.section-base.section-color.light,
 .menu-side,
 .btn-video:empty:hover,
 .tweets_txt {
-    background-color: rgb(0, 71, 103);
+    background-color: #6fc5ec;
 }
 
 .boxed-area.light,
 .media-box-full .caption {
-    background-color: rgb(0, 71, 103) !important;
+    background-color: #3ba6d8 !important;
 }
 
 h1,

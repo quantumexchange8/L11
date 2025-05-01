@@ -229,7 +229,7 @@
   </style>
 
     </head>
-    <body style="background-color: #004767;">
+    <body style="background-color: #6fc5ec;">
         @include('cookie-consent::index')
         {{-- @include('custom-cookie-consent') --}}
         {{-- <div class="loading-bar" id="loader">
@@ -238,7 +238,7 @@
         </div> --}}
         <div class="col-lg-12 text-center">
             <div class="p-2">
-                <img src="{{ asset('assets/img/logo new.png') }}" class="img-fluid" alt="" style="width:250px;">
+                <img src="{{ asset('assets/img/SUNRISE4.png') }}" class="img-fluid" alt="" style="width:250px;">
 
             </div>
         </div>
@@ -249,55 +249,55 @@
           <div class="slider text-center" style="color: white; padding-top:20px;">
             <div class="slide">
               <h1>Welcome to Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Please select your language and country</p>
+              <p style="color:#ffffff;">Please select your language and country</p>
             </div>
             <div class="slide">
               <h1>Bienvenue chez Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Veuillez sélectionner votre langue et votre pays</p>
+              <p style="color:#ffffff;">Veuillez sélectionner votre langue et votre pays</p>
             </div>
             <div class="slide">
               <h1>欢迎来到 Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">请选择您的语言和国家</p>
+              <p style="color:#ffffff;">请选择您的语言和国家</p>
             </div>
             <div class="slide">
               <h1>أهلاً بك في فانوارد الدولية </h1>
-              <p style="color:#03BFCB;">يرجى تحديد اللغة والبلد الخاص بك</p>
+              <p style="color:#ffffff;">يرجى تحديد اللغة والبلد الخاص بك</p>
             </div>
             <div class="slide">
               <h1>Willkommen bei Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
+              <p style="color:#ffffff;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
             </div>
             <div class="slide">
               <h1>Welkom bij Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Selecteer alstublieft uw taal en land</p>
+              <p style="color:#ffffff;">Selecteer alstublieft uw taal en land</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Vennligst velg ditt språk og land</p>
+              <p style="color:#ffffff;">Vennligst velg ditt språk og land</p>
             </div>
             <div class="slide">
               <h1>Välkommen till Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Vänligen välj ditt språk och land</p>
+              <p style="color:#ffffff;">Vänligen välj ditt språk och land</p>
             </div>
             <div class="slide">
               <h1>Tervetuloa Sunrise Fund Limitediin</h1>
-              <p style="color:#03BFCB;">Valitse kieli ja maa, ole hyvä</p>
+              <p style="color:#ffffff;">Valitse kieli ja maa, ole hyvä</p>
             </div>
             <div class="slide">
               <h1>Willkomme bi Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
+              <p style="color:#ffffff;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
             </div>
             <div class="slide">
               <h1>Tere tulemast Sunrise Fund Limitedi</h1>
-              <p style="color:#03BFCB;">Palun valige oma keel ja riik</p>
+              <p style="color:#ffffff;">Palun valige oma keel ja riik</p>
             </div>
             <div class="slide">
               <h1>Sunrise Fund Limitedへようこそ</h1>
-              <p style="color:#03BFCB;">言語と国を選択してください</p>
+              <p style="color:#ffffff;">言語と国を選択してください</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Sunrise Fund Limited</h1>
-              <p style="color:#03BFCB;">Vælg venligst dit sprog og dit land</p>
+              <p style="color:#ffffff;">Vælg venligst dit sprog og dit land</p>
             </div>
           </div>
         </div>
@@ -309,7 +309,7 @@
         <div class="col-lg-12" style="padding-top: 20px;">
             <div class="row">
                 <div class="col-lg-8">
-                    <div class="row text-center"   style="background-color: #004767; border-radius: 25px; margin:10px;">
+                    <div class="row text-center"   style="background-color: #6fc5ec; border-radius: 25px; margin:10px;">
                         <div id="chartdiv"></div>
                     </div>
                 </div>
