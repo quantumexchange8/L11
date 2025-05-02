@@ -22,6 +22,51 @@
                             </div>
                         </div>
                     </div>
+                    <div class="row container">
+                        <div class="col-lg-6">
+                            <h3>Canada</h3>
+                            <p>Sunrise Insurance and Retirement Advisory Services Ltd.</p>
+                            <p>Company Number: BC0641164</p>
+                            <p>Business Number: 859879330</p>
+                            <p>Address : 1900-4720 Kingsway Burnaby, BC, V5H 4N2 Canada.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <h3>Singapore</h3>
+                            <p>Sunrise Fund Pte. Ltd.</p>
+                            <p>Company Registration No: 202105157H</p>
+                            <p>Address : 6 Shenton Way,#25-08, OUE Downtown 068809 Singapore.</p>
+                        </div>
+                    </div>
+                    <div class="row container">
+                    <form id="contact-form" class="form-box" action="#" method="post">
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <input class="input-text" type="text" name="fname"  placeholder="First Name">
+                            </div>
+                            <div class="col-xl-6">
+                                    <input class="input-text" type="text" name="lname" placeholder="Last Name">
+                            </div>
+                            <div class="col-xl-12">
+                                    <input class="input-text" type="text" name="company" placeholder="Company / Institution">
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="text" name="position" placeholder="Title / Position">
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="text" name="email" placeholder="Email">
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="text" name="phone" placeholder="Phone Number">
+                            </div>
+                            <div class="col-xl-12">
+                                <textarea class="input-textarea" name="message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="col-xl-12">
+                                <button type="submit" class="btn btn-sm width-190 full-width-sm">SEND MESSAGE</button>
+                            </div>
+                        </div>
+                    </form>
+                    </div>
     {{-- <div class="lower-page lower-page-post">
         <div class="post-content">
             <div class="container">

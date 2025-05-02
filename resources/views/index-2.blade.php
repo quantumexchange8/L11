@@ -206,8 +206,8 @@
   text-align: center;
   width: 100%;
   z-index: 9999;
-  background-color: rgb(2, 53, 77);;
-  border-color: #fffacc;
+  background-color: #d1af6f;
+  border-color: #F5F0E6 ;
   border: solid 1px;
 }
 .cookie-consent__message{
