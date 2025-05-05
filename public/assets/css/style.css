@@ -53,10 +53,10 @@ body>#preloader {
 }
 
 #preloader:before {
-    content: url(../media/loader.svg);
+    content: url(../media/loader2.svg);
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 80px;
+    height: 80px;
     top: 50%;
     left: 50%;
     margin-left: -15px;
@@ -406,7 +406,9 @@ main>section.section-base.section-color,
     border-color: #EAF5FC;
 }
 
-
+.light h1{
+    color: #F5F0E6;       /* blur effect */
+}
 /*
 -------------------------------------------------------------------
 LIGHT COLOR
@@ -419,7 +421,6 @@ LIGHT COLOR
 } */
 
 .light,
-.light h1,
 .light h2,
 .light h3,
 .light h4,
@@ -440,7 +441,7 @@ nav.light a,
 
 .blur-background {
     background: rgba(245, 240, 230, 0.023); /* semi-transparent grey */
-    backdrop-filter: blur(5px);        /* blur effect */
+    backdrop-filter: blur(1px);        /* blur effect */
     -webkit-backdrop-filter: blur(5px); /* Safari support */
     padding: 10px 20px;
     border-radius: 10px;

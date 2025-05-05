@@ -192,7 +192,7 @@
     </div>
 </nav> --}}
     <main>
-        <section class="section-image section-home-one no-padding-y" style="background-image:url({{ asset('assets/img/hd-1.jpg') }})">
+        <section class="section-image section-home-one no-padding-y" style="background-image:url({{ asset('assets/img/hd.jpg') }})">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
@@ -202,13 +202,13 @@
                         </h3>
                         <ul class="slider" data-options="arrows:false,nav:false,autoplay:3000,controls:out">
                             <li>
-                                <h1 class="text-uppercase">@lang('public.wealth planning')</h1>
+                                <h1 class="text-uppercase" style="color: #F5F0E6;">@lang('public.wealth planning')</h1>
                             </li>
                             <li>
-                                <h1 class="text-uppercase">@lang('public.trust services')</h1>
+                                <h1 class="text-uppercase" style="color: #F5F0E6;">@lang('public.trust services')</h1>
                             </li>
                             <li>
-                                <h1 class="text-uppercase">@lang('public.private equity')</h1>
+                                <h1 class="text-uppercase" style="color: #F5F0E6;">@lang('public.private equity')</h1>
                             </li>
                         </ul>
                         <p>
@@ -302,7 +302,7 @@
                 </div>
             </div>
         </section><br><br>
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd-1.jpg') }}>
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd.jpg') }}>
             <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
                 <a data-lightbox-anima="fade-top">
                     <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
@@ -601,7 +601,7 @@
             </div>
         </section> --}}
         {{-- section-base section-color --}}
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd-1.jpg') }}>
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd.jpg') }}>
             <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
                 <a data-lightbox-anima="fade-top">
                     <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
@@ -614,7 +614,7 @@
                 <hr class="space" />
             </div>
             <div>
-                <a href=" {{ URL('contact-us') }}" class="btn btn-sm width-190 full-width-sm">Contact Us</a>
+                <a href=" {{ URL('contact-us') }}" class="btn btn-sm width-190 full-width-sm" style="margin-bottom: 30px;">Contact Us</a>
             </div>
            
         </section>

@@ -15,13 +15,69 @@
                     <script src="{{ asset('maps/js/index.js') }}"></script>
                     <link rel="stylesheet" href="{{ asset('maps/style/style.css') }}" />
                     <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
-                    <div class="row">
-                        <div class="col-lg" style="height: 80vh !important;">
-                            <div id="map" style="margin-left:auto;margin-right:auto; text-align:center; ">
-                                <iframe src="https://www.google.com/maps/embed/v1/place?q=1900-4720+Kingsway+Burnaby,+BC,+V5H+4N2+Canada&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="600" height="450" style="width:80%; height:100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <script>
+                        setTimeout(function() {
+                            const successMessage = document.getElementById('success-message');
+                            if (successMessage) {
+                                successMessage.style.display = 'none';
+                            }
+                        }, 3000);
+                    </script>
+
+
+                    @if(session('contactSent'))
+                    <div id="success-message" style="    position: fixed;
+                                                        top: 10rem;
+                                                        left: 50%;
+                                                        transform: translateX(-50%);
+                                                        z-index: 10;
+                                                        background-color: #22c55e;
+                                                        font-size: 1.125rem; 
+                                                        padding: 1rem 1.5rem; 
+                                                        border-radius: 0.5rem;
+                                                        box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+                                                        display: flex;
+                                                        align-items: center;
+                                                        gap: 0.5rem; 
+                                                        transition: opacity 0.5s ease;
+                                                        opacity: 1;">                        
+                                <p style="color: white;">{{ session('contactSent') }}</p>
+                    </div>
+                    @endif
+
+
+                    <div class="row container">
+                    <form id="contact-form" class="form-box" action="{{route('sendEmail')}}" method="POST">
+                        @csrf
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <input class="input-text" type="text" name="fname"  placeholder="First Name" required>
+                            </div>
+                            <div class="col-xl-6">
+                                    <input class="input-text" type="text" name="lname" placeholder="Last Name" required>
+                            </div>
+                            <div class="col-xl-12">
+                                    <input class="input-text" type="text" name="company" placeholder="Company / Institution" required>
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="text" name="position" placeholder="Title / Position" required>
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="email" name="email" placeholder="Email" required>
+                            </div>
+                            <div class="col-xl-12">
+                                <input class="input-text" type="text" name="phone" placeholder="Phone Number" required>
+                            </div>
+                            <div class="col-xl-12">
+                                <textarea class="input-textarea" name="message" style="resize: none;" placeholder="Write Your Inquiry Here..." cols="30" rows="10" required></textarea>
+                            </div>
+                            <div class="col-xl-12">
+                                <button type="submit" class="btn btn-sm width-190 full-width-sm">SEND MESSAGE</button>
                             </div>
                         </div>
+                    </form>
                     </div>
+
                     <div class="row container">
                         <div class="col-lg-6">
                             <h3>Canada</h3>
@@ -37,36 +93,16 @@
                             <p>Address : 6 Shenton Way,#25-08, OUE Downtown 068809 Singapore.</p>
                         </div>
                     </div>
-                    <div class="row container">
-                    <form id="contact-form" class="form-box" action="#" method="post">
-                        <div class="row">
-                            <div class="col-xl-6">
-                                <input class="input-text" type="text" name="fname"  placeholder="First Name">
-                            </div>
-                            <div class="col-xl-6">
-                                    <input class="input-text" type="text" name="lname" placeholder="Last Name">
-                            </div>
-                            <div class="col-xl-12">
-                                    <input class="input-text" type="text" name="company" placeholder="Company / Institution">
-                            </div>
-                            <div class="col-xl-12">
-                                <input class="input-text" type="text" name="position" placeholder="Title / Position">
-                            </div>
-                            <div class="col-xl-12">
-                                <input class="input-text" type="text" name="email" placeholder="Email">
-                            </div>
-                            <div class="col-xl-12">
-                                <input class="input-text" type="text" name="phone" placeholder="Phone Number">
-                            </div>
-                            <div class="col-xl-12">
-                                <textarea class="input-textarea" name="message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
-                            </div>
-                            <div class="col-xl-12">
-                                <button type="submit" class="btn btn-sm width-190 full-width-sm">SEND MESSAGE</button>
+
+                    <div class="row">
+                        <div class="col-lg" style="height: 80vh !important;">
+                            <div id="map" style="margin-left:auto;margin-right:auto; text-align:center; ">
+                                <iframe src="https://www.google.com/maps/embed/v1/place?q=1900-4720+Kingsway+Burnaby,+BC,+V5H+4N2+Canada&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="600" height="450" style="width:80%; height:100%; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
-                    </form>
                     </div>
+
+
     {{-- <div class="lower-page lower-page-post">
         <div class="post-content">
             <div class="container">

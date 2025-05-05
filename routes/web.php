@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\EmailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -39,7 +40,9 @@ Route::get('/our-firm', function () {
 
 Route::get('/contact-us', function () {
     return view('web.contact-us.index');
-});
+})->name('contact-us');
+
+Route::post('/send-email', [EmailController::class, 'sendEmail'])->name('sendEmail');
 
 // Private Banking
 Route::prefix('private-banking')->as('web.private-banking.')->group(function () {

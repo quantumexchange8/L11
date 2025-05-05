@@ -80,6 +80,7 @@ main>section.section-base.section-color.light,
 .btn-video:empty:hover,
 .tweets_txt {
     background-color: #F5F0E6;
+    color: #635d5d;
 }
 
 .boxed-area.light,
@@ -278,6 +279,7 @@ footer .icon-list li:before,
 .list-nav a.list-archive {
     background-color: #d1af6f;
     border-color: #d1af6f;
+    color: #F5F0E6;
 }
 
 .light .glide__bullets>button.glide__bullet--active,
@@ -312,7 +314,7 @@ main>section.section-base.section-color,
 .section-color .input-text,
 .section-color .input-select,
 .section-color .input-textarea {
-    background-color: rgb(228, 237, 243);
+    background-color: #ebe1d1  ;
 }
 
 .menu-cnt>ul>li>a,
