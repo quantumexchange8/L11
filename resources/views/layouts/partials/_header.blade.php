@@ -45,6 +45,10 @@ $languages = [
         z-index: 2;
     }
 
+    .main-menu {
+        overflow-x:auto;
+    }
+
 </style>
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
