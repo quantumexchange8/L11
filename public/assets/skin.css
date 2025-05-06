@@ -2770,7 +2770,7 @@ Medium devices (tablets, less than 992px)
         display: block;
     }
     body>nav {
-        height: 65px;
+        height: 80px;
     }
     .menu-fixed.menu-top-logo:not(.menu-transparent)+header,
     .menu-fixed.menu-top-logo:not(.menu-transparent)+main {

@@ -1,7 +1,8 @@
 
 
-<header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="{{ $headerImage }}" data-offset="0"
-style="background: rgba(0, 0, 0, 0.4);">
+<header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="{{ $headerImage }}" data-offset="0">
+
+    <div class="overlay"></div>
 
         <div class="container blur-background">
         <div style="display: flex; justify-content: space-between; align-items: center; height: 100%;">

@@ -553,7 +553,7 @@ main>section {
 }
 
 main>section.section-base {
-    background-color: #FFF;
+    background-color: #ebe1d1;
 }
 
 main>section>.container {
@@ -2213,7 +2213,6 @@ body>header.align-center h2 {
 
 .breadcrumb {
     list-style: none;
-    display: flex;
     margin: 40px 0 0 0;
     padding: 0;
 }

@@ -87,7 +87,19 @@
         border-color: #e6d6ba !important;
     }
 
-    @media only screen and (min-width: 992px) {
+    .btn-secondary:hover {
+        color: #ffffff;
+        background-color: #d1af6f !important;
+        border-color: #d1af6f !important;
+    }
+
+    @media only screen and (max-width: 991px) {
+      .dropdown{
+        margin: auto;
+        text-align: center;
+      }
+
+
       .dropdown:hover .dropdown-menu {
         display: flex;
       }
@@ -95,6 +107,20 @@
         display: flex;
       }
     }
+
+    @media only screen and (min-width: 320px) and (max-width: 768px){
+      .footer-text {
+        padding: 50px 20px 25px 20px; 
+      }
+    }
+
+    @media only screen and (min-width: 769px) and (max-width: 991px) {
+      .footer-text {
+        padding: 50px 150px 25px 150px; 
+      }
+    }
+
+
     .dropdown-menu ul {
       list-style: none;
       padding: 0;
@@ -125,6 +151,16 @@
       .dropdown:hover .dropdown-menu {
         width: 40vw;
         flex-wrap: wrap;
+      }
+
+      .footer-text {
+        padding: 50px 175px 25px 175px; 
+      }
+    }
+
+    @media only screen and (min-width: 1141px){
+      .footer-text {
+        padding: 50px 200px 25px 200px; 
       }
     }
 
@@ -309,9 +345,9 @@
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="col-lg-12 col-md-12 p-4">
+                    <div class="col-lg-12 col-md-12 p-4 dropdown">
                         <p style="color:#000000;">Please select your language :</p>
-                        <select id="dropSelectLanguage" class="btn btn-secondary" style="text-align: left;" onchange="ChangeLanguage()">
+                        <select id="dropSelectLanguage" class="btn btn-secondary" style="text-align: left;">
                          
                           <option value="en"  @if (Session::get('locale') == 'en' || empty(Session::get('locale'))) selected @endif>English</option>
                           <option value="ar" @if (Session::get('locale') == 'ar') selected @endif>Arabic</option>
@@ -332,6 +368,7 @@
                         </select>
                       <br><br>
                       
+                      <button class="btn btn-secondary" onclick="ChangeLanguage()">Apply</button>
 
 
                    
@@ -344,9 +381,8 @@
 
         <!-- FOOTER --> 
         <div class="col-lg-12">
-          <div class="row" style="color: #635d5d; font-size: 14px;">
-
-              <p style="padding: 50px 150px 25px 150px; ">
+          <div class="row footer-text" style="color: #635d5d; font-size: 14px; text-align:center;">
+              <p>
                 All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Sunrise on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Sunrise is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
               </p>
               <p style="margin-left:auto; margin-right:auto; text-align:center;">Sunrise © {{ now()->year }}</p>

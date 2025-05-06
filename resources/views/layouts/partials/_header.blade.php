@@ -26,6 +26,24 @@ $languages = [
         height: auto;
         transform: scale(2.3); 
     }
+
+    .header-image {
+    position: relative;
+    overflow: hidden;
+    }
+
+    .header-image .overlay {
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.4);
+        z-index: 1;
+    }
+
+    .header-image > *:not(.overlay) {
+        position: relative;
+        z-index: 2;
+    }
+
 </style>
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
