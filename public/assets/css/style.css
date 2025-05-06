@@ -912,6 +912,8 @@ nav:not(.menu-transparent) .menu-cnt>ul>li:hover>a {
     .logo-retina:not(.hidden):not(.scroll-show),
     .logo-retina.scroll-show.showed {
         display: block !important;
+        height: 200px;
+        width: 120px;
     }
     .logo-default {
         display: none !important;
@@ -1605,6 +1607,7 @@ nav.menu-fixed {
     right: 0;
     left: 0;
     top: 0;
+    box-shadow: 0 4px 64px rgba(0, 0, 0, 0.15);
 }
 
 .menu-fixed:not(.menu-transparent)+header,

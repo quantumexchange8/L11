@@ -160,7 +160,7 @@
 
     @media only screen and (min-width: 1141px){
       .footer-text {
-        padding: 50px 200px 25px 200px; 
+        padding: 110px 200px 25px 200px; 
       }
     }
 
@@ -206,7 +206,7 @@
 .slider {
   position: relative;
   width: 100%;
-  height: 80px;
+  height: 100px;
   overflow: hidden;
 }
 
@@ -260,7 +260,7 @@
   </style>
 
     </head>
-    <body style="background-color: #F5F0E6;">
+    <body style="background-color: #F5F0E6; overflow-x: hidden;">
         @include('cookie-consent::index')
         {{-- @include('custom-cookie-consent') --}}
         {{-- <div class="loading-bar" id="loader">
@@ -368,7 +368,7 @@
                         </select>
                       <br><br>
                       
-                      <button class="btn btn-secondary" onclick="ChangeLanguage()">Apply</button>
+                      <button class="btn btn-secondary" onclick="ChangeLanguage()">Select</button>
 
 
                    

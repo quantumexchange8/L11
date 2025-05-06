@@ -81,7 +81,7 @@
 
     <div class="container">
         <div style="text-align: center; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
-            <img src="{{asset('assets/img/SUNRISE4.png')}}" style="width:150px; height:auto;" alt="Logo" />
+            <img src="http://l11.test/assets/img/SUNRISE4.png" style="width:150px; height:auto;" alt="Logo" />
         </div>
 
         <h1>New Contact from <strong style="color: rgb(211, 192, 105)">{{ $contactCreated->company }}</strong></h1>

@@ -30,6 +30,7 @@ $languages = [
     .header-image {
     position: relative;
     overflow: hidden;
+    margin-top: 150px;
     }
 
     .header-image .overlay {
