@@ -2,7 +2,7 @@
 @section('title', 'Home | Sunrise')
 
 @section('content')
-{{-- <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
+    {{-- <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
             <a href="#">
@@ -192,7 +192,27 @@
     </div>
 </nav> --}}
     <main>
-        <section class="section-image section-home-one no-padding-y" style="background-image:url({{ asset('assets/img/hd.jpg') }})">
+        <style>
+            .home-hero {
+                position: relative;
+                background: url('/assets/img/hd3.jpg') no-repeat center center / cover;
+                z-index: 0;
+            }
+
+            .home-hero::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: rgba(103, 102, 101, 0.324);
+                /* adjust opacity as needed */
+                z-index: -1;
+            }
+        </style>
+
+        <section class="section-image section-home-one no-padding-y  home-hero">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
@@ -215,13 +235,15 @@
                             {{-- We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do. --}}
                         </p>
                         <hr class="space-sm" />
-                        <a href="https://app.sunrisefundlimited.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
+                        <a href="https://app.sunrisefundlimited.com/en/applications/create/"
+                            class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
                         <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>
                     <div class="col-lg-5 hidden-md">
                         <hr class="space-sm" />
-                        <img data-anima="fade-bottom" data-time="1000" class="slide-image" src="{{ asset('assets/img/home-2.png') }}" alt="" />
+                        <img data-anima="fade-bottom" data-time="1000" class="slide-image"
+                            src="{{ asset('assets/img/home-2.png') }}" alt="" />
                     </div>
                 </div>
             </div>
@@ -302,19 +324,21 @@
                 </div>
             </div>
         </section><br><br>
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd.jpg') }}>
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll"
+            data-image-src={{ asset('assets/img/hd.jpg') }}>
             <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
                 <a data-lightbox-anima="fade-top">
                     <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
                         <source src="{{ asset('stock-market6.mp4') }}" type="video/mp4">
                     </video>
                 </a>
-                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; color: #d1af6f; transform: translate(-50%, -50%); z-index: 1;">
+                <h2 class="width-650"
+                    style="position: absolute; top: 50%; left: 50%; color: #ffffff; transform: translate(-50%, -50%); z-index: 1;">
                     @lang('public.home page 4')
                 </h2>
                 <hr class="space" />
             </div>
-            
+
         </section>
         <section class="section-base section-color">
             <div class="container">
@@ -331,11 +355,13 @@
                     </div> --}}
                 </div>
                 <hr class="space" />
-                <div class="grid-list" data-columns="3" data-columns-md="2" data-columns-sm="1" data-anima="fade-bottom" data-time="1000">
+                <div class="grid-list" data-columns="3" data-columns-md="2" data-columns-sm="1" data-anima="fade-bottom"
+                    data-time="1000">
                     <div class="grid-box">
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src={{ url('resource/private-equity.jpeg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('resource/private-equity.jpeg') }}
+                                        alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 8')</h2>
                                     {{-- <div class="cnt-info">
@@ -351,7 +377,8 @@
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src={{ url('/resource/corporate-advisory-and-banking.jpeg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img
+                                        src={{ url('/resource/corporate-advisory-and-banking.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 12')</h2>
                                     {{-- <div class="cnt-info">
@@ -367,7 +394,8 @@
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src={{ url('/resource/private-wealth-management.jpeg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img
+                                        src={{ url('/resource/private-wealth-management.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 16')</h2>
                                     {{-- <div class="cnt-info">
@@ -383,7 +411,8 @@
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src={{ url('/resource/markets.jpeg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/markets.jpeg') }}
+                                        alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 18')</h2>
                                     {{-- <div class="cnt-info">
@@ -400,7 +429,8 @@
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 {{-- <div class="extra-field">30% discount today</div> --}}
-                                <a href="#" class="img-box"><img src={{ url('/resource/the-partnership.jpg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/the-partnership.jpg') }}
+                                        alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 21')</h2>
                                     {{-- <div class="cnt-info">
@@ -417,7 +447,8 @@
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 {{-- <div class="extra-field">30% discount today</div> --}}
-                                <a href="#" class="img-box"><img src={{ url('/resource/fixed-income.jpeg') }} alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/fixed-income.jpeg') }}
+                                        alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.private client lending')</h2>
                                     {{-- <div class="cnt-info">
@@ -601,22 +632,25 @@
             </div>
         </section> --}}
         {{-- section-base section-color --}}
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd.jpg') }}>
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll"
+            data-image-src={{ asset('assets/img/hd.jpg') }}>
             <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
                 <a data-lightbox-anima="fade-top">
                     <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
                         <source src="{{ asset('stock-market7.mp4') }}" type="video/mp4">
                     </video>
                 </a>
-                <h2 class="width-600" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+                <h2 class="width-600"
+                    style="position: absolute; top: 50%; left: 50%; color: #ffffff; transform: translate(-50%, -50%); z-index: 1;">
                     @lang('public.home page 23')
                 </h2>
                 <hr class="space" />
             </div>
             <div>
-                <a href=" {{ URL('contact-us') }}" class="btn btn-sm width-190 full-width-sm" style="margin-bottom: 30px;">Contact Us</a>
+                <a href=" {{ URL('contact-us') }}" class="btn btn-sm width-190 full-width-sm"
+                    style="margin-bottom: 30px;">Contact Us</a>
             </div>
-           
+
         </section>
         {{-- <section class="section-base">
             <div class="container">
@@ -667,7 +701,7 @@
             </div>
         </section> --}}
         {{-- <section class="section-base section-overflow-top"> --}}
-        
+
     </main>
     <i class="scroll-top-btn scroll-top show"></i>
 @endsection

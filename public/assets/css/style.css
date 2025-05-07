@@ -421,7 +421,6 @@ LIGHT COLOR
 } */
 
 .light,
-.light h2,
 .light h3,
 .light h4,
 .light h5,
@@ -1018,26 +1017,6 @@ body>nav .menu-brand img {
     font-size: 13px;
 }
 
-@media (min-width: 992px) and (max-width:1199px) {
-    #main-menu > li > .nav {
-        padding-top: 10px;
-    }
- 
-    .left-submenu {
-        right: 100%;
-    }
-}
-
-@media (min-width: 1200px){
-    #main-menu > li > .nav {
-    line-height: normal;
-    white-space: unset;
-    word-wrap: break-word;
-    padding-top: 16px;
-    padding-bottom: 16px;
-}
-}
-
 .menu-right>* {
     margin: 0 15px;
 }
@@ -1325,6 +1304,18 @@ DROPDOWN - NAVIGATION MENU
 .dropdown:hover>a:after,
 .menu-cnt li:hover>a:after {
     opacity: 1;
+}
+
+        
+@media (min-width: 992px) and (max-width:1199px) {
+    #main-menu > li > .nav {
+        padding-top: 10px;
+    }
+
+    .dropdown-submenu>.left-submenu {
+        right: 100%;
+        left: auto;
+    }
 }
 
 .dropdown-submenu ul {

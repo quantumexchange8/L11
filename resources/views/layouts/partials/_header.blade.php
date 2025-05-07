@@ -50,6 +50,7 @@ $languages = [
         white-space: unset;
         padding-top: 16px;
         padding-bottom: 16px;
+        
     }
 
 
