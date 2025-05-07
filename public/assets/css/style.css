@@ -990,18 +990,12 @@ body>nav .menu-brand img {
     margin-left: 30px;
 }
 
-@media (min-width: 992px) {
-    .menu-cnt>ul>li>a {
-        margin: 0 10px;
-    }
-}
-
 .menu-cnt>ul>li>a,
 .dropdown>ul>li>a,
 .dropdown-submenu>ul>li>a {
     height: 50px;
     line-height: 50px;
-    padding: 0 5px;
+    padding: 0 15px;
     font-size: 13px;
     display: block;
 }
@@ -1022,7 +1016,26 @@ body>nav .menu-brand img {
     text-decoration: none;
     text-align: left;
     font-size: 13px;
-    white-space: nowrap;
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+    #main-menu > li > .nav {
+        padding-top: 10px;
+    }
+ 
+    .left-submenu {
+        right: 100%;
+    }
+}
+
+@media (min-width: 1200px){
+    #main-menu > li > .nav {
+    line-height: normal;
+    white-space: unset;
+    word-wrap: break-word;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
 }
 
 .menu-right>* {
@@ -1191,7 +1204,7 @@ MINI MENU SECTION - NAVIGATION MENU
 .menu-right .lan-menu li.dropdown ul {
     max-height: 450px;
     max-width: 100px;
-    overflow-y: auto;
+    overflow-y: visible;
     overflow-x: hidden;
 }
 
@@ -1291,6 +1304,7 @@ DROPDOWN - NAVIGATION MENU
     height: 20px;
     line-height: 20px;
     text-align: center;
+    right: 10px;
     transition: transform .5s;
     text-transform: none;
     opacity: .7;
@@ -1326,7 +1340,7 @@ DROPDOWN - NAVIGATION MENU
 
 .menu-cnt>ul>li.dropdown>a,
 .menu-cnt>ul>li.mega-dropdown>a {
-    padding-right: 7px;
+    padding-right: 40px;
 }
 
 .menu-side .menu-cnt>ul>li.dropdown>a,
@@ -5366,7 +5380,7 @@ Medium devices (tablets, less than 992px)
         z-index: 9995;
     }
     body>nav.menu-fixed .menu-cnt {
-        overflow-y: scroll;
+        overflow-y: visible;
     }
     .menu-cnt>ul,
     .menu-cnt>.menu-right {

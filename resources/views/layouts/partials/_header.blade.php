@@ -45,9 +45,13 @@ $languages = [
         z-index: 2;
     }
 
-    .main-menu {
-        overflow-x:auto;
+    #main-menu > li > .nav {
+        line-height: normal;
+        white-space: unset;
+        padding-top: 16px;
+        padding-bottom: 16px;
     }
+
 
 </style>
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
@@ -153,7 +157,7 @@ $languages = [
                     <ul>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.investor-services.custody_and_fund_services') }}">@lang('public.custody & fund services')</a>
-                            <ul>
+                            <ul class="left-submenu">
                                 <li><a href="{{ route('web.investor-services.custody-and-fund-services.custody') }}">@lang('public.menu 27')</a></li>
                                 <li><a href="{{ route('web.investor-services.custody-and-fund-services.depositary_and_trustee') }}">@lang('public.menu 28')</a></li>
                                 <li><a href="{{ route('web.investor-services.custody-and-fund-services.fund_accounting') }}">@lang('public.menu 29')</a></li>
@@ -166,7 +170,7 @@ $languages = [
                         </li>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.investor-services.specialist_expertise') }}">@lang('public.specialist expertise')</a>
-                            <ul>
+                            <ul class="left-submenu">
                                 <li><a href="{{ route('web.investor-services.specialist-expertise.cross_border_funds') }}">@lang('public.menu 35')</a></li>
                                 <li><a href="{{ route('web.investor-services.specialist-expertise.us_funds') }}">@lang('public.menu 36')</a></li>
                                 <li><a href="{{ route('web.investor-services.specialist-expertise.consultants_and_advisors') }}">@lang('public.menu 37')</a></li>
@@ -179,7 +183,7 @@ $languages = [
                         </li>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.investor-services.markets') }}">@lang('public.markets')</a>
-                            <ul>
+                            <ul class="left-submenu">
                                 <li><a href="{{ route('web.investor-services.markets.foreign_exchange') }}">@lang('public.menu 43')</a></li>
                                 <li><a href="{{ route('web.investor-services.markets.active_fx_execution') }}">@lang('public.menu 44')</a></li>
                                 <li><a href="{{ route('web.investor-services.markets.infofx') }}">@lang('public.menu 45')</a></li>
@@ -189,7 +193,7 @@ $languages = [
                         </li>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.investor-services.investment_operations_and_technology_solutions') }}">@lang('public.investment operations & technology')</a>
-                            <ul>
+                            <ul class="left-submenu">
                                 <li><a href="{{ route('web.investor-services.investment-operations-and-technology-solutions.technology_services') }}">@lang('public.menu 49')</a></li>
                                 <li><a href="{{ route('web.investor-services.investment-operations-and-technology-solutions.middle_office_outsourcing') }}">@lang('public.menu 50')</a></li>
                             </ul>
