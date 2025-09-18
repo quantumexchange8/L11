@@ -209,7 +209,7 @@ $languages = [
                 </li>
                 
                 <li>
-                    <a class="nav" href="https://app.sunrisefundlimited.com/en/accounts/login/">@lang('public.client login')</a>
+                    <a class="nav" href="https://app.sunrisefundlimited.com/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
